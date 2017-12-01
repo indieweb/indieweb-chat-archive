@@ -1,0 +1,1 @@
+2017-03-27 14:05:03.606000 {"type":"join","timestamp":"1490623503.606000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","name":"timbl","username":null},"content":""}

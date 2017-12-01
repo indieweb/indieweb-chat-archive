@@ -1,0 +1,4 @@
+2017-01-28 03:01:21.355000 {"type":"join","timestamp":"1485572481.355000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","name":"timbl","username":null},"content":""}
+2017-01-28 05:35:20.270000 {"type":"join","timestamp":"1485581720.270000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"fabrixxm","nickname":"fabrixxm","name":"fabrixxm","username":null},"content":""}
+2017-01-28 18:55:41.313000 {"type":"join","timestamp":"1485629741.313000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"KevinMarks","nickname":"KevinMarks","name":"KevinMarks","username":null},"content":""}
+2017-01-28 21:09:51.400000 {"type":"join","timestamp":"1485637791.400000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"timbl_","nickname":"timbl_","name":"timbl_","username":null},"content":""}

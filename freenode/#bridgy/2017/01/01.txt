@@ -1,0 +1,1 @@
+2017-01-01 22:06:24.807000 {"type":"join","timestamp":"1483308384.807000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","name":"snarfed","username":null},"content":""}

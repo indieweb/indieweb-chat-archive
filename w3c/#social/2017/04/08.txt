@@ -1,0 +1,4 @@
+2017-04-08 00:57:34.243000 {"type":"join","timestamp":"1491613054.243000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"wilkie","nickname":"wilkie","name":"wilkie","username":null},"content":""}
+2017-04-08 03:42:55.905000 {"type":"join","timestamp":"1491622975.905000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"mib_62vz09","nickname":"mib_62vz09","name":"mib_62vz09","username":null},"content":""}
+2017-04-08 08:25:11.105000 {"type":"join","timestamp":"1491639911.105000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"raucao","nickname":"raucao","name":"raucao","username":null},"content":""}
+2017-04-08 08:30:02.118000 {"type":"join","timestamp":"1491640202.118000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"raucao","nickname":"raucao","name":"raucao","username":null},"content":""}
