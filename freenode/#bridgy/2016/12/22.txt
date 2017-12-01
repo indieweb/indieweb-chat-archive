@@ -1,0 +1,2 @@
+2016-12-22 00:08:43.459000 {"type":"join","timestamp":"1482365323.459000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","name":"snarfed","username":null},"content":""}
+2016-12-22 00:29:02.517000 {"type":"join","timestamp":"1482366542.517000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed1","nickname":"snarfed1","name":"snarfed1","username":null},"content":""}

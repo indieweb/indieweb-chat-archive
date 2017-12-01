@@ -1,0 +1,3 @@
+2016-12-27 14:54:42.080000 {"type":"join","timestamp":"1482850482.080000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"aaronpk","nickname":"aaronpk","name":"aaronpk","username":null},"content":""}
+2016-12-27 15:44:39.050000 {"type":"join","timestamp":"1482853479.050000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"aaronpk","nickname":"aaronpk","name":"aaronpk","username":null},"content":""}
+2016-12-27 15:59:02.122000 {"type":"join","timestamp":"1482854342.122000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"KjetilK","nickname":"KjetilK","name":"KjetilK","username":null},"content":""}

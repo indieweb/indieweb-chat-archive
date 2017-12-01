@@ -1,0 +1,4 @@
+2016-07-25 01:02:04.134000 {"type":"join","timestamp":"1469408524.134000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"jasnell","nickname":"jasnell","name":"jasnell","username":null},"content":""}
+2016-07-25 04:18:47.240000 {"type":"join","timestamp":"1469420327.240000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"jasnell","nickname":"jasnell","name":"jasnell","username":null},"content":""}
+2016-07-25 07:15:02.575000 {"type":"join","timestamp":"1469430902.575000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"Karli","nickname":"Karli","name":"Karli","username":null},"content":""}
+2016-07-25 13:44:29.114000 {"type":"join","timestamp":"1469454269.114000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"jasnell","nickname":"jasnell","name":"jasnell","username":null},"content":""}

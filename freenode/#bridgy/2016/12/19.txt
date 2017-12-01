@@ -1,0 +1,3 @@
+2016-12-19 20:19:03.620000 {"type":"join","timestamp":"1482178743.620000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","name":"snarfed","username":null},"content":""}
+2016-12-19 20:40:09.005000 {"type":"join","timestamp":"1482180009.005000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed1","nickname":"snarfed1","name":"snarfed1","username":null},"content":""}
+2016-12-19 20:52:51.122000 {"type":"join","timestamp":"1482180771.122000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","name":"snarfed","username":null},"content":""}

@@ -1,0 +1,1 @@
+2016-07-10 18:07:36.093000 {"type":"join","timestamp":"1468174056.093000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"ben_thatmust","nickname":"ben_thatmust","name":"ben_thatmust","username":null},"content":"ben_thatmust joined #social"}

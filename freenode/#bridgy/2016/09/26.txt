@@ -1,0 +1,2 @@
+2016-09-26 05:14:51.140000 {"type":"join","timestamp":"1474866891.140000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"Loqi_","nickname":"Loqi_","name":"Loqi_","username":null},"content":""}
+2016-09-26 08:21:41.789000 {"type":"join","timestamp":"1474878101.789000","network":"irc","server":"freenode","channel":{"id":"#bridgy","name":"#bridgy"},"author":{"uid":"tantek","nickname":"tantek","name":"tantek","username":null},"content":""}

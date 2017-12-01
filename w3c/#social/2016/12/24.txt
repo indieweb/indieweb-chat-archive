@@ -1,0 +1,2 @@
+2016-12-24 08:26:51.534000 {"type":"join","timestamp":"1482568011.534000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","name":"timbl","username":null},"content":""}
+2016-12-24 18:15:00.314000 {"type":"join","timestamp":"1482603300.314000","network":"irc","server":"w3c","channel":{"id":"#social","name":"#social"},"author":{"uid":"timbl_","nickname":"timbl_","name":"timbl_","username":null},"content":""}
