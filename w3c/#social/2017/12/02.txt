@@ -1,0 +1,1 @@
+2017-12-02 02:05:33.249100 {"type":"join","timestamp":1512180333.2491,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jet","nickname":"jet","username":"~sid270","name":"Jet Villegas","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
