@@ -1,1 +1,2 @@
 2017-12-05 00:19:46.521200 {"type":"join","timestamp":1512433186.5212,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":"Tim Berners-Lee","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2017-12-05 04:40:21.334500 {"type":"join","timestamp":1512448821.3345,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rowan","nickname":"rowan","username":"~rowan","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
