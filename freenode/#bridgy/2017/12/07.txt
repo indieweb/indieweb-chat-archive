@@ -1,0 +1,1 @@
+2017-12-07 00:02:44.423300 {"type":"join","timestamp":1512604964.4233,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"schmarty","nickname":"schmarty","username":"martymaktr","name":"@marty:maktro.net","photo":"https:\/\/martymcgui.re\/img\/logo.jpg","url":"http:\/\/martymcgui.re","tz":"US\/Eastern"},"content":null,"modes":[]}
