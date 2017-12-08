@@ -1,0 +1,1 @@
+2017-12-08 00:10:06.823500 {"type":"join","timestamp":1512691806.8235,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"John____","nickname":"John____","username":"~John__","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
