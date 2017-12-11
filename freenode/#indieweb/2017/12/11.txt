@@ -1,0 +1,1 @@
+2017-12-11 00:00:59.795900 {"type":"join","timestamp":1512950459.7959,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"friedcell","nickname":"friedcell","username":"~Adium","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
