@@ -1,0 +1,2 @@
+2017-12-13 01:16:47.084100 {"type":"join","timestamp":1513127807.0841,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rowan","nickname":"rowan","username":"~rowan","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2017-12-13 01:20:57.090400 {"type":"join","timestamp":1513128057.0904,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rowan_","nickname":"rowan_","username":"~rowan","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
