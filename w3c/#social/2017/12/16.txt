@@ -1,0 +1,1 @@
+2017-12-16 05:30:24.319400 {"type":"join","timestamp":1513402224.3194,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cwebber2","nickname":"cwebber2","username":"~user","name":"unknown","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
