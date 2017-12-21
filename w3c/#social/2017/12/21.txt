@@ -1,0 +1,1 @@
+2017-12-21 00:02:42.401000 {"type":"message","timestamp":1513814562.401,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"puckipedia","nickname":"puckipedia","username":"~puck","name":":P","photo":null,"url":null,"tz":null},"content":"Gargron: I sent you a DM with the vuln info on Mastodon","modes":[]}
