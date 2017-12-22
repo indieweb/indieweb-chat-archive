@@ -1,0 +1,1 @@
+2017-12-22 00:05:55.769700 {"type":"join","timestamp":1513901155.7697,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"zb111","nickname":"zb111","username":"~quassel","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
