@@ -1,0 +1,1 @@
+2017-12-25 00:02:11.002600 {"type":"join","timestamp":1514160131.0026,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"krup","nickname":"krup","username":"~krup","name":"krup","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
