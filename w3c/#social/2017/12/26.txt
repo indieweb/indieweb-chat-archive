@@ -1,0 +1,1 @@
+2017-12-26 03:31:25.994500 {"type":"join","timestamp":1514259085.9945,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dlongley","nickname":"dlongley","username":"~dlongley","name":"Dave Longley","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
