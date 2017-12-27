@@ -1,0 +1,1 @@
+2017-12-27 00:05:20.320700 {"type":"join","timestamp":1514333120.3207,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"leg","nickname":"leg","username":"~jorge","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
