@@ -1,0 +1,1 @@
+2017-12-29 00:09:14.445400 {"type":"join","timestamp":1514506154.4454,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"nitot","nickname":"nitot","username":"~nitot","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
