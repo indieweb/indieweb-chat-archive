@@ -1,0 +1,1 @@
+2017-12-30 01:46:54.471400 {"type":"leave","timestamp":1514598414.4714,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"MrNePruM","nickname":"MrNePruM","username":"AdiIRC","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
