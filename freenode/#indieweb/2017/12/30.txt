@@ -1,0 +1,1 @@
+2017-12-30 00:09:13.857100 {"type":"join","timestamp":1514592553.8571,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"sebsel","nickname":"sebsel","username":"~sebsel","name":null,"photo":"http:\/\/seblog.nl\/photo.jpg","url":"http:\/\/seblog.nl","tz":"Europe\/Amsterdam"},"content":null,"modes":[]}
