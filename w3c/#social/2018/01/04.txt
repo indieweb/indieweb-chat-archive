@@ -1,0 +1,1 @@
+2018-01-04 00:06:24.178400 {"type":"join","timestamp":1515024384.1784,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bengo","nickname":"bengo","username":"~bengo","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
