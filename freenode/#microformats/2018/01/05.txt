@@ -1,0 +1,1 @@
+2018-01-05 02:42:28.949200 {"type":"join","timestamp":1515120148.9492,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"webchat109","nickname":"webchat109","username":"b58c5635","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
