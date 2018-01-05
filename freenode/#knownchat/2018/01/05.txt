@@ -1,0 +1,1 @@
+2018-01-05 00:20:26.865700 {"type":"join","timestamp":1515111626.8657,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"j12t_","nickname":"j12t_","username":"~j12t","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
