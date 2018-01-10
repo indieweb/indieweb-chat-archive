@@ -1,0 +1,1 @@
+2018-01-10 00:41:30.312300 {"type":"join","timestamp":1515544890.3123,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bwn","nickname":"bwn","username":"~bwn","name":"bwn","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
