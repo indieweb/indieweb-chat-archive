@@ -1,0 +1,1 @@
+2018-01-11 00:19:56.692100 {"type":"join","timestamp":1515629996.6921,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"j12t","nickname":"j12t","username":"~j12t","name":"j12t","photo":null,"url":"http:\/\/Upon2020.com","tz":"America\/San_Francisco"},"content":null,"modes":[]}
