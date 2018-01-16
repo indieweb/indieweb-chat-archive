@@ -1,0 +1,1 @@
+2018-01-16 00:31:00.307200 {"type":"join","timestamp":1516062660.3072,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rowan","nickname":"rowan","username":"~rowan","name":"rowan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
