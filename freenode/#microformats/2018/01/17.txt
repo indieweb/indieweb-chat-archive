@@ -1,0 +1,1 @@
+2018-01-17 00:39:11.007800 {"type":"join","timestamp":1516149551.0078,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[eddie]","nickname":"[eddie]","username":"~slackuser","name":null,"photo":"https:\/\/eddiehinkle.com\/images\/profile.jpg","url":"http:\/\/eddiehinkle.com","tz":"US\/Eastern"},"content":null,"modes":[]}
