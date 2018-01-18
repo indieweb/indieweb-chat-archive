@@ -1,0 +1,1 @@
+2018-01-18 00:24:37.243300 {"type":"join","timestamp":1516235077.2433,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[kevinmarks]","nickname":"[kevinmarks]","username":"~slackuser","name":null,"photo":"http:\/\/www.kevinmarks.com\/km.jpg","url":"http:\/\/kevinmarks.com","tz":"Europe\/London"},"content":null,"modes":[]}
