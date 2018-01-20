@@ -1,0 +1,1 @@
+2018-01-20 02:09:26.521600 {"type":"join","timestamp":1516414166.5216,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"JanKusanagi","nickname":"JanKusanagi","username":"~jank","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
