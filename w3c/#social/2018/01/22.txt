@@ -1,0 +1,1 @@
+2018-01-22 06:25:16.302500 {"type":"join","timestamp":1516602316.3025,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"xmpp-social","nickname":"xmpp-social","username":"~xmpp-social","name":"xmpp-social","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
