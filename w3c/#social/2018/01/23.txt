@@ -1,0 +1,1 @@
+2018-01-23 00:52:57.073500 {"type":"join","timestamp":1516668777.0735,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rowan_","nickname":"rowan_","username":"~rowan","name":"rowan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
