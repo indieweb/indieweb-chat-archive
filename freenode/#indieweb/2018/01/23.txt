@@ -1,0 +1,1 @@
+2018-01-23 00:10:12.723200 {"type":"message","timestamp":1516666212.7232,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"tanlaan","nickname":"tanlaan","username":"~pi","name":"pi","photo":null,"url":null,"tz":null},"content":"ls","modes":[]}
