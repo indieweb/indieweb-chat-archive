@@ -1,0 +1,1 @@
+2018-01-24 01:47:24.118200 {"type":"join","timestamp":1516758444.1182,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"camb","nickname":"camb","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
