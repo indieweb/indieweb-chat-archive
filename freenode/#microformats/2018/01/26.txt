@@ -1,0 +1,1 @@
+2018-01-26 00:12:07.873900 {"type":"join","timestamp":1516925527.8739,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[colinwalker]","nickname":"[colinwalker]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
