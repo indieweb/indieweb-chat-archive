@@ -1,0 +1,1 @@
+2018-01-28 00:13:41.750900 {"type":"join","timestamp":1517098421.7509,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"KevinMarks","nickname":"KevinMarks","username":"~yaaic","name":"Kevin Marks","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
