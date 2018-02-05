@@ -1,0 +1,1 @@
+2018-02-05 03:50:49.328900 {"type":"join","timestamp":1517802649.3289,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cdchapman","nickname":"cdchapman","username":"~cdchapman","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
