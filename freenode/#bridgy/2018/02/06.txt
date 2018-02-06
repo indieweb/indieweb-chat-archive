@@ -1,0 +1,1 @@
+2018-02-06 00:12:32.260700 {"type":"join","timestamp":1517875952.2607,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","username":"~Adium","name":null,"photo":"https:\/\/twitter.com\/schnarfed\/profile_image","url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles"},"content":null,"modes":[]}
