@@ -1887,6 +1887,25 @@
         ],
         "properties": {
             "name": [
+                "gerwitz"
+            ],
+            "nickname": [
+                "gerwitz"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://hans.gerwitz.com"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gidzit"
             ],
             "nickname": [
