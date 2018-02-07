@@ -1,0 +1,1 @@
+2018-02-07 00:47:41.137500 {"type":"join","timestamp":1517964461.1375,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"pniedzielski[m]","nickname":"pniedzielski[m]","username":"pniedziels","name":"@pniedzielski:pniedzielski.net","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
