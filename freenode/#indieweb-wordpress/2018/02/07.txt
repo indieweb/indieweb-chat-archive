@@ -1,0 +1,1 @@
+2018-02-07 00:44:19.802500 {"type":"join","timestamp":1517964259.8025,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"doubleloop[m]","nickname":"doubleloop[m]","username":"doubleloop","name":"@doubleloop:matrix.org","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
