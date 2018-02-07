@@ -1887,6 +1887,28 @@
         ],
         "properties": {
             "name": [
+                "gerwitz"
+            ],
+            "nickname": [
+                "gerwitz"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://hans.gerwitz.com"
+            ],
+            "photo": [
+                "https://s.gravatar.com/avatar/1e1162be11b9724d9426a9dadd43f60d.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gidzit"
             ],
             "nickname": [
@@ -2061,25 +2083,6 @@
             ],
             "url": [
                 "http://tobilehman.com"
-            ]
-        }
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "hans"
-            ],
-            "nickname": [
-                "hans"
-            ],
-            "tz": [
-                "Europe/Amsterdam"
-            ],
-            "url": [
-                "http://hans.gerwitz.com"
             ]
         }
     },
