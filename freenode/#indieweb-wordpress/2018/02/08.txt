@@ -1,0 +1,1 @@
+2018-02-08 00:12:27.616600 {"type":"join","timestamp":1518048747.6166,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[colinwalker]","nickname":"[colinwalker]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

@@ -1,0 +1,1 @@
+2018-02-08 00:12:27.648500 {"type":"join","timestamp":1518048747.6485,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[colinwalker]","nickname":"[colinwalker]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
