@@ -4948,6 +4948,28 @@
         ],
         "properties": {
             "name": [
+                "tanlaan"
+            ],
+            "nickname": [
+                "tanlaan"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://www.chrisbolas.com"
+            ],
+            "photo": [
+                "https://www.chrisbolas.com/file/31d9dd88a373ec5596e1db04720c271d/thumb.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tbbrown"
             ],
             "nickname": [
