@@ -1,0 +1,1 @@
+2018-02-09 00:11:53.714100 {"type":"join","timestamp":1518135113.7141,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"KjetilK","nickname":"KjetilK","username":"~kjetil","name":"Kjetil Kjernsmo","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
