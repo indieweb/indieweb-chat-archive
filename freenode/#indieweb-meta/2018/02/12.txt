@@ -1,0 +1,1 @@
+2018-02-12 00:02:21.529900 {"type":"join","timestamp":1518393741.5299,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"dgy_","nickname":"dgy_","username":"~dgy","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
