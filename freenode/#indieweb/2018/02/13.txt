@@ -1,0 +1,1 @@
+2018-02-13 00:03:37.725800 {"type":"join","timestamp":1518480217.7258,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"snarfed","nickname":"snarfed","username":"~Adium","name":null,"photo":"https:\/\/twitter.com\/schnarfed\/profile_image","url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles"},"content":null,"modes":[]}

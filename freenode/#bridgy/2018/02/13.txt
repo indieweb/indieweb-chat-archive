@@ -1,0 +1,1 @@
+2018-02-13 00:03:37.715200 {"type":"join","timestamp":1518480217.7152,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","username":"~Adium","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
