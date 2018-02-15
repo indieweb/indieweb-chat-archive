@@ -1,0 +1,1 @@
+2018-02-15 01:13:12.842500 {"type":"join","timestamp":1518657192.8425,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"MeanderingCode","nickname":"MeanderingCode","username":"~Meanderin","name":"MeanderingCode","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
