@@ -1,0 +1,1 @@
+2018-02-16 00:15:01.878800 {"type":"join","timestamp":1518740101.8788,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jackjamieson","nickname":"jackjamieson","username":"~jackjamie","name":null,"photo":null,"url":"http:\/\/jackjamieson.net","tz":"Canada\/Eastern"},"content":null,"modes":[]}
