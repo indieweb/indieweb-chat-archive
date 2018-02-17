@@ -1,0 +1,1 @@
+2018-02-17 00:59:33.479600 {"type":"join","timestamp":1518829173.4796,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"wolftune","nickname":"wolftune","username":"~aaron","name":null,"photo":null,"url":"http:\/\/wolftune.com","tz":"America\/Los_Angeles"},"content":null,"modes":[]}
