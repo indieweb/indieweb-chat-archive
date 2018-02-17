@@ -1,0 +1,1 @@
+2018-02-17 01:09:01.559000 {"type":"join","timestamp":1518829741.559,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"PeterFD","nickname":"PeterFD","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
