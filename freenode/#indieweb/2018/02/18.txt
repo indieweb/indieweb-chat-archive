@@ -1,0 +1,1 @@
+2018-02-18 00:12:26.235700 {"type":"join","timestamp":1518912746.2357,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"leg","nickname":"leg","username":"~jorge","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
