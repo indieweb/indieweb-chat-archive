@@ -1,1 +1,2 @@
 2018-02-20 02:27:17.378500 {"type":"join","timestamp":1519093637.3785,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bengo","nickname":"bengo","username":"~bengo","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2018-02-20 04:30:27.120800 {"type":"join","timestamp":1519101027.1208,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bengo","nickname":"bengo","username":"~bengo","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
