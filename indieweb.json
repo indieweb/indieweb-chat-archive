@@ -2013,6 +2013,28 @@
         ],
         "properties": {
             "name": [
+                "grib"
+            ],
+            "nickname": [
+                "grib"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://grib.co"
+            ],
+            "photo": [
+                "https://en.gravatar.com/userimage/3075028/edcacb6aba72b40f1888e4009f58cdc9.jpeg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "guerillero"
             ],
             "nickname": [
