@@ -1,0 +1,1 @@
+2018-02-21 00:05:28.929500 {"type":"join","timestamp":1519171528.9295,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Daiweico","nickname":"Daiweico","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
