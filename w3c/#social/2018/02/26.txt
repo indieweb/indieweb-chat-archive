@@ -1,0 +1,1 @@
+2018-02-26 01:41:30.273500 {"type":"join","timestamp":1519609290.2735,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mattl","nickname":"mattl","username":"~sid14229","name":"Matt Lee","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
