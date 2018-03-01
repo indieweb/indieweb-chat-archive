@@ -4236,6 +4236,28 @@
         ],
         "properties": {
             "name": [
+                "rainbow-zsh"
+            ],
+            "nickname": [
+                "rainbow-zsh"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://jeremywsherman.com"
+            ],
+            "photo": [
+                "https://secure.gravatar.com/avatar/1772659df4e9e46903034ff3efa34bc1"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "raretrack"
             ],
             "nickname": [
