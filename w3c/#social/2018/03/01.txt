@@ -1,0 +1,1 @@
+2018-03-01 00:23:26.834800 {"type":"message","timestamp":1519863806.8348,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"saranix","nickname":"saranix","username":"~mxladyboy","name":"*Unknown*","photo":null,"url":null,"tz":null},"content":"important research https:\/\/zenodo.org\/record\/1183269","modes":[]}
