@@ -1,0 +1,1 @@
+2018-03-02 00:08:30.648200 {"type":"join","timestamp":1519949310.6482,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
