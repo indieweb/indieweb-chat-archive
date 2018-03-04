@@ -1,0 +1,1 @@
+2018-03-04 00:37:58.801100 {"type":"join","timestamp":1520123878.8011,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[eddie]","nickname":"[eddie]","username":"~slackuser","name":null,"photo":"https:\/\/eddiehinkle.com\/images\/profile.jpg","url":"http:\/\/eddiehinkle.com","tz":"US\/Eastern"},"content":null,"modes":[]}

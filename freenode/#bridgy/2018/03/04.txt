@@ -1,0 +1,1 @@
+2018-03-04 00:37:58.774200 {"type":"join","timestamp":1520123878.7742,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"[eddie]","nickname":"[eddie]","username":"~slackuser","name":null,"photo":"https:\/\/eddiehinkle.com\/images\/profile.jpg","url":"http:\/\/eddiehinkle.com","tz":"US\/Eastern"},"content":null,"modes":[]}

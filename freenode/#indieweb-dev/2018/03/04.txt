@@ -1,0 +1,1 @@
+2018-03-04 00:37:58.766100 {"type":"join","timestamp":1520123878.7661,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[eddie]","nickname":"[eddie]","username":"~slackuser","name":null,"photo":"https:\/\/eddiehinkle.com\/images\/profile.jpg","url":"http:\/\/eddiehinkle.com","tz":"US\/Eastern"},"content":null,"modes":[]}
