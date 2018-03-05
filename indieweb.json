@@ -4072,6 +4072,28 @@
         ],
         "properties": {
             "name": [
+                "pstuifzand"
+            ],
+            "nickname": [
+                "pstuifzand"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://peterstuifzand.nl"
+            ],
+            "photo": [
+                "https://peterstuifzand.nl/img/profile-128.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "pwcc"
             ],
             "nickname": [
