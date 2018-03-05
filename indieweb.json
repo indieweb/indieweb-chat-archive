@@ -2556,6 +2556,28 @@
         ],
         "properties": {
             "name": [
+                "jimpick"
+            ],
+            "nickname": [
+                "jimpick"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://jimpick.com"
+            ],
+            "photo": [
+                "https://jimpick.com/images/bio/jpick-960x960.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jjuran"
             ],
             "nickname": [
