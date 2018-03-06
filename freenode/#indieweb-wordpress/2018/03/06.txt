@@ -1,0 +1,1 @@
+2018-03-06 00:32:30.737600 {"type":"join","timestamp":1520296350.7376,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"brokaw","nickname":"brokaw","username":"~textual","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
