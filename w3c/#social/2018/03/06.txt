@@ -1,0 +1,1 @@
+2018-03-06 00:54:56.610300 {"type":"join","timestamp":1520297696.6103,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"javisantos","nickname":"javisantos","username":"~javisantos","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
