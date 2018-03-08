@@ -1,0 +1,1 @@
+2018-03-08 01:25:25.873000 {"type":"join","timestamp":1520472325.873,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
