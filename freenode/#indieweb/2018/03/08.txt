@@ -1,0 +1,1 @@
+2018-03-08 00:30:48.025000 {"type":"join","timestamp":1520469048.025,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"cdchapman","nickname":"cdchapman","username":"~perturbed","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
