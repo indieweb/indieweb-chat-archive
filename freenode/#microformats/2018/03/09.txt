@@ -1,0 +1,1 @@
+2018-03-09 00:27:25.788900 {"type":"join","timestamp":1520555245.7889,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"JohnBeales","nickname":"JohnBeales","username":"~johnbeale","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
