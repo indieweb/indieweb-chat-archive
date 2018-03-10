@@ -3845,6 +3845,28 @@
         ],
         "properties": {
             "name": [
+                "mylesbraithwaite"
+            ],
+            "nickname": [
+                "mylesbraithwaite"
+            ],
+            "tz": [
+                "America/Toronto"
+            ],
+            "url": [
+                "http://mylesb.ca"
+            ],
+            "photo": [
+                "https://mylesb.ca/apple-touch-icon-152x152-precomposed.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "neuro`"
             ],
             "nickname": [
