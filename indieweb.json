@@ -2641,6 +2641,28 @@
         ],
         "properties": {
             "name": [
+                "jmac"
+            ],
+            "nickname": [
+                "jmac"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://jmac.org"
+            ],
+            "photo": [
+                "http://jmac.org/misc/old_unicorn.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Jorbin"
             ],
             "nickname": [
