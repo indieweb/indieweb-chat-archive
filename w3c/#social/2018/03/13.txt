@@ -1,1 +1,2 @@
 2018-03-13 01:10:20.643600 {"type":"join","timestamp":1520903420.6436,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2018-03-13 02:09:16.577800 {"type":"join","timestamp":1520906956.5778,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
