@@ -1,0 +1,1 @@
+2018-03-15 00:13:58.868600 {"type":"join","timestamp":1521072838.8686,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"qu4ku","nickname":"qu4ku","username":"~qu4ku","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

@@ -1,0 +1,1 @@
+2018-03-15 00:10:19.463700 {"type":"join","timestamp":1521072619.4637,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rendysurvage","nickname":"rendysurvage","username":"~Owner","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
