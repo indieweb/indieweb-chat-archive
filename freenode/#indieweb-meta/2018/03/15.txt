@@ -1,0 +1,1 @@
+2018-03-15 00:27:57.401300 {"type":"join","timestamp":1521073677.4013,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"AngeloGladding","nickname":"AngeloGladding","username":"~AngeloGla","name":"Angelo Gladding","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
