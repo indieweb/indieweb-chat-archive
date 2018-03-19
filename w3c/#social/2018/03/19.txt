@@ -1,0 +1,1 @@
+2018-03-19 01:23:55.406800 {"type":"join","timestamp":1521422635.4068,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
