@@ -1,0 +1,1 @@
+2018-03-21 00:40:02.525600 {"type":"join","timestamp":1521592802.5256,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ben_thatmust","nickname":"ben_thatmust","username":"~quassel","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
