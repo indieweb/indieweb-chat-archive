@@ -1,0 +1,1 @@
+2018-03-21 00:02:43.153600 {"type":"join","timestamp":1521590563.1536,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
