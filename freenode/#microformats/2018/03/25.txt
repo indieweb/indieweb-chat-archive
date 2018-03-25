@@ -1,0 +1,1 @@
+2018-03-25 00:28:07.413900 {"type":"join","timestamp":1521937687.4139,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[cleverdevil]","nickname":"[cleverdevil]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
