@@ -3082,6 +3082,50 @@
         ],
         "properties": {
             "name": [
+                "kaushalmodi"
+            ],
+            "nickname": [
+                "kaushalmodi"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://scripter.co"
+            ],
+            "photo": [
+                "https://scripter.co/images/me.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "kaushal_modi"
+            ],
+            "nickname": [
+                "kaushal_modi"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://scripter.co"
+            ],
+            "photo": [
+                "https://scripter.co/images/me.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Kongaloosh"
             ],
             "nickname": [
