@@ -1,0 +1,1 @@
+2018-03-30 00:03:48.390600 {"type":"join","timestamp":1522368228.3906,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"voxpelli_","nickname":"voxpelli_","username":"sid31634","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
