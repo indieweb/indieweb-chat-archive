@@ -1,0 +1,1 @@
+2018-03-31 00:07:13.750600 {"type":"join","timestamp":1522454833.7506,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Garbee","nickname":"Garbee","username":"uid21171","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
