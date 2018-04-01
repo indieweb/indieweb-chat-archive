@@ -1181,6 +1181,25 @@
         ],
         "properties": {
             "name": [
+                "davy_"
+            ],
+            "nickname": [
+                "davy_"
+            ],
+            "tz": [
+                "Europe/Dublin"
+            ],
+            "url": [
+                "http://davy.tyrrell.co"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "deathrow1"
             ],
             "nickname": [
