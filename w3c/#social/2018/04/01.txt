@@ -1,0 +1,1 @@
+2018-04-01 00:27:53.347300 {"type":"join","timestamp":1522542473.3473,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"eprodrom_","nickname":"eprodrom_","username":"~Android","name":"Evan Prodromou","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
