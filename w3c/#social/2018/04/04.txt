@@ -1,0 +1,1 @@
+2018-04-04 00:00:55.043100 {"type":"leave","timestamp":1522800055.0431,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"joshuaBPMan","nickname":"joshuaBPMan","username":"~joshua","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
