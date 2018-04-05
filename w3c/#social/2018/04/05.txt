@@ -1,0 +1,1 @@
+2018-04-05 03:29:38.287700 {"type":"join","timestamp":1522898978.2877,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cwebber2","nickname":"cwebber2","username":"~cwebber2","name":"Christopher Lemmer Webber","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
