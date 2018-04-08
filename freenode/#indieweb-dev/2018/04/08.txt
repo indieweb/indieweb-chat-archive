@@ -1,0 +1,1 @@
+2018-04-08 00:09:31.930200 {"type":"join","timestamp":1523146171.9302,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Taleth","nickname":"Taleth","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
