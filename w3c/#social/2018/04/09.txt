@@ -1,0 +1,1 @@
+2018-04-09 01:04:37.569800 {"type":"join","timestamp":1523235877.5698,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Sveta_","nickname":"Sveta_","username":"~svetlana","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
