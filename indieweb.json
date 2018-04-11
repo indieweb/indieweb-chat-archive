@@ -440,6 +440,28 @@
         ],
         "properties": {
             "name": [
+                "benharri"
+            ],
+            "nickname": [
+                "benharri"
+            ],
+            "tz": [
+                "America/Detroit"
+            ],
+            "url": [
+                "http://benharr.is"
+            ],
+            "photo": [
+                "https://benharr.is/images/profilepic.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "benprew"
             ],
             "nickname": [
