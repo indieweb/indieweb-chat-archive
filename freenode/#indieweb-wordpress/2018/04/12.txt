@@ -1,0 +1,1 @@
+2018-04-12 00:01:53.888200 {"type":"join","timestamp":1523491313.8882,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
