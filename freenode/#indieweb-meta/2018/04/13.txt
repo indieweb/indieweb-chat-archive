@@ -1,0 +1,1 @@
+2018-04-13 00:19:06.648600 {"type":"join","timestamp":1523578746.6486,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"moss144","nickname":"moss144","username":"~xqkheged","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
