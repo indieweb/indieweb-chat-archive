@@ -1,0 +1,1 @@
+2018-04-13 03:12:59.787800 {"type":"join","timestamp":1523589179.7878,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"[miklb]","nickname":"[miklb]","username":"~slackuser","name":null,"photo":"http:\/\/cdn.miklb.com\/images\/profile_4_16.jpg","url":"http:\/\/miklb.com","tz":"America\/New_York"},"content":null,"modes":[]}
