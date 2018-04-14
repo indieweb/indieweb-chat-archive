@@ -16,3 +16,7 @@ Each channel's files can be read using [QuartzDB](https://github.com/aaronpk/Qua
 * There will always be 26 characters followed by a space. 
 * The timestamp is UTC and has 6 digits of precision for the seconds. 
 * The rest of the line is a JSON-encoded string representing the IRC message and who sent it.
+
+## Spam removal
+
+For a guide on how we deal with spam in these logs, see [IRC#Spam](https://indieweb.org/IRC#Spam) on the wiki.
