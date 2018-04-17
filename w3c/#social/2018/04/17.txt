@@ -1,0 +1,1 @@
+2018-04-17 00:40:24.870400 {"type":"join","timestamp":1523925624.8704,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Guest84","nickname":"Guest84","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
