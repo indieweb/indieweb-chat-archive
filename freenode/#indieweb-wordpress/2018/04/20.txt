@@ -1,0 +1,1 @@
+2018-04-20 00:46:30.271900 {"type":"join","timestamp":1524185190.2719,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":"jgmac1106 via slack-irc-gateway","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
