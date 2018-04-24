@@ -1323,6 +1323,25 @@
         ],
         "properties": {
             "name": [
+                "deeden"
+            ],
+            "nickname": [
+                "deeden"
+            ],
+            "tz": [
+                "Europe/Belfast"
+            ],
+            "url": [
+                "http://deeden.co.uk"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dgold"
             ],
             "nickname": [
