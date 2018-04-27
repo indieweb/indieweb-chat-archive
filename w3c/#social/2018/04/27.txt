@@ -1,1 +1,2 @@
 2018-04-27 04:29:30.314200 {"type":"join","timestamp":1524803370.3142,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cdchapman","nickname":"cdchapman","username":"~cdchapman","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2018-04-27 05:01:37.088900 {"type":"join","timestamp":1524805297.0889,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
