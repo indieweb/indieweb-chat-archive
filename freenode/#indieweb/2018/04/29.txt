@@ -1,0 +1,1 @@
+2018-04-29 00:41:46.622100 {"type":"join","timestamp":1524962506.6221,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"JohnBeales","nickname":"JohnBeales","username":"~johnbeale","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
