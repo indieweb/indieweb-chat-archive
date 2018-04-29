@@ -1,0 +1,1 @@
+2018-04-29 00:51:09.382100 {"type":"join","timestamp":1524963069.3821,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"Gab1","nickname":"Gab1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

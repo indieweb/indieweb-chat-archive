@@ -1,0 +1,1 @@
+2018-04-29 00:51:09.398900 {"type":"join","timestamp":1524963069.3989,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Gab1","nickname":"Gab1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
