@@ -1,0 +1,1 @@
+2018-05-01 00:03:07.179100 {"type":"join","timestamp":1525132987.1791,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
