@@ -2297,6 +2297,28 @@
         ],
         "properties": {
             "name": [
+                "jgmac1106"
+            ],
+            "nickname": [
+                "jgmac1106"
+            ],
+            "tz": [
+                "-5 GMT"
+            ],
+            "url": [
+                "http://jgregorymcverry.com"
+            ],
+            "photo": [
+                "http://quickthoughts.jgregorymcverry.com/file/6802fbcdd3fada8cb61ffb798978f72f/thumb.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "href"
             ],
             "nickname": [
