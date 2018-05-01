@@ -998,6 +998,28 @@
         ],
         "properties": {
             "name": [
+                "colinwalker"
+            ],
+            "nickname": [
+                "colinwalker"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://colinwalker.blog"
+            ],
+            "photo": [
+                "http://colinwalker.blog/colinwalker-thumb.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "crossdiver"
             ],
             "nickname": [
