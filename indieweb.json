@@ -4642,6 +4642,28 @@
         ],
         "properties": {
             "name": [
+                "rivercat"
+            ],
+            "nickname": [
+                "rivercat"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://river.cat"
+            ],
+            "photo": [
+                "https://river.cat/img/me.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rknLA"
             ],
             "nickname": [
