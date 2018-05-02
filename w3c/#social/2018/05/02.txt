@@ -1,0 +1,1 @@
+2018-05-02 01:02:16.983700 {"type":"join","timestamp":1525222936.9837,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":"Tim Berners-Lee","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
