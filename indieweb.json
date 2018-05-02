@@ -5146,6 +5146,28 @@
         ],
         "properties": {
             "name": [
+                "stefp_sn"
+            ],
+            "nickname": [
+                "stefp_sn"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://stephenpieper.net"
+            ],
+            "photo": [
+                "https://stephenpieper.net/images/icon.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "strk"
             ],
             "nickname": [
