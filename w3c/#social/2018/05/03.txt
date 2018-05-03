@@ -1,0 +1,1 @@
+2018-05-03 00:49:01.544400 {"type":"join","timestamp":1525308541.5444,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"puck1pedia","nickname":"puck1pedia","username":"~puck","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
