@@ -3252,6 +3252,28 @@
         ],
         "properties": {
             "name": [
+                "klez"
+            ],
+            "nickname": [
+                "klez"
+            ],
+            "tz": [
+                "Europe/Rome"
+            ],
+            "url": [
+                "http://klezlab.it"
+            ],
+            "photo": [
+                "https://klezlab.it/images/klez.png"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Kongaloosh"
             ],
             "nickname": [
