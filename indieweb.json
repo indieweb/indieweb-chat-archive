@@ -5404,6 +5404,25 @@
         ],
         "properties": {
             "name": [
+                "tglobe"
+            ],
+            "nickname": [
+                "tglobe"
+            ],
+            "tz": [
+                "Europe/Brussels"
+            ],
+            "url": [
+                "http://tglo.be"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "thebaer"
             ],
             "nickname": [
