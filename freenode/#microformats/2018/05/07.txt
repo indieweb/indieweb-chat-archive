@@ -1,0 +1,1 @@
+2018-05-07 00:15:12.106500 {"type":"join","timestamp":1525652112.1065,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"wakest","nickname":"wakest","username":"wakestmatr","name":"@wakest:matrix.org","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
