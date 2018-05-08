@@ -1,0 +1,1 @@
+2018-05-08 03:35:30.169300 {"type":"join","timestamp":1525750530.1693,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mahmudov","nickname":"mahmudov","username":"~milisman","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
