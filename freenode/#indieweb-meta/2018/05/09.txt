@@ -1,0 +1,1 @@
+2018-05-09 00:15:07.353700 {"type":"join","timestamp":1525824907.3537,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[unoabraham]","nickname":"[unoabraham]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
