@@ -1,0 +1,1 @@
+2018-05-11 04:05:11.167900 {"type":"join","timestamp":1526011511.1679,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"fr33domlover","nickname":"fr33domlover","username":"~fr33domlover","name":"fr33domlover","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
