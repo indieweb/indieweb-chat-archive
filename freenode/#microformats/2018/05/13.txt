@@ -1,0 +1,1 @@
+2018-05-13 00:29:49.138600 {"type":"join","timestamp":1526171389.1386,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
