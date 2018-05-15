@@ -1,0 +1,1 @@
+2018-05-15 01:35:03.994000 {"type":"message","timestamp":1526348103.994,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Loqi","nickname":"Loqi","username":"Loqi","name":"Loqi","photo":null,"url":null,"tz":null},"content":"[@nyakuro] WebSub https:\/\/www.w3.org\/TR\/websub\/ (http:\/\/twtr.io\/1dr7ruMwk_w)","modes":[]}
