@@ -1,1 +1,2 @@
 2018-05-16 02:17:30.622400 {"type":"join","timestamp":1526437050.6224,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Guest84","nickname":"Guest84","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2018-05-16 05:56:58.482800 {"type":"join","timestamp":1526450218.4828,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cskau","nickname":"cskau","username":"~cskau","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
