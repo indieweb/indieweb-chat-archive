@@ -1,0 +1,1 @@
+2018-05-16 05:33:10.526500 {"type":"join","timestamp":1526448790.5265,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"loicm","nickname":"loicm","username":"~bballizli","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
