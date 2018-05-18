@@ -1,0 +1,1 @@
+2018-05-18 00:02:53.833300 {"type":"join","timestamp":1526601773.8333,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[Khurt_Williams]","nickname":"[Khurt_Williams]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
