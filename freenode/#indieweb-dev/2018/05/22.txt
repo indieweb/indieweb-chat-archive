@@ -1,0 +1,1 @@
+2018-05-22 00:18:34.170000 {"type":"join","timestamp":1526948314.17,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"leg","nickname":"leg","username":"~jorge","name":"Georg Lehner","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
