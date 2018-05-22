@@ -1,0 +1,1 @@
+2018-05-22 00:09:50.407300 {"type":"join","timestamp":1526947790.4073,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"ajft","nickname":"ajft","username":"~Adium","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
