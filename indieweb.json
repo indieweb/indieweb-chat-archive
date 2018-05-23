@@ -4015,6 +4015,25 @@
         ],
         "properties": {
             "name": [
+                "Natris1979"
+            ],
+            "nickname": [
+                "Natris1979"
+            ],
+            "tz": [
+                "America/Denver"
+            ],
+            "url": [
+                "http://tristanhavelick.com"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ncollig"
             ],
             "nickname": [
