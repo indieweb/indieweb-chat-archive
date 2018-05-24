@@ -1,0 +1,1 @@
+2018-05-24 00:03:53.101100 {"type":"join","timestamp":1527120233.1011,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bonan","nickname":"bonan","username":"~bonan","name":"bonan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}

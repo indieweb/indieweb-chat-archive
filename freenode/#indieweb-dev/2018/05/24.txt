@@ -1,0 +1,1 @@
+2018-05-24 00:05:42.858700 {"type":"join","timestamp":1527120342.8587,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[quinnvinlove]","nickname":"[quinnvinlove]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

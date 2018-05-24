@@ -1,0 +1,1 @@
+2018-05-24 00:05:42.893000 {"type":"join","timestamp":1527120342.893,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[quinnvinlove]","nickname":"[quinnvinlove]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
