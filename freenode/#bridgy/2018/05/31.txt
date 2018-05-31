@@ -1,0 +1,1 @@
+2018-05-31 00:11:08.699600 {"type":"join","timestamp":1527725468.6996,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"snarfed","nickname":"snarfed","username":"~Adium","name":"Ryan Barrett","photo":"https:\/\/twitter.com\/schnarfed\/profile_image","url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles"},"content":null,"modes":[]}
