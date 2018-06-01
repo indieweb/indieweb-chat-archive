@@ -1,0 +1,1 @@
+2018-06-01 00:59:16.270900 {"type":"join","timestamp":1527814756.2709,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~Adium","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
