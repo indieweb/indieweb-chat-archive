@@ -1,1 +1,2 @@
 2018-06-02 00:00:18.240600 {"type":"join","timestamp":1527897618.2406,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~Adium","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2018-06-02 01:23:06.586200 {"type":"join","timestamp":1527902586.5862,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"er1n","nickname":"er1n","username":"~erin","name":"erin","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
