@@ -1,0 +1,1 @@
+2018-06-05 03:16:14.978000 {"type":"join","timestamp":1528168574.978,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
