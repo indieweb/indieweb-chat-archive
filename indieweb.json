@@ -1058,6 +1058,25 @@
         ],
         "properties": {
             "name": [
+                "cjwillcock"
+            ],
+            "nickname": [
+                "cjwillcock"
+            ],
+            "tz": [
+                "America/Halifax"
+            ],
+            "url": [
+                "http://cjwillcock.ca"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cweiske"
             ],
             "nickname": [
