@@ -1,0 +1,1 @@
+2018-06-06 00:10:41.734500 {"type":"join","timestamp":1528243841.7345,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"chimo","nickname":"chimo","username":"chimo","name":"chimo","photo":"https:\/\/chromic.org\/images\/bio-photo.png","url":"http:\/\/chromic.org","tz":"America\/Toronto"},"content":null,"modes":[]}
