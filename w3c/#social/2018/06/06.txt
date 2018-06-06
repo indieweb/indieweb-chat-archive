@@ -1,0 +1,1 @@
+2018-06-06 00:45:31.866500 {"type":"message","timestamp":1528245931.8665,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"kaniini","nickname":"kaniini","username":"~kaniini","name":null,"photo":null,"url":null,"tz":null},"content":"nice","modes":[]}
