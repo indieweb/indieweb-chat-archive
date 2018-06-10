@@ -1,0 +1,1 @@
+2018-06-10 00:26:29.876500 {"type":"join","timestamp":1528590389.8765,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"AngeloGladding","nickname":"AngeloGladding","username":"~AngeloGla","name":"Angelo Gladding","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
