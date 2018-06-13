@@ -1,0 +1,1 @@
+2018-06-13 00:16:57.787100 {"type":"join","timestamp":1528849017.7871,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"[kevinmarks]","nickname":"[kevinmarks]","username":"~slackuser","name":null,"photo":"http:\/\/www.kevinmarks.com\/km.jpg","url":"http:\/\/kevinmarks.com","tz":"Europe\/London"},"content":null,"modes":[]}
