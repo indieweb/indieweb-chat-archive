@@ -1,0 +1,1 @@
+2018-06-14 01:30:16.486900 {"type":"join","timestamp":1528939816.4869,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"KartikPrabhu","nickname":"KartikPrabhu","username":"~kartik","name":"purple","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
