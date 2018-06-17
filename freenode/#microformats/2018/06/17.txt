@@ -1,0 +1,1 @@
+2018-06-17 01:00:25.680400 {"type":"join","timestamp":1529197225.6804,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Retsuko","nickname":"Retsuko","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
