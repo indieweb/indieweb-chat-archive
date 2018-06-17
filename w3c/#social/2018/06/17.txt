@@ -1,0 +1,1 @@
+2018-06-17 01:26:14.195000 {"type":"join","timestamp":1529198774.195,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vasilakisfil","nickname":"vasilakisfil","username":"~vasilakisfil","name":"vasilakisfil","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
