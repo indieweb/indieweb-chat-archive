@@ -1,0 +1,1 @@
+2018-06-18 00:42:25.617100 {"type":"join","timestamp":1529282545.6171,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"KartikPrabhu","nickname":"KartikPrabhu","username":"~kartik","name":"purple","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
