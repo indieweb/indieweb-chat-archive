@@ -1,0 +1,1 @@
+2018-06-24 00:18:34.362400 {"type":"join","timestamp":1529799514.3624,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cwebber2","nickname":"cwebber2","username":"~cwebber2","name":"Christopher Lemmer Webber","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
