@@ -1,0 +1,1 @@
+2018-06-26 00:36:19.973900 {"type":"join","timestamp":1529973379.9739,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"gRegor-mobile","nickname":"gRegor-mobile","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
