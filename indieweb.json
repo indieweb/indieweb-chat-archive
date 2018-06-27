@@ -3485,6 +3485,28 @@
         ],
         "properties": {
             "name": [
+                "Lovi"
+            ],
+            "nickname": [
+                "Lovi"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://lovi.star.is"
+            ],
+            "photo": [
+                "https://lovi.star.is"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lucasgonze"
             ],
             "nickname": [
