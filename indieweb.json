@@ -1487,6 +1487,25 @@
         ],
         "properties": {
             "name": [
+                "dori"
+            ],
+            "nickname": [
+                "dori"
+            ],
+            "tz": [
+                "America/San_Francisco"
+            ],
+            "url": [
+                "http://www.dori.com"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dotnic"
             ],
             "nickname": [
