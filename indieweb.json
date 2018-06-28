@@ -6145,6 +6145,28 @@
         ],
         "properties": {
             "name": [
+                "xolotl"
+            ],
+            "nickname": [
+                "xolotl"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://xolotl.org"
+            ],
+            "photo": [
+                "http://1.gravatar.com/avatar/7a82c3ef7c1619ea82f4f22d93ffb959"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "xtof"
             ],
             "nickname": [
