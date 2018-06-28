@@ -6047,6 +6047,25 @@
         ],
         "properties": {
             "name": [
+                "wiobyrne"
+            ],
+            "nickname": [
+                "wiobyrne"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://wiobyrne.com"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "wyomingplease"
             ],
             "nickname": [
