@@ -2420,6 +2420,28 @@
         ],
         "properties": {
             "name": [
+                "iambismark"
+            ],
+            "nickname": [
+                "iambismark"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://iambismark.net"
+            ],
+            "photo": [
+                "https://iambismark.net/avatar.svg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "iangreenleaf"
             ],
             "nickname": [
