@@ -5316,6 +5316,28 @@
         ],
         "properties": {
             "name": [
+                "stevestreza"
+            ],
+            "nickname": [
+                "stevestreza"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://stevestreza.com"
+            ],
+            "photo": [
+                "https://twitter.com/stevestreza/profile_image"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "strk"
             ],
             "nickname": [
