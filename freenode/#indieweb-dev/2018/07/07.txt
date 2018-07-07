@@ -1,0 +1,1 @@
+2018-07-07 00:07:58.612500 {"type":"join","timestamp":1530922078.6125,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[kim_landwehr]","nickname":"[kim_landwehr]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
