@@ -1,0 +1,1 @@
+2018-07-08 01:20:45.814600 {"type":"join","timestamp":1531012845.8146,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"dougbeal|mb1","nickname":"dougbeal|mb1","username":"~dougbeal","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
