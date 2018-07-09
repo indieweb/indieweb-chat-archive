@@ -5908,6 +5908,28 @@
         ],
         "properties": {
             "name": [
+                "vishae"
+            ],
+            "nickname": [
+                "vishae"
+            ],
+            "tz": [
+                "Australia/Melbourne"
+            ],
+            "url": [
+                "http://www.serenawho.com"
+            ],
+            "photo": [
+                "https://www.serenawho.com/wp-content/uploads/2018/04/cropped-cover-2.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "voxpelli"
             ],
             "nickname": [
