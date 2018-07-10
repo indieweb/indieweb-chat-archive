@@ -1,1 +1,2 @@
 2018-07-10 02:19:24.227100 {"type":"join","timestamp":1531189164.2271,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"technomancy","nickname":"technomancy","username":"~user","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
+2018-07-10 03:37:36.971100 {"type":"join","timestamp":1531193856.9711,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
