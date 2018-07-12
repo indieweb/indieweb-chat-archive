@@ -1,0 +1,1 @@
+2018-07-12 00:00:30.776100 {"type":"join","timestamp":1531353630.7761,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":"http:\/\/tantek.com\/logo.jpg","url":"http:\/\/Tantek.com","tz":"US\/Pacific"},"content":null,"modes":[]}

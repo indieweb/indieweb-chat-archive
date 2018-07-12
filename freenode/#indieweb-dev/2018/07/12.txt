@@ -1,0 +1,1 @@
+2018-07-12 00:00:30.768500 {"type":"join","timestamp":1531353630.7685,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":"http:\/\/tantek.com\/logo.jpg","url":"http:\/\/Tantek.com","tz":"US\/Pacific"},"content":null,"modes":[]}
