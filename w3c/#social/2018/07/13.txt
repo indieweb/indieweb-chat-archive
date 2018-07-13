@@ -1,0 +1,1 @@
+2018-07-13 00:56:13.234200 {"type":"join","timestamp":1531443373.2342,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"fr33domlover","nickname":"fr33domlover","username":"~fr33domlover","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
