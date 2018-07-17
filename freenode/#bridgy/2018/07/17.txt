@@ -1,0 +1,1 @@
+2018-07-17 02:16:12.804400 {"type":"join","timestamp":1531793772.8044,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"tantek__","nickname":"tantek__","username":"68015b2c","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
