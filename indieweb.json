@@ -607,6 +607,28 @@
         ],
         "properties": {
             "name": [
+                "bradenslen"
+            ],
+            "nickname": [
+                "bradenslen"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://ramblinggit.com"
+            ],
+            "photo": [
+                "https://ramblinggit.com/wp-content/uploads/2018/07/1625543_10202387609944982_854284321_n-e1530649540311.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "brandonrozek"
             ],
             "nickname": [
