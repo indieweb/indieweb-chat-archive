@@ -621,6 +621,28 @@
         ],
         "properties": {
             "name": [
+                "ldp"
+            ],
+            "nickname": [
+                "ldp"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "photo": [
+                ""
+            ],
+            "url": [
+                "https://www.linkedin.com/in/lewis-phillips-2803961/"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lehawes"
             ],
             "nickname": [
