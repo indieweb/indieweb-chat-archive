@@ -1,0 +1,1 @@
+2018-07-22 02:43:05.350600 {"type":"join","timestamp":1532227385.3506,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"iwaim","nickname":"iwaim","username":"~iwaim","name":"iwaim","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
