@@ -1,0 +1,1 @@
+2018-07-22 01:03:33.920800 {"type":"join","timestamp":1532221413.9208,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"benwerd","nickname":"benwerd","username":"~benwerd","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
