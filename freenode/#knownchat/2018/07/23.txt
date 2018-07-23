@@ -1,0 +1,1 @@
+2018-07-23 00:27:15.474500 {"type":"join","timestamp":1532305635.4745,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[matpacker]","nickname":"[matpacker]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
