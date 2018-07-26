@@ -1,0 +1,1 @@
+2018-07-26 00:08:22.127600 {"type":"join","timestamp":1532563702.1276,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek__","nickname":"tantek__","username":"~tantek__","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
