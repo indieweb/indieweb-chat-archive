@@ -3652,6 +3652,28 @@
         ],
         "properties": {
             "name": [
+                "MarcoZDe"
+            ],
+            "nickname": [
+                "MarcoZDe"
+            ],
+            "tz": [
+                "Europe/Germany"
+            ],
+            "url": [
+                "http://marcozehe.de"
+            ],
+            "photo": [
+                "https://www.marcozehe.de/wp-content/uploads/2018/07/Marco_Profilbild.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mapkyca"
             ],
             "nickname": [
