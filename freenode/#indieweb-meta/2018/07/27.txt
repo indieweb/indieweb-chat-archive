@@ -1,0 +1,1 @@
+2018-07-27 00:17:04.393800 {"type":"join","timestamp":1532650624.3938,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"donblanco","nickname":"donblanco","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

@@ -1,0 +1,1 @@
+2018-07-27 00:17:04.417000 {"type":"join","timestamp":1532650624.417,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"donblanco","nickname":"donblanco","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

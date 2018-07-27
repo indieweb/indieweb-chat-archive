@@ -1,0 +1,1 @@
+2018-07-27 00:17:04.386000 {"type":"join","timestamp":1532650624.386,"network":"irc","server":"freenode","channel":{"uid":"#bridgy","name":"#bridgy"},"author":{"uid":"donblanco","nickname":"donblanco","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
