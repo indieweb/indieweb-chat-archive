@@ -1490,6 +1490,28 @@
         ],
         "properties": {
             "name": [
+                "donblanco"
+            ],
+            "nickname": [
+                "donblanco"
+            ],
+            "tz": [
+                "America/Mexico_City"
+            ],
+            "url": [
+                "http://glenn.thedixons.net"
+            ],
+            "photo": [
+                "https://glenn.thedixons.net/wp-content/uploads/2018/07/ig3JlW1h-150x150.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "donpdonp"
             ],
             "nickname": [
