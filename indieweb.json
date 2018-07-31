@@ -2896,6 +2896,28 @@
         ],
         "properties": {
             "name": [
+                "johnjohnston"
+            ],
+            "nickname": [
+                "johnjohnston"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://johnjohnston.info/blog/"
+            ],
+            "photo": [
+                "http://johnjohnston.info/blog/wp-content/uploads/2014/08/me.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Jorbin"
             ],
             "nickname": [
