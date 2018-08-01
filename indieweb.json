@@ -125,6 +125,28 @@
         ],
         "properties": {
             "name": [
+                "anarchivist"
+            ],
+            "nickname": [
+                "anarchivist"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://matienzo.org"
+            ],
+            "photo": [
+                "https://matienzo.org/images/matienzo.jpg"
+            ]
+        }
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "atomicules"
             ],
             "nickname": [
