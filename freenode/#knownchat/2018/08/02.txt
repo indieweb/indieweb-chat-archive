@@ -1,0 +1,1 @@
+2018-08-02 00:13:21.411700 {"type":"join","timestamp":1533168801.4117,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Guest22421","nickname":"Guest22421","username":"~noteness","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

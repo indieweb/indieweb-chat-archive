@@ -1,0 +1,1 @@
+2018-08-02 00:00:04.660400 {"type":"join","timestamp":1533168004.6604,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"neo-cool23","nickname":"neo-cool23","username":"~neo-cool","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
