@@ -19,7 +19,8 @@
             "url": [
                 "http://aaronparecki.com/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -41,7 +42,8 @@
             "url": [
                 "https://strugee.net"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -58,12 +60,13 @@
                 "Europe/Berlin"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "https://plus.google.com/u/1/+AndreasKuckartz/posts"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -85,7 +88,8 @@
             "url": [
                 "http://annbass.net"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -107,7 +111,8 @@
             "url": [
                 "http://lehors.wordpress.com"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -129,7 +134,8 @@
             "url": [
                 "http://waterpigs.co.uk"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -151,7 +157,8 @@
             "url": [
                 "http://bblfish.net/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -173,7 +180,8 @@
             "url": [
                 "http://ben.thatmustbe.me/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -195,7 +203,8 @@
             "url": [
                 "http://bigbluehat.com/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -217,7 +226,8 @@
             "url": [
                 "http://bitbear.org/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -239,7 +249,8 @@
             "url": [
                 "http://bret.io"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -256,12 +267,13 @@
                 "US/Pacific"
             ],
             "photo": [
-                "{{{4}}}"
+                "https://www.w3.org/wiki/{{{4}}}"
             ],
             "url": [
                 "https://blockstream.com/team/christopher-allen"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -283,7 +295,8 @@
             "url": [
                 "http://sfw.libernil.net"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -305,7 +318,8 @@
             "url": [
                 "http://csarven.ca/#i"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -327,7 +341,8 @@
             "url": [
                 "http://dustycloud.org/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -349,7 +364,8 @@
             "url": [
                 "https://deiu.rww.io/profile/card#me"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -371,7 +387,8 @@
             "url": [
                 "https://wwelves.org/perpetual-tripper"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -393,7 +410,8 @@
             "url": [
                 "http://e14n.com/evan"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -415,7 +433,8 @@
             "url": [
                 "http://dret.net/netdret"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -437,7 +456,8 @@
             "url": [
                 "http://fjhirsch.com/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -459,7 +479,8 @@
             "url": [
                 "http://ibiblio.org/hhalpin"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -481,7 +502,8 @@
             "url": [
                 "http://chmod777self.com/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -503,7 +525,8 @@
             "url": [
                 "http://jasonrobinson.me/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -525,7 +548,8 @@
             "url": [
                 "http://john.foliot.ca"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -547,7 +571,8 @@
             "url": [
                 "http://profiles.umassmed.edu/profiles/display/132901"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -569,7 +594,8 @@
             "url": [
                 "https://www.linkedin.com/in/krisborchers"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -591,7 +617,8 @@
             "url": [
                 "http://kevinmarks.com"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -613,7 +640,8 @@
             "url": [
                 "http://coraliemercier.wordpress.com/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -630,12 +658,13 @@
                 "US/Central"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "https://www.linkedin.com/in/lewis-phillips-2803961/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -652,12 +681,13 @@
                 "US/Eastern"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "http://about.me/lehawes"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -679,7 +709,8 @@
             "url": [
                 "http://loqi.me"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -701,7 +732,8 @@
             "url": [
                 "https://www.linkedin.com/in/mateus-teixeira-522a3218/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -723,7 +755,8 @@
             "url": [
                 "http://mattl.us"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -745,7 +778,8 @@
             "url": [
                 "http://www.linkedin.com/in/mgmarum"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -762,12 +796,13 @@
                 "US/Eastern"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "http://melvincarvalho.com/#me"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -784,12 +819,13 @@
                 "Europe/Paris"
             ],
             "photo": [
-                "{{{4}}}"
+                "https://www.w3.org/wiki/{{{4}}}"
             ],
             "url": [
                 "https://www.w3.org/users/40757"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -811,7 +847,8 @@
             "url": [
                 "http://owenshepherd.net/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -828,12 +865,13 @@
                 "Europe/London"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "https://www.w3.org/users/98281"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -855,7 +893,8 @@
             "url": [
                 "http://rhiaro.co.uk"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -877,7 +916,8 @@
             "url": [
                 "https://www.w3.org/2002/03/RRSAgent"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -899,7 +939,8 @@
             "url": [
                 "http://www.w3.org/People/Sandro"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -916,12 +957,13 @@
                 "Europe/Vienna"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "https://plus.google.com/+sanjabonic"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -943,7 +985,8 @@
             "url": [
                 "http://shanehudson.net/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -965,7 +1008,8 @@
             "url": [
                 "http://schepers.cc"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -987,7 +1031,8 @@
             "url": [
                 "http://tantek.com/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1009,7 +1054,8 @@
             "url": [
                 "http://www.w3.org/People/Berners-Lee/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1031,7 +1077,8 @@
             "url": [
                 "http://tommorris.org/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1053,7 +1100,8 @@
             "url": [
                 "https://www.w3.org/2005/06/tracker/irc"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1070,12 +1118,13 @@
                 "CE[S]T"
             ],
             "photo": [
-                "{{{4}}}"
+                "https://www.w3.org/wiki/{{{4}}}"
             ],
             "url": [
                 "https://olmo-titos.info/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1097,7 +1146,8 @@
             "url": [
                 "https://theperplexingpariah.co.uk"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1119,7 +1169,8 @@
             "url": [
                 "https://github.com/turbopape"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1141,7 +1192,8 @@
             "url": [
                 "http://www.wilkie.io/"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1158,12 +1210,13 @@
                 "Europe/Berlin"
             ],
             "photo": [
-                ""
+                "https://www.w3.org/wiki/IRC-people"
             ],
             "url": [
                 "https://www.linkedin.com/in/wolfgangschindler"
             ]
-        }
+        },
+        "lang": "en"
     },
     {
         "type": [
@@ -1185,6 +1238,7 @@
             "url": [
                 "https://www.w3.org/wiki/Zakim"
             ]
-        }
+        },
+        "lang": "en"
     }
 ]
