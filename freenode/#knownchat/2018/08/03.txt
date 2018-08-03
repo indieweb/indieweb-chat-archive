@@ -1,0 +1,1 @@
+2018-08-03 02:41:54.318600 {"type":"join","timestamp":1533264114.3186,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"jg","nickname":"jg","username":"~webuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
