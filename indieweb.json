@@ -4835,6 +4835,29 @@
         ],
         "properties": {
             "name": [
+                "NinjaTrappeur"
+            ],
+            "nickname": [
+                "NinjaTrappeur"
+            ],
+            "tz": [
+                "Europe/Bayonne"
+            ],
+            "url": [
+                "http://alternativebit.fr"
+            ],
+            "photo": [
+                "https://alternativebit.fr/img/favicon.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "nitot"
             ],
             "nickname": [
