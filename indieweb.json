@@ -1937,6 +1937,29 @@
         ],
         "properties": {
             "name": [
+                "eeeeeta"
+            ],
+            "nickname": [
+                "eeeeeta"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://theta.eu.org"
+            ],
+            "photo": [
+                "https://theta.eu.org/assets/logo.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "edsu"
             ],
             "nickname": [
