@@ -1,0 +1,1 @@
+2018-08-04 00:09:07.846400 {"type":"join","timestamp":1533341347.8464,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Guest52565","nickname":"Guest52565","username":"~dlcastc","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
