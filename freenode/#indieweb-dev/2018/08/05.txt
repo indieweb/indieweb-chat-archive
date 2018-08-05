@@ -1,0 +1,1 @@
+2018-08-05 00:13:00.688800 {"type":"join","timestamp":1533427980.6888,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Kilo`byte20","nickname":"Kilo`byte20","username":"~Kilo`byte","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
