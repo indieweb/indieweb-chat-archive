@@ -1,0 +1,1 @@
+2018-08-06 00:13:41.919300 {"type":"join","timestamp":1533514421.9193,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Monkeh5","nickname":"Monkeh5","username":"~Monkeh","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
