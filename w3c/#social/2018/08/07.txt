@@ -1,0 +1,1 @@
+2018-08-07 06:14:43.050300 {"type":"join","timestamp":1533622483.0503,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vasilakisfil_","nickname":"vasilakisfil_","username":"~vasilakisfil","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
