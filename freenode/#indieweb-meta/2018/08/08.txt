@@ -1,0 +1,1 @@
+2018-08-08 00:09:27.988800 {"type":"join","timestamp":1533686967.9888,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"MeiR","nickname":"MeiR","username":"~MeiR","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
