@@ -1,0 +1,1 @@
+2018-08-09 00:13:08.781900 {"type":"join","timestamp":1533773588.7819,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"eli_oat","nickname":"eli_oat","username":"~Adium","name":null,"photo":"http:\/\/eli.li\/imgs\/1.jpg","url":"http:\/\/eli.li","tz":"America\/New_York"},"content":null,"modes":[]}
