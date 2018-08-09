@@ -1,0 +1,1 @@
+2018-08-09 00:21:38.812600 {"type":"join","timestamp":1533774098.8126,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"dougbeal|mb1","nickname":"dougbeal|mb1","username":"~dougbeal","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
