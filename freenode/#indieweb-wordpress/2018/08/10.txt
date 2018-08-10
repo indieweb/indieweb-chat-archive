@@ -1,0 +1,1 @@
+2018-08-10 00:39:55.655800 {"type":"join","timestamp":1533861595.6558,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"cyberzeus1","nickname":"cyberzeus1","username":"~cyberzeus","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
