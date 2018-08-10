@@ -1,0 +1,1 @@
+2018-08-10 00:27:28.585900 {"type":"join","timestamp":1533860848.5859,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"GDiaX","nickname":"GDiaX","username":"~GDiaX","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
