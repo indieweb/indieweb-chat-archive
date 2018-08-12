@@ -1,0 +1,1 @@
+2018-08-12 00:00:00.559300 {"type":"join","timestamp":1534032000.5593,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bot24","nickname":"bot24","username":"~nodebot","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
