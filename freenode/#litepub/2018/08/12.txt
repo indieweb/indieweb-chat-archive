@@ -1,0 +1,1 @@
+2018-08-12 00:17:32.808900 {"type":"message","timestamp":1534033052.8089,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"opal","nickname":"opal","username":"~wowaname","name":"HAVE A BOWL MR SQUIDWARD","photo":null,"url":null,"tz":null},"content":"oh the meeting already happened wew","modes":["voice"]}
