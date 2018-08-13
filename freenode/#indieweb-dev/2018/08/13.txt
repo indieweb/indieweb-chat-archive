@@ -1,0 +1,1 @@
+2018-08-13 00:43:14.746800 {"type":"join","timestamp":1534120994.7468,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"TripFandango","nickname":"TripFandango","username":"~trip","name":"realname","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
