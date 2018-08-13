@@ -1,11 +1,11 @@
 <?php
 if(count($argv) != 3) {
-  echo "Usage: php clean-spam.php 2018-08-01 \"phrase to match\"\n";
+  echo "Usage: php clean-spam.php 2018-08-01 \"nick\"\n";
   die();
 }
 
 $date = $argv[1];
-$phrase = $argv[2];
+$nick = $argv[2];
 
 $channels = glob('*/*');
 print_r($channels);
@@ -20,7 +20,7 @@ foreach($channels as $channel) {
     die();
   }
 
-  echo "Removing spam from #$channel ".$date->format('Y-m-d')." that matches '$phrase'\n";
+  echo "Removing spam from #$channel ".$date->format('Y-m-d')." from nick '$nick'\n";
 
   $new = fopen('tmp.txt', 'w');
   $fp = fopen($filename, 'r');
@@ -29,7 +29,9 @@ foreach($channels as $channel) {
     if(trim($line)) {
       list($date, $time, $json) = explode(' ', $line, 3);
       $data = json_decode($json, true);
-      if(strpos($data['content'], $phrase) !== false) {
+      $phrase = $nick.' said: ';
+      if($data['author']['nickname'] == $nick
+        || $data['author']['nickname'] == 'Loqi' && strpos($data['content'], $phrase) !== false) {
         echo "$channel Deleting line from ".$data['author']['nickname']."\n";
       } else {
         fwrite($new, $line);
