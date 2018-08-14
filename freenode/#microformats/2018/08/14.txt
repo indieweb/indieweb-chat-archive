@@ -1,0 +1,1 @@
+2018-08-14 00:35:34.476900 {"type":"join","timestamp":1534206934.4769,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"strugee","nickname":"strugee","username":"~strugee","name":"AJ Jordan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}

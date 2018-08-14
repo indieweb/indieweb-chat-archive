@@ -1,0 +1,1 @@
+2018-08-14 00:36:04.722400 {"type":"join","timestamp":1534206964.7224,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"strugee","nickname":"strugee","username":"~strugee","name":"AJ Jordan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
