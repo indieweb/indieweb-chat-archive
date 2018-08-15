@@ -1,0 +1,1 @@
+2018-08-15 00:14:32.602600 {"type":"join","timestamp":1534292072.6026,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"thunderrd18","nickname":"thunderrd18","username":"~thunderrd","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
