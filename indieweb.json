@@ -4155,6 +4155,29 @@
         ],
         "properties": {
             "name": [
+                "metbril"
+            ],
+            "nickname": [
+                "metbril"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://robertvanbregt.nl"
+            ],
+            "photo": [
+                "https://www.gravatar.com/avatar/951332480630db814aa03e362f2eb5cb"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "hotzeplotz"
             ],
             "nickname": [
