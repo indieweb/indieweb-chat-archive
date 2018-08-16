@@ -1,0 +1,1 @@
+2018-08-16 00:02:28.478200 {"type":"join","timestamp":1534377748.4782,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"webhat","nickname":"webhat","username":"~quassel","name":"Dani\u00ebl W. Crompton","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
