@@ -4,7 +4,7 @@ if(count($argv) != 3) {
   die();
 }
 
-$date = $argv[1];
+$inputdate = $argv[1];
 $phrase = $argv[2];
 
 $channels = glob('*/*');
@@ -12,12 +12,12 @@ print_r($channels);
 
 foreach($channels as $channel) {
 
-  $date = new DateTime($date);
+  $date = new DateTime($inputdate);
   $filename = $channel.'/'.$date->format('Y/m/d').'.txt';
 
   if(!file_exists($filename)) {
-    echo "Could not find file for date ".$date->format('Y-m-d')."\n";
-    die();
+    echo "Could not find file for date ".$date->format('Y-m-d')." ($filename)\n";
+    continue; 
   }
 
   echo "Removing spam from #$channel ".$date->format('Y-m-d')." that matches '$phrase'\n";
@@ -27,7 +27,7 @@ foreach($channels as $channel) {
 
   while($line = fgets($fp)) {
     if(trim($line)) {
-      list($date, $time, $json) = explode(' ', $line, 3);
+      list($timestamp, $time, $json) = explode(' ', $line, 3);
       $data = json_decode($json, true);
       if(strpos($data['content'], $phrase) !== false) {
         echo "$channel Deleting line from ".$data['author']['nickname']."\n";
