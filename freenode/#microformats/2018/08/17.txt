@@ -1,0 +1,1 @@
+2018-08-17 00:03:25.617900 {"type":"join","timestamp":1534464205.6179,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"tantek__","nickname":"tantek__","username":"68015b2c","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
