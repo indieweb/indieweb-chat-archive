@@ -1,0 +1,1 @@
+2018-08-18 00:46:29.474400 {"type":"join","timestamp":1534553189.4744,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"batman423","nickname":"batman423","username":"~batman42","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
