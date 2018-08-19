@@ -1,0 +1,1 @@
+2018-08-19 00:21:50.789400 {"type":"join","timestamp":1534638110.7894,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"fluter","nickname":"fluter","username":"~fluter","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
