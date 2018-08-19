@@ -1,0 +1,1 @@
+2018-08-19 02:20:07.076300 {"type":"join","timestamp":1534645207.0763,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"pmbauer","nickname":"pmbauer","username":"~sid17425","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
