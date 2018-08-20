@@ -1069,6 +1069,26 @@
         ],
         "properties": {
             "name": [
+                "colelyman"
+            ],
+            "nickname": [
+                "colelyman"
+            ],
+            "tz": [
+                "US/Mountain"
+            ],
+            "url": [
+                "http://colelyman.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "colintedford"
             ],
             "nickname": [
