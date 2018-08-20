@@ -1,0 +1,1 @@
+2018-08-20 00:30:56.166200 {"type":"join","timestamp":1534725056.1662,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan","nickname":"ajordan","username":"~ajordan","name":"AJ Jordan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
