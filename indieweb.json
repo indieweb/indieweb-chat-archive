@@ -3814,6 +3814,26 @@
         ],
         "properties": {
             "name": [
+                "ludovicchabant"
+            ],
+            "nickname": [
+                "ludovicchabant"
+            ],
+            "tz": [
+                "America/Vancouver"
+            ],
+            "url": [
+                "http://ludovic.chabant.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lucasgonze"
             ],
             "nickname": [
