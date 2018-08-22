@@ -4,7 +4,7 @@ if(count($argv) != 3) {
   die();
 }
 
-$date = $argv[1];
+$inputdate = $argv[1];
 $nick = $argv[2];
 
 $channels = glob('*/*');
@@ -12,12 +12,12 @@ print_r($channels);
 
 foreach($channels as $channel) {
 
-  $date = new DateTime($date);
+  $date = new DateTime($inputdate);
   $filename = $channel.'/'.$date->format('Y/m/d').'.txt';
 
   if(!file_exists($filename)) {
     echo "Could not find file for date ".$date->format('Y-m-d')."\n";
-    die();
+    continue;
   }
 
   echo "Removing spam from #$channel ".$date->format('Y-m-d')." from nick '$nick'\n";
