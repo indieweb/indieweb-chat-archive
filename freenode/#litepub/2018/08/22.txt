@@ -1,0 +1,1 @@
+2018-08-22 03:31:26.537000 {"type":"join","timestamp":1534908686.537,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ecx","nickname":"ecx","username":"~ecx","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
