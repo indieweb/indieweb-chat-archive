@@ -1,0 +1,1 @@
+2018-08-23 00:01:09.541800 {"type":"join","timestamp":1534982469.5418,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"brainblasted[m]","nickname":"brainblasted[m]","username":"brainbla1","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
