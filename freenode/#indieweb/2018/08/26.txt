@@ -1,0 +1,1 @@
+2018-08-26 00:17:42.951700 {"type":"join","timestamp":1535242662.9517,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"wagle","nickname":"wagle","username":"~wagle","name":"Perry Wagle,,,,","photo":null,"url":"http:\/\/wagle.io","tz":"America\/Toronto"},"content":null,"modes":[]}
