@@ -1,0 +1,1 @@
+2018-08-27 02:42:56.249600 {"type":"join","timestamp":1535337776.2496,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan","nickname":"ajordan","username":"~ajordan","name":"AJ Jordan","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
