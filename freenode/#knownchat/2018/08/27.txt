@@ -1,0 +1,1 @@
+2018-08-27 04:15:04.707000 {"type":"join","timestamp":1535343304.707,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[asteres]","nickname":"[asteres]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/ashersilberman.com","tz":"America\/Los_Angeles"},"content":null,"modes":[]}
