@@ -1,0 +1,1 @@
+2018-09-01 01:04:58.223900 {"type":"join","timestamp":1535763898.2239,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"therock247uk","nickname":"therock247uk","username":"~therock24","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
