@@ -1,0 +1,1 @@
+2018-09-04 01:25:34.575300 {"type":"join","timestamp":1536024334.5753,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"furiousDingo14","nickname":"furiousDingo14","username":"~furiousDi","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
