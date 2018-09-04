@@ -1,0 +1,1 @@
+2018-09-04 00:15:37.875400 {"type":"join","timestamp":1536020137.8754,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"opal","nickname":"opal","username":"~wowaname","name":"HAVE A BOWL MR SQUIDWARD","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
