@@ -1,0 +1,1 @@
+2018-09-07 00:08:00.439900 {"type":"join","timestamp":1536278880.4399,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"vivus","nickname":"vivus","username":"~vivus","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

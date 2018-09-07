@@ -1,0 +1,1 @@
+2018-09-07 00:13:14.821300 {"type":"join","timestamp":1536279194.8213,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"renem","nickname":"renem","username":"~renem","name":"ReneM","photo":"https:\/\/renem.net\/assets\/renem_profile.png","url":"http:\/\/renem.net","tz":"Europe\/Berlin"},"content":null,"modes":[]}
