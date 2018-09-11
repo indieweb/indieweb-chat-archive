@@ -1,0 +1,1 @@
+2018-09-11 00:53:22.354500 {"type":"join","timestamp":1536627202.3545,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"eli_oat","nickname":"eli_oat","username":"~Adium","name":null,"photo":"http:\/\/eli.li\/imgs\/1.jpg","url":"http:\/\/eli.li","tz":"America\/New_York"},"content":null,"modes":[]}
