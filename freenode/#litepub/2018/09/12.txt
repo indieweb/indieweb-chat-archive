@@ -1,0 +1,1 @@
+2018-09-12 11:31:19.555800 {"type":"join","timestamp":1536751879.5558,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"jaddison","nickname":"jaddison","username":"~jaddison","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
