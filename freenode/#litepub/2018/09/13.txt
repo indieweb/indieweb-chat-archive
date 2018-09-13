@@ -1,0 +1,1 @@
+2018-09-13 01:52:52.376900 {"type":"join","timestamp":1536803572.3769,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"miruoy","nickname":"miruoy","username":"~miruoy","name":"miruoy","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
