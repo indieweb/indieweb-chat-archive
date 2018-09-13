@@ -5770,6 +5770,26 @@
         ],
         "properties": {
             "name": [
+                "spugachev"
+            ],
+            "nickname": [
+                "spugachev"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://sarah-pugachev.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "stefp_sn"
             ],
             "nickname": [
