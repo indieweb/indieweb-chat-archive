@@ -1,0 +1,1 @@
+2018-09-14 03:35:07.269800 {"type":"join","timestamp":1536896107.2698,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Sigyn","nickname":"Sigyn","username":"sigyn","name":"#freenode-sigyn for details","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
