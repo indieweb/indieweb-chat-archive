@@ -1,0 +1,1 @@
+2018-09-15 00:19:11.943900 {"type":"join","timestamp":1536970751.9439,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[manton]","nickname":"[manton]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
