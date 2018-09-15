@@ -1,0 +1,1 @@
+2018-09-15 00:04:42.375500 {"type":"join","timestamp":1536969882.3755,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"ShadowHa1esYou","nickname":"ShadowHa1esYou","username":"~ShadowHa1","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
