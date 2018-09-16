@@ -1,0 +1,1 @@
+2018-09-16 00:08:19.274700 {"type":"join","timestamp":1537056499.2747,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"DzAirmaX25","nickname":"DzAirmaX25","username":"~DzAirmaX","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
