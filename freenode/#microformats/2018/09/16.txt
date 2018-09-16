@@ -1,0 +1,1 @@
+2018-09-16 01:27:08.059600 {"type":"join","timestamp":1537061228.0596,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"zsmithnyc10","nickname":"zsmithnyc10","username":"~zsmithnyc","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
