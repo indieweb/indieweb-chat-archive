@@ -6433,6 +6433,29 @@
         ],
         "properties": {
             "name": [
+                "vilhalmer"
+            ],
+            "nickname": [
+                "vilhalmer"
+            ],
+            "tz": [
+                "America/Detroit"
+            ],
+            "url": [
+                "http://vil.lv"
+            ],
+            "photo": [
+                "https://vil.lv/avatar.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "vishae"
             ],
             "nickname": [
