@@ -1,0 +1,1 @@
+2018-09-17 02:20:09.938100 {"type":"join","timestamp":1537150809.9381,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vasilakisfil_","nickname":"vasilakisfil_","username":"~vasilakisfil","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
