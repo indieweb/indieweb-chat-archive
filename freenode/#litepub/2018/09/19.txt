@@ -1,0 +1,1 @@
+2018-09-19 02:18:55.848200 {"type":"join","timestamp":1537323535.8482,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Dev91","nickname":"Dev91","username":"~quassel","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
