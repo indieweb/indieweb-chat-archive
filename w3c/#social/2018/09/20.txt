@@ -1,0 +1,1 @@
+2018-09-20 01:59:34.051200 {"type":"leave","timestamp":1537408774.0512,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"fiatjaf","nickname":"fiatjaf","username":"~fiatjaf","name":"~","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
