@@ -1,0 +1,1 @@
+2018-09-22 03:16:19.349900 {"type":"join","timestamp":1537586179.3499,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jdormit_mobile","nickname":"jdormit_mobile","username":"~jdormit_mobile","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
