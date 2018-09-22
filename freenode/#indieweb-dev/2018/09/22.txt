@@ -1,0 +1,1 @@
+2018-09-22 00:59:09.971900 {"type":"join","timestamp":1537577949.9719,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"minikdo21","nickname":"minikdo21","username":"~minikdo","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
