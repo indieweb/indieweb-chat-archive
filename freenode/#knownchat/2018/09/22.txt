@@ -1,0 +1,1 @@
+2018-09-22 00:04:01.353200 {"type":"join","timestamp":1537574641.3532,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"patriciadomin20","nickname":"patriciadomin20","username":"~patriciad","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}

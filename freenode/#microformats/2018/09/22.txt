@@ -1,0 +1,1 @@
+2018-09-22 00:14:55.319800 {"type":"join","timestamp":1537575295.3198,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"hattkunskapz22","nickname":"hattkunskapz22","username":"~hattkunsk","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
