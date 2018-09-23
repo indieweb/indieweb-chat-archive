@@ -1,0 +1,1 @@
+2018-09-23 01:39:30.982700 {"type":"join","timestamp":1537666770.9827,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Zegnat","nickname":"Zegnat","username":"~Martijn","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
