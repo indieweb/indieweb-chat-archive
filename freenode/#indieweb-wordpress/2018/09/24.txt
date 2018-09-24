@@ -1,0 +1,1 @@
+2018-09-24 00:25:48.433900 {"type":"join","timestamp":1537748748.4339,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"sonne_","nickname":"sonne_","username":"~sonne_","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
