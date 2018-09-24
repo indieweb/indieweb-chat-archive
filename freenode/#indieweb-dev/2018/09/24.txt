@@ -1,0 +1,1 @@
+2018-09-24 00:40:37.827900 {"type":"join","timestamp":1537749637.8279,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"puddingpimp8","nickname":"puddingpimp8","username":"~puddingpi","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
