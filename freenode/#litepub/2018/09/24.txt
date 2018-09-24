@@ -1,0 +1,1 @@
+2018-09-24 07:22:45.376100 {"type":"join","timestamp":1537773765.3761,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"dashie","nickname":"dashie","username":"~someotter","name":"dashie der otter","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
