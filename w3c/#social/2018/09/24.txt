@@ -1,0 +1,1 @@
+2018-09-24 01:45:01.199400 {"type":"join","timestamp":1537753501.1994,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"sascha[m]","nickname":"sascha[m]","username":"~saschacybr","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
