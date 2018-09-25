@@ -1,0 +1,1 @@
+2018-09-25 00:25:03.916800 {"type":"join","timestamp":1537835103.9168,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"iasai","nickname":"iasai","username":"~iasai","name":"iasai","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
