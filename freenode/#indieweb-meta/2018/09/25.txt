@@ -1,0 +1,1 @@
+2018-09-25 00:06:53.585300 {"type":"join","timestamp":1537834013.5853,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"Sigma0016","nickname":"Sigma0016","username":"~Sigma00","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
