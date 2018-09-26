@@ -1,0 +1,1 @@
+2018-09-26 00:00:00.583500 {"type":"message","timestamp":1537920000.5835,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[asuh]","nickname":"[asuh]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":"that\u2019s what I was hoping to hear","modes":["voice"]}
