@@ -2795,6 +2795,29 @@
         ],
         "properties": {
             "name": [
+                "jacky"
+            ],
+            "nickname": [
+                "jacky"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://jacky.wtf"
+            ],
+            "photo": [
+                "https://jacky.wtf/assets/favicon/apple-touch-icon-2920754d510f96188bfd41ca877ed8f7099fa66c578b75e663646394bba4599f.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jalcine"
             ],
             "nickname": [
