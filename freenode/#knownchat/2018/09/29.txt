@@ -1,0 +1,1 @@
+2018-09-29 00:03:38.995600 {"type":"join","timestamp":1538179418.9956,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[kevinmarks]","nickname":"[kevinmarks]","username":"~slackuser","name":null,"photo":"http:\/\/www.kevinmarks.com\/km.jpg","url":"http:\/\/kevinmarks.com","tz":"Europe\/London"},"content":null,"modes":[]}
