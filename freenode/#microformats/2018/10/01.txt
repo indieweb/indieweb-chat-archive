@@ -1,0 +1,1 @@
+2018-10-01 02:23:20.408100 {"type":"join","timestamp":1538360600.4081,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
