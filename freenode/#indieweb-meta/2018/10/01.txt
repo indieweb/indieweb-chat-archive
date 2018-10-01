@@ -1,0 +1,1 @@
+2018-10-01 00:28:35.755900 {"type":"join","timestamp":1538353715.7559,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"benwerd","nickname":"benwerd","username":"~benwerd","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
