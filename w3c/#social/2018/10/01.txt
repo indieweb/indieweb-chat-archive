@@ -1,0 +1,1 @@
+2018-10-01 18:43:39.351900 {"type":"join","timestamp":1538419419.3519,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"nightpool","nickname":"nightpool","username":"~nightpool","name":"nightpool","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
