@@ -286,6 +286,26 @@
         ],
         "properties": {
             "name": [
+                "AngeloGladding"
+            ],
+            "nickname": [
+                "AngeloGladding"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://lahacker.net"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "asteres"
             ],
             "nickname": [
