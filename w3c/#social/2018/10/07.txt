@@ -1,0 +1,1 @@
+2018-10-07 06:25:07.470700 {"type":"join","timestamp":1538893507.4707,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"xmpp-social","nickname":"xmpp-social","username":"~xmpp-social","name":"xmpp-social","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
