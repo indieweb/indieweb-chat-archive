@@ -1,0 +1,1 @@
+2018-10-07 01:16:39.643900 {"type":"join","timestamp":1538874999.6439,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"BBNZ","nickname":"BBNZ","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}

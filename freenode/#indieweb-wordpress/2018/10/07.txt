@@ -1,0 +1,1 @@
+2018-10-07 01:16:39.622500 {"type":"join","timestamp":1538874999.6225,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"BBNZ","nickname":"BBNZ","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
