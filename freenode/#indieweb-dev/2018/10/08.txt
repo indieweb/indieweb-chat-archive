@@ -1,0 +1,1 @@
+2018-10-08 01:02:45.898300 {"type":"join","timestamp":1538960565.8983,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"dougbeal|mb1","nickname":"dougbeal|mb1","username":"~dougbeal","name":null,"photo":null,"url":null,"tz":null,"host":"174-21-132-180.tukw.qwest.net"},"content":null,"modes":[]}
