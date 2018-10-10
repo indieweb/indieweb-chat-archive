@@ -1,0 +1,1 @@
+2018-10-10 00:40:46.232300 {"type":"join","timestamp":1539132046.2323,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ahihi2","nickname":"ahihi2","username":"~ahihi","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
