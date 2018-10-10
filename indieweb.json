@@ -1006,6 +1006,29 @@
         ],
         "properties": {
             "name": [
+                "chrisburnell"
+            ],
+            "nickname": [
+                "chrisburnell"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://chrisburnell.com"
+            ],
+            "photo": [
+                "https://chrisburnell.com/images/avatar.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "chrischerrett"
             ],
             "nickname": [
