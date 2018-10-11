@@ -6419,6 +6419,29 @@
         ],
         "properties": {
             "name": [
+                "tonz"
+            ],
+            "nickname": [
+                "tonz"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://www.zylstra.org_blog"
+            ],
+            "photo": [
+                "https://www.zylstra.org/wp/wp-content/uploads/2012/03/AntonZijlstra_TheGreenLand-150x150.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tpinto"
             ],
             "nickname": [
