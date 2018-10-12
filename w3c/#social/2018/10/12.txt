@@ -1,0 +1,1 @@
+2018-10-12 02:43:22.164700 {"type":"join","timestamp":1539312202.1647,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"DenSchub_","nickname":"DenSchub_","username":"~DenSchub","name":null,"photo":null,"url":null,"tz":null},"content":null,"modes":[]}
