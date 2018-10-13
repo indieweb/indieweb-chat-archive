@@ -1,0 +1,1 @@
+2018-10-13 11:05:42.021600 {"type":"join","timestamp":1539428742.0216,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"kaniini","nickname":"kaniini","username":"~kaniini","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1700:8660:6160:d92c:541b:b61c:9594"},"content":null,"modes":[]}
