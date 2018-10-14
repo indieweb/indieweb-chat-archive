@@ -1,0 +1,1 @@
+2018-10-14 04:43:34.063800 {"type":"join","timestamp":1539492214.0638,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~Adium","name":"Adium User","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
