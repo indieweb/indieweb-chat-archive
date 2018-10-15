@@ -1,0 +1,1 @@
+2018-10-15 04:58:54.211300 {"type":"join","timestamp":1539579534.2113,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rigelk","nickname":"rigelk","username":"~acentau","name":"Dom Rith","photo":null,"url":null,"tz":null},"content":null,"modes":[]}
