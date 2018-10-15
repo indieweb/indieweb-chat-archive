@@ -1390,6 +1390,26 @@
         ],
         "properties": {
             "name": [
+                "David Millar"
+            ],
+            "nickname": [
+                "David Millar"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://davegoesthedistance.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "davidpeach"
             ],
             "nickname": [
@@ -3666,6 +3686,29 @@
             ],
             "photo": [
                 "https://scripter.co/images/me.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "kiai"
+            ],
+            "nickname": [
+                "kiai"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://kiaikim.com"
+            ],
+            "photo": [
+                "https://www.kiaikim.com/file/8d28ec486f524174afaf95ed3f41ed35/thumb.jpg"
             ]
         },
         "lang": "en"
