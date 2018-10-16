@@ -1,0 +1,1 @@
+2018-10-16 01:28:25.504100 {"type":"message","timestamp":1539653305.5041,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null},"content":"cwebber2: Spritely looks interesting! I will be following it :)","modes":[]}
