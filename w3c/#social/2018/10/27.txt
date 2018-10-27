@@ -1,0 +1,1 @@
+2018-10-27 05:14:24.840400 {"type":"join","timestamp":1540617264.8404,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vasilakisfil_","nickname":"vasilakisfil_","username":"~vasilakisfil","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
