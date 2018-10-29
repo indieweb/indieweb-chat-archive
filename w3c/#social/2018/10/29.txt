@@ -1,0 +1,1 @@
+2018-10-29 05:40:51.312500 {"type":"join","timestamp":1540791651.3125,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ma1uta","nickname":"ma1uta","username":"~ma1uta","name":"ma1uta","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
