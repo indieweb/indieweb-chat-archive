@@ -1456,6 +1456,26 @@
         ],
         "properties": {
             "name": [
+                "dckc"
+            ],
+            "nickname": [
+                "dckc"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://www.madmode.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "deathrow1"
             ],
             "nickname": [
