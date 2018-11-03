@@ -1,0 +1,1 @@
+2018-11-03 03:05:18.051200 {"type":"join","timestamp":1541214318.0512,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[dave]","nickname":"[dave]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
