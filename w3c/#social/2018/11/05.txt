@@ -1,0 +1,1 @@
+2018-11-05 01:27:48.413900 {"type":"join","timestamp":1541381268.4139,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~Adium","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
