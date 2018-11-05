@@ -1,0 +1,1 @@
+2018-11-05 00:05:59.396400 {"type":"join","timestamp":1541376359.3964,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[dave]","nickname":"[dave]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
