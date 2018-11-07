@@ -1,0 +1,1 @@
+2018-11-07 00:31:11.432300 {"type":"join","timestamp":1541550671.4323,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Angle","nickname":"Angle","username":"~Angle","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
