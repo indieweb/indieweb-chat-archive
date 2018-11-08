@@ -1,0 +1,1 @@
+2018-11-08 00:19:03.177200 {"type":"join","timestamp":1541636343.1772,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":"Tim Berners-Lee","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
