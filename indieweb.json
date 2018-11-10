@@ -3650,6 +3650,26 @@
         ],
         "properties": {
             "name": [
+                "kisik21"
+            ],
+            "nickname": [
+                "kisik21"
+            ],
+            "tz": [
+                "Europe/Moscow"
+            ],
+            "url": [
+                "http://fireburn.ru"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Kaja"
             ],
             "nickname": [
