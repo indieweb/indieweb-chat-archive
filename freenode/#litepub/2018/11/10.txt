@@ -1,0 +1,1 @@
+2018-11-10 10:13:11.907200 {"type":"message","timestamp":1541844791.9072,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"kaniini","nickname":"kaniini","username":"~kaniini","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1700:8660:6160:c954:acd6:9bf8:b57c"},"content":"puck fix JSON-LD","modes":["voice"]}
