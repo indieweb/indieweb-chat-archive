@@ -1,0 +1,1 @@
+2018-11-14 00:12:43.332200 {"type":"join","timestamp":1542154363.3322,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"mblaney","nickname":"mblaney","username":"~mal","name":null,"photo":null,"url":null,"tz":null,"host":"sov2416190.lnk.telstra.net"},"content":null,"modes":[]}
