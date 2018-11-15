@@ -1390,6 +1390,26 @@
         ],
         "properties": {
             "name": [
+                "dave"
+            ],
+            "nickname": [
+                "dave"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://davegoesthedistance.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "David Millar"
             ],
             "nickname": [
@@ -6087,6 +6107,26 @@
             ],
             "photo": [
                 "https://realize.be/vue/images/swentel.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "Taco Dave"
+            ],
+            "nickname": [
+                "Taco Dave"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://davegoesthedistance.com"
             ]
         },
         "lang": "en"
