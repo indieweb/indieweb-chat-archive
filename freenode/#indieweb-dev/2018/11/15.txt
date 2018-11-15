@@ -1,0 +1,1 @@
+2018-11-15 00:14:47.055300 {"type":"join","timestamp":1542240887.0553,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[arush]","nickname":"[arush]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
