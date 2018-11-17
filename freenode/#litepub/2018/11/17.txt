@@ -1,0 +1,1 @@
+2018-11-17 17:56:35.272000 {"type":"message","timestamp":1542477395.272,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"kaniini","nickname":"kaniini","username":"~kaniini","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1700:8660:6160:5153:3f22:812c:fee8"},"content":"puck hi","modes":["voice"]}
