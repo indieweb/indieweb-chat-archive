@@ -1,0 +1,1 @@
+2018-11-19 01:46:41.383300 {"type":"join","timestamp":1542592001.3833,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"qyliss","nickname":"qyliss","username":"~qyliss","name":"bye","photo":null,"url":null,"tz":null,"host":"2001:ba8:1f1:f0bc::2"},"content":null,"modes":[]}
