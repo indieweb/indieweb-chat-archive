@@ -1,0 +1,1 @@
+2018-11-20 01:31:24.039000 {"type":"join","timestamp":1542677484.039,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Guest84","nickname":"Guest84","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
