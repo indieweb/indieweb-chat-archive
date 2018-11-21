@@ -1,0 +1,1 @@
+2018-11-21 00:11:52.017300 {"type":"join","timestamp":1542759112.0173,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"70.42.240.160"},"content":null,"modes":[]}
