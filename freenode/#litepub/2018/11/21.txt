@@ -1,0 +1,1 @@
+2018-11-21 05:29:24.634400 {"type":"join","timestamp":1542778164.6344,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"stephank","nickname":"stephank","username":"~stephank","name":"St\u00e9phan Kochen","photo":null,"url":null,"tz":null,"host":"unaffiliated\/stephank"},"content":null,"modes":[]}
