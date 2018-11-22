@@ -1,0 +1,1 @@
+2018-11-22 01:26:02.200100 {"type":"join","timestamp":1542849962.2001,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
