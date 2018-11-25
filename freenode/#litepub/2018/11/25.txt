@@ -1,0 +1,1 @@
+2018-11-25 07:03:52.668400 {"type":"join","timestamp":1543129432.6684,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"nonlinear","nickname":"nonlinear","username":"~nonlinear","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/discrttm"},"content":null,"modes":[]}
