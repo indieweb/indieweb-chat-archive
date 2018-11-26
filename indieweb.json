@@ -5836,6 +5836,29 @@
         ],
         "properties": {
             "name": [
+                "the_hoomanist"
+            ],
+            "nickname": [
+                "the_hoomanist"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://simonesalis.com"
+            ],
+            "photo": [
+                "https://hooman.ist/content/images/2018/10/Salis_avatar_focused_white.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "singpolyma"
             ],
             "nickname": [
