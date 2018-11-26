@@ -1069,6 +1069,29 @@
         ],
         "properties": {
             "name": [
+                "cjwillcock"
+            ],
+            "nickname": [
+                "cjwillcock"
+            ],
+            "tz": [
+                "America/Halifax"
+            ],
+            "url": [
+                "http://cjwillcock.ca"
+            ],
+            "photo": [
+                "https://cjwillcock.ca/wp-content/uploads/2018/06/epi-150x150.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cleverdevil"
             ],
             "nickname": [
@@ -1208,26 +1231,6 @@
             ],
             "url": [
                 "http://charles.stanho.pe"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "cjwillcock"
-            ],
-            "nickname": [
-                "cjwillcock"
-            ],
-            "tz": [
-                "America/Halifax"
-            ],
-            "url": [
-                "http://cjwillcock.ca"
             ]
         },
         "lang": "en"
