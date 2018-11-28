@@ -1,0 +1,1 @@
+2018-11-28 00:27:03.875400 {"type":"join","timestamp":1543364823.8754,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"mblaney","nickname":"mblaney","username":"~mal","name":null,"photo":null,"url":null,"tz":null,"host":"124-150-77-127.dyn.iinet.net.au"},"content":null,"modes":[]}
