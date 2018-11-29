@@ -1,0 +1,1 @@
+2018-11-29 02:37:53.692100 {"type":"join","timestamp":1543459073.6921,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vasilakisfil","nickname":"vasilakisfil","username":"~vasilakisfil","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
