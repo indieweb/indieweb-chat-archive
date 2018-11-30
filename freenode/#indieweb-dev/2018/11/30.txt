@@ -1,0 +1,1 @@
+2018-11-30 00:17:43.032400 {"type":"join","timestamp":1543537063.0324,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"jgmac1106","nickname":"jgmac1106","username":"~jgmac1106","name":null,"photo":null,"url":null,"tz":null,"host":"c-76-23-134-228.hsd1.ct.comcast.net"},"content":null,"modes":[]}
