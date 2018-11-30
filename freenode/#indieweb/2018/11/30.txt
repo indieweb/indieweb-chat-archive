@@ -1,0 +1,1 @@
+2018-11-30 00:12:40.339000 {"type":"join","timestamp":1543536760.339,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"XgF","nickname":"XgF","username":"~quassel","name":null,"photo":null,"url":"http:\/\/owenshepherd.net","tz":"Europe\/London","host":"magi1.paris.fr.node.e43.eu"},"content":null,"modes":[]}
