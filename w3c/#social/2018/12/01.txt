@@ -1,0 +1,1 @@
+2018-12-01 01:16:58.228400 {"type":"join","timestamp":1543627018.2284,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"sknebel","nickname":"sknebel","username":"~quassel","name":"sknebel","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
