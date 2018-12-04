@@ -1,0 +1,1 @@
+2018-12-04 00:08:15.118500 {"type":"join","timestamp":1543882095.1185,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/martymcgui.re","tz":"America\/New_York","host":"chat.indieweb.org"},"content":null,"modes":[]}
