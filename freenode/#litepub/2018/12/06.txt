@@ -1,0 +1,1 @@
+2018-12-06 00:39:27.189300 {"type":"join","timestamp":1544056767.1893,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"fiatjaf","nickname":"fiatjaf","username":"~fiatjaf","name":null,"photo":null,"url":null,"tz":null,"host":"162.243.220.95"},"content":null,"modes":[]}
