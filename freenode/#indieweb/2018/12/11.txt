@@ -1,0 +1,1 @@
+2018-12-11 00:09:40.434900 {"type":"join","timestamp":1544486980.4349,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"todrobbins","nickname":"todrobbins","username":"~todrobbin","name":null,"photo":null,"url":null,"tz":null,"host":"205.118.69.211"},"content":null,"modes":[]}
