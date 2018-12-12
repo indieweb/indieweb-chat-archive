@@ -1,0 +1,1 @@
+2018-12-12 03:57:11.429200 {"type":"join","timestamp":1544587031.4292,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ersatzpony","nickname":"ersatzpony","username":"~pony","name":null,"photo":null,"url":null,"tz":null,"host":"valas.bahnhof.cz"},"content":null,"modes":[]}
