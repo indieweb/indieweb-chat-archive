@@ -1,0 +1,1 @@
+2018-12-13 01:37:22.277700 {"type":"join","timestamp":1544665042.2777,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"fun360","nickname":"fun360","username":"~fun360","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
