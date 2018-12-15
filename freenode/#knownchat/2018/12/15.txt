@@ -1,0 +1,1 @@
+2018-12-15 00:21:31.886600 {"type":"join","timestamp":1544833291.8866,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[chrisaldrich]","nickname":"[chrisaldrich]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
