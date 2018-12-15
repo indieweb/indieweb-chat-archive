@@ -326,6 +326,29 @@
         ],
         "properties": {
             "name": [
+                "asuh"
+            ],
+            "nickname": [
+                "asuh"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://asuh.com"
+            ],
+            "photo": [
+                "https://asuh.com/images/asuh581x583.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "aquarius"
             ],
             "nickname": [
