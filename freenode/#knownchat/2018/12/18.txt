@@ -1,0 +1,1 @@
+2018-12-18 00:04:54.906200 {"type":"join","timestamp":1545091494.9062,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[manton]","nickname":"[manton]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
