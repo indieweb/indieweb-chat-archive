@@ -1,0 +1,1 @@
+2018-12-19 15:22:53.879900 {"type":"join","timestamp":1545232973.8799,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"sentriz","nickname":"sentriz","username":"~sentriz","name":"Senan","photo":null,"url":null,"tz":null,"host":"unaffiliated\/sentriz"},"content":null,"modes":[]}
