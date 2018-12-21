@@ -1,0 +1,1 @@
+2018-12-21 06:52:52.562100 {"type":"join","timestamp":1545375172.5621,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ichoquo0Aigh9ie","nickname":"ichoquo0Aigh9ie","username":"~ichoquo0A","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/webjadmin"},"content":null,"modes":[]}
