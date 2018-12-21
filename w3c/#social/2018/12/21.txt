@@ -1,0 +1,1 @@
+2018-12-21 00:10:43.448700 {"type":"join","timestamp":1545351043.4487,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"aaronpk","nickname":"aaronpk","username":"~aaronpk","name":"aaronpk","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
