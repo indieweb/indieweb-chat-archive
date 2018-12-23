@@ -1,0 +1,1 @@
+2018-12-23 02:44:51.484400 {"type":"join","timestamp":1545533091.4844,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan","nickname":"ajordan","username":"~ajordan","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
