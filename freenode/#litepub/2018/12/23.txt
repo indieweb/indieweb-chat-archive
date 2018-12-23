@@ -1,0 +1,1 @@
+2018-12-23 00:05:02.217400 {"type":"join","timestamp":1545523502.2174,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"dotdotdot","nickname":"dotdotdot","username":"dotdotdot","name":null,"photo":null,"url":null,"tz":null,"host":"85-171-78-203.rev.numericable.fr"},"content":null,"modes":[]}
