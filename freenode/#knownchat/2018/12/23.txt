@@ -1,0 +1,1 @@
+2018-12-23 06:27:27.751900 {"type":"join","timestamp":1545546447.7519,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"mitologi","nickname":"mitologi","username":"~Roben","name":null,"photo":null,"url":null,"tz":null,"host":"49.124.3.213"},"content":null,"modes":[]}
