@@ -1,0 +1,1 @@
+2018-12-24 00:01:35.756100 {"type":"join","timestamp":1545609695.7561,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"jgmac1106","nickname":"jgmac1106","username":"~mcverryj1","name":null,"photo":null,"url":null,"tz":null,"host":"c-76-23-134-228.hsd1.ct.comcast.net"},"content":null,"modes":[]}
