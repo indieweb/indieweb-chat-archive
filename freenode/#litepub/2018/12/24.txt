@@ -1,0 +1,1 @@
+2018-12-24 12:37:24.756800 {"type":"join","timestamp":1545655044.7568,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"succfemboi","nickname":"succfemboi","username":"~patently","name":null,"photo":null,"url":null,"tz":null,"host":"dslb-178-003-163-253.178.003.pools.vodafone-ip.de"},"content":null,"modes":[]}
