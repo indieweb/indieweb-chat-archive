@@ -1,0 +1,1 @@
+2018-12-26 00:29:11.123000 {"type":"join","timestamp":1545784151.123,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"iasai","nickname":"iasai","username":"~iasai","name":"iasai","photo":null,"url":null,"tz":null,"host":"net-2-42-30-171.cust.vodafonedsl.it"},"content":null,"modes":[]}
