@@ -885,6 +885,26 @@
         ],
         "properties": {
             "name": [
+                "TabAtkins"
+            ],
+            "nickname": [
+                "TabAtkins"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/IRC-people"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tantek"
             ],
             "nickname": [
