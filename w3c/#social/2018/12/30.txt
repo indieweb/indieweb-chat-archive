@@ -1,0 +1,1 @@
+2018-12-30 02:32:47.822100 {"type":"join","timestamp":1546137167.8221,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"StarJammer","nickname":"StarJammer","username":"~AngelMiguel","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
