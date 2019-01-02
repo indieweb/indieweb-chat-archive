@@ -1,0 +1,1 @@
+2019-01-02 11:11:15.740000 {"type":"join","timestamp":1546427475.74,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ben_thatmustbeme","nickname":"ben_thatmustbeme","username":"~quassel","name":"Ben Roberts","photo":null,"url":null,"tz":null,"host":"c-76-118-213-88.hsd1.ma.comcast.net"},"content":null,"modes":[]}
