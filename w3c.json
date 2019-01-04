@@ -1085,6 +1085,26 @@
         ],
         "properties": {
             "name": [
+                "xfq"
+            ],
+            "nickname": [
+                "xfq"
+            ],
+            "tz": [
+                "Asia/Shanghai"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/IRC-people"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Zakim"
             ],
             "nickname": [
