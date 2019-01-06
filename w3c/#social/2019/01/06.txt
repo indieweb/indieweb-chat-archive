@@ -1,0 +1,1 @@
+2019-01-06 00:33:26.222800 {"type":"message","timestamp":1546734806.2228,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"nightpool[m]","nickname":"nightpool[m]","username":"~nightpoolc","name":"@nightpool:cybre.space","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"huh?","modes":[]}
