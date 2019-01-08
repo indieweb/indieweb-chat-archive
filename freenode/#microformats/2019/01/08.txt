@@ -1,0 +1,1 @@
+2019-01-08 00:25:07.214600 {"type":"join","timestamp":1546907107.2146,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"nitot","nickname":"nitot","username":"~nitot","name":"Tristan Nitot","photo":null,"url":null,"tz":null,"host":"2a01:e35:8bfa:a0c0:1c4d:e364:3aff:cc4f"},"content":null,"modes":[]}
