@@ -1,0 +1,1 @@
+2019-01-08 23:35:58.017200 {"type":"join","timestamp":1546990558.0172,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"marm","nickname":"marm","username":"~marm","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/marm"},"content":null,"modes":[]}
