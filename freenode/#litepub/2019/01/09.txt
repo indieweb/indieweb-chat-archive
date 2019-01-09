@@ -1,0 +1,1 @@
+2019-01-09 04:54:06.992200 {"type":"join","timestamp":1547009646.9922,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"sroracle","nickname":"sroracle","username":"~sroracle","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/sroracle"},"content":null,"modes":[]}
