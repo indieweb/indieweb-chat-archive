@@ -4482,6 +4482,26 @@
         ],
         "properties": {
             "name": [
+                "mickael"
+            ],
+            "nickname": [
+                "mickael"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://remond.im"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "miklb"
             ],
             "nickname": [
