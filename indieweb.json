@@ -6591,6 +6591,29 @@
         ],
         "properties": {
             "name": [
+                "todrobbins"
+            ],
+            "nickname": [
+                "todrobbins"
+            ],
+            "tz": [
+                "America/Denver"
+            ],
+            "url": [
+                "http://todrobbins.com"
+            ],
+            "photo": [
+                "https://todrobbins.com/images/tod-small.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tommorris"
             ],
             "nickname": [
