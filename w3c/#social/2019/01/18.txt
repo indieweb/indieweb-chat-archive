@@ -1,0 +1,1 @@
+2019-01-18 03:14:28.588100 {"type":"message","timestamp":1547781268.5881,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"heluecht[m]: I look forward to it :)","modes":[]}
