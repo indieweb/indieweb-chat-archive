@@ -6809,6 +6809,29 @@
         ],
         "properties": {
             "name": [
+                "voss"
+            ],
+            "nickname": [
+                "voss"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://blog.voss.co"
+            ],
+            "photo": [
+                "https://blog.voss.co/file/bb88afea7bb0cbecd09a029bf415754e/thumb.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "voxpelli"
             ],
             "nickname": [
