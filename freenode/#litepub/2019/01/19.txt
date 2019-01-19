@@ -1,0 +1,1 @@
+2019-01-19 19:50:31.729900 {"type":"join","timestamp":1547927431.7299,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"82-64-66-195.subs.proxad.net"},"content":null,"modes":[]}
