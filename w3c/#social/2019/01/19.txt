@@ -1,0 +1,1 @@
+2019-01-19 03:51:41.336600 {"type":"join","timestamp":1547869901.3366,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"raucao","nickname":"raucao","username":"~raucao","name":"Sebastian Kippe","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
