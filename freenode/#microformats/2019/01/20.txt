@@ -1,0 +1,1 @@
+2019-01-20 00:17:32.413600 {"type":"join","timestamp":1547943452.4136,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"jamestmartin","nickname":"jamestmartin","username":"~james","name":null,"photo":null,"url":null,"tz":null,"host":"qipl.org"},"content":null,"modes":[]}
