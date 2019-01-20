@@ -1,0 +1,1 @@
+2019-01-20 00:02:09.589200 {"type":"join","timestamp":1547942529.5892,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"rinpatch","nickname":"rinpatch","username":"~rinpatch","name":null,"photo":null,"url":null,"tz":null,"host":"51.15.51.229"},"content":null,"modes":[]}
