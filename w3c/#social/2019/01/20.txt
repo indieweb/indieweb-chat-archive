@@ -1,0 +1,1 @@
+2019-01-20 03:35:48.657700 {"type":"join","timestamp":1547955348.6577,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"er1n","nickname":"er1n","username":"~erin","name":"erin","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
