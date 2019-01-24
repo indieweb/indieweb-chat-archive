@@ -1,0 +1,1 @@
+2019-01-24 00:22:18.840600 {"type":"join","timestamp":1548289338.8406,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"friedcell","nickname":"friedcell","username":"~Adium","name":"Adium User","photo":null,"url":null,"tz":null,"host":"BSN-77-104-2.static.siol.net"},"content":null,"modes":[]}
