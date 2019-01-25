@@ -1,0 +1,1 @@
+2019-01-25 00:21:31.425000 {"type":"join","timestamp":1548375691.425,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[kim_landwehr]","nickname":"[kim_landwehr]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
