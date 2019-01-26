@@ -1,0 +1,1 @@
+2019-01-26 02:18:26.271300 {"type":"join","timestamp":1548469106.2713,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"DenSchub_","nickname":"DenSchub_","username":"~DenSchub","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
