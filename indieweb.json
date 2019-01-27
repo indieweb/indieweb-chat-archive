@@ -1628,6 +1628,29 @@
         ],
         "properties": {
             "name": [
+                "dustyweb"
+            ],
+            "nickname": [
+                "dustyweb"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://https://dustycloud.org"
+            ],
+            "photo": [
+                "https://dustycloud.org/gfx/goodies/racktris-terminal-avatar.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "deeden"
             ],
             "nickname": [
