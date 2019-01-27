@@ -1734,6 +1734,29 @@
         ],
         "properties": {
             "name": [
+                "djmoch"
+            ],
+            "nickname": [
+                "djmoch"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://danielmoch.com"
+            ],
+            "photo": [
+                "https://danielmoch.com/assets/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "donblanco"
             ],
             "nickname": [
