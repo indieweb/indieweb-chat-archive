@@ -1,0 +1,1 @@
+2019-01-28 00:03:50.013700 {"type":"join","timestamp":1548633830.0137,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"ed-e","nickname":"ed-e","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}

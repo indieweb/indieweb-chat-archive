@@ -1,0 +1,1 @@
+2019-01-28 00:03:50.000200 {"type":"join","timestamp":1548633830.0002,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"ed-e","nickname":"ed-e","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
