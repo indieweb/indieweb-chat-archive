@@ -1,0 +1,1 @@
+2019-01-30 00:49:36.381800 {"type":"join","timestamp":1548809376.3818,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
