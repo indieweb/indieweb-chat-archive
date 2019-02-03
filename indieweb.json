@@ -4548,6 +4548,29 @@
         ],
         "properties": {
             "name": [
+                "Mikaela"
+            ],
+            "nickname": [
+                "Mikaela"
+            ],
+            "tz": [
+                "Europe/Helsinki"
+            ],
+            "url": [
+                "http://mikaela.info"
+            ],
+            "photo": [
+                "https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/master/avatar.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "miklb"
             ],
             "nickname": [
