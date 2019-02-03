@@ -1,0 +1,1 @@
+2019-02-03 04:01:47.022100 {"type":"join","timestamp":1549166507.0221,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"DenSchub","nickname":"DenSchub","username":"~DenSchub","name":null,"photo":null,"url":null,"tz":null,"host":"telegraph.0b101010.org"},"content":null,"modes":[]}
