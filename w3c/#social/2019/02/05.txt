@@ -1,0 +1,1 @@
+2019-02-05 00:15:59.279000 {"type":"join","timestamp":1549325759.279,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"distopico","nickname":"distopico","username":"~cerdolibre","name":"Distopico Vegan","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
