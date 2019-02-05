@@ -1,0 +1,1 @@
+2019-02-05 00:07:09.184800 {"type":"join","timestamp":1549325229.1848,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"guest-nat.fw1.untrust.mtv2.mozilla.net"},"content":null,"modes":[]}
