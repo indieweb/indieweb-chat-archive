@@ -4181,6 +4181,29 @@
         ],
         "properties": {
             "name": [
+                "manton"
+            ],
+            "nickname": [
+                "manton"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://Manton.org"
+            ],
+            "photo": [
+                "https://micro.blog/manton/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "MarcLaporte"
             ],
             "nickname": [
