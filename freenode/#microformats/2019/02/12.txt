@@ -1,0 +1,1 @@
+2019-02-12 00:09:14.726900 {"type":"join","timestamp":1549930154.7269,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[adam]","nickname":"[adam]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
