@@ -1,0 +1,1 @@
+2019-02-15 00:07:02.385100 {"type":"join","timestamp":1550189222.3851,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"DenSchub","nickname":"DenSchub","username":"~DenSchub","name":null,"photo":null,"url":null,"tz":null,"host":"telegraph.0b101010.org"},"content":null,"modes":[]}
