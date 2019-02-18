@@ -438,6 +438,29 @@
         ],
         "properties": {
             "name": [
+                "beacrea"
+            ],
+            "nickname": [
+                "beacrea"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://Coty.design"
+            ],
+            "photo": [
+                "https://pbs.twimg.com/profile_images/1056694280775847936/XZ10lG-d_400x400.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bear"
             ],
             "nickname": [
