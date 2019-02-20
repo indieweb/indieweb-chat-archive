@@ -7370,5 +7370,28 @@
             ]
         },
         "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "cowglow"
+            ],
+            "nickname": [
+                "cowglow"
+            ],
+            "tz": [
+                "Europe/N\u00fcrnberg"
+            ],
+            "url": [
+                "http://cowglow.com"
+            ],
+            "photo": [
+                "https://indieweb.org/images/8/85/psaa.png"
+            ]
+        },
+        "lang": "en"
     }
 ]
