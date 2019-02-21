@@ -5,6 +5,29 @@
         ],
         "properties": {
             "name": [
+                "dmcweeney"
+            ],
+            "nickname": [
+                "dmcweeney"
+            ],
+            "tz": [
+                "USA/Connecticut"
+            ],
+            "url": [
+                "http://Drewmcweeney.com"
+            ],
+            "photo": [
+                "http://drewmcweeney.com/wp-content/uploads/2018/12/Drexel-University-Concert.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "__number5__"
             ],
             "nickname": [
