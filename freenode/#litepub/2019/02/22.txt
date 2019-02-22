@@ -1,0 +1,1 @@
+2019-02-22 16:38:38.845000 {"type":"join","timestamp":1550853518.845,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"opal","nickname":"opal","username":"~wowaname","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/tor-sasl\/opal"},"content":null,"modes":[]}
