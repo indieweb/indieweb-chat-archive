@@ -1,0 +1,1 @@
+2019-02-22 00:16:15.317400 {"type":"join","timestamp":1550794575.3174,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"ajft","nickname":"ajft","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
