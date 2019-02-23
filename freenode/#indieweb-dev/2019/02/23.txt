@@ -1,0 +1,1 @@
+2019-02-23 00:07:01.239300 {"type":"join","timestamp":1550880421.2393,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"sfoster__","nickname":"sfoster__","username":"sid35","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/web\/mozilla\/x-ozqyybbhlwpiyrdn"},"content":null,"modes":[]}
