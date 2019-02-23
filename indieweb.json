@@ -1270,6 +1270,26 @@
         ],
         "properties": {
             "name": [
+                "corntoole"
+            ],
+            "nickname": [
+                "corntoole"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://corntoole.micro.blog"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cowglow"
             ],
             "nickname": [
