@@ -5555,6 +5555,29 @@
         ],
         "properties": {
             "name": [
+                "rayna"
+            ],
+            "nickname": [
+                "rayna"
+            ],
+            "tz": [
+                "US/Centnral"
+            ],
+            "url": [
+                "http://http://www.raynamharris.com/"
+            ],
+            "photo": [
+                "https://avatars2.githubusercontent.com/u/7544197?v=4"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "reedstrm"
             ],
             "nickname": [
