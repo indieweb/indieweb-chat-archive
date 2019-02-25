@@ -1,0 +1,1 @@
+2019-02-25 03:25:37.090000 {"type":"join","timestamp":1551065137.09,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"RX14","nickname":"RX14","username":"~RX14","name":null,"photo":null,"url":null,"tz":null,"host":"iscute.moe"},"content":null,"modes":[]}
