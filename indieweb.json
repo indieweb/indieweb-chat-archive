@@ -2440,6 +2440,29 @@
         ],
         "properties": {
             "name": [
+                "frank"
+            ],
+            "nickname": [
+                "frank"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://Diggingthedigital.com"
+            ],
+            "photo": [
+                "https://secure.gravatar.com/avatar/ae0d61ecec9ba68060523144917aed32"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "funwhilelost"
             ],
             "nickname": [
