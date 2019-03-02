@@ -1,0 +1,1 @@
+2019-03-02 04:37:00.602900 {"type":"join","timestamp":1551501420.6029,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"englishm","nickname":"englishm","username":"~englishm","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
