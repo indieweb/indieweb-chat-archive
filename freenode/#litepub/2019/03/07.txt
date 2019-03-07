@@ -1,0 +1,1 @@
+2019-03-07 04:53:36.015000 {"type":"join","timestamp":1551934416.015,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"fr33domlover","nickname":"fr33domlover","username":"~fr33domlo","name":"fr33domlover","photo":null,"url":null,"tz":null,"host":"fsf\/member\/fr33domlover"},"content":null,"modes":[]}
