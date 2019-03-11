@@ -1,0 +1,1 @@
+2019-03-11 05:05:10.203100 {"type":"join","timestamp":1552280710.2031,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Guest84","nickname":"Guest84","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
