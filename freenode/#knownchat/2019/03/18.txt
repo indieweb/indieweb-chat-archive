@@ -1,0 +1,1 @@
+2019-03-18 04:19:01.464200 {"type":"join","timestamp":1552882741.4642,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"aidil","nickname":"aidil","username":"~aidil","name":null,"photo":null,"url":null,"tz":null,"host":"114.125.245.31"},"content":null,"modes":[]}
