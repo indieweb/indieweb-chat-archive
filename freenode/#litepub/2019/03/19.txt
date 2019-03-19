@@ -1,0 +1,1 @@
+2019-03-19 00:38:47.654100 {"type":"join","timestamp":1552955927.6541,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Chris[m]","nickname":"Chris[m]","username":"brainbla1","name":"@brainblasted:disroot.org","photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-phepqcjvtlfzawqx"},"content":null,"modes":[]}
