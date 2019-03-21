@@ -5,29 +5,6 @@
         ],
         "properties": {
             "name": [
-                "dmcweeney"
-            ],
-            "nickname": [
-                "dmcweeney"
-            ],
-            "tz": [
-                "USA/Connecticut"
-            ],
-            "url": [
-                "http://Drewmcweeney.com"
-            ],
-            "photo": [
-                "http://drewmcweeney.com/wp-content/uploads/2018/12/Drexel-University-Concert.jpg"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "__number5__"
             ],
             "nickname": [
@@ -1624,6 +1601,29 @@
             ],
             "photo": [
                 "https://joelpurra.com/image/joel-purra-512x768.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "dmcweeney"
+            ],
+            "nickname": [
+                "dmcweeney"
+            ],
+            "tz": [
+                "USA/Connecticut"
+            ],
+            "url": [
+                "http://Drewmcweeney.com"
+            ],
+            "photo": [
+                "http://drewmcweeney.com/wp-content/uploads/2018/12/Drexel-University-Concert.jpg"
             ]
         },
         "lang": "en"
@@ -3778,6 +3778,29 @@
             ],
             "photo": [
                 "https://keithjgrant.com/images/keithjgrant.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "kenbauer"
+            ],
+            "nickname": [
+                "kenbauer"
+            ],
+            "tz": [
+                "America/Monterrey"
+            ],
+            "url": [
+                "http://Known.kenbauer.me"
+            ],
+            "photo": [
+                "https://known.kenbauer.me/file/6a22b028aa281abe7350c1f0d2288925/thumb.png"
             ]
         },
         "lang": "en"
