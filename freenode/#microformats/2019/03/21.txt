@@ -1,0 +1,1 @@
+2019-03-21 00:44:23.659400 {"type":"join","timestamp":1553129063.6594,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[kimberlyhirsh]","nickname":"[kimberlyhirsh]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
