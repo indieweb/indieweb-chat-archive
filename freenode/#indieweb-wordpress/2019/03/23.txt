@@ -1,0 +1,1 @@
+2019-03-23 01:02:09.567200 {"type":"join","timestamp":1553302929.5672,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[kimberlyhirsh]","nickname":"[kimberlyhirsh]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
