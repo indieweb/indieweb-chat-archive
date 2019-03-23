@@ -1,0 +1,1 @@
+2019-03-23 00:03:55.236300 {"type":"message","timestamp":1553299435.2363,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"hows it going cjslep[m] ?","modes":[]}
