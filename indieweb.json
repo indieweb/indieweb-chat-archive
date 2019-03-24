@@ -3128,6 +3128,29 @@
         ],
         "properties": {
             "name": [
+                "jamietanna"
+            ],
+            "nickname": [
+                "jamietanna"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://www.jvt.me"
+            ],
+            "photo": [
+                "https://www.jvt.me/img/profile.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jden"
             ],
             "nickname": [
@@ -7525,29 +7548,6 @@
             ],
             "url": [
                 "http://Traviswellman.com"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "Sadike25"
-            ],
-            "nickname": [
-                "Sadike25"
-            ],
-            "tz": [
-                "Africa/Accra"
-            ],
-            "url": [
-                "http://sadik.goifnetwork.org"
-            ],
-            "photo": [
-                "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghana_team_member_Wiki_Indaba_2017.jpg"
             ]
         },
         "lang": "en"
