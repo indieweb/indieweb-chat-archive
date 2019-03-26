@@ -1,0 +1,1 @@
+2019-03-26 01:22:16.388300 {"type":"join","timestamp":1553563336.3883,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[kimberlyhirsh]","nickname":"[kimberlyhirsh]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
