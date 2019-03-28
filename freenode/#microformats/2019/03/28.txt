@@ -1,0 +1,1 @@
+2019-03-28 00:05:52.266200 {"type":"join","timestamp":1553731552.2662,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":"jgmac1106 via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
