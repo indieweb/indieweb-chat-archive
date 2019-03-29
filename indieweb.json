@@ -2999,6 +2999,26 @@
         ],
         "properties": {
             "name": [
+                "ingoogni"
+            ],
+            "nickname": [
+                "ingoogni"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://ingoogni.nl"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "obra"
             ],
             "nickname": [
