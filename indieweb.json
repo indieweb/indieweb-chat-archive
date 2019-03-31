@@ -4032,6 +4032,29 @@
         ],
         "properties": {
             "name": [
+                "kimberlyhirsh"
+            ],
+            "nickname": [
+                "kimberlyhirsh"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://Kimberlyhirsh.com"
+            ],
+            "photo": [
+                "https://kimberlyhirsh.com/phd/wp-content/uploads/2015/03/Kimberly_Hirsh.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "klez"
             ],
             "nickname": [
