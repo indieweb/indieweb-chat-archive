@@ -1,0 +1,1 @@
+2019-03-31 06:11:57.394500 {"type":"join","timestamp":1554012717.3945,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"BenLubar1","nickname":"BenLubar1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
