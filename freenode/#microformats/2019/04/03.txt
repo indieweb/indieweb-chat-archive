@@ -1,0 +1,1 @@
+2019-04-03 00:21:19.366200 {"type":"join","timestamp":1554250879.3662,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[ketudb]","nickname":"[ketudb]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
