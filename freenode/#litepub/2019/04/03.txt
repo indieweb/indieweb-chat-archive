@@ -1,0 +1,1 @@
+2019-04-03 06:05:23.255800 {"type":"join","timestamp":1554271523.2558,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ichoquo0Aigh9ie","nickname":"ichoquo0Aigh9ie","username":"~ichoquo0A","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/webjadmin"},"content":null,"modes":[]}
