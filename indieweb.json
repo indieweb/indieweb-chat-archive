@@ -2873,6 +2873,29 @@
         ],
         "properties": {
             "name": [
+                "jbove"
+            ],
+            "nickname": [
+                "jbove"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://johanbove.info"
+            ],
+            "photo": [
+                "https://johanbove.info/img/johanbove_200x200.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jgarber"
             ],
             "nickname": [
