@@ -1,0 +1,1 @@
+2019-04-09 00:14:37.564800 {"type":"join","timestamp":1554768877.5648,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"dougbeal|mb1","nickname":"dougbeal|mb1","username":"~dougbeal","name":null,"photo":null,"url":null,"tz":null,"host":"2601:c1:c001:722d:31c9:11b2:df56:6ae9"},"content":null,"modes":[]}
