@@ -1,0 +1,1 @@
+2019-04-12 00:27:39.210700 {"type":"join","timestamp":1555028859.2107,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cwebber2","nickname":"cwebber2","username":"~cwebber2","name":"Christopher Lemmer Webber","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
