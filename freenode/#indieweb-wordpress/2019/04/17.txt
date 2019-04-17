@@ -1,0 +1,1 @@
+2019-04-17 00:38:08.022800 {"type":"join","timestamp":1555461488.0228,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[Michael_Beckwit","nickname":"[Michael_Beckwit","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
