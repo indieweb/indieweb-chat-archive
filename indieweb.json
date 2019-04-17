@@ -2942,6 +2942,29 @@
         ],
         "properties": {
             "name": [
+                "jnoh"
+            ],
+            "nickname": [
+                "jnoh"
+            ],
+            "tz": [
+                "America/San_Francisco"
+            ],
+            "url": [
+                "http://jnoh.net"
+            ],
+            "photo": [
+                "https://jnoh.net/avatar.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "href"
             ],
             "nickname": [
@@ -3118,6 +3141,29 @@
             ],
             "photo": [
                 "http://upon2020.com/public/portrait-128x128.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "j605"
+            ],
+            "nickname": [
+                "j605"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://j605.tk_blog"
+            ],
+            "photo": [
+                "https://j605.tk/blog/headshot.jpg"
             ]
         },
         "lang": "en"
