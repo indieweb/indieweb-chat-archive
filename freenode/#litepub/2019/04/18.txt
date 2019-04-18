@@ -1,0 +1,1 @@
+2019-04-18 03:07:19.348800 {"type":"join","timestamp":1555556839.3488,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Bureaucat","nickname":"Bureaucat","username":"~Elizabeth","name":null,"photo":null,"url":null,"tz":null,"host":"galapagos\/founder\/bureaucat"},"content":null,"modes":[]}
