@@ -625,6 +625,26 @@
         ],
         "properties": {
             "name": [
+                "MarkS"
+            ],
+            "nickname": [
+                "MarkS"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "photo": [
+                "https://s3.amazonaws.com/keybase_processed_uploads/45ea78ed46e78d45250a73f38a916f05_360_360.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mateus"
             ],
             "nickname": [
