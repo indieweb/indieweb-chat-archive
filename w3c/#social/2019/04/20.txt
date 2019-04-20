@@ -1,0 +1,1 @@
+2019-04-20 00:15:53.073700 {"type":"join","timestamp":1555719353.0737,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bblfish","nickname":"bblfish","username":"~bblfish","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
