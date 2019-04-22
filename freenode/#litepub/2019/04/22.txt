@@ -1,0 +1,1 @@
+2019-04-22 12:43:54.441400 {"type":"join","timestamp":1555937034.4414,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"rinpatch","nickname":"rinpatch","username":"~rinpatch","name":"Rin","photo":null,"url":null,"tz":null,"host":"51.15.51.229"},"content":null,"modes":[]}
