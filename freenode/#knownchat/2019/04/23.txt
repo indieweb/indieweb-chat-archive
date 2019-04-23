@@ -1,0 +1,1 @@
+2019-04-23 01:01:03.239500 {"type":"join","timestamp":1555981263.2395,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"aladdin-1","nickname":"aladdin-1","username":"be80a98e","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/web\/freenode\/ip.190.128.169.142"},"content":null,"modes":[]}
