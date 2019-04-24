@@ -1,0 +1,1 @@
+2019-04-24 00:10:45.355600 {"type":"join","timestamp":1556064645.3556,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"snarfed","nickname":"snarfed","username":"~Adium","name":null,"photo":null,"url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles","host":"12.250.86.194"},"content":null,"modes":[]}
