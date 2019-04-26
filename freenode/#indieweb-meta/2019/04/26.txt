@@ -1,0 +1,1 @@
+2019-04-26 01:27:30.120900 {"type":"join","timestamp":1556242050.1209,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[josh_nadas]","nickname":"[josh_nadas]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
