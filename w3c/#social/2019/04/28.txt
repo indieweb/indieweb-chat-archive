@@ -1,0 +1,1 @@
+2019-04-28 00:59:41.320900 {"type":"join","timestamp":1556413181.3209,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"hellekin","nickname":"hellekin","username":"~how","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
