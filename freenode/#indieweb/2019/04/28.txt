@@ -1,0 +1,1 @@
+2019-04-28 00:14:46.215300 {"type":"join","timestamp":1556410486.2153,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"wolftune","nickname":"wolftune","username":"~aaron","name":"Aaron Wolf","photo":null,"url":"http:\/\/wolftune.com","tz":"America\/Los_Angeles","host":"69.7.36.50"},"content":null,"modes":[]}
