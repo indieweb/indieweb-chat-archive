@@ -1,0 +1,1 @@
+2019-04-29 01:36:44.032700 {"type":"join","timestamp":1556501804.0327,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"seekr","nickname":"seekr","username":"~seekr","name":"seekr","photo":null,"url":null,"tz":null,"host":"unaffiliated\/seekr"},"content":null,"modes":[]}
