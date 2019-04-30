@@ -1,0 +1,1 @@
+2019-04-30 00:26:15.083900 {"type":"join","timestamp":1556583975.0839,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":"tantek via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"173.230.155.197"},"content":null,"modes":[]}
