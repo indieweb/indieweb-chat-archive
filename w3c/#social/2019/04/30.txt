@@ -1,0 +1,1 @@
+2019-04-30 01:12:35.162500 {"type":"join","timestamp":1556586755.1625,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Chocobozzz_afk","nickname":"Chocobozzz_afk","username":"~florian","name":"Unknown","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
