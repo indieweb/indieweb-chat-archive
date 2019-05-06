@@ -1,0 +1,1 @@
+2019-05-06 00:04:33.422200 {"type":"join","timestamp":1557101073.4222,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"eli_oat1","nickname":"eli_oat1","username":"~Adium","name":null,"photo":null,"url":null,"tz":null,"host":"5.181.233.12"},"content":null,"modes":[]}
