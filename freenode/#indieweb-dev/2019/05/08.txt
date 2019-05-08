@@ -1,0 +1,1 @@
+2019-05-08 00:03:26.271000 {"type":"join","timestamp":1557273806.271,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"pd09041999","nickname":"pd09041999","username":"~pd0904199","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/pd09041999"},"content":null,"modes":[]}
