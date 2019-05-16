@@ -1,0 +1,1 @@
+2019-05-16 00:06:39.334900 {"type":"join","timestamp":1557965199.3349,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"DenSchub","nickname":"DenSchub","username":"~DenSchub","name":"Dennis Schubert","photo":null,"url":null,"tz":null,"host":"telegraph.0b101010.org"},"content":null,"modes":[]}
