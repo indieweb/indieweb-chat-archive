@@ -1,0 +1,1 @@
+2019-05-17 00:38:03.169500 {"type":"join","timestamp":1558053483.1695,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ahihi","nickname":"ahihi","username":"~ahihi","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
