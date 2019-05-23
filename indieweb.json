@@ -771,6 +771,29 @@
         ],
         "properties": {
             "name": [
+                "brandur"
+            ],
+            "nickname": [
+                "brandur"
+            ],
+            "tz": [
+                "North America/San_Francisco"
+            ],
+            "url": [
+                "http://brandur.org"
+            ],
+            "photo": [
+                "https://brandur.org/assets/images/about/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Bryn_Wolf"
             ],
             "nickname": [
