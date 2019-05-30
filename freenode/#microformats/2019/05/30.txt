@@ -1,0 +1,1 @@
+2019-05-30 00:11:00.114200 {"type":"join","timestamp":1559175060.1142,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[Khurt]","nickname":"[Khurt]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
