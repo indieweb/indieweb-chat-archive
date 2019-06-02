@@ -1,0 +1,1 @@
+2019-06-02 02:49:07.508000 {"type":"message","timestamp":1559443747.508,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"trwnh","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"fr33domlover: it should include direct descendants only","modes":[]}
