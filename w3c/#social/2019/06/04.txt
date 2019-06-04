@@ -1,0 +1,1 @@
+2019-06-04 01:12:34.289300 {"type":"message","timestamp":1559610754.2893,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"fr33domlover","nickname":"fr33domlover","username":"~fr33domlover","name":"fr33domlover","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"dansup, pong","modes":[]}
