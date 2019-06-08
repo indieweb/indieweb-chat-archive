@@ -306,6 +306,29 @@
         ],
         "properties": {
             "name": [
+                "argovaerts"
+            ],
+            "nickname": [
+                "argovaerts"
+            ],
+            "tz": [
+                "Europe/Brussels"
+            ],
+            "url": [
+                "http://q4.re"
+            ],
+            "photo": [
+                "https://q4.re/arne.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "asteres"
             ],
             "nickname": [
