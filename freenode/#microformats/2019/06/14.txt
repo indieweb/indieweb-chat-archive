@@ -1,0 +1,1 @@
+2019-06-14 00:18:34.629000 {"type":"join","timestamp":1560471514.629,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"jgmac1106","nickname":"jgmac1106","username":"~jgmac1106","name":null,"photo":null,"url":null,"tz":null,"host":"c-76-23-135-43.hsd1.ct.comcast.net"},"content":null,"modes":[]}
