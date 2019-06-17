@@ -1,0 +1,1 @@
+2019-06-17 04:13:06.151500 {"type":"join","timestamp":1560744786.1515,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
