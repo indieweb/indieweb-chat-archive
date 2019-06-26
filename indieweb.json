@@ -5128,6 +5128,29 @@
         ],
         "properties": {
             "name": [
+                "MrKapowski"
+            ],
+            "nickname": [
+                "MrKapowski"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://mrkapowski.com"
+            ],
+            "photo": [
+                "https://mrkapowski.com/wp-content/uploads/avatar-privacy/cache/user/4/8/4818f52cfced12ce4ac33b7232fc47e282ce29844d4f625ed812bd6afca11c56-512.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "MSiep"
             ],
             "nickname": [
