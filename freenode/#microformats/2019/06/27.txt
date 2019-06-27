@@ -1,0 +1,1 @@
+2019-06-27 00:07:20.853500 {"type":"join","timestamp":1561594040.8535,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"manfred7381[m]","nickname":"manfred7381[m]","username":"disco6242","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-ktecafjlswpigwbk"},"content":null,"modes":[]}
