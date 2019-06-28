@@ -1,0 +1,1 @@
+2019-06-28 00:35:24.234200 {"type":"join","timestamp":1561682124.2342,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bralyclow","nickname":"bralyclow","username":"~bralyclow","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
