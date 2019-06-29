@@ -5461,6 +5461,29 @@
         ],
         "properties": {
             "name": [
+                "omz13"
+            ],
+            "nickname": [
+                "omz13"
+            ],
+            "tz": [
+                "Europe/Luxembourg"
+            ],
+            "url": [
+                "http://omz13.com"
+            ],
+            "photo": [
+                "https://omz13.com/dso-thumbnail.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ozten"
             ],
             "nickname": [
