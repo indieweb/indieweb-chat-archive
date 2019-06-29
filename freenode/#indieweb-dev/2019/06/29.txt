@@ -1,0 +1,1 @@
+2019-06-29 00:14:34.286400 {"type":"join","timestamp":1561767274.2864,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[kevinmarks786]","nickname":"[kevinmarks786]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
