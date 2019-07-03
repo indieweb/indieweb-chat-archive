@@ -1,0 +1,1 @@
+2019-07-03 02:02:41.702300 {"type":"join","timestamp":1562119361.7023,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"djangz[m]","nickname":"djangz[m]","username":"djunglemat","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-lkpwyggnewklkzwt"},"content":null,"modes":[]}
