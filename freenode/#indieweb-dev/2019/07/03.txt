@@ -1,0 +1,1 @@
+2019-07-03 00:37:16.066100 {"type":"join","timestamp":1562114236.0661,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"gRegorLove","nickname":"gRegorLove","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"host-69-145-41-196.csp-wy.client.bresnan.net"},"content":null,"modes":[]}
