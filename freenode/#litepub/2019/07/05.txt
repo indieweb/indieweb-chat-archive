@@ -1,0 +1,1 @@
+2019-07-05 00:10:11.320200 {"type":"join","timestamp":1562285411.3202,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"nonlinear9","nickname":"nonlinear9","username":"nonlinear","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/discrttm"},"content":null,"modes":[]}
