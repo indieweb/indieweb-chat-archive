@@ -1,0 +1,1 @@
+2019-07-06 00:44:54.461800 {"type":"join","timestamp":1562373894.4618,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[zach]","nickname":"[zach]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
