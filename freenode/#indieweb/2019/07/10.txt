@@ -1,0 +1,1 @@
+2019-07-10 00:10:36.320500 {"type":"join","timestamp":1562717436.3205,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"blassin2782","nickname":"blassin2782","username":"~sardaukar","name":null,"photo":null,"url":null,"tz":null,"host":"142.19.249.5.rev.vodafone.pt"},"content":null,"modes":[]}
