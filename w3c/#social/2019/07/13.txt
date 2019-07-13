@@ -1,0 +1,1 @@
+2019-07-13 01:09:05.132700 {"type":"join","timestamp":1562980145.1327,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dregin","nickname":"dregin","username":"~dregin","name":"fuck off","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
