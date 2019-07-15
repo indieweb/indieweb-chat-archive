@@ -1,0 +1,1 @@
+2019-07-15 00:01:13.111000 {"type":"join","timestamp":1563148873.111,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"nightpool","nickname":"nightpool","username":"~nightpool","name":"nightpool","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
