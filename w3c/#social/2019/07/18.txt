@@ -1,0 +1,1 @@
+2019-07-18 05:22:43.051900 {"type":"join","timestamp":1563427363.0519,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vitalyster","nickname":"vitalyster","username":"~vitalyster","name":"vitalyster","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
