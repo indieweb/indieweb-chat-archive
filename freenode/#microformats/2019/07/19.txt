@@ -1,0 +1,1 @@
+2019-07-19 02:37:14.608200 {"type":"join","timestamp":1563503834.6082,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
