@@ -1,0 +1,1 @@
+2019-07-26 05:13:36.460900 {"type":"join","timestamp":1564118016.4609,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"puck","nickname":"puck","username":"~puck","name":"puck is good enough","photo":null,"url":null,"tz":null,"host":"catgirl.tech"},"content":null,"modes":[]}
