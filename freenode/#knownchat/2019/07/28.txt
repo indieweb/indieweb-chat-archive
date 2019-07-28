@@ -1,0 +1,1 @@
+2019-07-28 00:40:00.753200 {"type":"join","timestamp":1564274400.7532,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Dpk1","nickname":"Dpk1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
