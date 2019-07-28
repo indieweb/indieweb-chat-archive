@@ -1,0 +1,1 @@
+2019-07-28 00:08:25.167100 {"type":"join","timestamp":1564272505.1671,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"kitt","nickname":"kitt","username":"sid16011","name":"Kitt Hodsden","photo":null,"url":null,"tz":null,"host":"pdpc\/supporter\/sustaining\/kitt"},"content":null,"modes":[]}
