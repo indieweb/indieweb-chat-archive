@@ -1,0 +1,1 @@
+2019-07-29 09:33:47.720800 {"type":"join","timestamp":1564392827.7208,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"tcit","nickname":"tcit","username":"tcitmatrix","name":"@tcit:matrix.tcit.fr","photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-nkiuqgidligsrfwq"},"content":null,"modes":[]}
