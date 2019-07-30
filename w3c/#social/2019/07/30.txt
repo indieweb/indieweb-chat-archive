@@ -1,0 +1,1 @@
+2019-07-30 02:29:34.224300 {"type":"join","timestamp":1564453774.2243,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ichoquo0Aigh9ie","nickname":"ichoquo0Aigh9ie","username":"~ichoquo0Aigh9ie","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
