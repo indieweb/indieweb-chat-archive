@@ -1,0 +1,1 @@
+2019-08-03 00:24:26.480500 {"type":"join","timestamp":1564791866.4805,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"nkdcity","nickname":"nkdcity","username":"~nkdcity","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:2880:5c9:496a:1769:ceca:f89"},"content":null,"modes":[]}
