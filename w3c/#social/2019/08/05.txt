@@ -1,0 +1,1 @@
+2019-08-05 00:40:26.718500 {"type":"message","timestamp":1564965626.7185,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"Pixelfed was MIT originally","modes":[]}
