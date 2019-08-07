@@ -1,0 +1,1 @@
+2019-08-07 00:10:16.947900 {"type":"join","timestamp":1565136616.9479,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jjn324","nickname":"jjn324","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
