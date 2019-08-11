@@ -1,0 +1,1 @@
+2019-08-11 00:27:22.251100 {"type":"join","timestamp":1565483242.2511,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"afpgfeirs","nickname":"afpgfeirs","username":"~afpgfeirs","name":null,"photo":null,"url":null,"tz":null,"host":"186.207.75.102"},"content":null,"modes":[]}
