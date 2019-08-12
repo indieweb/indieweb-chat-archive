@@ -1,0 +1,1 @@
+2019-08-12 01:12:11.053400 {"type":"join","timestamp":1565572331.0534,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[snarfed]","nickname":"[snarfed]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles","host":"chat.indieweb.org"},"content":null,"modes":[]}
