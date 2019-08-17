@@ -1,0 +1,1 @@
+2019-08-17 01:39:11.971300 {"type":"join","timestamp":1566005951.9713,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[KevinMarks]1","nickname":"[KevinMarks]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
