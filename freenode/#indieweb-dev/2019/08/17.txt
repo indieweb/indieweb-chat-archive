@@ -1,0 +1,1 @@
+2019-08-17 00:43:49.354800 {"type":"join","timestamp":1566002629.3548,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"vika_nezrimaya","nickname":"vika_nezrimaya","username":"~user","name":null,"photo":null,"url":null,"tz":null,"host":"mail.fireburn.ru"},"content":null,"modes":[]}
