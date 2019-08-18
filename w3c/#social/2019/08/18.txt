@@ -1,0 +1,1 @@
+2019-08-18 00:35:04.164500 {"type":"join","timestamp":1566088504.1645,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cwebber2","nickname":"cwebber2","username":"~cwebber2","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
