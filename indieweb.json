@@ -108,6 +108,29 @@
         ],
         "properties": {
             "name": [
+                "adamprocter"
+            ],
+            "nickname": [
+                "adamprocter"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://discursive.adamprocter.co.uk"
+            ],
+            "photo": [
+                "https://adamprocter.co.uk/img/profile.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "alanpearce"
             ],
             "nickname": [
