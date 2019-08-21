@@ -1,0 +1,1 @@
+2019-08-21 00:52:16.356900 {"type":"join","timestamp":1566348736.3569,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ilmu","nickname":"ilmu","username":"~ilmu","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
