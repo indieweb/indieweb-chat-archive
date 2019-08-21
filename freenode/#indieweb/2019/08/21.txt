@@ -1,0 +1,1 @@
+2019-08-21 00:14:14.682400 {"type":"join","timestamp":1566346454.6824,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"distopico","nickname":"distopico","username":"~cerdolibr","name":"Camilo QS","photo":null,"url":null,"tz":null,"host":"2001:4b98:dc2:41:216:3eff:fe6c:3391"},"content":null,"modes":[]}
