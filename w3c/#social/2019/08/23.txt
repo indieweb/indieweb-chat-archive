@@ -1,0 +1,1 @@
+2019-08-23 04:57:38.607200 {"type":"join","timestamp":1566536258.6072,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Guest84","nickname":"Guest84","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
