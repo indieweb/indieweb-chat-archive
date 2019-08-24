@@ -1,0 +1,1 @@
+2019-08-24 06:25:05.170100 {"type":"join","timestamp":1566627905.1701,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"xmpp-social","nickname":"xmpp-social","username":"~xmpp-social","name":"xmpp-social","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
