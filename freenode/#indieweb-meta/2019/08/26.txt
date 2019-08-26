@@ -1,0 +1,1 @@
+2019-08-26 00:01:29.084400 {"type":"join","timestamp":1566777689.0844,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"qotta_","nickname":"qotta_","username":"~qotta","name":null,"photo":null,"url":null,"tz":null,"host":"72-50-201-55.fttp.usinternet.com"},"content":null,"modes":[]}
