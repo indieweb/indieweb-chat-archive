@@ -1,0 +1,1 @@
+2019-08-28 00:14:24.583400 {"type":"join","timestamp":1566951264.5834,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"mauz555","nickname":"mauz555","username":"~mauz555","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:e35:8ab1:dea0:d07d:26f0:e212:9452"},"content":null,"modes":[]}
