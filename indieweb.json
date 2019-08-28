@@ -5966,6 +5966,29 @@
         ],
         "properties": {
             "name": [
+                "rauhl"
+            ],
+            "nickname": [
+                "rauhl"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://rauhl.com/"
+            ],
+            "photo": [
+                "https://rauhl.com/photo.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rayna"
             ],
             "nickname": [
