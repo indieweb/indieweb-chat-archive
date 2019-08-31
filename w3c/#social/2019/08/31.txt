@@ -1,0 +1,1 @@
+2019-08-31 04:53:43.633800 {"type":"join","timestamp":1567227223.6338,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"peach","nickname":"peach","username":"~peach","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
