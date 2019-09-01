@@ -1,0 +1,1 @@
+2019-09-01 00:39:58.461500 {"type":"join","timestamp":1567298398.4615,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[Michael_Beckwit","nickname":"[Michael_Beckwit","username":"~slackuser","name":"Michael_Beckwith via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
