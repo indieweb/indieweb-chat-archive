@@ -1,0 +1,1 @@
+2019-09-03 00:28:26.167700 {"type":"join","timestamp":1567470506.1677,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"tsrt^","nickname":"tsrt^","username":"tsrt","name":null,"photo":null,"url":null,"tz":null,"host":"ip98-186-247-88.mc.at.cox.net"},"content":null,"modes":[]}
