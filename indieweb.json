@@ -1531,6 +1531,29 @@
         ],
         "properties": {
             "name": [
+                "dariusk"
+            ],
+            "nickname": [
+                "dariusk"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://Tinysubversions.com"
+            ],
+            "photo": [
+                "https://tinysubversions.com/pics/profile-fc-small.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "davidized"
             ],
             "nickname": [
