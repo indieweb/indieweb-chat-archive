@@ -1,0 +1,1 @@
+2019-09-06 01:20:21.580600 {"type":"join","timestamp":1567732821.5806,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"JKingWeb_","nickname":"JKingWeb_","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
