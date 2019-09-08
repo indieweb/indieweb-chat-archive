@@ -1,0 +1,1 @@
+2019-09-08 00:25:29.612300 {"type":"join","timestamp":1567902329.6123,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"jester","nickname":"jester","username":"~jester","name":null,"photo":null,"url":null,"tz":null,"host":"d50-98-210-166.bchsia.telus.net"},"content":null,"modes":[]}
