@@ -1,0 +1,1 @@
+2019-09-09 00:12:25.497100 {"type":"join","timestamp":1567987945.4971,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"KartikPrabhu","nickname":"KartikPrabhu","username":"~kartik","name":"purple","photo":null,"url":null,"tz":null,"host":"careybuilding.fltg.net"},"content":null,"modes":[]}
