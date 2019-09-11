@@ -1,0 +1,1 @@
+2019-09-11 00:03:44.675300 {"type":"join","timestamp":1568160224.6753,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":"jgmac1106 via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
