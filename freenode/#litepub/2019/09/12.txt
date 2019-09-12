@@ -1,0 +1,1 @@
+2019-09-12 20:26:08.118400 {"type":"join","timestamp":1568319968.1184,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"cheesy","nickname":"cheesy","username":"~slice","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/slice"},"content":null,"modes":[]}
