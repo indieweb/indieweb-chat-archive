@@ -1,0 +1,1 @@
+2019-09-12 00:42:05.551600 {"type":"join","timestamp":1568248925.5516,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"astronavt","nickname":"astronavt","username":"~astronavt","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/astronavt"},"content":null,"modes":[]}
