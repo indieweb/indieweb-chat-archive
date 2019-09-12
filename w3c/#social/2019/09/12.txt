@@ -1,0 +1,1 @@
+2019-09-12 00:07:45.291400 {"type":"join","timestamp":1568246865.2914,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~Adium","name":"Adium User","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
