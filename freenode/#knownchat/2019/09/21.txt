@@ -1,0 +1,1 @@
+2019-09-21 02:18:19.738900 {"type":"join","timestamp":1569032299.7389,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"ChubbyFSKYPETheT","nickname":"ChubbyFSKYPETheT","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
