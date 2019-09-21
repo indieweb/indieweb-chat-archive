@@ -1,0 +1,1 @@
+2019-09-21 06:20:44.294800 {"type":"join","timestamp":1569046844.2948,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"viera","nickname":"viera","username":"~viera","name":"Viera; https:\/\/viera.dereferenced.org","photo":null,"url":null,"tz":null,"host":"2602:ffdb:100:1:fc89:b1ff:fe87:426e"},"content":null,"modes":[]}
