@@ -1,0 +1,1 @@
+2019-09-22 03:00:59.411200 {"type":"join","timestamp":1569121259.4112,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"qyliss","nickname":"qyliss","username":"~qyliss","name":"bye","photo":null,"url":null,"tz":null,"host":"NixOS\/user\/qyliss"},"content":null,"modes":[]}
