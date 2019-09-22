@@ -1,0 +1,1 @@
+2019-09-22 00:06:17.642800 {"type":"join","timestamp":1569110777.6428,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"wolftune","nickname":"wolftune","username":"~aaron","name":"Aaron Wolf","photo":null,"url":null,"tz":"US\/Pacific","host":"97-120-7-246.ptld.qwest.net"},"content":null,"modes":[]}
