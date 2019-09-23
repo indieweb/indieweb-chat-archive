@@ -1,0 +1,1 @@
+2019-09-23 00:18:31.317100 {"type":"join","timestamp":1569197911.3171,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"KempfCreative","nickname":"KempfCreative","username":"Thunderbir","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/vpn\/privateinternetaccess\/kempfcreative"},"content":null,"modes":[]}
