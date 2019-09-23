@@ -1,0 +1,1 @@
+2019-09-23 00:35:16.181200 {"type":"join","timestamp":1569198916.1812,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"rntsrtoh^","nickname":"rntsrtoh^","username":"rntsrtoh","name":null,"photo":null,"url":null,"tz":null,"host":"ip98-186-247-88.mc.at.cox.net"},"content":null,"modes":[]}
