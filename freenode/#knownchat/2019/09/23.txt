@@ -1,0 +1,1 @@
+2019-09-23 01:59:04.664300 {"type":"join","timestamp":1569203944.6643,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"ZuhtepDiscord[m]","nickname":"ZuhtepDiscord[m]","username":"disco_7850","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-yjttwnweowrokvcr"},"content":null,"modes":[]}
