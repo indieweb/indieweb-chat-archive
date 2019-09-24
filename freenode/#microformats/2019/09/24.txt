@@ -1,0 +1,1 @@
+2019-09-24 00:59:20.361000 {"type":"join","timestamp":1569286760.361,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[snarfed]","nickname":"[snarfed]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
