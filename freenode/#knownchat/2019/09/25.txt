@@ -1,0 +1,1 @@
+2019-09-25 00:04:23.930700 {"type":"join","timestamp":1569369863.9307,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[Lewis_Cowles]","nickname":"[Lewis_Cowles]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
