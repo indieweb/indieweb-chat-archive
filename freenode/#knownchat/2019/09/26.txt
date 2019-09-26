@@ -1,0 +1,1 @@
+2019-09-26 00:29:03.364900 {"type":"join","timestamp":1569457743.3649,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"cikavuveDiscord[","nickname":"cikavuveDiscord[","username":"disco_7879","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-umxembymnqofxzga"},"content":null,"modes":[]}
