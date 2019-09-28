@@ -1,0 +1,1 @@
+2019-09-28 03:29:01.706300 {"type":"join","timestamp":1569641341.7063,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ichoquo0Aigh9ie","nickname":"ichoquo0Aigh9ie","username":"~ichoquo0A","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/webjadmin"},"content":null,"modes":[]}
