@@ -1,0 +1,1 @@
+2019-10-02 00:14:22.979100 {"type":"join","timestamp":1569975262.9791,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"sp1ff","nickname":"sp1ff","username":"~sp1ff","name":null,"photo":null,"url":null,"tz":null,"host":"c-73-158-58-119.hsd1.ca.comcast.net"},"content":null,"modes":[]}
