@@ -1,0 +1,1 @@
+2019-10-04 00:14:16.736000 {"type":"join","timestamp":1570148056.736,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"wagle","nickname":"wagle","username":"~wagle","name":"Perry Wagle,,,,","photo":null,"url":"http:\/\/wagle.io","tz":"America\/Toronto","host":"quassel.wagle.io"},"content":null,"modes":[]}
