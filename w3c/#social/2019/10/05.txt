@@ -1,0 +1,1 @@
+2019-10-05 00:26:41.484300 {"type":"message","timestamp":1570235201.4843,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"lain_soykaf","nickname":"lain_soykaf","username":"~quassel","name":"Lambda","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"Maybe the g-man can visit","modes":[]}
