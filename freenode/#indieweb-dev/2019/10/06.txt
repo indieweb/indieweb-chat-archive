@@ -1,0 +1,1 @@
+2019-10-06 00:15:50.055400 {"type":"join","timestamp":1570320950.0554,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"~slackuser","name":"schmarty via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
