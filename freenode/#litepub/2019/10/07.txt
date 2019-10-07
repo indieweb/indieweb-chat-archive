@@ -1,0 +1,1 @@
+2019-10-07 09:36:37.342800 {"type":"join","timestamp":1570440997.3428,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"flussence","nickname":"flussence","username":"~h","name":"flussence","photo":null,"url":null,"tz":null,"host":"87.254.81.165"},"content":null,"modes":[]}
