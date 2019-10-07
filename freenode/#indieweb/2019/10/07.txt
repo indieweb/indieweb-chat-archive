@@ -1,0 +1,1 @@
+2019-10-07 00:07:23.392600 {"type":"join","timestamp":1570406843.3926,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"tg-z","nickname":"tg-z","username":"~tg-z","name":null,"photo":null,"url":null,"tz":null,"host":"185.209.176.16"},"content":null,"modes":[]}
