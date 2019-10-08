@@ -1,0 +1,1 @@
+2019-10-08 06:57:03.061700 {"type":"join","timestamp":1570517823.0617,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"trwnh <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"li480-33.members.linode.com"},"content":null,"modes":[]}
