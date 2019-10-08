@@ -1,0 +1,1 @@
+2019-10-08 00:20:59.145400 {"type":"join","timestamp":1570494059.1454,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"IPFSFanDiscord[m","nickname":"IPFSFanDiscord[m","username":"disco_8170","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-hgrqwjubqazxuydh"},"content":null,"modes":[]}
