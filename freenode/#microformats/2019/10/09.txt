@@ -1,0 +1,1 @@
+2019-10-09 00:07:00.206100 {"type":"join","timestamp":1570579620.2061,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"galaxie","nickname":"galaxie","username":"~weechat","name":"weechat","photo":null,"url":null,"tz":null,"host":"gateway\/tor-sasl\/galaxie"},"content":null,"modes":[]}
