@@ -1,0 +1,1 @@
+2019-10-10 00:20:29.783600 {"type":"join","timestamp":1570666829.7836,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"dougbeal|","nickname":"dougbeal|","username":"~dougbeal","name":null,"photo":null,"url":null,"tz":null,"host":"71-212-33-142.tukw.qwest.net"},"content":null,"modes":[]}
