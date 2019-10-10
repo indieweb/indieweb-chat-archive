@@ -553,6 +553,29 @@
         ],
         "properties": {
             "name": [
+                "beko"
+            ],
+            "nickname": [
+                "beko"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://beko.famkos.net"
+            ],
+            "photo": [
+                "https://beko.famkos.net/wp-content/uploads/2019/05/photo_2017-10-20_11-57-42-40x40.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ben_thatmustbeme"
             ],
             "nickname": [
