@@ -1,0 +1,1 @@
+2019-10-14 02:43:23.042600 {"type":"join","timestamp":1571021003.0426,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"jfoster","nickname":"jfoster","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"2601:1c2:700:3938:c117:26f7:1145:192e"},"content":null,"modes":[]}
