@@ -1,0 +1,1 @@
+2019-10-15 01:39:50.246700 {"type":"join","timestamp":1571103590.2467,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"trwnh <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
