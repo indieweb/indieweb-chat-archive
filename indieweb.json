@@ -418,6 +418,29 @@
         ],
         "properties": {
             "name": [
+                "artlung"
+            ],
+            "nickname": [
+                "artlung"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://artlung.com"
+            ],
+            "photo": [
+                "http://artlung.com/blog/wp-content/uploads/2018/02/28151142_1939262596387586_3798784005059379200_n-100x100.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "b0bg0d"
             ],
             "nickname": [
