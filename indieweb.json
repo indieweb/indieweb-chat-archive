@@ -4420,6 +4420,26 @@
         ],
         "properties": {
             "name": [
+                "Lewis Cowles"
+            ],
+            "nickname": [
+                "Lewis Cowles"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://Www.lewiscowles.co.uk"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lmorchard"
             ],
             "nickname": [
