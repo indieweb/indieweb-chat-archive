@@ -1,0 +1,1 @@
+2019-10-20 00:42:45.484300 {"type":"join","timestamp":1571532165.4843,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"evantravers","nickname":"evantravers","username":"~evantrave","name":null,"photo":null,"url":null,"tz":null,"host":"h251.171.141.67.dynamic.ip.windstream.net"},"content":null,"modes":[]}
