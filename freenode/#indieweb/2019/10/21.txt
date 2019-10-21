@@ -1,0 +1,1 @@
+2019-10-21 00:03:53.048400 {"type":"join","timestamp":1571616233.0484,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"patterson","nickname":"patterson","username":"~patterson","name":"...","photo":null,"url":null,"tz":null,"host":"73.96.104.193"},"content":null,"modes":[]}
