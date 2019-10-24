@@ -1,0 +1,1 @@
+2019-10-24 04:44:11.844200 {"type":"join","timestamp":1571892251.8442,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Thndr","nickname":"Thndr","username":"~Thndr","name":null,"photo":null,"url":null,"tz":null,"host":"cpe-74-78-79-115.maine.res.rr.com"},"content":null,"modes":[]}
