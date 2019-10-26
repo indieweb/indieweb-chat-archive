@@ -1,0 +1,1 @@
+2019-10-26 00:06:50.529700 {"type":"join","timestamp":1572048410.5297,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"DenSchub","nickname":"DenSchub","username":"~DenSchub","name":"Dennis Schubert","photo":null,"url":null,"tz":null,"host":"telegraph.0b101010.org"},"content":null,"modes":[]}
