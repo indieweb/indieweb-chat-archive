@@ -863,6 +863,26 @@
         ],
         "properties": {
             "name": [
+                "bradleyallen"
+            ],
+            "nickname": [
+                "bradleyallen"
+            ],
+            "tz": [
+                "US/San_Francisco"
+            ],
+            "url": [
+                "http://bradleyallen.info"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "brandonrozek"
             ],
             "nickname": [
