@@ -1,0 +1,1 @@
+2019-11-01 00:05:39.632000 {"type":"join","timestamp":1572566739.632,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[qubyte]","nickname":"[qubyte]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
