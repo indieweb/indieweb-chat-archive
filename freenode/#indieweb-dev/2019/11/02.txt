@@ -1,0 +1,1 @@
+2019-11-02 00:02:57.096900 {"type":"join","timestamp":1572652977.0969,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"wgirl","nickname":"wgirl","username":"~wgirl","name":null,"photo":null,"url":null,"tz":null,"host":"2601:586:c900:4f20:7daf:ac8:d016:64e7"},"content":null,"modes":[]}
