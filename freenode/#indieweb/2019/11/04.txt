@@ -1,0 +1,1 @@
+2019-11-04 00:09:00.599600 {"type":"join","timestamp":1572826140.5996,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"whjms8","nickname":"whjms8","username":"~whjms","name":null,"photo":null,"url":null,"tz":null,"host":"c-24-4-131-13.hsd1.ca.comcast.net"},"content":null,"modes":[]}
