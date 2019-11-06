@@ -1,0 +1,1 @@
+2019-11-06 00:14:29.971800 {"type":"join","timestamp":1572999269.9718,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"kensp","nickname":"kensp","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"129.219.21.128"},"content":null,"modes":[]}
