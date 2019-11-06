@@ -6936,6 +6936,26 @@
         ],
         "properties": {
             "name": [
+                "sukil"
+            ],
+            "nickname": [
+                "sukil"
+            ],
+            "tz": [
+                "Europe/Madrid"
+            ],
+            "url": [
+                "http://www.sukiletxe.eu"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "swentel"
             ],
             "nickname": [
