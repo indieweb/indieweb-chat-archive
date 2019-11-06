@@ -1,0 +1,1 @@
+2019-11-06 00:25:36.581000 {"type":"join","timestamp":1572999936.581,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[bradleyallen]","nickname":"[bradleyallen]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/bradleyallen.info","tz":"US\/San_Francisco","host":"chat.indieweb.org"},"content":null,"modes":[]}
