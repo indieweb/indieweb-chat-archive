@@ -1,0 +1,1 @@
+2019-11-08 00:22:10.127500 {"type":"join","timestamp":1573172530.1275,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[chrisbergr]","nickname":"[chrisbergr]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
