@@ -1,0 +1,1 @@
+2019-11-14 05:12:59.847600 {"type":"message","timestamp":1573708379.8476,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"kaniini","nickname":"kaniini","username":"~kaniini","name":"kaniini, IRC's rabbit friend","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"heluecht[m]: it attempts to guess","modes":[]}
