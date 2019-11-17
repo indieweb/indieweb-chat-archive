@@ -4893,6 +4893,26 @@
         ],
         "properties": {
             "name": [
+                "mcepl"
+            ],
+            "nickname": [
+                "mcepl"
+            ],
+            "tz": [
+                "Europe/Prague"
+            ],
+            "url": [
+                "http://matej.ceplovi.cz"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mattl"
             ],
             "nickname": [
@@ -4916,6 +4936,26 @@
         ],
         "properties": {
             "name": [
+                "maxwell"
+            ],
+            "nickname": [
+                "maxwell"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://maxwelljoslyn.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mblaney"
             ],
             "nickname": [
@@ -4929,26 +4969,6 @@
             ],
             "photo": [
                 "https://mblaney.xyz/public/profile_thumb.png"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "mcepl"
-            ],
-            "nickname": [
-                "mcepl"
-            ],
-            "tz": [
-                "Europe/Prague"
-            ],
-            "url": [
-                "http://matej.ceplovi.cz"
             ]
         },
         "lang": "en"
