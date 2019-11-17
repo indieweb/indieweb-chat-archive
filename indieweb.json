@@ -395,6 +395,26 @@
         ],
         "properties": {
             "name": [
+                "asymptotically"
+            ],
+            "nickname": [
+                "asymptotically"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://offtopica.uk"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "aquarius"
             ],
             "nickname": [
