@@ -1,0 +1,1 @@
+2019-11-18 00:07:57.135900 {"type":"join","timestamp":1574035677.1359,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"uniquerockrz","nickname":"uniquerockrz","username":"~uniqueroc","name":"John Doe","photo":null,"url":null,"tz":null,"host":"static.54.179.203.116.clients.your-server.de"},"content":null,"modes":[]}
