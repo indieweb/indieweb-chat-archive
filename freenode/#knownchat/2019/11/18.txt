@@ -1,0 +1,1 @@
+2019-11-18 00:17:19.801100 {"type":"join","timestamp":1574036239.8011,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"ovich","nickname":"ovich","username":"298ed22a","name":null,"photo":null,"url":null,"tz":null,"host":"41.142.210.42"},"content":null,"modes":[]}
