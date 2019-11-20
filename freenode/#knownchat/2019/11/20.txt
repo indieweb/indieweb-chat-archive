@@ -1,0 +1,1 @@
+2019-11-20 01:19:20.571900 {"type":"join","timestamp":1574212760.5719,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[timothy_chamber","nickname":"[timothy_chamber","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
