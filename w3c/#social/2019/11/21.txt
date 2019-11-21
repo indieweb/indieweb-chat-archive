@@ -1,0 +1,1 @@
+2019-11-21 00:28:58.503900 {"type":"join","timestamp":1574296138.5039,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"meff[m]","nickname":"meff[m]","username":"~meffmatrix","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
