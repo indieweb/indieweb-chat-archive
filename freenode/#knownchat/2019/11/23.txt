@@ -1,0 +1,1 @@
+2019-11-23 00:49:36.099900 {"type":"join","timestamp":1574470176.0999255,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"sunk8180255[m]","nickname":"sunk8180255[m]","username":"disco7827","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-kucxrjvjkrfrhfln"},"content":null,"modes":[]}
