@@ -1,0 +1,1 @@
+2019-11-27 00:27:45.079100 {"type":"leave","timestamp":1574814465.0790906,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mblaney","nickname":"mblaney","username":"~mal","name":"purple","photo":null,"url":null,"tz":null,"host":"124-170-158-183.dyn.iinet.net.au"},"content":null,"modes":[]}
