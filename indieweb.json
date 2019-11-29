@@ -7039,6 +7039,26 @@
         ],
         "properties": {
             "name": [
+                "takev"
+            ],
+            "nickname": [
+                "takev"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://charlotteallen.info"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tallpaul"
             ],
             "nickname": [
