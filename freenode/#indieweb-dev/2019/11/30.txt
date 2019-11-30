@@ -1,0 +1,1 @@
+2019-11-30 00:15:48.784700 {"type":"join","timestamp":1575072948.7847097,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"gRegorLove","nickname":"gRegorLove","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:9200:3280:25d5:9792:85f9:53e0"},"content":null,"modes":[]}
