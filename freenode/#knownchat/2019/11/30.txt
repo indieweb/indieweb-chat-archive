@@ -1,0 +1,1 @@
+2019-11-30 00:47:44.378100 {"type":"join","timestamp":1575074864.3780956,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"DaniellMesquitaD","nickname":"DaniellMesquitaD","username":"disco_8728","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-ypnoniqcrrxptqhc"},"content":null,"modes":[]}
