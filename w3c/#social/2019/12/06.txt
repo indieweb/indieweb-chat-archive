@@ -1,0 +1,1 @@
+2019-12-06 10:21:54.368400 {"type":"join","timestamp":1575627714.3684063,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dlongley","nickname":"dlongley","username":"~dlongley","name":"Dave Longley","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
