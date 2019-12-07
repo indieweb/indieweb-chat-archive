@@ -3384,7 +3384,7 @@
                 "http://jacky.wtf"
             ],
             "photo": [
-                "https://jacky.wtf/assets/favicon/apple-touch-icon-2920754d510f96188bfd41ca877ed8f7099fa66c578b75e663646394bba4599f.png"
+                "https://v2.jacky.wtf/media/profile-image"
             ]
         },
         "lang": "en"
@@ -3407,7 +3407,30 @@
                 "http://jacky.wtf"
             ],
             "photo": [
-                "https://jacky.wtf/assets/favicon/apple-touch-icon-2920754d510f96188bfd41ca877ed8f7099fa66c578b75e663646394bba4599f.png"
+                "https://v2.jacky.wtf/media/profile-imageg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "jackyalcine"
+            ],
+            "nickname": [
+                "jackyalcine"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://jacky.wtf"
+            ],
+            "photo": [
+                "https://v2.jacky.wtf/media/profile-imageg"
             ]
         },
         "lang": "en"
