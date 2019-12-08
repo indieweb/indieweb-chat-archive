@@ -6626,6 +6626,29 @@
         ],
         "properties": {
             "name": [
+                "sentamalin"
+            ],
+            "nickname": [
+                "sentamalin"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://sentamal.in"
+            ],
+            "photo": [
+                "https://sentamal.in/apple-touch-icon-precomposed.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sdoconnell"
             ],
             "nickname": [
