@@ -1,0 +1,1 @@
+2019-12-09 01:10:03.458400 {"type":"join","timestamp":1575853803.4583685,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"scifi8","nickname":"scifi8","username":"~scifi","name":null,"photo":null,"url":null,"tz":null,"host":"165.227.67.248"},"content":null,"modes":[]}
