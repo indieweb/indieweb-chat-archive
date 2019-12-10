@@ -1,0 +1,1 @@
+2019-12-10 11:26:30.382200 {"type":"join","timestamp":1575977190.3821607,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"ersatzpony","nickname":"ersatzpony","username":"~ersatzpon","name":"the pony","photo":null,"url":null,"tz":null,"host":"kameli.bahnhof.cz"},"content":null,"modes":[]}
