@@ -1,0 +1,1 @@
+2019-12-10 00:27:59.293200 {"type":"join","timestamp":1575937679.2931771,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"marinin[t]","nickname":"marinin[t]","username":"~mt","name":null,"photo":null,"url":null,"tz":null,"host":"95.161.221.240"},"content":null,"modes":[]}
