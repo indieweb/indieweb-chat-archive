@@ -7679,6 +7679,29 @@
         ],
         "properties": {
             "name": [
+                "vergence"
+            ],
+            "nickname": [
+                "vergence"
+            ],
+            "tz": [
+                "Asia/Seoul"
+            ],
+            "url": [
+                "http://Weblog.youre.space_vergence"
+            ],
+            "photo": [
+                "https://pbs.twimg.com/profile_images/3141593920/45925d64256a5722df57149941f00b36_400x400.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "vika_nezrimaya"
             ],
             "nickname": [
