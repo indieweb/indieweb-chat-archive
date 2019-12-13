@@ -1,0 +1,1 @@
+2019-12-13 02:13:29.356300 {"type":"join","timestamp":1576203209.356292,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"cybercafe","nickname":"cybercafe","username":"~marx","name":null,"photo":null,"url":null,"tz":null,"host":"73.96.105.107"},"content":null,"modes":[]}
