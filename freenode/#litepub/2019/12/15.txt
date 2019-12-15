@@ -1,0 +1,1 @@
+2019-12-15 14:20:23.391100 {"type":"join","timestamp":1576419623.391078,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"grumble","nickname":"grumble","username":"~grumble","name":"You've arrived at panic station.","photo":null,"url":null,"tz":null,"host":"freenode\/staff\/grumble"},"content":null,"modes":[]}
