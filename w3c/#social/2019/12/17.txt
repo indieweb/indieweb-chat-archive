@@ -1,0 +1,1 @@
+2019-12-17 00:01:02.169500 {"type":"join","timestamp":1576540862.1694927,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"biodan","nickname":"biodan","username":"~biodan","name":"Miguel","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
