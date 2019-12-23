@@ -1,0 +1,1 @@
+2019-12-23 15:56:14.781100 {"type":"join","timestamp":1577116574.7810893,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ma1uta","nickname":"ma1uta","username":"~ma1uta","name":"ma1uta","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
