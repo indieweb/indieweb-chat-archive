@@ -2047,6 +2047,29 @@
         ],
         "properties": {
             "name": [
+                "dmitshur"
+            ],
+            "nickname": [
+                "dmitshur"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://dmitri.shuralyov.com"
+            ],
+            "photo": [
+                "https://dmitri.shuralyov.com/avatar-32.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "donblanco"
             ],
             "nickname": [
