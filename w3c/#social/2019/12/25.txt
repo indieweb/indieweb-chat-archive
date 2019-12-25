@@ -1,0 +1,1 @@
+2019-12-25 10:02:02.283200 {"type":"join","timestamp":1577268122.283196,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
