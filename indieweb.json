@@ -1465,6 +1465,29 @@
         ],
         "properties": {
             "name": [
+                "CrowderSoup"
+            ],
+            "nickname": [
+                "CrowderSoup"
+            ],
+            "tz": [
+                "America/Boise"
+            ],
+            "url": [
+                "http://crowdersoup.com"
+            ],
+            "photo": [
+                "https://secure.gravatar.com/avatar/2574579885e58fc56cdb3af0c1cda01f"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cstanhope"
             ],
             "nickname": [
