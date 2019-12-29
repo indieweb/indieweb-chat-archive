@@ -1,0 +1,1 @@
+2019-12-29 04:25:07.299600 {"type":"join","timestamp":1577593507.2995586,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"2a01:e0a:d6:9930::35"},"content":null,"modes":[]}
