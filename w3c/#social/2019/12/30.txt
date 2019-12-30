@@ -1,0 +1,1 @@
+2019-12-30 00:56:26.358900 {"type":"join","timestamp":1577667386.3589375,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"sl007","nickname":"sl007","username":"~Adium","name":"Adium-Benutzer","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
