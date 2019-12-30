@@ -108,6 +108,26 @@
         ],
         "properties": {
             "name": [
+                "adactio"
+            ],
+            "nickname": [
+                "adactio"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://Adactio.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "adamprocter"
             ],
             "nickname": [
@@ -144,6 +164,49 @@
             ],
             "photo": [
                 "https://alanpearce.eu/img/me-thumb.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "AlisonW"
+            ],
+            "nickname": [
+                "AlisonW"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://alisonw.uk"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "almereyda"
+            ],
+            "nickname": [
+                "almereyda"
+            ],
+            "tz": [
+                "Laniakea/Europe"
+            ],
+            "url": [
+                "http://jonrichter.de"
+            ],
+            "photo": [
+                "http://jonrichter.de/media/2014avatar.jpg"
             ]
         },
         "lang": "en"
@@ -223,29 +286,6 @@
         ],
         "properties": {
             "name": [
-                "almereyda"
-            ],
-            "nickname": [
-                "almereyda"
-            ],
-            "tz": [
-                "Laniakea/Europe"
-            ],
-            "url": [
-                "http://jonrichter.de"
-            ],
-            "photo": [
-                "http://jonrichter.de/media/2014avatar.jpg"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "alexhartley"
             ],
             "nickname": [
@@ -256,26 +296,6 @@
             ],
             "url": [
                 "http://alexhartley.me"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "adactio"
-            ],
-            "nickname": [
-                "adactio"
-            ],
-            "tz": [
-                "Europe/London"
-            ],
-            "url": [
-                "http://Adactio.com"
             ]
         },
         "lang": "en"
