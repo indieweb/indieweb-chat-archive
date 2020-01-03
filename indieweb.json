@@ -6807,19 +6807,19 @@
         ],
         "properties": {
             "name": [
-                "the_hoomanist"
+                "simons"
             ],
             "nickname": [
-                "the_hoomanist"
+                "simons"
             ],
             "tz": [
-                "US/Central"
+                "Europe/London"
             ],
             "url": [
-                "http://simonesalis.com"
+                "http://breakfastdinnertea.co.uk"
             ],
             "photo": [
-                "https://hooman.ist/content/images/2018/10/Salis_avatar_focused_white.jpg"
+                "https://secure.gravatar.com/avatar/353ff31345fee55e89b17669fa2daa3b"
             ]
         },
         "lang": "en"
@@ -7283,6 +7283,72 @@
         ],
         "properties": {
             "name": [
+                "techlifeweb"
+            ],
+            "nickname": [
+                "techlifeweb"
+            ],
+            "tz": [
+                "America/Los Angeles"
+            ],
+            "url": [
+                "http://Techlifeweb.com"
+            ],
+            "photo": [
+                "http://techlifeweb.com/images/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "tfontaine"
+            ],
+            "nickname": [
+                "tfontaine"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://tylerfontaine.me"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "tgbrun"
+            ],
+            "nickname": [
+                "tgbrun"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://tombruning.com"
+            ],
+            "photo": [
+                "http://www.tombruning.com/wp-content/uploads/2014/10/photo114.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tglobe"
             ],
             "nickname": [
@@ -7293,6 +7359,29 @@
             ],
             "url": [
                 "http://tglo.be"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "the_hoomanist"
+            ],
+            "nickname": [
+                "the_hoomanist"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://simonesalis.com"
+            ],
+            "photo": [
+                "https://hooman.ist/content/images/2018/10/Salis_avatar_focused_white.jpg"
             ]
         },
         "lang": "en"
@@ -7349,52 +7438,6 @@
         ],
         "properties": {
             "name": [
-                "tgbrun"
-            ],
-            "nickname": [
-                "tgbrun"
-            ],
-            "tz": [
-                "America/New_York"
-            ],
-            "url": [
-                "http://tombruning.com"
-            ],
-            "photo": [
-                "http://www.tombruning.com/wp-content/uploads/2014/10/photo114.png"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "techlifeweb"
-            ],
-            "nickname": [
-                "techlifeweb"
-            ],
-            "tz": [
-                "America/Los Angeles"
-            ],
-            "url": [
-                "http://Techlifeweb.com"
-            ],
-            "photo": [
-                "http://techlifeweb.com/images/avatar.jpg"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "TheDavidJohnson"
             ],
             "nickname": [
@@ -7408,26 +7451,6 @@
             ],
             "photo": [
                 "https://twitter.com/TheDavidJohnson/profile_image"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "tfontaine"
-            ],
-            "nickname": [
-                "tfontaine"
-            ],
-            "tz": [
-                "America/Chicago"
-            ],
-            "url": [
-                "http://tylerfontaine.me"
             ]
         },
         "lang": "en"
