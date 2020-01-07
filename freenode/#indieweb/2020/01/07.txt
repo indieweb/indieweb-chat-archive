@@ -1,0 +1,1 @@
+2020-01-07 00:13:09.154100 {"type":"join","timestamp":1578355989.1540723,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"turona","nickname":"turona","username":"~quassel","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:c23:5c62:ff00:110d:cfc6:8e79:8b47"},"content":null,"modes":[]}
