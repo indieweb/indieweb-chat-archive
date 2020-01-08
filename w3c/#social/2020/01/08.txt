@@ -1,0 +1,1 @@
+2020-01-08 00:04:35.032000 {"type":"join","timestamp":1578441875.0319736,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"IvanVuica[m]","nickname":"IvanVuica[m]","username":"~ivucicabad","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
