@@ -1,0 +1,1 @@
+2020-01-09 08:05:38.517700 {"type":"join","timestamp":1578557138.5176911,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"sl007","nickname":"sl007","username":"~Adium","name":"Adium-Benutzer","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
