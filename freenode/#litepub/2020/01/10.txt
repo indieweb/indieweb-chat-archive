@@ -1,0 +1,1 @@
+2020-01-10 00:37:26.750000 {"type":"join","timestamp":1578616646.7500274,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Thndr","nickname":"Thndr","username":"~Thndr","name":null,"photo":null,"url":null,"tz":null,"host":"cpe-74-78-79-115.maine.res.rr.com"},"content":null,"modes":[]}
