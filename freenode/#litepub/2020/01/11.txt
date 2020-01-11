@@ -1,0 +1,1 @@
+2020-01-11 08:31:35.582400 {"type":"join","timestamp":1578731495.5823653,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"2a01:e0a:d6:9930::35"},"content":null,"modes":[]}
