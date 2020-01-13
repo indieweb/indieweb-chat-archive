@@ -2773,6 +2773,29 @@
         ],
         "properties": {
             "name": [
+                "generativist"
+            ],
+            "nickname": [
+                "generativist"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://jbn.abreka.com"
+            ],
+            "photo": [
+                "http://jbn.abreka.com/img/me_smaller.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gerwitz"
             ],
             "nickname": [
