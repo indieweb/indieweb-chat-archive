@@ -1,0 +1,1 @@
+2020-01-17 02:56:18.276500 {"type":"join","timestamp":1579229778.2764566,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"chauffer_","nickname":"chauffer_","username":"~chauffer","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/chauffer"},"content":null,"modes":[]}
