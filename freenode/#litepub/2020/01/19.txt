@@ -1,0 +1,1 @@
+2020-01-19 12:12:00.885300 {"type":"leave","timestamp":1579435920.8853276,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Nuve","nickname":"Nuve","username":"~Nuve","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/nuve"},"content":null,"modes":[]}
