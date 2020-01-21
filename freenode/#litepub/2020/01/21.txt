@@ -1,0 +1,1 @@
+2020-01-21 09:34:31.269100 {"type":"join","timestamp":1579599271.2691147,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"phoe","nickname":"phoe","username":"~phoe","name":"Micha\u0142 \"phoe\" Herda","photo":null,"url":null,"tz":null,"host":"2001:19f0:5:689f:5400:2ff:fe77:b1de"},"content":null,"modes":[]}
