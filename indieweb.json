@@ -3553,6 +3553,29 @@
         ],
         "properties": {
             "name": [
+                "jamietanna\\[m\\]"
+            ],
+            "nickname": [
+                "jamietanna\\[m\\]"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://www.jvt.me"
+            ],
+            "photo": [
+                "https://www.jvt.me/img/profile.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jden"
             ],
             "nickname": [
