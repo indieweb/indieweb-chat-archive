@@ -1336,6 +1336,29 @@
         ],
         "properties": {
             "name": [
+                "clhendricksbc"
+            ],
+            "nickname": [
+                "clhendricksbc"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://christinahendricks.ca"
+            ],
+            "photo": [
+                "http://christinahendricks.ca/wp-content/uploads/2019/12/christina_y17_0701r1c_web_large-best.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cmal"
             ],
             "nickname": [
