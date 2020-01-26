@@ -1,0 +1,1 @@
+2020-01-26 00:42:04.808100 {"type":"join","timestamp":1579999324.808113,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"BitBot","nickname":"BitBot","username":"~BitBot","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
