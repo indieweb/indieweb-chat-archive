@@ -1,0 +1,1 @@
+2020-01-27 08:17:12.487100 {"type":"join","timestamp":1580113032.487059,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"englishm","nickname":"englishm","username":"~sid6629","name":"Mike English","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
