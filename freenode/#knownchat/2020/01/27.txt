@@ -1,0 +1,1 @@
+2020-01-27 00:05:01.072600 {"type":"join","timestamp":1580083501.0726194,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"shah^","nickname":"shah^","username":"shah","name":null,"photo":null,"url":null,"tz":null,"host":"ip98-186-247-88.mc.at.cox.net"},"content":null,"modes":[]}

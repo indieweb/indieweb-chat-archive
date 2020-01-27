@@ -1,0 +1,1 @@
+2020-01-27 00:04:54.334300 {"type":"join","timestamp":1580083494.3343086,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"shah^","nickname":"shah^","username":"shah","name":null,"photo":null,"url":null,"tz":null,"host":"ip98-186-247-88.mc.at.cox.net"},"content":null,"modes":[]}
