@@ -1,0 +1,1 @@
+2020-01-28 09:26:41.191700 {"type":"join","timestamp":1580203601.1917179,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
