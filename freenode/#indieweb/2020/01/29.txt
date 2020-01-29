@@ -1,0 +1,1 @@
+2020-01-29 00:05:58.341300 {"type":"join","timestamp":1580256358.3412824,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[snarfed]","nickname":"[snarfed]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles","host":"chat.indieweb.org"},"content":null,"modes":[]}
