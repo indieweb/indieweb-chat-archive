@@ -1,0 +1,1 @@
+2020-01-31 00:12:11.267500 {"type":"join","timestamp":1580429531.2674606,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"TorpedoSkyline","nickname":"TorpedoSkyline","username":"~TorpedoSk","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/torpedoskyline"},"content":null,"modes":[]}
