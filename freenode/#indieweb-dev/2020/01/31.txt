@@ -1,0 +1,1 @@
+2020-01-31 00:38:15.029700 {"type":"join","timestamp":1580431095.029658,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"pncl","nickname":"pncl","username":"~pncl____","name":null,"photo":null,"url":null,"tz":null,"host":"5.132.220.2"},"content":null,"modes":[]}
