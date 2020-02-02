@@ -1,0 +1,1 @@
+2020-02-02 04:17:41.966800 {"type":"join","timestamp":1580617061.9668236,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jess","nickname":"jess","username":"~jess","name":"Jess","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
