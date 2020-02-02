@@ -1,0 +1,1 @@
+2020-02-02 00:07:10.955700 {"type":"join","timestamp":1580602030.9556549,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"TruBlu","nickname":"TruBlu","username":"49606b08","name":null,"photo":null,"url":null,"tz":null,"host":"73.96.107.8"},"content":null,"modes":[]}

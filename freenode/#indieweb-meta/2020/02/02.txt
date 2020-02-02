@@ -1,0 +1,1 @@
+2020-02-02 00:07:05.733100 {"type":"join","timestamp":1580602025.7331266,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"TruBlu","nickname":"TruBlu","username":"49606b08","name":null,"photo":null,"url":null,"tz":null,"host":"73.96.107.8"},"content":null,"modes":[]}
