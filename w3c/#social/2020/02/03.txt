@@ -1,0 +1,1 @@
+2020-02-03 06:35:02.072500 {"type":"join","timestamp":1580711702.0724971,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"lamuguo","nickname":"lamuguo","username":"~lamuguo","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
