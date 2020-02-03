@@ -1,0 +1,1 @@
+2020-02-03 00:09:16.041700 {"type":"join","timestamp":1580688556.0417101,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[Christina_Hendr","nickname":"[Christina_Hendr","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
