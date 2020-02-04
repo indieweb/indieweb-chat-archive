@@ -1,0 +1,1 @@
+2020-02-04 00:15:49.836500 {"type":"join","timestamp":1580775349.8365483,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"_nyex","nickname":"_nyex","username":"~nyex","name":null,"photo":null,"url":null,"tz":null,"host":"177.84.104.252"},"content":null,"modes":[]}
