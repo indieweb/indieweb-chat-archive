@@ -1,0 +1,1 @@
+2020-02-08 00:33:32.039500 {"type":"join","timestamp":1581122012.0394812,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Atsea","nickname":"Atsea","username":"d066adfc","name":null,"photo":null,"url":null,"tz":null,"host":"dsl-208-102-173-252.fuse.net"},"content":null,"modes":[]}
