@@ -1,0 +1,1 @@
+2020-02-08 00:01:25.301600 {"type":"join","timestamp":1581120085.3015897,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"KempfCreative","nickname":"KempfCreative","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"98.1.83.13"},"content":null,"modes":[]}
