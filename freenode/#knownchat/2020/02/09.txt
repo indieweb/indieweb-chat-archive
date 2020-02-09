@@ -1,0 +1,1 @@
+2020-02-09 00:13:10.395200 {"type":"join","timestamp":1581207190.395216,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[LewisCowles]","nickname":"[LewisCowles]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
