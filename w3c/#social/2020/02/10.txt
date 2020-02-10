@@ -1,0 +1,1 @@
+2020-02-10 03:23:19.080000 {"type":"join","timestamp":1581304999.0800133,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"shanecav","nickname":"shanecav","username":"~shanecav","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
