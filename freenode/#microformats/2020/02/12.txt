@@ -1,0 +1,1 @@
+2020-02-12 00:47:38.810600 {"type":"join","timestamp":1581468458.8106036,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"KartikPrabhu","nickname":"KartikPrabhu","username":"~kartik","name":"purple","photo":null,"url":null,"tz":null,"host":"216.237.98.240"},"content":null,"modes":[]}
