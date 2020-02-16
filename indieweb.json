@@ -2799,6 +2799,29 @@
         ],
         "properties": {
             "name": [
+                "genehack"
+            ],
+            "nickname": [
+                "genehack"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://genehack.org"
+            ],
+            "photo": [
+                "http://genehack.org/images/genehack.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "generativist"
             ],
             "nickname": [
