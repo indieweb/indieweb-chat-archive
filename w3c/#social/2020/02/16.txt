@@ -1,0 +1,1 @@
+2020-02-16 03:05:40.517800 {"type":"join","timestamp":1581822340.5177612,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"norepeatprawn","nickname":"norepeatprawn","username":"~norepeatprawn","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
