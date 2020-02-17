@@ -1,0 +1,1 @@
+2020-02-17 00:20:41.203800 {"type":"join","timestamp":1581898841.2037504,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[KevinMarks]","nickname":"[KevinMarks]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
