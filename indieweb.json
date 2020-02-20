@@ -2756,6 +2756,29 @@
         ],
         "properties": {
             "name": [
+                "fredcy"
+            ],
+            "nickname": [
+                "fredcy"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://fredcy.com"
+            ],
+            "photo": [
+                "https://fredcy.com/images/self.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "funwhilelost"
             ],
             "nickname": [
