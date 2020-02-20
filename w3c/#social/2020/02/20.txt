@@ -1,0 +1,1 @@
+2020-02-20 01:57:03.177200 {"type":"message","timestamp":1582163823.1772127,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"What would Accept on a Create be for?","modes":[]}
