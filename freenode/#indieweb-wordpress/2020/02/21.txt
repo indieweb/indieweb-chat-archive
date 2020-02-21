@@ -1,0 +1,1 @@
+2020-02-21 00:01:40.995400 {"type":"join","timestamp":1582243300.995424,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[Katherine]","nickname":"[Katherine]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
