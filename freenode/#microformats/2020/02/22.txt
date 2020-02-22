@@ -1,0 +1,1 @@
+2020-02-22 00:41:43.143500 {"type":"join","timestamp":1582332103.1434774,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[chrisaldrich]","nickname":"[chrisaldrich]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}

@@ -1,0 +1,1 @@
+2020-02-22 00:41:43.150900 {"type":"join","timestamp":1582332103.1508572,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[chrisaldrich]","nickname":"[chrisaldrich]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
