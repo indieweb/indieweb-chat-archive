@@ -1,0 +1,1 @@
+2020-02-23 00:18:07.432000 {"type":"join","timestamp":1582417087.4319773,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[dave]","nickname":"[dave]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/davegoesthedistance.com","tz":"America\/Chicago","host":"chat.indieweb.org"},"content":null,"modes":[]}
