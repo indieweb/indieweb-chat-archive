@@ -4925,6 +4925,29 @@
         ],
         "properties": {
             "name": [
+                "macgenie"
+            ],
+            "nickname": [
+                "macgenie"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://Micro.welltempered.net"
+            ],
+            "photo": [
+                "https://micro.blog/macgenie/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "manton"
             ],
             "nickname": [
