@@ -1,0 +1,1 @@
+2020-02-27 00:14:11.326000 {"type":"join","timestamp":1582762451.3260384,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
