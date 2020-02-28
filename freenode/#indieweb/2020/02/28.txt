@@ -1,0 +1,1 @@
+2020-02-28 00:34:18.299500 {"type":"join","timestamp":1582850058.2995107,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"__minoru__shirae","nickname":"__minoru__shirae","username":"~shiraeesh","name":null,"photo":null,"url":null,"tz":null,"host":"109.166.59.71"},"content":null,"modes":[]}
