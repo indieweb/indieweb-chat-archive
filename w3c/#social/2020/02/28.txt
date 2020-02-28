@@ -1,0 +1,1 @@
+2020-02-28 02:17:55.660000 {"type":"join","timestamp":1582856275.6600332,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld2","nickname":"feld2","username":"~feld","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
