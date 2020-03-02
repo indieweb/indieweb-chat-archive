@@ -1,0 +1,1 @@
+2020-03-02 00:01:14.563000 {"type":"join","timestamp":1583107274.5630097,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[Jeff_Hawkins]","nickname":"[Jeff_Hawkins]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
