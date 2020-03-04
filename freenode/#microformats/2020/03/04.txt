@@ -1,0 +1,1 @@
+2020-03-04 00:04:18.043500 {"type":"join","timestamp":1583280258.0434551,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"gRegorLove","nickname":"gRegorLove","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:9200:3280:e8a9:45e7:bea3:764b"},"content":null,"modes":[]}
