@@ -1,0 +1,1 @@
+2020-03-05 00:20:54.790600 {"type":"join","timestamp":1583367654.7906044,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"andersju","nickname":"andersju","username":"~andersju","name":"andersju","photo":null,"url":null,"tz":null,"host":"fnord.unix.se"},"content":null,"modes":[]}
