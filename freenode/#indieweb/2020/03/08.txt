@@ -1,0 +1,1 @@
+2020-03-08 00:09:58.021400 {"type":"join","timestamp":1583626198.0214443,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"dsiypl4","nickname":"dsiypl4","username":"~dsiypl4","name":null,"photo":null,"url":null,"tz":null,"host":"160.178.203.218"},"content":null,"modes":[]}
