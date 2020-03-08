@@ -1,0 +1,1 @@
+2020-03-08 08:01:13.790800 {"type":"join","timestamp":1583654473.7908182,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"crushv_","nickname":"crushv_","username":"~crushv","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/tor-sasl\/crushv"},"content":null,"modes":[]}
