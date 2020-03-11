@@ -1,0 +1,1 @@
+2020-03-11 00:51:11.331500 {"type":"join","timestamp":1583887871.3315408,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[yo]","nickname":"[yo]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
