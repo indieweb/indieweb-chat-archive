@@ -1,0 +1,1 @@
+2020-03-12 00:46:49.107900 {"type":"join","timestamp":1583974009.1079488,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"nebunez","nickname":"nebunez","username":"~nebunez","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
