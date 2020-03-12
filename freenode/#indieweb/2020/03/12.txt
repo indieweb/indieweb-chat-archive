@@ -1,0 +1,1 @@
+2020-03-12 00:13:43.242200 {"type":"join","timestamp":1583972023.2421923,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"ttal","nickname":"ttal","username":"~ttal","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/ttal"},"content":null,"modes":[]}
