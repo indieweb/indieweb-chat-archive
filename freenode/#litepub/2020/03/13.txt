@@ -1,0 +1,1 @@
+2020-03-13 07:06:22.824900 {"type":"join","timestamp":1584083182.8249424,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Stephie","nickname":"Stephie","username":"~Steph","name":"Steph","photo":null,"url":null,"tz":null,"host":"iscute.moe"},"content":null,"modes":[]}
