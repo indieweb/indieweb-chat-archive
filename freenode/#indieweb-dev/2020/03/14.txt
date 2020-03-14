@@ -1,0 +1,1 @@
+2020-03-14 00:29:58.536700 {"type":"join","timestamp":1584145798.536687,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"callMeBaby","nickname":"callMeBaby","username":"~callMeBab","name":"Lape","photo":null,"url":null,"tz":null,"host":"45.63.96.158"},"content":null,"modes":[]}
