@@ -2007,6 +2007,29 @@
         ],
         "properties": {
             "name": [
+                "dem.cx"
+            ],
+            "nickname": [
+                "dem.cx"
+            ],
+            "tz": [
+                "UTC"
+            ],
+            "url": [
+                "http://dem.cx"
+            ],
+            "photo": [
+                "https://dem.cx/i/amani-mena.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dgold"
             ],
             "nickname": [
