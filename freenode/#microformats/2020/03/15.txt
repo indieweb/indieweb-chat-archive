@@ -1,0 +1,1 @@
+2020-03-15 00:15:21.238800 {"type":"message","timestamp":1584231321.2387931,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[chrisaldrich]","nickname":"[chrisaldrich]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":"photobomb? \ud83d\ude42","modes":["voice"]}
