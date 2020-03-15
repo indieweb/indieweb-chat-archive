@@ -7295,6 +7295,29 @@
         ],
         "properties": {
             "name": [
+                "SuzeShardlow"
+            ],
+            "nickname": [
+                "SuzeShardlow"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://suze.dev"
+            ],
+            "photo": [
+                "https://pbs.twimg.com/profile_images/1160159491364704256/AVZpDOSg_400x400.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "swentel"
             ],
             "nickname": [
