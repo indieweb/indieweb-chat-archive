@@ -5599,6 +5599,29 @@
         ],
         "properties": {
             "name": [
+                "Murray"
+            ],
+            "nickname": [
+                "Murray"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://www.theadhocracy.co.uk"
+            ],
+            "photo": [
+                "https://cms.theadhocracy.co.uk/assets/theadhocracy/website/profile-photo-square.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mwunsch"
             ],
             "nickname": [
