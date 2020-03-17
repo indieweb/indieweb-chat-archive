@@ -3490,6 +3490,26 @@
         ],
         "properties": {
             "name": [
+                "itsjustk"
+            ],
+            "nickname": [
+                "itsjustk"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://itsjustk.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "j12t"
             ],
             "nickname": [
