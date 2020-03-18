@@ -1,0 +1,1 @@
+2020-03-18 00:06:47.114100 {"type":"leave","timestamp":1584490007.1141143,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mblaney","nickname":"mblaney","username":"~mal","name":"purple","photo":null,"url":null,"tz":null,"host":"115-64-232-163.tpgi.com.au"},"content":null,"modes":[]}
