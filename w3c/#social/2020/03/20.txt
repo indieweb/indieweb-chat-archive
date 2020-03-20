@@ -1,0 +1,1 @@
+2020-03-20 00:26:47.436300 {"type":"join","timestamp":1584664007.436326,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tsyesika2","nickname":"tsyesika2","username":"~tsyesika","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
