@@ -1,0 +1,1 @@
+2020-03-22 06:23:06.123900 {"type":"join","timestamp":1584858186.123947,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"[[sroracle]]","nickname":"[[sroracle]]","username":"~sroracle","name":"[[sroracle]]","photo":null,"url":null,"tz":null,"host":"unaffiliated\/sroracle"},"content":null,"modes":[]}
