@@ -1,0 +1,1 @@
+2020-03-22 00:13:29.107200 {"type":"join","timestamp":1584836009.1071768,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"markopasha","nickname":"markopasha","username":"~cc","name":null,"photo":null,"url":null,"tz":null,"host":"88.230.229.189"},"content":null,"modes":[]}
