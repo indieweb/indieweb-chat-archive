@@ -1,0 +1,1 @@
+2020-03-22 09:54:24.231900 {"type":"join","timestamp":1584870864.2318983,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jacky","nickname":"jacky","username":"~jacky","name":"Jacky Alcine","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
