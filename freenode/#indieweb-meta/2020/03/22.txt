@@ -1,0 +1,1 @@
+2020-03-22 01:10:20.993600 {"type":"join","timestamp":1584839420.9936101,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[Michael_Beckwi]","nickname":"[Michael_Beckwi]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
