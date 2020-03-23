@@ -1,0 +1,1 @@
+2020-03-23 00:05:17.244300 {"type":"join","timestamp":1584921917.2442791,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"KempfCreative","nickname":"KempfCreative","username":"Thunderbir","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/vpn\/privateinternetaccess\/kempfcreative"},"content":null,"modes":[]}
