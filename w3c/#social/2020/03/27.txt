@@ -1,0 +1,1 @@
+2020-03-27 02:44:02.819100 {"type":"join","timestamp":1585277042.8190777,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"someonewithpc","nickname":"someonewithpc","username":"~someonewithpc","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
