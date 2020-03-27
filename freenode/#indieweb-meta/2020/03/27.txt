@@ -1,0 +1,1 @@
+2020-03-27 00:11:58.955800 {"type":"join","timestamp":1585267918.955776,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"vivus","nickname":"vivus","username":"~vivus","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/vivus"},"content":null,"modes":[]}

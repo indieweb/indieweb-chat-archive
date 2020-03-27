@@ -1,0 +1,1 @@
+2020-03-27 00:11:58.944300 {"type":"join","timestamp":1585267918.9443278,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"vivus","nickname":"vivus","username":"~vivus","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/vivus"},"content":null,"modes":[]}
