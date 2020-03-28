@@ -1,0 +1,1 @@
+2020-03-28 13:02:22.876600 {"type":"join","timestamp":1585400542.8765883,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"puck","nickname":"puck","username":"~puck","name":"puck","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
