@@ -1,0 +1,1 @@
+2020-03-30 00:20:13.890400 {"type":"join","timestamp":1585527613.890393,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"gpickett00","nickname":"gpickett00","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"2603:9001:5506:1b00:d19c:7319:3ad2:136d"},"content":null,"modes":[]}
