@@ -1,0 +1,1 @@
+2020-03-30 00:36:46.215800 {"type":"join","timestamp":1585528606.215757,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"DeViOuSgOaT","nickname":"DeViOuSgOaT","username":"~DeViOuSgO","name":null,"photo":null,"url":null,"tz":null,"host":"cam4-12.as22384.net"},"content":null,"modes":[]}
