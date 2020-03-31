@@ -1,0 +1,1 @@
+2020-03-31 00:45:31.112200 {"type":"join","timestamp":1585615531.1121538,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[_iamdave]","nickname":"[_iamdave]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
