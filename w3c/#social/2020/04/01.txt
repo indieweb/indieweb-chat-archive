@@ -1,0 +1,1 @@
+2020-04-01 00:42:13.127600 {"type":"join","timestamp":1585701733.1275835,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"defnotar1","nickname":"defnotar1","username":"~defnotarobot","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
