@@ -1,0 +1,1 @@
+2020-04-02 07:59:17.194200 {"type":"join","timestamp":1585814357.1941726,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"CaptainCalliope","nickname":"CaptainCalliope","username":"captainc2","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/shell\/matrix.org\/x-lujlojfylvszumqt"},"content":null,"modes":[]}
