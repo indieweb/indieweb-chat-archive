@@ -1,0 +1,1 @@
+2020-04-04 00:40:07.132800 {"type":"join","timestamp":1585960807.1328459,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[jgmac1106]","nickname":"[jgmac1106]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
