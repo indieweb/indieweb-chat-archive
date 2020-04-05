@@ -1,0 +1,1 @@
+2020-04-05 00:15:22.184300 {"type":"join","timestamp":1586045722.184278,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"gRegorLove","nickname":"gRegorLove","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:9200:3280:6974:ebb4:e8e:108f"},"content":null,"modes":[]}
