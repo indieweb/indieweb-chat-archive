@@ -1,0 +1,1 @@
+2020-04-06 01:20:26.101600 {"type":"join","timestamp":1586136026.101594,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
