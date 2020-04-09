@@ -1,0 +1,1 @@
+2020-04-09 11:35:22.902200 {"type":"join","timestamp":1586432122.9021683,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"BitBot","nickname":"BitBot","username":"~BitBot","name":"Owned by jesopo https:\/\/git.io\/bitbot","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
