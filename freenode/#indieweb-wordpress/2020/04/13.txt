@@ -1,0 +1,1 @@
+2020-04-13 00:35:24.025800 {"type":"join","timestamp":1586738124.0258496,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"zerotex","nickname":"zerotex","username":"~zerotex","name":null,"photo":null,"url":null,"tz":null,"host":"ip-206-192-205-234.marylandheights.ip.cablemo.net"},"content":null,"modes":[]}
