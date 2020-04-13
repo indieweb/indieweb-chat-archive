@@ -1,0 +1,1 @@
+2020-04-13 05:54:21.196000 {"type":"join","timestamp":1586757261.1959765,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"mniip","nickname":"mniip","username":"mniip","name":null,"photo":null,"url":null,"tz":null,"host":"freenode\/staff\/mniip"},"content":null,"modes":[]}
