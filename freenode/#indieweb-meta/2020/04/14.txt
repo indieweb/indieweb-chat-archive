@@ -1,0 +1,1 @@
+2020-04-14 00:35:19.436900 {"type":"join","timestamp":1586824519.436938,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[snarfed]","nickname":"[snarfed]","username":"~slackuser","name":"snarfed via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
