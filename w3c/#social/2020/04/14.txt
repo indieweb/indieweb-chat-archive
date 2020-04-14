@@ -1,0 +1,1 @@
+2020-04-14 13:05:24.176200 {"type":"join","timestamp":1586869524.1762218,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dlongley","nickname":"dlongley","username":"~dlongley","name":"Dave Longley","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
