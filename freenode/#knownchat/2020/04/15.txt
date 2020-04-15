@@ -1,0 +1,1 @@
+2020-04-15 01:40:21.267900 {"type":"join","timestamp":1586914821.2679036,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"CMF","nickname":"CMF","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
