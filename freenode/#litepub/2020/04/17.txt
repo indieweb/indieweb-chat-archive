@@ -1,0 +1,1 @@
+2020-04-17 01:55:27.878300 {"type":"join","timestamp":1587088527.8782594,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"flussence_","nickname":"flussence_","username":"~h","name":null,"photo":null,"url":null,"tz":null,"host":"92.39.200.3"},"content":null,"modes":[]}
