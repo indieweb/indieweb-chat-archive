@@ -1,0 +1,1 @@
+2020-04-17 00:30:00.441300 {"type":"join","timestamp":1587083400.4412954,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"snoring_cat","nickname":"snoring_cat","username":"~snore","name":null,"photo":null,"url":null,"tz":null,"host":"071-010-133-090.res.spectrum.com"},"content":null,"modes":[]}
