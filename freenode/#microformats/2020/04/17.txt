@@ -1,0 +1,1 @@
+2020-04-17 02:31:45.560900 {"type":"join","timestamp":1587090705.5608854,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[LewisCowles]","nickname":"[LewisCowles]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
