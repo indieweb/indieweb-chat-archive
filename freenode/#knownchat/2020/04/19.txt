@@ -1,0 +1,1 @@
+2020-04-19 00:12:38.571900 {"type":"join","timestamp":1587255158.5719068,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"zfp000","nickname":"zfp000","username":"~z","name":null,"photo":null,"url":null,"tz":null,"host":"71-12-248-226.dhcp.slid.la.charter.com"},"content":null,"modes":[]}

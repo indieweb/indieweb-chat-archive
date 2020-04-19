@@ -1,0 +1,1 @@
+2020-04-19 00:04:56.009300 {"type":"join","timestamp":1587254696.0092735,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"wolftune","nickname":"wolftune","username":"~aaron","name":null,"photo":null,"url":null,"tz":"US\/Pacific","host":"97-120-28-97.ptld.qwest.net"},"content":null,"modes":[]}
