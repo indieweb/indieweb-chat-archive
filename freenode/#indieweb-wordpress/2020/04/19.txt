@@ -1,0 +1,1 @@
+2020-04-19 00:54:36.232500 {"type":"join","timestamp":1587257676.2324913,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"bicicleta__","nickname":"bicicleta__","username":"~bicicleta","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1700:c650:8e10:c5b5:a45:2821:e09"},"content":null,"modes":[]}
