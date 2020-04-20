@@ -1,0 +1,1 @@
+2020-04-20 00:49:54.190300 {"type":"join","timestamp":1587343794.1903422,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"harmetic","nickname":"harmetic","username":"~harmetic","name":null,"photo":null,"url":null,"tz":null,"host":"2001:1c01:3b05:4d00:a05b:8b79:10a4:5835"},"content":null,"modes":[]}
