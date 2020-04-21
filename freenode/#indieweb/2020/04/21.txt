@@ -1,0 +1,1 @@
+2020-04-21 00:09:25.715900 {"type":"join","timestamp":1587427765.7159479,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mauz555","nickname":"mauz555","username":"~mauz555","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:e0a:56d:9090:4c69:7b2b:232d:9ecc"},"content":null,"modes":[]}
