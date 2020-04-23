@@ -4799,6 +4799,29 @@
         ],
         "properties": {
             "name": [
+                "lohn"
+            ],
+            "nickname": [
+                "lohn"
+            ],
+            "tz": [
+                "America/Sao_Paulo"
+            ],
+            "url": [
+                "http://lo.hn"
+            ],
+            "photo": [
+                "https://lo.hn/file/63a4800f7baabcc0287526d3f19ea938/thumb.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "loic_m"
             ],
             "nickname": [
