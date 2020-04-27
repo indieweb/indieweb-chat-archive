@@ -1,0 +1,1 @@
+2020-04-27 00:40:22.834200 {"type":"join","timestamp":1587948022.8341656,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"geoffo","nickname":"geoffo","username":"~geoffo","name":null,"photo":null,"url":null,"tz":null,"host":"c-75-71-161-152.hsd1.co.comcast.net"},"content":null,"modes":[]}
