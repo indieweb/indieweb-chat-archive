@@ -1,0 +1,1 @@
+2020-04-27 01:31:06.826400 {"type":"join","timestamp":1587951066.8263655,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[prtksxna]","nickname":"[prtksxna]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
