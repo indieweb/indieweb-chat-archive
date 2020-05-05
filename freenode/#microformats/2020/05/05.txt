@@ -1,0 +1,1 @@
+2020-05-05 00:07:45.465800 {"type":"join","timestamp":1588637265.4657874,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"strugee","nickname":"strugee","username":"~strugee","name":"AJ Jordan","photo":null,"url":null,"tz":null,"host":"strugee.net"},"content":null,"modes":[]}
