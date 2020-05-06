@@ -1,0 +1,1 @@
+2020-05-06 03:43:38.973800 {"type":"join","timestamp":1588736618.9737854,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Light1","nickname":"Light1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
