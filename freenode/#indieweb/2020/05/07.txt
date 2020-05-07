@@ -1,0 +1,1 @@
+2020-05-07 00:10:43.021200 {"type":"join","timestamp":1588810243.0211916,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"plutes","nickname":"plutes","username":"~plutes","name":"plutonic","photo":null,"url":null,"tz":null,"host":"unaffiliated\/plutes"},"content":null,"modes":[]}
