@@ -1,0 +1,1 @@
+2020-05-08 00:48:06.163000 {"type":"join","timestamp":1588898886.1629834,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"RzR","nickname":"RzR","username":"~philippe","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
