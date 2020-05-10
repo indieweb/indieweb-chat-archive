@@ -1,0 +1,1 @@
+2020-05-10 00:10:25.859900 {"type":"join","timestamp":1589069425.8599389,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"markopasha","nickname":"markopasha","username":"~cc","name":null,"photo":null,"url":null,"tz":null,"host":"88.230.227.134"},"content":null,"modes":[]}
