@@ -1,0 +1,1 @@
+2020-05-14 00:35:43.424400 {"type":"join","timestamp":1589416543.4244497,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tsyesika08","nickname":"tsyesika08","username":"~tsyesika","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
