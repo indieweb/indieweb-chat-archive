@@ -1,0 +1,1 @@
+2020-05-16 00:25:26.249000 {"type":"join","timestamp":1589588726.249022,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"flex14","nickname":"flex14","username":"~flex14","name":"realname","photo":null,"url":null,"tz":null,"host":"c-75-70-155-244.hsd1.co.comcast.net"},"content":null,"modes":[]}
