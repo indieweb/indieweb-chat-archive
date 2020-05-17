@@ -7040,6 +7040,29 @@
         ],
         "properties": {
             "name": [
+                "shimmy1996"
+            ],
+            "nickname": [
+                "shimmy1996"
+            ],
+            "tz": [
+                "US/Chicago"
+            ],
+            "url": [
+                "http://www.shimmy1996.com"
+            ],
+            "photo": [
+                "https://www.shimmy1996.com/logo.svg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "simons"
             ],
             "nickname": [
