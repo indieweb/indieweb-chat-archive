@@ -1,0 +1,1 @@
+2020-05-18 00:03:04.764000 {"type":"join","timestamp":1589760184.7640288,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[snarfed]","nickname":"[snarfed]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/snarfed.org","tz":"America\/Los_Angeles","host":"chat.indieweb.org"},"content":null,"modes":[]}
