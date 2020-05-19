@@ -1,0 +1,1 @@
+2020-05-19 00:17:05.884500 {"type":"join","timestamp":1589847425.8844569,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"opal","nickname":"opal","username":"~wowaname","name":"opal hart <wowaname@volatile.bz>","photo":null,"url":null,"tz":null,"host":"volatile\/founder\/wowaname"},"content":null,"modes":[]}
