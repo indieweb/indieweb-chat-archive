@@ -1,0 +1,1 @@
+2020-05-20 21:40:42.656200 {"type":"join","timestamp":1590010842.656159,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"grumble","nickname":"grumble","username":"~grumble","name":null,"photo":null,"url":null,"tz":null,"host":"freenode\/staff\/grumble"},"content":null,"modes":[]}
