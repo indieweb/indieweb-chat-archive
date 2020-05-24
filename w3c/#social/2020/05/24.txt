@@ -1,0 +1,1 @@
+2020-05-24 01:36:37.975600 {"type":"message","timestamp":1590284197.9755678,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"kaetahbo","nickname":"kaetahbo","username":"~sid53872","name":"kaetahbo","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":"hi","modes":[]}
