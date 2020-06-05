@@ -1,0 +1,1 @@
+2020-06-05 07:02:16.877900 {"type":"join","timestamp":1591340536.8778946,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"qyliss","nickname":"qyliss","username":"~qyliss","name":"Alyssa Ross","photo":null,"url":null,"tz":null,"host":"NixOS\/user\/qyliss"},"content":null,"modes":[]}
