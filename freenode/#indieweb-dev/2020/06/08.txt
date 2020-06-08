@@ -1,0 +1,1 @@
+2020-06-08 00:01:35.987600 {"type":"join","timestamp":1591574495.9875863,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[LewisCowles]1","nickname":"[LewisCowles]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
