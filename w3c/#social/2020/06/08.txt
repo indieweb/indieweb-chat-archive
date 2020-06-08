@@ -1,0 +1,1 @@
+2020-06-08 03:09:06.903200 {"type":"join","timestamp":1591585746.9032469,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jussi","nickname":"jussi","username":"~jussi","name":null,"photo":null,"url":null,"tz":null,"host":"a8a9c748.public.cloak"},"content":null,"modes":[]}
