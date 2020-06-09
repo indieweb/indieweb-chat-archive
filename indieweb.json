@@ -5800,6 +5800,29 @@
         ],
         "properties": {
             "name": [
+                "nekr0z"
+            ],
+            "nickname": [
+                "nekr0z"
+            ],
+            "tz": [
+                "Europe/Moscow"
+            ],
+            "url": [
+                "http://evgenykuznetsov.org"
+            ],
+            "photo": [
+                "https://evgenykuznetsov.org/img/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "neuro`"
             ],
             "nickname": [
