@@ -1,0 +1,1 @@
+2020-06-11 01:19:54.962200 {"type":"join","timestamp":1591838394.9621618,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"maxwelljoslyn","nickname":"maxwelljoslyn","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
