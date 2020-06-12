@@ -1,0 +1,1 @@
+2020-06-12 01:31:33.715000 {"type":"join","timestamp":1591925493.7149665,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"fiatjaf1","nickname":"fiatjaf1","username":"~fiatjaf","name":null,"photo":null,"url":null,"tz":null,"host":"2804:7f2:2a84:fb44:ea40:f2ff:fe85:d2dc"},"content":null,"modes":[]}
