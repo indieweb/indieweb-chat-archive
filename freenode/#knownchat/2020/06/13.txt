@@ -1,0 +1,1 @@
+2020-06-13 01:41:08.276600 {"type":"join","timestamp":1592012468.2766376,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"seekr","nickname":"seekr","username":"~seekr","name":"seekr","photo":null,"url":null,"tz":null,"host":"unaffiliated\/seekr"},"content":null,"modes":[]}
