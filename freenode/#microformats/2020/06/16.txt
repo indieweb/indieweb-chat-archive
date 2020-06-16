@@ -1,0 +1,1 @@
+2020-06-16 00:58:47.872900 {"type":"join","timestamp":1592269127.8728719,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[jjdelc]","nickname":"[jjdelc]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
