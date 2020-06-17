@@ -5364,6 +5364,29 @@
         ],
         "properties": {
             "name": [
+                "michael-lewis"
+            ],
+            "nickname": [
+                "michael-lewis"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://michael-lewis.com"
+            ],
+            "photo": [
+                "https://michael-lewis.com/images/crystalme.gif"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "michel_v"
             ],
             "nickname": [
