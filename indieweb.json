@@ -5,6 +5,29 @@
         ],
         "properties": {
             "name": [
+                "ARH[m]"
+            ],
+            "nickname": [
+                "ARH[m]"
+            ],
+            "tz": [
+                "Asia/Tehran"
+            ],
+            "url": [
+                "http://alirezahayati.com"
+            ],
+            "photo": [
+                "https://alirezahayati.com/static/images/avatar-bg.svg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "__number5__"
             ],
             "nickname": [
