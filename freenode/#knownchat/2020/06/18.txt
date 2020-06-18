@@ -1,0 +1,1 @@
+2020-06-18 00:18:18.535300 {"type":"join","timestamp":1592439498.5352905,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"math705","nickname":"math705","username":"~junior","name":null,"photo":null,"url":null,"tz":null,"host":"201.150.126.99"},"content":null,"modes":[]}
