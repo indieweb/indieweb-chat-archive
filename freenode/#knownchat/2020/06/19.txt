@@ -1,0 +1,1 @@
+2020-06-19 00:18:21.463500 {"type":"join","timestamp":1592525901.463468,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"cartharsis","nickname":"cartharsis","username":"~kim","name":null,"photo":null,"url":null,"tz":null,"host":"178.157.82.86"},"content":null,"modes":[]}
