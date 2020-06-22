@@ -1,0 +1,1 @@
+2020-06-22 01:28:10.508700 {"type":"join","timestamp":1592789290.5086813,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"wombelix","nickname":"wombelix","username":"~wombelix","name":null,"photo":null,"url":null,"tz":null,"host":"200116b828283d001d1410c53af7fb6b.dip.versatel-1u1.de"},"content":null,"modes":[]}
