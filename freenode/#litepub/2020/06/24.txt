@@ -1,0 +1,1 @@
+2020-06-24 08:24:47.865600 {"type":"join","timestamp":1592987087.8656495,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"viera","nickname":"viera","username":"~viera","name":"Viera; https:\/\/viera.dereferenced.org","photo":null,"url":null,"tz":null,"host":"172.93.5.41"},"content":null,"modes":[]}
