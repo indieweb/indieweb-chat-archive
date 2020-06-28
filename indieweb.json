@@ -6621,6 +6621,29 @@
         ],
         "properties": {
             "name": [
+                "rebelle"
+            ],
+            "nickname": [
+                "rebelle"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://rebelle.micro.blog"
+            ],
+            "photo": [
+                "https://micro.blog/rebelle/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "reedstrm"
             ],
             "nickname": [
