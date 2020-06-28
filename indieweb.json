@@ -5559,6 +5559,29 @@
         ],
         "properties": {
             "name": [
+                "mjordancodes"
+            ],
+            "nickname": [
+                "mjordancodes"
+            ],
+            "tz": [
+                "America/Denver"
+            ],
+            "url": [
+                "http://mjordan.codes"
+            ],
+            "photo": [
+                "https://pbs.twimg.com/profile_images/1235671350758408192/7BMXepbn_400x400.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mlncn"
             ],
             "nickname": [
