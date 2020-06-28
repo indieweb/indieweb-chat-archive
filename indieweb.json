@@ -1213,6 +1213,29 @@
         ],
         "properties": {
             "name": [
+                "chaitanya"
+            ],
+            "nickname": [
+                "chaitanya"
+            ],
+            "tz": [
+                "Asia/Kolkata"
+            ],
+            "url": [
+                "http://chaitanya.page"
+            ],
+            "photo": [
+                "https://micro.blog/chaitanya/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "chimo"
             ],
             "nickname": [
@@ -3145,6 +3168,29 @@
             ],
             "url": [
                 "http://tobilehman.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "hibs"
+            ],
+            "nickname": [
+                "hibs"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://sarah-hibner.com"
+            ],
+            "photo": [
+                "https://i.imgur.com/svW9HH3.jpg"
             ]
         },
         "lang": "en"
@@ -6384,6 +6430,29 @@
             ],
             "url": [
                 "http://pniedzielski.net"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "pPinto"
+            ],
+            "nickname": [
+                "pPinto"
+            ],
+            "tz": [
+                "Europe/Lisbon"
+            ],
+            "url": [
+                "http://paulopinto.org"
+            ],
+            "photo": [
+                "https://paulopinto-file-backup.s3.eu-central-1.wasabisys.com/images/eu_indieweb.jpg"
             ]
         },
         "lang": "en"
