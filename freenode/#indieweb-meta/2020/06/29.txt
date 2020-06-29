@@ -1,0 +1,1 @@
+2020-06-29 00:05:54.017800 {"type":"join","timestamp":1593389154.0177784,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[Beto]","nickname":"[Beto]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
