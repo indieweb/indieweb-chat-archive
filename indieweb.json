@@ -823,6 +823,29 @@
         ],
         "properties": {
             "name": [
+                "beto"
+            ],
+            "nickname": [
+                "beto"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://blog.taoetc.org"
+            ],
+            "photo": [
+                "https://blog.taoetc.org/img/beto_dealmeida.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bigbluehat"
             ],
             "nickname": [
