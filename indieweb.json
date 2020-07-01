@@ -1388,6 +1388,26 @@
         ],
         "properties": {
             "name": [
+                "cjw6k"
+            ],
+            "nickname": [
+                "cjw6k"
+            ],
+            "tz": [
+                "America/Halifax"
+            ],
+            "url": [
+                "http://cj.w6k.ca"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cleverdevil"
             ],
             "nickname": [
