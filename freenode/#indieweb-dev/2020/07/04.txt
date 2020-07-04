@@ -1,0 +1,1 @@
+2020-07-04 00:18:25.462800 {"type":"join","timestamp":1593821905.4627824,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"flex14","nickname":"flex14","username":"~flex14","name":null,"photo":null,"url":null,"tz":null,"host":"2601:280:c780:7ea0:6198:aed6:a074:32ee"},"content":null,"modes":[]}
