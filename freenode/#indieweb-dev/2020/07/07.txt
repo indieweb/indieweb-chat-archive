@@ -1,0 +1,1 @@
+2020-07-07 01:12:59.535300 {"type":"join","timestamp":1594084379.5352545,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"geoffo","nickname":"geoffo","username":"~geoffo","name":"Geoff Oliver","photo":null,"url":null,"tz":null,"host":"c-75-71-161-152.hsd1.co.comcast.net"},"content":null,"modes":[]}
