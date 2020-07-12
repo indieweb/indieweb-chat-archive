@@ -1,0 +1,1 @@
+2020-07-12 11:21:48.763600 {"type":"join","timestamp":1594552908.7635717,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"fr33domlover","nickname":"fr33domlover","username":"~fr33domlo","name":null,"photo":null,"url":null,"tz":null,"host":"fsf\/member\/fr33domlover"},"content":null,"modes":[]}
