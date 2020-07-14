@@ -1,0 +1,1 @@
+2020-07-14 03:59:37.696300 {"type":"join","timestamp":1594699177.6963475,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"how","nickname":"how","username":"~how","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
