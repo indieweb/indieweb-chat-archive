@@ -725,6 +725,26 @@
         ],
         "properties": {
             "name": [
+                "mitch11"
+            ],
+            "nickname": [
+                "mitch11"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/IRC-people"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "notabene"
             ],
             "nickname": [
