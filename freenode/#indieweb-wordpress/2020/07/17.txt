@@ -1,0 +1,1 @@
+2020-07-17 00:08:30.951200 {"type":"join","timestamp":1594944510.9512265,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[snarfed]1","nickname":"[snarfed]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}

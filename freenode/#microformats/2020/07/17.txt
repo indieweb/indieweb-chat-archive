@@ -1,0 +1,1 @@
+2020-07-17 00:08:30.931800 {"type":"join","timestamp":1594944510.9318151,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[snarfed]1","nickname":"[snarfed]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
