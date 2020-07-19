@@ -7290,6 +7290,29 @@
         ],
         "properties": {
             "name": [
+                "shoesNsocks"
+            ],
+            "nickname": [
+                "shoesNsocks"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://www.rich-text.net"
+            ],
+            "photo": [
+                "https://www.porknachos.com/files/naviavi.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "simons"
             ],
             "nickname": [
