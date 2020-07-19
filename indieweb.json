@@ -7766,6 +7766,29 @@
         ],
         "properties": {
             "name": [
+                "tb"
+            ],
+            "nickname": [
+                "tb"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://tonyburns.net"
+            ],
+            "photo": [
+                "https://s.gravatar.com/avatar/3499f0da01e50fbc716d431fda9e4478"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tbbrown"
             ],
             "nickname": [
