@@ -1,0 +1,1 @@
+2020-07-21 01:14:44.299900 {"type":"join","timestamp":1595294084.2999024,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"sp1ff`","nickname":"sp1ff`","username":"~user","name":null,"photo":null,"url":null,"tz":null,"host":"c-24-6-94-81.hsd1.ca.comcast.net"},"content":null,"modes":[]}
