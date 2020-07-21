@@ -1,0 +1,1 @@
+2020-07-21 00:39:12.425100 {"type":"join","timestamp":1595291952.4250703,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"seekr","nickname":"seekr","username":"~seekr","name":"seekr","photo":null,"url":null,"tz":null,"host":"unaffiliated\/seekr"},"content":null,"modes":[]}
