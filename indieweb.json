@@ -7465,6 +7465,29 @@
         ],
         "properties": {
             "name": [
+                "souramoo[m]"
+            ],
+            "nickname": [
+                "souramoo[m]"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://souradip.com"
+            ],
+            "photo": [
+                "https://souradip.mookerj.ee/img/index-sketch.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sparverius"
             ],
             "nickname": [
