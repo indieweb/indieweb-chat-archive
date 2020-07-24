@@ -1,0 +1,1 @@
+2020-07-24 09:29:00.455800 {"type":"join","timestamp":1595582940.4557831,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"2a01:e0a:d6:9930:289e:84b1:38d1:5a77"},"content":null,"modes":[]}
