@@ -1,0 +1,1 @@
+2020-07-28 00:00:13.311800 {"type":"join","timestamp":1595894413.3117537,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"V","nickname":"V","username":"v","name":null,"photo":null,"url":null,"tz":null,"host":"anomalous.eu"},"content":null,"modes":[]}
