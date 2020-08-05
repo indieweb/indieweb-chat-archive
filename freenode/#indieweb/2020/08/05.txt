@@ -1,0 +1,1 @@
+2020-08-05 00:00:21.022000 {"type":"join","timestamp":1596585621.021967,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"kensp","nickname":"kensp","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"ip68-231-147-53.tc.ph.cox.net"},"content":null,"modes":[]}
