@@ -1,0 +1,1 @@
+2020-08-06 00:58:17.118600 {"type":"join","timestamp":1596675497.118578,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"dougbeal|mb1","nickname":"dougbeal|mb1","username":"~dougbeal","name":null,"photo":null,"url":null,"tz":null,"host":"c-98-203-166-55.hsd1.wa.comcast.net"},"content":null,"modes":[]}
