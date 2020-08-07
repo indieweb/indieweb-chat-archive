@@ -1,0 +1,1 @@
+2020-08-07 00:20:38.662300 {"type":"join","timestamp":1596759638.6622553,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mootmoot","nickname":"mootmoot","username":"~quassel","name":null,"photo":null,"url":null,"tz":null,"host":"69.172.172.91"},"content":null,"modes":[]}
