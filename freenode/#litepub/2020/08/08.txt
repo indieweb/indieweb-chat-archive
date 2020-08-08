@@ -1,0 +1,1 @@
+2020-08-08 11:03:44.943400 {"type":"join","timestamp":1596884624.9434044,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"KiwiDash","nickname":"KiwiDash","username":"~kokakiwi","name":"Koka El Kiwi","photo":null,"url":null,"tz":null,"host":"gordon.kokakiwi.net"},"content":null,"modes":[]}
