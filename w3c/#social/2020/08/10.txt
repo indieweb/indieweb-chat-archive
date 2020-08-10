@@ -1,0 +1,1 @@
+2020-08-10 02:56:10.734500 {"type":"join","timestamp":1597028170.7345424,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cwebber2","nickname":"cwebber2","username":"~user","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
