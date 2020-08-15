@@ -1,0 +1,1 @@
+2020-08-15 15:05:19.534300 {"type":"join","timestamp":1597503919.534343,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"eruizdechavez","nickname":"eruizdechavez","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"ool-182cf40d.dyn.optonline.net"},"content":null,"modes":[]}
