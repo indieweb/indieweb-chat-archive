@@ -1801,6 +1801,26 @@
         ],
         "properties": {
             "name": [
+                "davidb7"
+            ],
+            "nickname": [
+                "davidb7"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://www.bushlabs.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "davidized"
             ],
             "nickname": [
