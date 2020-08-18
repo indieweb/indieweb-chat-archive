@@ -1,0 +1,1 @@
+2020-08-18 00:44:52.799500 {"type":"join","timestamp":1597711492.799502,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[tw2113]","nickname":"[tw2113]","username":"~slackuser","name":null,"photo":null,"url":"http:\/\/apiratelifefor.me","tz":"America\/Chicago","host":"chat.indieweb.org"},"content":null,"modes":[]}
