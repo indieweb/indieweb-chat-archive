@@ -1,0 +1,1 @@
+2020-08-20 01:29:45.477700 {"type":"join","timestamp":1597886985.4776502,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"maymay","nickname":"maymay","username":"~may","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
