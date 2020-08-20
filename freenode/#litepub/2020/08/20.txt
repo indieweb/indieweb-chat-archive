@@ -1,0 +1,1 @@
+2020-08-20 07:13:28.756400 {"type":"join","timestamp":1597907608.7563913,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"li480-33.members.linode.com"},"content":null,"modes":[]}
