@@ -1,0 +1,1 @@
+2020-08-22 01:29:44.515400 {"type":"join","timestamp":1598059784.5154014,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"KartikPrabhu","nickname":"KartikPrabhu","username":"~kartik","name":null,"photo":null,"url":null,"tz":null,"host":"216-59-73-10.static.firstlight.net"},"content":null,"modes":[]}
