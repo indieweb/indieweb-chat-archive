@@ -1,0 +1,1 @@
+2020-08-22 00:07:00.956600 {"type":"join","timestamp":1598054820.9565523,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Provic","nickname":"Provic","username":"~Aspect","name":null,"photo":null,"url":null,"tz":null,"host":"2601:989:200:610:8d1b:885:9282:c1f6"},"content":null,"modes":[]}
