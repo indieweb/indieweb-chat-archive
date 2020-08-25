@@ -1,0 +1,1 @@
+2020-08-25 00:03:27.947100 {"type":"join","timestamp":1598313807.947119,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"oskargold","nickname":"oskargold","username":"~oskar","name":null,"photo":null,"url":null,"tz":null,"host":"179.211.2.241"},"content":null,"modes":[]}
