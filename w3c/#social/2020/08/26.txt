@@ -1,0 +1,1 @@
+2020-08-26 01:00:28.252900 {"type":"join","timestamp":1598403628.2529418,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bigbluehat_","nickname":"bigbluehat_","username":"~sid632","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
