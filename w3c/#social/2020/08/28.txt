@@ -1,0 +1,1 @@
+2020-08-28 02:33:19.691400 {"type":"join","timestamp":1598581999.691447,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Josh","nickname":"Josh","username":"~Josh","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
