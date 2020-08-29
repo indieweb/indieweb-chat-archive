@@ -1,0 +1,1 @@
+2020-08-29 00:38:02.357600 {"type":"join","timestamp":1598661482.3576236,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Ani","nickname":"Ani","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
