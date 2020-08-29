@@ -1,0 +1,1 @@
+2020-08-29 05:06:00.032500 {"type":"join","timestamp":1598677560.032495,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"melthelesbian","nickname":"melthelesbian","username":"melthelesb","name":"melody","photo":null,"url":null,"tz":null,"host":"gateway\/web\/irccloud.com\/x-rmwpgjgpvacifcyc"},"content":null,"modes":[]}
