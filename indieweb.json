@@ -3393,6 +3393,29 @@
         ],
         "properties": {
             "name": [
+                "jamesgoca"
+            ],
+            "nickname": [
+                "jamesgoca"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://jamesg.app"
+            ],
+            "photo": [
+                "https://jamesg.app/assets/coffeeshop.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jbove"
             ],
             "nickname": [
