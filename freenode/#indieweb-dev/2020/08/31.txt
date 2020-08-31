@@ -1,0 +1,1 @@
+2020-08-31 00:12:35.087700 {"type":"join","timestamp":1598832755.087694,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"cambridgeport90","nickname":"cambridgeport90","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
