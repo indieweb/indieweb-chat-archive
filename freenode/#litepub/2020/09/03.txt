@@ -1,0 +1,1 @@
+2020-09-03 20:15:53.158700 {"type":"join","timestamp":1599164153.158669,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"XgF","nickname":"XgF","username":"~quassel","name":null,"photo":null,"url":"http:\/\/owenshepherd.net","tz":"Europe\/London","host":"2001:19f0:5001:1174:61b8:d260:46a3:8f76"},"content":null,"modes":[]}
