@@ -1,0 +1,1 @@
+2020-09-08 01:09:35.043600 {"type":"join","timestamp":1599527375.0436213,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[tantek]1","nickname":"[tantek]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
