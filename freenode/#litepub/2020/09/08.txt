@@ -1,0 +1,1 @@
+2020-09-08 01:47:49.927300 {"type":"join","timestamp":1599529669.9273167,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"puck","nickname":"puck","username":"~puck","name":null,"photo":null,"url":null,"tz":null,"host":"catgirl.tech"},"content":null,"modes":[]}
