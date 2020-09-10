@@ -1,0 +1,1 @@
+2020-09-10 01:22:45.899900 {"type":"join","timestamp":1599700965.8999436,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"testman","nickname":"testman","username":"~testman","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
