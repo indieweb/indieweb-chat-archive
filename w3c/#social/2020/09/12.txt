@@ -1,0 +1,1 @@
+2020-09-12 04:59:49.144900 {"type":"join","timestamp":1599886789.1449454,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vpzom","nickname":"vpzom","username":"~vpzom","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
