@@ -1,0 +1,1 @@
+2020-09-13 00:45:20.132000 {"type":"join","timestamp":1599957920.13203,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"flussence","nickname":"flussence","username":"~h","name":null,"photo":null,"url":null,"tz":null,"host":"92.39.205.182"},"content":null,"modes":[]}
