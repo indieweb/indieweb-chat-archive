@@ -1,0 +1,1 @@
+2020-09-19 04:10:40.342800 {"type":"join","timestamp":1600488640.3427947,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"heavengin7","nickname":"heavengin7","username":"~lovely","name":null,"photo":null,"url":null,"tz":null,"host":"49.145.200.126"},"content":null,"modes":[]}
