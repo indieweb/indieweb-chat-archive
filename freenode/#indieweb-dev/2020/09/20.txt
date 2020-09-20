@@ -1,0 +1,1 @@
+2020-09-20 00:39:05.881000 {"type":"join","timestamp":1600562345.8810155,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"jessehattabaugh","nickname":"jessehattabaugh","username":"~jessehatt","name":null,"photo":null,"url":null,"tz":null,"host":"c-24-21-136-241.hsd1.or.comcast.net"},"content":null,"modes":[]}
