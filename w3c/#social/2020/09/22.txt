@@ -1,0 +1,1 @@
+2020-09-22 02:21:28.618000 {"type":"join","timestamp":1600741288.6179507,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"erincandescent","nickname":"erincandescent","username":"~quassel","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
