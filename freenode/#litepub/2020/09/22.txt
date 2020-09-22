@@ -1,0 +1,1 @@
+2020-09-22 00:02:49.185300 {"type":"join","timestamp":1600732969.185256,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Stephie","nickname":"Stephie","username":"~Steph","name":"Steph","photo":null,"url":null,"tz":null,"host":"130.250.68.51"},"content":null,"modes":[]}
