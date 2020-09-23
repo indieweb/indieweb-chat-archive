@@ -1,0 +1,1 @@
+2020-09-23 00:13:22.915300 {"type":"join","timestamp":1600820002.9153333,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"paulrobertlloyd","nickname":"paulrobertlloyd","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
