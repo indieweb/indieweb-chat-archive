@@ -1,0 +1,1 @@
+2020-09-25 01:12:56.662500 {"type":"join","timestamp":1600996376.6625462,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"maymay","nickname":"maymay","username":"~may","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
