@@ -1,0 +1,1 @@
+2020-09-26 13:37:24.533400 {"type":"join","timestamp":1601127444.533387,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Ariadne","nickname":"Ariadne","username":"~ariadne","name":"Ariadne, IRC's rabbit princess","photo":null,"url":null,"tz":null,"host":"2602:fd37:1::86"},"content":null,"modes":[]}
