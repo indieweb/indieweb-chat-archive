@@ -1,0 +1,1 @@
+2020-09-28 01:23:42.020400 {"type":"join","timestamp":1601256222.0203762,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":"tantek via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
