@@ -1,0 +1,1 @@
+2020-09-30 00:10:13.104900 {"type":"join","timestamp":1601424613.104897,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
