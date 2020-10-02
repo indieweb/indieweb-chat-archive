@@ -1,0 +1,1 @@
+2020-10-02 04:22:17.728000 {"type":"join","timestamp":1601612537.7280047,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"benthumb2000","nickname":"benthumb2000","username":"~paul","name":null,"photo":null,"url":null,"tz":null,"host":"2400:4052:10a1:f200:4c0c:2c4c:a0ab:c245"},"content":null,"modes":[]}
