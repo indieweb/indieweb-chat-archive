@@ -1,0 +1,1 @@
+2020-10-06 00:00:14.285500 {"type":"join","timestamp":1601942414.2855258,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"justache","nickname":"justache","username":"~justache","name":"The Lounge User","photo":null,"url":null,"tz":null,"host":"unaffiliated\/justache"},"content":null,"modes":[]}
