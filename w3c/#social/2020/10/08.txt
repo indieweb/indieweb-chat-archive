@@ -1,0 +1,1 @@
+2020-10-08 02:34:35.178600 {"type":"join","timestamp":1602124475.1785572,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
