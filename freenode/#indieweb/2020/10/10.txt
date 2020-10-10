@@ -1,0 +1,1 @@
+2020-10-10 00:12:33.316400 {"type":"join","timestamp":1602288753.316367,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"rEnr3n","nickname":"rEnr3n","username":"~rEnr3n","name":"Real Name","photo":null,"url":null,"tz":null,"host":"unaffiliated\/renr3n"},"content":null,"modes":[]}
