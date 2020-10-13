@@ -1,0 +1,1 @@
+2020-10-13 01:38:34.519200 {"type":"join","timestamp":1602553114.519246,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
