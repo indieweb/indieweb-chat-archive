@@ -1,0 +1,1 @@
+2020-10-15 00:47:50.003700 {"type":"join","timestamp":1602722870.003655,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"hmillerdev","nickname":"hmillerdev","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
