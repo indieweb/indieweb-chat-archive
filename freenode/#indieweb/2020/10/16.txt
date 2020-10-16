@@ -1,0 +1,1 @@
+2020-10-16 00:06:51.295900 {"type":"join","timestamp":1602806811.2959096,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"a_chou","nickname":"a_chou","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"pool-96-232-88-102.nycmny.fios.verizon.net"},"content":null,"modes":[]}
