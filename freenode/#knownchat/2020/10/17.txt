@@ -1,0 +1,1 @@
+2020-10-17 01:54:57.828900 {"type":"join","timestamp":1602899697.8288586,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[tw2113_Slack_]","nickname":"[tw2113_Slack_]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
