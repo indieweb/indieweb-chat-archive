@@ -1,0 +1,1 @@
+2020-10-18 01:58:46.496700 {"type":"join","timestamp":1602986326.4967082,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ilmu2","nickname":"ilmu2","username":"~ilmu","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
