@@ -1,0 +1,1 @@
+2020-10-19 02:50:38.775300 {"type":"join","timestamp":1603075838.7752712,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"nickodd","nickname":"nickodd","username":"~nickodd","name":"nickodd","photo":null,"url":null,"tz":null,"host":"unaffiliated\/nickodd"},"content":null,"modes":[]}
