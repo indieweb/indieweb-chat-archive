@@ -1,0 +1,1 @@
+2020-10-20 02:22:03.538800 {"type":"join","timestamp":1603160523.5388236,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"opal","nickname":"opal","username":"~wowaname","name":"opal hart <wowaname@volatile.bz>","photo":null,"url":null,"tz":null,"host":"volatile\/founder\/wowaname"},"content":null,"modes":[]}
