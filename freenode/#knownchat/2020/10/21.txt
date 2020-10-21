@@ -1,0 +1,1 @@
+2020-10-21 01:02:00.460900 {"type":"join","timestamp":1603242120.4609082,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"supercoven_","nickname":"supercoven_","username":"~Supercove","name":null,"photo":null,"url":null,"tz":null,"host":"dsl-hkibng32-54fb54-166.dhcp.inet.fi"},"content":null,"modes":[]}
