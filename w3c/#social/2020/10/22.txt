@@ -1,0 +1,1 @@
+2020-10-22 00:08:42.272100 {"type":"join","timestamp":1603325322.2721496,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Talec","nickname":"Talec","username":"~Talec","name":"...","photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
