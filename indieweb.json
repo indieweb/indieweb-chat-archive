@@ -4917,6 +4917,29 @@
         ],
         "properties": {
             "name": [
+                "lanodan"
+            ],
+            "nickname": [
+                "lanodan"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://hacktivis.me"
+            ],
+            "photo": [
+                "https://hacktivis.me/images/avatar.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lauraj"
             ],
             "nickname": [
