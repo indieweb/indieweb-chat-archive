@@ -785,6 +785,26 @@
         ],
         "properties": {
             "name": [
+                "paul_grenier"
+            ],
+            "nickname": [
+                "paul_grenier"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/IRC-people"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "PeterParslow"
             ],
             "nickname": [
