@@ -1,0 +1,1 @@
+2020-10-26 00:01:02.018300 {"type":"join","timestamp":1603670462.018348,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"astralbijection","nickname":"astralbijection","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
