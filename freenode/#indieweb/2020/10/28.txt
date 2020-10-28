@@ -1,0 +1,1 @@
+2020-10-28 00:27:17.992800 {"type":"join","timestamp":1603844837.992773,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"toupain","nickname":"toupain","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"ip-99-203-143-158.pools.spcsdns.net"},"content":null,"modes":[]}
