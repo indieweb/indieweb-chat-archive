@@ -1,0 +1,1 @@
+2020-10-29 02:00:47.577800 {"type":"join","timestamp":1603936847.5777829,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"kaetahbo","nickname":"kaetahbo","username":"~sid53872","name":"kaetahbo","photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
