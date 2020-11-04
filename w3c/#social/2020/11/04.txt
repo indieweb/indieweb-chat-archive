@@ -1,0 +1,1 @@
+2020-11-04 00:19:03.884600 {"type":"join","timestamp":1604449143.8846426,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ilmu2","nickname":"ilmu2","username":"~ilmu","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
