@@ -1,0 +1,1 @@
+2020-11-05 00:54:06.468400 {"type":"message","timestamp":1604537646.468357,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"jacky","nickname":"jacky","username":"~jacky","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/webjadmin"},"content":"gotcha","modes":[]}
