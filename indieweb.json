@@ -6179,6 +6179,29 @@
         ],
         "properties": {
             "name": [
+                "nolith"
+            ],
+            "nickname": [
+                "nolith"
+            ],
+            "tz": [
+                "Europe/Rome"
+            ],
+            "url": [
+                "http://abisso.org"
+            ],
+            "photo": [
+                "https://abisso.org/images/me_128-8b0ab3fd.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "npdoty"
             ],
             "nickname": [
