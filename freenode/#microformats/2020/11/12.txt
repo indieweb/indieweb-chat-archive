@@ -1,0 +1,1 @@
+2020-11-12 00:36:33.792400 {"type":"join","timestamp":1605141393.792382,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[Sadik_Shahadu]","nickname":"[Sadik_Shahadu]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
