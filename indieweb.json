@@ -8392,6 +8392,29 @@
         ],
         "properties": {
             "name": [
+                "unindented"
+            ],
+            "nickname": [
+                "unindented"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://www.unindented.org"
+            ],
+            "photo": [
+                "https://www.unindented.org/authors/daniel-512.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "vanderwal"
             ],
             "nickname": [
