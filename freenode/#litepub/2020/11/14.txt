@@ -1,0 +1,1 @@
+2020-11-14 13:37:45.224800 {"type":"join","timestamp":1605361065.2248213,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"dotdotdot","nickname":"dotdotdot","username":"dotdotdot","name":"-","photo":null,"url":null,"tz":null,"host":"85-171-78-203.rev.numericable.fr"},"content":null,"modes":[]}
