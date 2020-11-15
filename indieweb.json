@@ -8352,6 +8352,29 @@
         ],
         "properties": {
             "name": [
+                "tracydurnell"
+            ],
+            "nickname": [
+                "tracydurnell"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://tracydurnell.com"
+            ],
+            "photo": [
+                "http://tracydurnell.com/gravatar.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "trodrigues"
             ],
             "nickname": [
