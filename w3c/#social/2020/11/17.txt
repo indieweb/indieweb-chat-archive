@@ -1,0 +1,1 @@
+2020-11-17 01:49:52.150600 {"type":"join","timestamp":1605577792.1506257,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jacky","nickname":"jacky","username":"~jacky","name":"Jacky Alcine","photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
