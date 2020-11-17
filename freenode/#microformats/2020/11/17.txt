@@ -1,0 +1,1 @@
+2020-11-17 00:53:00.009100 {"type":"join","timestamp":1605574380.0090837,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"test","nickname":"test","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
