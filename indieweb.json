@@ -7086,6 +7086,26 @@
         ],
         "properties": {
             "name": [
+                "sebbu"
+            ],
+            "nickname": [
+                "sebbu"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://sebbu.fr"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sensiblemn"
             ],
             "nickname": [
