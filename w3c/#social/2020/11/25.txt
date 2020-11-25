@@ -1,0 +1,1 @@
+2020-11-25 02:22:48.944800 {"type":"join","timestamp":1606270968.9447582,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~codenamedmitri","name":null,"photo":null,"url":null,"tz":null,"host":"public.cloak"},"content":null,"modes":[]}
