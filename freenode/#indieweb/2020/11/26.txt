@@ -1,0 +1,1 @@
+2020-11-26 00:19:29.070200 {"type":"join","timestamp":1606349969.0701802,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"citizen_stig","nickname":"citizen_stig","username":"~citizen_s","name":null,"photo":null,"url":null,"tz":null,"host":"2001:982:9f64:1:3042:7be8:9d4f:8994"},"content":null,"modes":[]}
