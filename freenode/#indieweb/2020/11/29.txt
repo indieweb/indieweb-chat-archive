@@ -1,0 +1,1 @@
+2020-11-29 00:09:58.556900 {"type":"join","timestamp":1606608598.5569315,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"strugee","nickname":"strugee","username":"~strugee","name":"AJ Jordan","photo":null,"url":null,"tz":null,"host":"strugee.net"},"content":null,"modes":[]}
