@@ -886,6 +886,29 @@
         ],
         "properties": {
             "name": [
+                "binyamin"
+            ],
+            "nickname": [
+                "binyamin"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://binyam.in"
+            ],
+            "photo": [
+                "https://binyam.in/profile.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bjoern"
             ],
             "nickname": [
