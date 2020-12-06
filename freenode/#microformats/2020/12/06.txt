@@ -1,0 +1,1 @@
+2020-12-06 00:58:53.512400 {"type":"join","timestamp":1607216333.5123866,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"iwaim","nickname":"iwaim","username":"~iwaim","name":"iwaim","photo":null,"url":null,"tz":null,"host":"2001:470:fd5c:2002:0:4:14:80"},"content":null,"modes":[]}
