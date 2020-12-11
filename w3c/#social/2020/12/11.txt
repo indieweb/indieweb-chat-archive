@@ -1,0 +1,1 @@
+2020-12-11 01:00:46.351600 {"type":"join","timestamp":1607648446.3515983,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"desu9","nickname":"desu9","username":"~desu","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
