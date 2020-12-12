@@ -1,0 +1,1 @@
+2020-12-12 00:00:31.986500 {"type":"join","timestamp":1607731231.9865441,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"ShadowKyogre","nickname":"ShadowKyogre","username":"7358dd25f8","name":"ShadowKyogre","photo":null,"url":null,"tz":null,"host":"unaffiliated\/shadowkyogre"},"content":null,"modes":[]}
