@@ -955,6 +955,29 @@
         ],
         "properties": {
             "name": [
+                "boldewyn"
+            ],
+            "nickname": [
+                "boldewyn"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://manuel-strehl.de"
+            ],
+            "photo": [
+                "https://www.manuel-strehl.de/assets/image/touch/avatar48.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bradenslen"
             ],
             "nickname": [
