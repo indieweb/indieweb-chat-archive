@@ -1,0 +1,1 @@
+2020-12-13 00:31:48.025200 {"type":"join","timestamp":1607819508.0251873,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"btrem","nickname":"btrem","username":"61711bc8","name":null,"photo":null,"url":null,"tz":null,"host":"97-113-27-200.tukw.qwest.net"},"content":null,"modes":[]}
