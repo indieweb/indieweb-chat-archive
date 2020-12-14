@@ -1,0 +1,1 @@
+2020-12-14 00:21:28.461300 {"type":"join","timestamp":1607905288.461321,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"DanC","nickname":"DanC","username":"~DanC","name":"Dan C.","photo":null,"url":null,"tz":null,"host":"2605:a601:ac60:1000:e415:9ae3:444:a174"},"content":null,"modes":[]}
