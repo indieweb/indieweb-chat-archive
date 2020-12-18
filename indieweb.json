@@ -9023,6 +9023,29 @@
         ],
         "properties": {
             "name": [
+                "yenly"
+            ],
+            "nickname": [
+                "yenly"
+            ],
+            "tz": [
+                "America/San_Francisco"
+            ],
+            "url": [
+                "http://yenly.wtf"
+            ],
+            "photo": [
+                "https://www.yenly.wtf/images/yenly.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "zachdonovan"
             ],
             "nickname": [
