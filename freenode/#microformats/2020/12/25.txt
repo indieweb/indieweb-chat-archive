@@ -1,0 +1,1 @@
+2020-12-25 00:35:03.685400 {"type":"join","timestamp":1608856503.6853786,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[KevinMarks]","nickname":"[KevinMarks]","username":"~slackuser","name":"KevinMarks via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
