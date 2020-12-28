@@ -1,0 +1,1 @@
+2020-12-28 00:05:01.501700 {"type":"join","timestamp":1609113901.5016668,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"egoexpress","nickname":"egoexpress","username":"~wonder","name":"Watching Empires Burn","photo":null,"url":null,"tz":null,"host":"appalling.atrocity.me"},"content":null,"modes":[]}
