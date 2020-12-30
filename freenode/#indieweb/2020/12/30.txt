@@ -1,0 +1,1 @@
+2020-12-30 00:10:47.657300 {"type":"join","timestamp":1609287047.657289,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"rawtext","nickname":"rawtext","username":"~rawtext","name":"rawtext","photo":null,"url":null,"tz":null,"host":"104.129.24.10"},"content":null,"modes":[]}

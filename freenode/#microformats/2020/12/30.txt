@@ -1,0 +1,1 @@
+2020-12-30 00:10:52.992400 {"type":"join","timestamp":1609287052.9924097,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"rawtext","nickname":"rawtext","username":"~rawtext","name":"rawtext","photo":null,"url":null,"tz":null,"host":"104.129.24.10"},"content":null,"modes":[]}
