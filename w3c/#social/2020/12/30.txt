@@ -1,0 +1,1 @@
+2020-12-30 14:33:04.142400 {"type":"join","timestamp":1609338784.1423552,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Loqi","nickname":"Loqi","username":"~Loqi","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
