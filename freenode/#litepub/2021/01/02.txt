@@ -1,0 +1,1 @@
+2021-01-02 04:37:57.827200 {"type":"join","timestamp":1609562277.827222,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"opal","nickname":"opal","username":"~wowaname","name":null,"photo":null,"url":null,"tz":null,"host":"volatile\/founder\/wowaname"},"content":null,"modes":[]}
