@@ -1,0 +1,1 @@
+2021-01-02 00:34:43.422400 {"type":"join","timestamp":1609547683.4223895,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"gRegorLove","nickname":"gRegorLove","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"ip72-197-254-201.sd.sd.cox.net"},"content":null,"modes":[]}
