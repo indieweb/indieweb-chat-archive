@@ -1,0 +1,1 @@
+2021-01-03 00:01:29.020300 {"type":"join","timestamp":1609632089.020326,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"villasv","nickname":"villasv","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
