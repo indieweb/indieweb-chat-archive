@@ -1,0 +1,1 @@
+2021-01-04 01:05:29.197000 {"type":"join","timestamp":1609722329.196982,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"remy","nickname":"remy","username":"~remy","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
