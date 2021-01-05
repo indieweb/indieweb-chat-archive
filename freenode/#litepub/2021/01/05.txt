@@ -1,0 +1,1 @@
+2021-01-05 15:56:54.352500 {"type":"join","timestamp":1609862214.3525317,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"2a01:e0a:d6:9930::35"},"content":null,"modes":[]}
