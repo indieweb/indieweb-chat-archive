@@ -1,0 +1,1 @@
+2021-01-07 00:51:30.622700 {"type":"join","timestamp":1609980690.6227386,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"[Raphael_Luckom]","nickname":"[Raphael_Luckom]","username":"~slackuser","name":"Raphael_Luckom via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
