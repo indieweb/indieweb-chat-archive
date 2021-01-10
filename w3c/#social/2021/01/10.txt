@@ -1,0 +1,1 @@
+2021-01-10 00:04:33.236000 {"type":"join","timestamp":1610237073.236049,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"join_subline","nickname":"join_subline","username":"~join_subline","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
