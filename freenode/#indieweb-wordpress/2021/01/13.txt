@@ -1,0 +1,1 @@
+2021-01-13 00:06:15.797800 {"type":"join","timestamp":1610496375.7977517,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jeremycherfas","nickname":"jeremycherfas","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
