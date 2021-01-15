@@ -1,0 +1,1 @@
+2021-01-15 05:13:14.959000 {"type":"join","timestamp":1610687594.9589758,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"sl007","nickname":"sl007","username":"~Adium","name":"Adium-Benutzer","photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
