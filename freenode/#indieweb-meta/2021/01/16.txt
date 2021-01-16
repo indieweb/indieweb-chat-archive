@@ -1,0 +1,1 @@
+2021-01-16 00:09:44.141800 {"type":"join","timestamp":1610755784.1418226,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"include","nickname":"include","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
