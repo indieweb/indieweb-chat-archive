@@ -165,6 +165,26 @@
         ],
         "properties": {
             "name": [
+                "benoit"
+            ],
+            "nickname": [
+                "benoit"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "photo": [
+                "http://xdal.org/~benoit/"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bigbluehat"
             ],
             "nickname": [
