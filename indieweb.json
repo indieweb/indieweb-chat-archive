@@ -131,6 +131,29 @@
         ],
         "properties": {
             "name": [
+                "aciccarello[m]"
+            ],
+            "nickname": [
+                "aciccarello[m]"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://www.ciccarello.me"
+            ],
+            "photo": [
+                "https://secure.gravatar.com/avatar/17d306899b5f20953440eca1d65d34e0?s=128"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "adactio"
             ],
             "nickname": [
