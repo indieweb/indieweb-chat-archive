@@ -1,0 +1,1 @@
+2021-01-22 01:00:17.017300 {"type":"join","timestamp":1611277217.0172877,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"CombatVet","nickname":"CombatVet","username":"~c4","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/tor-sasl\/combatvet"},"content":null,"modes":[]}
