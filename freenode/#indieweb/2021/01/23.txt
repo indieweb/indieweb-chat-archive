@@ -1,0 +1,1 @@
+2021-01-23 00:04:36.799000 {"type":"leave","timestamp":1611360276.7990131,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"leg","nickname":"leg","username":"~jorge","name":null,"photo":null,"url":null,"tz":null,"host":"cpe90-146-121-172.liwest.at"},"content":null,"modes":[]}
