@@ -1,0 +1,1 @@
+2021-01-24 00:12:36.643800 {"type":"join","timestamp":1611447156.643796,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"lahacker","nickname":"lahacker","username":"~lahacker","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"76-219-79-243.lightspeed.irvnca.sbcglobal.net"},"content":null,"modes":[]}

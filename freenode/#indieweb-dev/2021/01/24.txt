@@ -1,0 +1,1 @@
+2021-01-24 00:12:36.744500 {"type":"join","timestamp":1611447156.7444572,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"lahacker","nickname":"lahacker","username":"~lahacker","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"76-219-79-243.lightspeed.irvnca.sbcglobal.net"},"content":null,"modes":[]}
