@@ -1,0 +1,1 @@
+2021-01-29 00:42:08.096600 {"type":"join","timestamp":1611880928.096649,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"trwnh","nickname":"trwnh","username":"trwnh.com","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"2600:3c02::f03c:91ff:fecc:6497"},"content":null,"modes":[]}
