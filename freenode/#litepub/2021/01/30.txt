@@ -1,0 +1,1 @@
+2021-01-30 16:09:51.709900 {"type":"join","timestamp":1612022991.709857,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Stephie","nickname":"Stephie","username":"~Steph","name":"Steph","photo":null,"url":null,"tz":null,"host":"130.250.68.51"},"content":null,"modes":[]}
