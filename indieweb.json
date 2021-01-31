@@ -7445,6 +7445,29 @@
         ],
         "properties": {
             "name": [
+                "Seirdy"
+            ],
+            "nickname": [
+                "Seirdy"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://seirdy.one"
+            ],
+            "photo": [
+                "https://seirdy.one/favicon.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ShaneHudson"
             ],
             "nickname": [
