@@ -1239,6 +1239,26 @@
         ],
         "properties": {
             "name": [
+                "cambridgeport90"
+            ],
+            "nickname": [
+                "cambridgeport90"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://cambridgeport90.org"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "calumryan"
             ],
             "nickname": [
