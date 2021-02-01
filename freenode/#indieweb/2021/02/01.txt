@@ -1,0 +1,1 @@
+2021-02-01 00:10:50.364500 {"type":"join","timestamp":1612138250.3644886,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"chiragdi","nickname":"chiragdi","username":"~coaltown","name":null,"photo":null,"url":null,"tz":null,"host":"67-2-200-126.slkc.qwest.net"},"content":null,"modes":[]}
