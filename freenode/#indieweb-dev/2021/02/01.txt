@@ -1,0 +1,1 @@
+2021-02-01 00:35:08.668700 {"type":"join","timestamp":1612139708.668738,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[benatwork]","nickname":"[benatwork]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
