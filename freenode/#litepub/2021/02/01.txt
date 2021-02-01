@@ -1,0 +1,1 @@
+2021-02-01 19:42:10.317900 {"type":"join","timestamp":1612208530.3179393,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"gurmble","nickname":"gurmble","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"freenode\/staff\/grumble"},"content":null,"modes":[]}
