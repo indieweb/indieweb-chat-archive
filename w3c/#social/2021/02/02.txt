@@ -1,0 +1,1 @@
+2021-02-02 01:14:24.060600 {"type":"join","timestamp":1612228464.0605721,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"voluntaryliberty","nickname":"voluntaryliberty","username":"~voluntaryl","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
