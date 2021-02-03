@@ -1,0 +1,1 @@
+2021-02-03 06:11:03.266900 {"type":"join","timestamp":1612332663.2669463,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld6","nickname":"feld6","username":"~feld","name":null,"photo":null,"url":null,"tz":null,"host":"ef89345d.public.cloak"},"content":null,"modes":[]}
