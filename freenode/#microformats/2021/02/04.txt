@@ -1,0 +1,1 @@
+2021-02-04 00:08:30.817400 {"type":"join","timestamp":1612397310.8173544,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"marinin[t]","nickname":"marinin[t]","username":"~mt","name":null,"photo":null,"url":null,"tz":null,"host":"178.62.245.33"},"content":null,"modes":[]}

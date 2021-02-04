@@ -1,0 +1,1 @@
+2021-02-04 00:08:38.877400 {"type":"join","timestamp":1612397318.8773994,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"marinin[t]","nickname":"marinin[t]","username":"~mt","name":null,"photo":null,"url":null,"tz":null,"host":"178.62.245.33"},"content":null,"modes":[]}
