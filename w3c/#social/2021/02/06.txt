@@ -1,0 +1,1 @@
+2021-02-06 00:12:16.550000 {"type":"join","timestamp":1612570336.5499856,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null,"host":"815ad96c.team.cloak"},"content":null,"modes":[]}
