@@ -1,0 +1,1 @@
+2021-02-08 00:04:10.540600 {"type":"join","timestamp":1612742650.5405624,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"dbohdan","nickname":"dbohdan","username":"~dbohdan","name":null,"photo":null,"url":null,"tz":null,"host":"unaffiliated\/dbohdan"},"content":null,"modes":[]}
