@@ -1,0 +1,1 @@
+2021-02-08 00:00:00.570100 {"type":"join","timestamp":1612742400.5700665,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"dagelf","nickname":"dagelf","username":"~quassel","name":"dagelf","photo":null,"url":null,"tz":null,"host":"dsl-197-245-29-229.voxdsl.co.za"},"content":null,"modes":[]}
