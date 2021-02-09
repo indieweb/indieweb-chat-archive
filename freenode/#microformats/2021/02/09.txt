@@ -1,0 +1,1 @@
+2021-02-09 00:21:38.400100 {"type":"join","timestamp":1612830098.4001026,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[benatwork]","nickname":"[benatwork]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
