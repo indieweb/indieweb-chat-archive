@@ -1,0 +1,1 @@
+2021-02-11 00:30:31.601600 {"type":"join","timestamp":1613003431.6016033,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"deltab","nickname":"deltab","username":"~deltab","name":"deltab","photo":null,"url":null,"tz":null,"host":"95.154.230.49"},"content":null,"modes":[]}
