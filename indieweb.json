@@ -7307,6 +7307,26 @@
         ],
         "properties": {
             "name": [
+                "scojjac"
+            ],
+            "nickname": [
+                "scojjac"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://scojjac.com"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "scottjenson"
             ],
             "nickname": [
