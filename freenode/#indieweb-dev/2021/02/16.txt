@@ -1,0 +1,1 @@
+2021-02-16 00:02:00.456900 {"type":"join","timestamp":1613433720.4568892,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"samwilson","nickname":"samwilson","username":"~sam","name":"@samwilson:matrix.org","photo":null,"url":null,"tz":null,"host":"wikisource\/samwilson"},"content":null,"modes":[]}
