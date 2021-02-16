@@ -425,6 +425,26 @@
         ],
         "properties": {
             "name": [
+                "gerald"
+            ],
+            "nickname": [
+                "gerald"
+            ],
+            "tz": [
+                "Canada/Pacific"
+            ],
+            "photo": [
+                "https://www.w3.org/2006/05/u/753a9c392bef-sm.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "harry"
             ],
             "nickname": [
