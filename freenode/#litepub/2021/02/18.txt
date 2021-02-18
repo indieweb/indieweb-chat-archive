@@ -1,0 +1,1 @@
+2021-02-18 12:53:09.413900 {"type":"join","timestamp":1613652789.4139326,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"qyliss","nickname":"qyliss","username":"~qyliss","name":null,"photo":null,"url":null,"tz":null,"host":"NixOS\/user\/qyliss"},"content":null,"modes":[]}
