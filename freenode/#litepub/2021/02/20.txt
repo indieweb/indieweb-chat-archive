@@ -1,0 +1,1 @@
+2021-02-20 03:00:01.509500 {"type":"join","timestamp":1613790001.5095146,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"hosea62","nickname":"hosea62","username":"~hosea61","name":null,"photo":null,"url":null,"tz":null,"host":"75.165.58.98"},"content":null,"modes":[]}
