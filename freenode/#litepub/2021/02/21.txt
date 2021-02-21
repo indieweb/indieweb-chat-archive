@@ -1,0 +1,1 @@
+2021-02-21 19:51:22.257900 {"type":"join","timestamp":1613937082.2579017,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"KiwiDash","nickname":"KiwiDash","username":"~kokakiwi","name":"KokaKiwi","photo":null,"url":null,"tz":null,"host":"gordon.kokakiwi.net"},"content":null,"modes":[]}
