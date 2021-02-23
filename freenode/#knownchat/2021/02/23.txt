@@ -1,0 +1,1 @@
+2021-02-23 00:45:10.057900 {"type":"join","timestamp":1614041110.0579104,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"scojjac","nickname":"scojjac","username":"~webuser","name":null,"photo":null,"url":"http:\/\/scojjac.com","tz":"US\/Eastern","host":"chat.indieweb.org"},"content":null,"modes":[]}
