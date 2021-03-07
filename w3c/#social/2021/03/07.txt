@@ -1,0 +1,1 @@
+2021-03-07 02:57:10.981000 {"type":"join","timestamp":1615085830.9809887,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"BitBot|","nickname":"BitBot|","username":"~BitBot","name":null,"photo":null,"url":null,"tz":null,"host":"7927d3f6.publics.cloak"},"content":null,"modes":[]}
