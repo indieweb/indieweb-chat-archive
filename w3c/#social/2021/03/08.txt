@@ -1,0 +1,1 @@
+2021-03-08 05:48:11.708600 {"type":"join","timestamp":1615182491.708599,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"agates[m]","nickname":"agates[m]","username":"~agatesmatr","name":null,"photo":null,"url":null,"tz":null,"host":"4a714a7c.public.cloak"},"content":null,"modes":[]}
