@@ -1,0 +1,1 @@
+2021-03-09 00:08:30.820000 {"type":"join","timestamp":1615248510.819985,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"really2","nickname":"really2","username":"~justafrie","name":null,"photo":null,"url":null,"tz":null,"host":"138.199.52.66"},"content":null,"modes":[]}
