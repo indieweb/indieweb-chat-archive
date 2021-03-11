@@ -1,0 +1,1 @@
+2021-03-11 13:07:13.841900 {"type":"join","timestamp":1615468033.8418517,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"sknebel_","nickname":"sknebel_","username":"~quassel","name":null,"photo":null,"url":"http:\/\/www.svenknebel.de","tz":"Europe\/Berlin","host":"v22016013254630973.happysrv.de"},"content":null,"modes":[]}
