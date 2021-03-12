@@ -1,0 +1,1 @@
+2021-03-12 04:40:51.347800 {"type":"join","timestamp":1615524051.347824,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"flussence","nickname":"flussence","username":"~h","name":"enne","photo":null,"url":null,"tz":null,"host":"87.254.74.93"},"content":null,"modes":[]}
