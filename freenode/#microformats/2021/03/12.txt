@@ -1,0 +1,1 @@
+2021-03-12 02:17:38.420800 {"type":"join","timestamp":1615515458.4208398,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"iwaim_","nickname":"iwaim_","username":"~iwaim","name":"iwaim","photo":null,"url":null,"tz":null,"host":"2001:470:fd5c:2002:0:4:14:80"},"content":null,"modes":[]}
