@@ -3459,6 +3459,26 @@
         ],
         "properties": {
             "name": [
+                "hoschi-it"
+            ],
+            "nickname": [
+                "hoschi-it"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://Hoschi-it.de"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "indiewebcat"
             ],
             "nickname": [
