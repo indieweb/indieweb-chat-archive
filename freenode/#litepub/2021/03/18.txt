@@ -1,0 +1,1 @@
+2021-03-18 00:25:28.511400 {"type":"join","timestamp":1616027128.5113575,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"Ariadne","nickname":"Ariadne","username":"~ariadne","name":"Ariadne, IRC's rabbit princess","photo":null,"url":null,"tz":null,"host":"2602:fd37:1::86"},"content":null,"modes":[]}
