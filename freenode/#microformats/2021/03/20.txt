@@ -1,0 +1,1 @@
+2021-03-20 01:37:44.032800 {"type":"join","timestamp":1616204264.0328302,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"really3","nickname":"really3","username":"~justafrie","name":null,"photo":null,"url":null,"tz":null,"host":"107.152.102.135"},"content":null,"modes":[]}
