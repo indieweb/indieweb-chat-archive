@@ -938,7 +938,30 @@
                 "binyamin"
             ],
             "tz": [
-                "US/Eastern"
+                "America/New_York"
+            ],
+            "url": [
+                "http://binyam.in"
+            ],
+            "photo": [
+                "https://binyam.in/profile.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "BinyaminGreen[m]"
+            ],
+            "nickname": [
+                "BinyaminGreen[m]"
+            ],
+            "tz": [
+                "America/New_York"
             ],
             "url": [
                 "http://binyam.in"
