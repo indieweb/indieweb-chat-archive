@@ -1,0 +1,1 @@
+2021-03-23 00:16:22.441800 {"type":"join","timestamp":1616458582.4417746,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~dmitriz","name":null,"photo":null,"url":null,"tz":null,"host":"7927d3f6.publics.cloak"},"content":null,"modes":[]}
