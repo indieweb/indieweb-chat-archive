@@ -5115,6 +5115,26 @@
         ],
         "properties": {
             "name": [
+                "leecalvink"
+            ],
+            "nickname": [
+                "leecalvink"
+            ],
+            "tz": [
+                "America/Edmonton"
+            ],
+            "url": [
+                "http://thepaperlion.ca"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "LewisCowles"
             ],
             "nickname": [
