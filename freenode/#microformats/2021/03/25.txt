@@ -1,0 +1,1 @@
+2021-03-25 02:43:18.593100 {"type":"join","timestamp":1616640198.593054,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Seirdy","nickname":"Seirdy","username":"~Seirdy","name":"Seirdy","photo":null,"url":null,"tz":null,"host":"2606:2e00:8007:1::a32e"},"content":null,"modes":[]}
