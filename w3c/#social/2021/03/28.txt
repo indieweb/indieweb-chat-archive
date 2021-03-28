@@ -1,0 +1,1 @@
+2021-03-28 00:14:48.357300 {"type":"join","timestamp":1616890488.3572843,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Luke","nickname":"Luke","username":"~luke","name":null,"photo":null,"url":null,"tz":null,"host":"7927d3f6.publics.cloak"},"content":null,"modes":[]}
