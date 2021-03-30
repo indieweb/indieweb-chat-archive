@@ -1,0 +1,1 @@
+2021-03-30 00:03:45.952100 {"type":"join","timestamp":1617062625.9521458,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[tw2113_Slack_]","nickname":"[tw2113_Slack_]","username":"~slackuser","name":"tw2113_Slack_ via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
