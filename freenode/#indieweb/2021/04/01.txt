@@ -1,0 +1,1 @@
+2021-04-01 00:05:12.733500 {"type":"join","timestamp":1617235512.7335083,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bengl","nickname":"bengl","username":"sid138056","name":"bengl","photo":null,"url":null,"tz":null,"host":"gateway\/web\/irccloud.com\/x-ckdrhvjmclyixmco"},"content":null,"modes":[]}
