@@ -1,0 +1,1 @@
+2021-04-02 00:16:44.910700 {"type":"join","timestamp":1617322604.9107358,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"btrem","nickname":"btrem","username":"617e6b6a","name":"btrem via web-irc-gateway","photo":null,"url":null,"tz":null,"host":"97-126-107-106.tukw.qwest.net"},"content":null,"modes":[]}
