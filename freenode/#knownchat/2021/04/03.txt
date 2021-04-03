@@ -1,0 +1,1 @@
+2021-04-03 00:30:41.189300 {"type":"join","timestamp":1617409841.1892543,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"Jaybear","nickname":"Jaybear","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
