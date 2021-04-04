@@ -1,0 +1,1 @@
+2021-04-04 00:44:32.588300 {"type":"join","timestamp":1617497072.5882947,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[scojjac]","nickname":"[scojjac]","username":"~slackuser","name":"scojjac via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
