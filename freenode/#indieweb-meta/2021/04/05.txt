@@ -1,0 +1,1 @@
+2021-04-05 00:00:12.276100 {"type":"join","timestamp":1617580812.2760863,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"oedmarap","nickname":"oedmarap","username":"~AdminUser","name":null,"photo":null,"url":null,"tz":null,"host":"ec2-54-242-200-157.compute-1.amazonaws.com"},"content":null,"modes":[]}
