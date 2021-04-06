@@ -1,0 +1,1 @@
+2021-04-06 00:00:54.779900 {"type":"join","timestamp":1617667254.7799406,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~dmitriz","name":"Dmitri Zagidulin","photo":null,"url":null,"tz":null,"host":"7927d3f6.publics.cloak"},"content":null,"modes":[]}
