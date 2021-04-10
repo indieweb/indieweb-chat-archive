@@ -1,0 +1,1 @@
+2021-04-10 00:24:14.811600 {"type":"join","timestamp":1618014254.8115833,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[KevinMarks]","nickname":"[KevinMarks]","username":"~slackuser","name":"KevinMarks via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
