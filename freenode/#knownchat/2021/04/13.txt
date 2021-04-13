@@ -1,0 +1,1 @@
+2021-04-13 00:19:15.948800 {"type":"join","timestamp":1618273155.9488268,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"[chrisaldrich]","nickname":"[chrisaldrich]","username":"~slackuser","name":"chrisaldrich via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
