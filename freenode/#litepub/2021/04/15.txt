@@ -1,0 +1,1 @@
+2021-04-15 01:58:09.272100 {"type":"join","timestamp":1618451889.2721078,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"sigtrm","nickname":"sigtrm","username":"quassel","name":"sigtrm","photo":null,"url":null,"tz":null,"host":"quassel.woboq.de"},"content":null,"modes":[]}
