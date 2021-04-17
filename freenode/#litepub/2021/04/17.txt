@@ -1,0 +1,1 @@
+2021-04-17 03:13:43.955100 {"type":"join","timestamp":1618629223.9551473,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"narutowaifu","nickname":"narutowaifu","username":"5d20458b","name":null,"photo":null,"url":null,"tz":null,"host":"93-32-69-139.ip32.fastwebnet.it"},"content":null,"modes":[]}
