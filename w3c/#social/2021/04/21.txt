@@ -1,0 +1,1 @@
+2021-04-21 00:05:16.557500 {"type":"message","timestamp":1618963516.5575066,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"4a714a7c.public.cloak"},"content":"\ud83d\ude02","modes":[]}
