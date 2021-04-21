@@ -2739,6 +2739,26 @@
         ],
         "properties": {
             "name": [
+                "eitilt"
+            ],
+            "nickname": [
+                "eitilt"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://ag.eitilt.life"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "endi"
             ],
             "nickname": [
