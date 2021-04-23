@@ -1,0 +1,1 @@
+2021-04-23 00:00:17.838300 {"type":"join","timestamp":1619136017.8383336,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[KevinMarks]","nickname":"[KevinMarks]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
