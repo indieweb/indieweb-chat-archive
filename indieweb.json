@@ -8478,6 +8478,29 @@
         ],
         "properties": {
             "name": [
+                "timculverhouse"
+            ],
+            "nickname": [
+                "timculverhouse"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://timculverhouse.com"
+            ],
+            "photo": [
+                "https://timculverhouse.com/assets/img/tim.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "timmmmyboy"
             ],
             "nickname": [
