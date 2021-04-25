@@ -1,0 +1,1 @@
+2021-04-25 07:50:20.344900 {"type":"join","timestamp":1619337020.3448591,"network":"irc","server":"freenode","channel":{"uid":"#litepub","name":"#litepub"},"author":{"uid":"dotdotdot","nickname":"dotdotdot","username":"~dotdotdot","name":"-","photo":null,"url":null,"tz":null,"host":"85-171-78-203.rev.numericable.fr"},"content":null,"modes":[]}
