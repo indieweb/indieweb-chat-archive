@@ -1,0 +1,1 @@
+2021-04-28 01:24:17.845700 {"type":"join","timestamp":1619573057.845698,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"daniel-k","nickname":"daniel-k","username":"sid496639","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/web\/irccloud.com\/x-voaznhjbydhnyjwz"},"content":null,"modes":[]}
