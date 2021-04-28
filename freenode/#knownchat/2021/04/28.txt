@@ -1,0 +1,1 @@
+2021-04-28 00:21:38.754100 {"type":"join","timestamp":1619569298.7540853,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"derpadmin","nickname":"derpadmin","username":"~derpadmin","name":null,"photo":null,"url":null,"tz":null,"host":"2a07:12c0:1780:1313:1313:1313:1313:1313"},"content":null,"modes":[]}
