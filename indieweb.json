@@ -4176,6 +4176,29 @@
         ],
         "properties": {
             "name": [
+                "jevdemon"
+            ],
+            "nickname": [
+                "jevdemon"
+            ],
+            "tz": [
+                "America/Seattle"
+            ],
+            "url": [
+                "http://k.evdemon.org"
+            ],
+            "photo": [
+                "https://k.evdemon.org/file/6a1dd1911ecccfe5d51481e5e05d2aa2/thumb.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jfranusic"
             ],
             "nickname": [
