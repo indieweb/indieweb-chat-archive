@@ -1,0 +1,1 @@
+2021-05-04 00:18:04.862300 {"type":"join","timestamp":1620087484.8622873,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Me","nickname":"Me","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
