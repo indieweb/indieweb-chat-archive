@@ -1,0 +1,1 @@
+2021-05-05 01:57:50.583400 {"type":"join","timestamp":1620179870.5834394,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[tantek]","nickname":"[tantek]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
