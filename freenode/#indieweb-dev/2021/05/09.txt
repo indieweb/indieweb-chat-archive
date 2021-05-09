@@ -1,0 +1,1 @@
+2021-05-09 00:36:27.676600 {"type":"join","timestamp":1620520587.6766326,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"samwilson","nickname":"samwilson","username":"~sam","name":"purple","photo":null,"url":null,"tz":null,"host":"wikisource\/samwilson"},"content":null,"modes":[]}
