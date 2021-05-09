@@ -2128,6 +2128,29 @@
         ],
         "properties": {
             "name": [
+                "dianoetic"
+            ],
+            "nickname": [
+                "dianoetic"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://dianoetic.net"
+            ],
+            "photo": [
+                "https://dianoetic.net/assets/d.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dmcweeney"
             ],
             "nickname": [
