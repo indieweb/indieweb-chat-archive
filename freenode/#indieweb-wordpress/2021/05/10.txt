@@ -1,0 +1,1 @@
+2021-05-10 01:13:42.935200 {"type":"join","timestamp":1620609222.935181,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"Lucci06225","nickname":"Lucci06225","username":"~Lucci0622","name":null,"photo":null,"url":null,"tz":null,"host":"112.198.72.64"},"content":null,"modes":[]}
