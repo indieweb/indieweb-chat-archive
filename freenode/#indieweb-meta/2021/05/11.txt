@@ -1,0 +1,1 @@
+2021-05-11 00:44:41.581600 {"type":"join","timestamp":1620693881.5815845,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[tw2113_Slack_]","nickname":"[tw2113_Slack_]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
