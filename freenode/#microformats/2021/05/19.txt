@@ -1,0 +1,1 @@
+2021-05-19 01:08:49.107300 {"type":"join","timestamp":1621386529.1072953,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"jeremy","nickname":"jeremy","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
