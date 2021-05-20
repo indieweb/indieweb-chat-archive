@@ -1,0 +1,1 @@
+2021-05-20 00:28:43.469000 {"type":"join","timestamp":1621470523.4690163,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"JohnBeales","nickname":"JohnBeales","username":"~JohnBeale","name":null,"photo":null,"url":null,"tz":null,"host":"dsl-173-206-30-172.tor.primus.ca"},"content":null,"modes":[]}

@@ -1,0 +1,1 @@
+2021-05-20 00:28:37.579500 {"type":"join","timestamp":1621470517.5794647,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"JohnBeales","nickname":"JohnBeales","username":"~JohnBeale","name":null,"photo":null,"url":null,"tz":null,"host":"dsl-173-206-30-172.tor.primus.ca"},"content":null,"modes":[]}
