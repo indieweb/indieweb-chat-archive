@@ -1,0 +1,1 @@
+2021-05-21 01:01:56.847200 {"type":"join","timestamp":1621558916.8471513,"network":"irc","server":"freenode","channel":{"uid":"#knownchat","name":"#knownchat"},"author":{"uid":"digiSal","nickname":"digiSal","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
