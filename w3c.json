@@ -245,6 +245,26 @@
         ],
         "properties": {
             "name": [
+                "cel"
+            ],
+            "nickname": [
+                "cel"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "photo": [
+                "https://celehner.com/images/cel.ico"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ChristopherA"
             ],
             "nickname": [
