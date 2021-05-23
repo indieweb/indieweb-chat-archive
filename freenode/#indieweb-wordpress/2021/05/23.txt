@@ -1,0 +1,1 @@
+2021-05-23 01:27:59.894900 {"type":"join","timestamp":1621733279.8949437,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[chee]","nickname":"[chee]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"chat.indieweb.org"},"content":null,"modes":[]}
