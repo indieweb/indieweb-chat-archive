@@ -7192,6 +7192,29 @@
         ],
         "properties": {
             "name": [
+                "rockorager"
+            ],
+            "nickname": [
+                "rockorager"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://timculverhouse.com"
+            ],
+            "photo": [
+                "https://www.timculverhouse.com/assets/img/tim.jpeg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Rose"
             ],
             "nickname": [
@@ -8534,29 +8557,6 @@
             ],
             "photo": [
                 "http://www.gravatar.com/avatar/7129ff665d962af537bf7a01f392396d.png"
-            ]
-        },
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "timculverhouse"
-            ],
-            "nickname": [
-                "timculverhouse"
-            ],
-            "tz": [
-                "America/Chicago"
-            ],
-            "url": [
-                "http://timculverhouse.com"
-            ],
-            "photo": [
-                "https://timculverhouse.com/assets/img/tim.jpeg"
             ]
         },
         "lang": "en"
