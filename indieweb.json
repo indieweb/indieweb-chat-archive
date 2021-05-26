@@ -1440,6 +1440,29 @@
         ],
         "properties": {
             "name": [
+                "chee"
+            ],
+            "nickname": [
+                "chee"
+            ],
+            "tz": [
+                "Europe/Dublin"
+            ],
+            "url": [
+                "http://chee.snoot.club"
+            ],
+            "photo": [
+                "https://chee.snoot.club/chee.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "chreekat"
             ],
             "nickname": [
