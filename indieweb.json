@@ -576,6 +576,29 @@
         ],
         "properties": {
             "name": [
+                "barnaby"
+            ],
+            "nickname": [
+                "barnaby"
+            ],
+            "tz": [
+                "CET"
+            ],
+            "url": [
+                "http://waterpigs.co.uk"
+            ],
+            "photo": [
+                "https://waterpigs.co.uk/photo-2016-01-04.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "barnabywalters"
             ],
             "nickname": [
