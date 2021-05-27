@@ -1024,6 +1024,29 @@
         ],
         "properties": {
             "name": [
+                "bneil"
+            ],
+            "nickname": [
+                "bneil"
+            ],
+            "tz": [
+                "America/Denver"
+            ],
+            "url": [
+                "http://bneil.me"
+            ],
+            "photo": [
+                "https://bneil.me/images/me.gif"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bnvk"
             ],
             "nickname": [
