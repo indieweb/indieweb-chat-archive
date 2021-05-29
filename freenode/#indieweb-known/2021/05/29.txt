@@ -1,0 +1,1 @@
+2021-05-29 00:10:17.356200 {"type":"join","timestamp":1622247017.3562355,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"chrisaldrich","nickname":"chrisaldrich","username":"~chrisaldr","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1700:4810:9160:5c1c:79ed:1b5f:255a"},"content":null,"modes":[]}
