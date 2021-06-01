@@ -1,0 +1,1 @@
+2021-06-01 00:13:24.886500 {"type":"join","timestamp":1622506404.8865476,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"xmpp-social","nickname":"xmpp-social","username":"~xmpp-social","name":"xmpp-social","photo":null,"url":null,"tz":null,"host":"4a714a7c.public.cloak"},"content":null,"modes":[]}
