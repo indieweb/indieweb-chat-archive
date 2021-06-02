@@ -1,0 +1,1 @@
+2021-06-02 00:46:26.757200 {"type":"join","timestamp":1622594786.7572281,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"wagle","nickname":"wagle","username":"~wagle","name":"Perry Wagle,,,,","photo":null,"url":null,"tz":"US\/Pacific","host":"quassel.wagle.io"},"content":null,"modes":[]}
