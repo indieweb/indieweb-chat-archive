@@ -1,0 +1,1 @@
+2021-06-05 02:00:52.272500 {"type":"join","timestamp":1622858452.272457,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"IWSlackGateway1","nickname":"IWSlackGateway1","username":"~IWSlackGa","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}

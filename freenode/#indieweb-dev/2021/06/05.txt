@@ -1,0 +1,1 @@
+2021-06-05 02:00:52.246900 {"type":"join","timestamp":1622858452.246919,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"IWSlackGateway1","nickname":"IWSlackGateway1","username":"~IWSlackGa","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
