@@ -1,0 +1,1 @@
+2021-06-07 00:07:36.703500 {"type":"join","timestamp":1623024456.7035236,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"inky","nickname":"inky","username":"~inky","name":"purple","photo":null,"url":null,"tz":null,"host":"141.136.79.191"},"content":null,"modes":[]}
