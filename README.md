@@ -19,4 +19,4 @@ Each channel's files can be read using [QuartzDB](https://github.com/aaronpk/Qua
 
 ## Spam removal
 
-For a guide on how we deal with spam in these logs, see [IRC#Spam](https://indieweb.org/IRC#Spam) on the wiki.
+For a guide on how we deal with spam in these logs, see [How to remove spam](https://indieweb.org/discuss_infrastructure#How-to_remove_spam) on the wiki.
