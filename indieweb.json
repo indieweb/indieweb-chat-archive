@@ -6288,19 +6288,16 @@
         ],
         "properties": {
             "name": [
-                "myfreeweb"
+                "unrelentingtech"
             ],
             "nickname": [
-                "myfreeweb"
+                "unrelentingtech"
             ],
             "tz": [
                 "Europe/Moscow"
             ],
             "url": [
                 "http://unrelenting.technology"
-            ],
-            "photo": [
-                "https://twitter.com/myfreeweb/profile_image"
             ]
         },
         "lang": "en"
@@ -7083,6 +7080,29 @@
         ],
         "properties": {
             "name": [
+                "rattroupe"
+            ],
+            "nickname": [
+                "rattroupe"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://reiterate.app"
+            ],
+            "photo": [
+                "https://reiterate.app/images/ppt.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "raucao"
             ],
             "nickname": [
@@ -7320,6 +7340,29 @@
             ],
             "photo": [
                 "https://i0.wp.com/rosemaryorchard.com/wp-content/uploads/2019/03/igazPjBx.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "rowanmanning"
+            ],
+            "nickname": [
+                "rowanmanning"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://rowanmanning.com"
+            ],
+            "photo": [
+                "https://rowanmanning.com/about/rowan.png"
             ]
         },
         "lang": "en"
@@ -8966,10 +9009,10 @@
         ],
         "properties": {
             "name": [
-                "vika_nezrimaya"
+                "vikanezrimaya"
             ],
             "nickname": [
-                "vika_nezrimaya"
+                "vikanezrimaya"
             ],
             "tz": [
                 "Europe/Moscow"
