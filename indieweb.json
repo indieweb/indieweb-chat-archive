@@ -7215,6 +7215,29 @@
         ],
         "properties": {
             "name": [
+                "reiterate_app"
+            ],
+            "nickname": [
+                "reiterate_app"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://reiterate.app"
+            ],
+            "photo": [
+                "https://reiterate.app/images/Reiterate-logo.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "renem"
             ],
             "nickname": [
