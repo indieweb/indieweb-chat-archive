@@ -1,0 +1,1 @@
+2021-07-28 01:22:49.128300 {"type":"join","timestamp":1627435369.1282651,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"lasr[m]","nickname":"lasr[m]","username":"~lasrhalog","name":null,"photo":null,"url":null,"tz":null,"host":"2001:470:69fc:105::c875"},"content":null,"modes":[]}

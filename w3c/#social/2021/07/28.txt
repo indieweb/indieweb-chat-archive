@@ -1,0 +1,1 @@
+2021-07-28 01:24:22.336100 {"type":"join","timestamp":1627435462.3360748,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl_","nickname":"timbl_","username":"timbl","name":null,"photo":null,"url":null,"tz":null,"host":"7facbc0a.team.cloak"},"content":null,"modes":[]}
