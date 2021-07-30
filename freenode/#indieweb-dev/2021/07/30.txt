@@ -1,0 +1,1 @@
+2021-07-30 00:31:46.409200 {"type":"join","timestamp":1627605106.4091568,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"kimberlyhirsh[d]","nickname":"kimberlyhirsh[d]","username":"~kimberlyh","name":null,"photo":null,"url":null,"tz":null,"host":"akasha.petermolnar.eu"},"content":null,"modes":[]}
