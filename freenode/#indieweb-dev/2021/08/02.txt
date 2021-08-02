@@ -1,0 +1,1 @@
+2021-08-02 03:20:11.059600 {"type":"join","timestamp":1627874411.0596032,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[Emma_Humphries]","nickname":"[Emma_Humphries]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
