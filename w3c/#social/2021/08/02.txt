@@ -1,0 +1,1 @@
+2021-08-02 09:19:21.886300 {"type":"join","timestamp":1627895961.8862665,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"KjetilK_","nickname":"KjetilK_","username":"~kjetil","name":null,"photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
