@@ -1,0 +1,1 @@
+2021-08-05 00:18:13.449200 {"type":"join","timestamp":1628122693.4491546,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"neshpion","nickname":"neshpion","username":"~neshpion","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/tor-sasl\/neshpion"},"content":null,"modes":[]}
