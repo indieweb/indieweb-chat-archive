@@ -1,0 +1,1 @@
+2021-08-05 01:02:20.618400 {"type":"join","timestamp":1628125340.6183803,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"nsmsn","nickname":"nsmsn","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
