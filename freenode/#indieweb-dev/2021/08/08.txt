@@ -1,0 +1,1 @@
+2021-08-08 00:54:29.061800 {"type":"join","timestamp":1628384069.0617554,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Seirdy","nickname":"Seirdy","username":"~Seirdy","name":"Seirdy","photo":null,"url":null,"tz":null,"host":"sourcehut\/user\/seirdy"},"content":null,"modes":[]}
