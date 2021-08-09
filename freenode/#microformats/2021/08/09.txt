@@ -1,0 +1,1 @@
+2021-08-09 00:00:24.768100 {"type":"join","timestamp":1628467224.768097,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"hendursaga","nickname":"hendursaga","username":"~weechat","name":"weechat","photo":null,"url":null,"tz":null,"host":"user\/hendursaga"},"content":null,"modes":[]}
