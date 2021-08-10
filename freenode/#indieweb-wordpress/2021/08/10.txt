@@ -1,0 +1,1 @@
+2021-08-10 01:19:54.245600 {"type":"join","timestamp":1628558394.2456234,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[Sam_Butler]1","nickname":"[Sam_Butler]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
