@@ -1,0 +1,1 @@
+2021-08-13 00:39:09.160900 {"type":"join","timestamp":1628815149.1608512,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"reed","nickname":"reed","username":"~reed","name":"@smaffulli:matrix.org","photo":null,"url":null,"tz":null,"host":"user\/reed"},"content":null,"modes":[]}
