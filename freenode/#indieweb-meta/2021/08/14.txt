@@ -1,0 +1,1 @@
+2021-08-14 00:02:02.207000 {"type":"join","timestamp":1628899322.2070348,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"nertzy","nickname":"nertzy","username":"~grant","name":null,"photo":null,"url":null,"tz":null,"host":"8.6.112.244"},"content":null,"modes":[]}
