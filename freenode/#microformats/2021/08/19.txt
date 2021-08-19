@@ -1,0 +1,1 @@
+2021-08-19 00:01:14.412000 {"type":"join","timestamp":1629331274.4120462,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"charukiewicz","nickname":"charukiewicz","username":"~quassel","name":"Christian Charukiewicz","photo":null,"url":null,"tz":null,"host":"irouteince04.i.subnet.rcn.com"},"content":null,"modes":[]}
