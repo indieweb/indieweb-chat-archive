@@ -1,0 +1,1 @@
+2021-08-24 14:18:44.464900 {"type":"join","timestamp":1629814724.4649005,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"bitbear","nickname":"bitbear","username":"~sid7657","name":"Asbj\u00f8rn Ulsberg","photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
