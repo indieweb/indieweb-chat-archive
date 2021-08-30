@@ -1,0 +1,1 @@
+2021-08-30 00:44:15.340200 {"type":"join","timestamp":1630284255.3401558,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Seirdy","nickname":"Seirdy","username":"~Seirdy","name":"Seirdy","photo":null,"url":null,"tz":null,"host":"sourcehut\/user\/seirdy"},"content":null,"modes":[]}
