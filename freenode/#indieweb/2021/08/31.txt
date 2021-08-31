@@ -1,0 +1,1 @@
+2021-08-31 00:33:29.468400 {"type":"join","timestamp":1630370009.4684353,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"maxwelljoslyn[d]","nickname":"maxwelljoslyn[d]","username":"maxwelljos","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:4f8:150:8305::1"},"content":null,"modes":[]}
