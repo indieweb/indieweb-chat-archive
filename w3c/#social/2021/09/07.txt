@@ -1,0 +1,1 @@
+2021-09-07 05:03:41.047800 {"type":"join","timestamp":1630991021.047807,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tusf","nickname":"tusf","username":"~tusfmatrix","name":null,"photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
