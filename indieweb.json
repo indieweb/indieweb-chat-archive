@@ -892,6 +892,29 @@
         ],
         "properties": {
             "name": [
+                "bergeron"
+            ],
+            "nickname": [
+                "bergeron"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://chrisbergeron.com"
+            ],
+            "photo": [
+                "http://chrisbergeron.com/chrisbergeron.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "betodealmeida"
             ],
             "nickname": [
