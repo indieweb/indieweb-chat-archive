@@ -1,0 +1,1 @@
+2021-09-13 02:55:19.043900 {"type":"join","timestamp":1631501719.0439157,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bergeron","nickname":"bergeron","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
