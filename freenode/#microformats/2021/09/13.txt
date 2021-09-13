@@ -1,0 +1,1 @@
+2021-09-13 02:27:21.789500 {"type":"join","timestamp":1631500041.7894785,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"ur5us","nickname":"ur5us","username":"~ur5us","name":"realname","photo":null,"url":null,"tz":null,"host":"2406:e002:6bd3:6701:534f:b327:a77f:88b3"},"content":null,"modes":[]}
