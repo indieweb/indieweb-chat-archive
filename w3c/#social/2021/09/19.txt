@@ -1,0 +1,1 @@
+2021-09-19 18:44:42.221300 {"type":"join","timestamp":1632077082.2212808,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"puck","nickname":"puck","username":"~puck","name":"puck","photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
