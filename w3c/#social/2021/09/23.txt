@@ -1,0 +1,1 @@
+2021-09-23 05:57:57.154400 {"type":"join","timestamp":1632376677.1544435,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld5","nickname":"feld5","username":"~feld","name":null,"photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
