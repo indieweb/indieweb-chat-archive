@@ -1,0 +1,1 @@
+2021-09-27 07:56:01.136000 {"type":"join","timestamp":1632729361.1359892,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dansup","nickname":"dansup","username":"~dansup","name":"Dan Sup","photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
