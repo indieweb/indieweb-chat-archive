@@ -1,0 +1,1 @@
+2021-09-30 00:27:07.687800 {"type":"join","timestamp":1632961627.687814,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"mambang[m]","nickname":"mambang[m]","username":"~mambang","name":null,"photo":null,"url":null,"tz":null,"host":"user\/mambang"},"content":null,"modes":[]}
