@@ -1,0 +1,1 @@
+2021-10-03 12:20:24.088000 {"type":"join","timestamp":1633263624.0879786,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Letzi","nickname":"Letzi","username":"~Letzi","name":null,"photo":null,"url":null,"tz":null,"host":"8604d15a.public.cloak"},"content":null,"modes":[]}
