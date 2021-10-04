@@ -1,0 +1,1 @@
+2021-10-04 00:03:20.827400 {"type":"join","timestamp":1633305800.8273764,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[timothy_chambe]","nickname":"[timothy_chambe]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
