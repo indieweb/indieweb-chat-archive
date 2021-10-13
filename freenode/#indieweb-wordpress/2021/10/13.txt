@@ -1,0 +1,1 @@
+2021-10-13 00:57:47.294500 {"type":"join","timestamp":1634086667.294518,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"angelo","nickname":"angelo","username":"~angelo","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"2600:1700:8780:c7c0:9db:842d:a0d2:577f"},"content":null,"modes":[]}
