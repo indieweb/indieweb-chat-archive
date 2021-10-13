@@ -1,0 +1,1 @@
+2021-10-13 00:29:44.365800 {"type":"join","timestamp":1634084984.3657649,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"aranjedeath","nickname":"aranjedeath","username":"~aranjedea","name":"Jacob Taylor","photo":null,"url":null,"tz":null,"host":"user\/aranjedeath"},"content":null,"modes":[]}
