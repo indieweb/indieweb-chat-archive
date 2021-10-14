@@ -5789,6 +5789,29 @@
         ],
         "properties": {
             "name": [
+                "marksuth"
+            ],
+            "nickname": [
+                "marksuth"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://marksuth.dev"
+            ],
+            "photo": [
+                "https://marksuth.dev/avatar.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "martymcguire[m]"
             ],
             "nickname": [
