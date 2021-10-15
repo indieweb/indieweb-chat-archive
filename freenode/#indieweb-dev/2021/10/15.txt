@@ -1,0 +1,1 @@
+2021-10-15 04:56:38.748800 {"type":"join","timestamp":1634273798.748821,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"nertzy__","nickname":"nertzy__","username":"~grant","name":null,"photo":null,"url":null,"tz":null,"host":"2a09:bac0:27::809:e647"},"content":null,"modes":[]}
