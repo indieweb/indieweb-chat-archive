@@ -1,0 +1,1 @@
+2021-10-16 05:53:01.251600 {"type":"join","timestamp":1634363581.251551,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[jeremycherfas]","nickname":"[jeremycherfas]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
