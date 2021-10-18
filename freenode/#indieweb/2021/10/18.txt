@@ -1,0 +1,1 @@
+2021-10-18 03:03:59.116200 {"type":"join","timestamp":1634526239.1162415,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"Moosadee","nickname":"Moosadee","username":"~Moosadee","name":null,"photo":null,"url":null,"tz":null,"host":"136.32.155.193"},"content":null,"modes":[]}
