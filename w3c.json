@@ -245,6 +245,26 @@
         ],
         "properties": {
             "name": [
+                "castastrophe"
+            ],
+            "nickname": [
+                "castastrophe"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "photo": [
+                "http://castastrophe.com/img/profile.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cel"
             ],
             "nickname": [
