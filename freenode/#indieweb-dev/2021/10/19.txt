@@ -1,0 +1,1 @@
+2021-10-19 00:24:50.303300 {"type":"join","timestamp":1634603090.3032918,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"gRegor","nickname":"gRegor","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:9d0f:c400:451c:f7e7:b4f6:b147"},"content":null,"modes":[]}
