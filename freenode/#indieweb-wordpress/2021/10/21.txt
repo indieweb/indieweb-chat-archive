@@ -1,0 +1,1 @@
+2021-10-21 00:17:04.633000 {"type":"join","timestamp":1634775424.633048,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[chrisbergr]","nickname":"[chrisbergr]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
