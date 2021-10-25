@@ -1,0 +1,1 @@
+2021-10-25 01:15:17.750500 {"type":"join","timestamp":1635124517.7505155,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"hans1963[d]","nickname":"hans1963[d]","username":"hans1963","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:4f8:150:8305::1"},"content":null,"modes":[]}
