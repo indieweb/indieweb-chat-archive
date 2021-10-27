@@ -1,0 +1,1 @@
+2021-10-27 00:49:31.456200 {"type":"join","timestamp":1635295771.4562197,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"sebbu","nickname":"sebbu","username":"~sebbu","name":"sebbu","photo":null,"url":"http:\/\/sebbu.fr","tz":"Europe\/Paris","host":"user\/sebbu"},"content":null,"modes":[]}
