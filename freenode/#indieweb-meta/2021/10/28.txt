@@ -1,0 +1,1 @@
+2021-10-28 00:46:57.714900 {"type":"join","timestamp":1635382017.714874,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"maxwelljoslyn[d]","nickname":"maxwelljoslyn[d]","username":"maxwelljos","name":"maxwelljoslyn","photo":null,"url":null,"tz":null,"host":"2a01:4f8:150:8305::1"},"content":null,"modes":[]}
