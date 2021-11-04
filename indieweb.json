@@ -5987,6 +5987,29 @@
         ],
         "properties": {
             "name": [
+                "micahrl"
+            ],
+            "nickname": [
+                "micahrl"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://me.micahrl.com"
+            ],
+            "photo": [
+                "https://me.micahrl.com/equation.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "michael-lewis"
             ],
             "nickname": [
