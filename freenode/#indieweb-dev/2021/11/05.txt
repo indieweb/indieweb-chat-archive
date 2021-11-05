@@ -1,0 +1,1 @@
+2021-11-05 02:23:45.999900 {"type":"join","timestamp":1636079025.9998534,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"KartikPrabhu","nickname":"KartikPrabhu","username":"~kartik","name":"purple","photo":null,"url":null,"tz":null,"host":"c-68-84-110-230.hsd1.pa.comcast.net"},"content":null,"modes":[]}
