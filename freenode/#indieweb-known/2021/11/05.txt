@@ -1,0 +1,1 @@
+2021-11-05 08:44:42.132900 {"type":"join","timestamp":1636101882.1329057,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[jgmac1106]1","nickname":"[jgmac1106]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
