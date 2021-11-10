@@ -1,0 +1,1 @@
+2021-11-10 00:01:48.330800 {"type":"join","timestamp":1636502508.3308191,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Seirdy","nickname":"Seirdy","username":"~Seirdy","name":"Seirdy","photo":null,"url":null,"tz":null,"host":"sourcehut\/user\/seirdy"},"content":null,"modes":[]}
