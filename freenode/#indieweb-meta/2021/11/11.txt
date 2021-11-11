@@ -1,0 +1,1 @@
+2021-11-11 00:08:32.219600 {"type":"join","timestamp":1636589312.2195761,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"inertia","nickname":"inertia","username":"~inertia","name":null,"photo":null,"url":null,"tz":null,"host":"user\/inertia"},"content":null,"modes":[]}
