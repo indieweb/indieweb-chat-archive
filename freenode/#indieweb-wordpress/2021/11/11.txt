@@ -1,0 +1,1 @@
+2021-11-11 02:01:15.525600 {"type":"join","timestamp":1636596075.5255723,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"justache","nickname":"justache","username":"~justache","name":"justache","photo":null,"url":null,"tz":null,"host":"user\/justache"},"content":null,"modes":[]}
