@@ -1,0 +1,1 @@
+2021-11-12 01:05:42.536300 {"type":"join","timestamp":1636679142.536269,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"_inky","nickname":"_inky","username":"~inky_","name":"inky, from the tape","photo":null,"url":null,"tz":null,"host":"46.36.112.208"},"content":null,"modes":[]}
