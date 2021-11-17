@@ -1,0 +1,1 @@
+2021-11-17 00:04:00.289400 {"type":"leave","timestamp":1637107440.2893507,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"taoetc","nickname":"taoetc","username":"~user","name":null,"photo":null,"url":null,"tz":null,"host":"66.220.13.38"},"content":null,"modes":[]}
