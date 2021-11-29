@@ -1,0 +1,1 @@
+2021-11-29 04:37:44.267400 {"type":"join","timestamp":1638160664.267428,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"kimberlyhirsh[d]","nickname":"kimberlyhirsh[d]","username":"kimberlyhi","name":"kimberlyhirsh","photo":null,"url":null,"tz":null,"host":"2a01:4f8:150:8305::1"},"content":null,"modes":[]}
