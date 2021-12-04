@@ -7106,6 +7106,29 @@
         ],
         "properties": {
             "name": [
+                "Pyra_Drake"
+            ],
+            "nickname": [
+                "Pyra_Drake"
+            ],
+            "tz": [
+                "Australia/Brisbane"
+            ],
+            "url": [
+                "http://pyradrake.id.au"
+            ],
+            "photo": [
+                "https://pyradrake.id.au/wp-content/uploads/2021/12/Trynity.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rainbow-zsh"
             ],
             "nickname": [
