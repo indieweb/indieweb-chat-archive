@@ -1,0 +1,1 @@
+2021-12-04 03:35:52.732100 {"type":"join","timestamp":1638588952.7321095,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[jeremyfelt]","nickname":"[jeremyfelt]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
