@@ -1,0 +1,1 @@
+2021-12-06 02:16:18.770700 {"type":"join","timestamp":1638756978.770741,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Prash","nickname":"Prash","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
