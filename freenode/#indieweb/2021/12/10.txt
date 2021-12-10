@@ -1,0 +1,1 @@
+2021-12-10 00:14:50.723900 {"type":"join","timestamp":1639095290.7238576,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"n8chz1","nickname":"n8chz1","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"c-24-127-65-193.hsd1.mi.comcast.net"},"content":null,"modes":[]}
