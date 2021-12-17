@@ -1,0 +1,1 @@
+2021-12-17 07:29:06.770700 {"type":"join","timestamp":1639726146.770661,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"maik1","nickname":"maik1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
