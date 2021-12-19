@@ -1,0 +1,1 @@
+2021-12-19 00:51:52.281200 {"type":"join","timestamp":1639875112.2812443,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"schmudde","nickname":"schmudde","username":"~schmudde","name":null,"photo":null,"url":null,"tz":null,"host":"216.169.6.249"},"content":null,"modes":[]}
