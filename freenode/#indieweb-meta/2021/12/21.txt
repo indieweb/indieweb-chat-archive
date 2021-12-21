@@ -1,0 +1,1 @@
+2021-12-21 00:04:54.588500 {"type":"join","timestamp":1640045094.5885403,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"nertzy","nickname":"nertzy","username":"~grant","name":null,"photo":null,"url":null,"tz":null,"host":"cpe-70-112-182-10.austin.res.rr.com"},"content":null,"modes":[]}
