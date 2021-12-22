@@ -1,0 +1,1 @@
+2021-12-22 01:25:58.424100 {"type":"join","timestamp":1640136358.4241407,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"darkkirb","nickname":"darkkirb","username":"~darkkirb","name":null,"photo":null,"url":null,"tz":null,"host":"80.243.52.142"},"content":null,"modes":[]}
