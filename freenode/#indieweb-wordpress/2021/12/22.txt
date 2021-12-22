@@ -1,0 +1,1 @@
+2021-12-22 02:48:07.732500 {"type":"join","timestamp":1640141287.732526,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"fef","nickname":"fef","username":"~thedawn","name":null,"photo":null,"url":null,"tz":null,"host":"user\/thedawn"},"content":null,"modes":[]}
