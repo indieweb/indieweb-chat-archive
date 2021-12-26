@@ -1,0 +1,1 @@
+2021-12-26 00:29:26.284300 {"type":"join","timestamp":1640478566.2843146,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Eddy04[d]","nickname":"Eddy04[d]","username":"Eddy04","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:4f8:150:8305::1"},"content":null,"modes":[]}
