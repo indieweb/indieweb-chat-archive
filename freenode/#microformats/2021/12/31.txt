@@ -1,0 +1,1 @@
+2021-12-31 00:26:48.755800 {"type":"join","timestamp":1640910408.75582,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"test","nickname":"test","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}

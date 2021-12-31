@@ -1,0 +1,1 @@
+2021-12-31 00:26:48.606800 {"type":"join","timestamp":1640910408.6067824,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"test","nickname":"test","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
