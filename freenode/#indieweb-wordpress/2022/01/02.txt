@@ -1,0 +1,1 @@
+2022-01-02 01:07:33.180100 {"type":"join","timestamp":1641085653.180053,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jsbach","nickname":"jsbach","username":"~jsbach","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:c23:6522:d500:ea72:c9b8:2b50:fad1"},"content":null,"modes":[]}
