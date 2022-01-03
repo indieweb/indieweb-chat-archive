@@ -1,0 +1,1 @@
+2022-01-03 00:13:37.599500 {"type":"join","timestamp":1641168817.599489,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"eviestears","nickname":"eviestears","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}

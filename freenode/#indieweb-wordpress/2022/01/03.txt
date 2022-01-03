@@ -1,0 +1,1 @@
+2022-01-03 00:13:37.602900 {"type":"join","timestamp":1641168817.6029286,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"eviestears","nickname":"eviestears","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}

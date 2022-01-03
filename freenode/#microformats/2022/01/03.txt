@@ -1,0 +1,1 @@
+2022-01-03 00:13:37.585100 {"type":"join","timestamp":1641168817.585073,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"eviestears","nickname":"eviestears","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
