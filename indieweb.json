@@ -3609,10 +3609,13 @@
                 "Heinrich"
             ],
             "tz": [
-                "Europe/Berlin/ Heinrich-Kuemmerle-black-highres.png"
+                "Europe/Berlin"
             ],
             "url": [
                 "http://kuemmerle.name"
+            ],
+            "photo": [
+                "https://kuemmerle.name/wp-content/uploads/2021/09/Heinrich-Kuemmerle-black-highres.png"
             ]
         },
         "lang": "en"
