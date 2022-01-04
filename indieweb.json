@@ -3603,6 +3603,26 @@
         ],
         "properties": {
             "name": [
+                "Heinrich"
+            ],
+            "nickname": [
+                "Heinrich"
+            ],
+            "tz": [
+                "Europe/Berlin/ Heinrich-Kuemmerle-black-highres.png"
+            ],
+            "url": [
+                "http://kuemmerle.name"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "hibs"
             ],
             "nickname": [
