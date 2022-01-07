@@ -1,0 +1,1 @@
+2022-01-07 02:33:40.341700 {"type":"join","timestamp":1641522820.3416588,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Joe_Crawford]","nickname":"[Joe_Crawford]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
