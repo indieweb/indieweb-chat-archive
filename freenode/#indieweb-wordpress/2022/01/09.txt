@@ -1,0 +1,1 @@
+2022-01-09 02:03:01.682400 {"type":"join","timestamp":1641693781.6823993,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[James_Van_Dyne]","nickname":"[James_Van_Dyne]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
