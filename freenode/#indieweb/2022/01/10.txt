@@ -1,0 +1,1 @@
+2022-01-10 00:26:17.319900 {"type":"join","timestamp":1641774377.3198705,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"edgeduchess[d]","nickname":"edgeduchess[d]","username":"edgeduches","name":"edgeduchess","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
