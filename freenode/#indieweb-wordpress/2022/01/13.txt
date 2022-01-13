@@ -1,0 +1,1 @@
+2022-01-13 00:30:59.342600 {"type":"join","timestamp":1642033859.3426242,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"irl25519","nickname":"irl25519","username":"~irl25519","name":null,"photo":null,"url":null,"tz":null,"host":"2a02:c7f:1ec1:4000:5784:5a22:a9ef:a86f"},"content":null,"modes":[]}
