@@ -1,0 +1,1 @@
+2022-01-18 00:15:51.476100 {"type":"join","timestamp":1642464951.4760866,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"frittro","nickname":"frittro","username":"~frittro","name":null,"photo":null,"url":null,"tz":null,"host":"user\/frittro"},"content":null,"modes":[]}
