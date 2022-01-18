@@ -1,0 +1,1 @@
+2022-01-18 01:25:39.192700 {"type":"join","timestamp":1642469139.1926553,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"solo","nickname":"solo","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
