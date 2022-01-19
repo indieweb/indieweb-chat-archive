@@ -1,0 +1,1 @@
+2022-01-19 00:04:41.877800 {"type":"join","timestamp":1642550681.8777997,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"jacky","nickname":"jacky","username":"~jacky","name":"Jacky Alcine","photo":null,"url":null,"tz":null,"host":"47.199.68.120"},"content":null,"modes":[]}
