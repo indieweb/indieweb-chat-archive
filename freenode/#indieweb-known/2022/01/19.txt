@@ -1,0 +1,1 @@
+2022-01-19 06:28:23.908800 {"type":"join","timestamp":1642573703.9088013,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[tonz]","nickname":"[tonz]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
