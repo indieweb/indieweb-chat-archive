@@ -1,0 +1,1 @@
+2022-01-20 05:17:07.190300 {"type":"join","timestamp":1642655827.1903021,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"balupton[d]","nickname":"balupton[d]","username":"balupton","name":"balupton","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
