@@ -1,0 +1,1 @@
+2022-01-20 00:21:40.787300 {"type":"join","timestamp":1642638100.7873137,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"JBritSteele","nickname":"JBritSteele","username":"~jbrittste","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1011:b111:189e:40aa:f752:fc5b:db62"},"content":null,"modes":[]}
