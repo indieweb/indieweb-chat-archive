@@ -1,0 +1,1 @@
+2022-01-26 03:56:04.449200 {"type":"join","timestamp":1643169364.4492054,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"sarahd[d]","nickname":"sarahd[d]","username":"sarahd","name":"sarahd","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
