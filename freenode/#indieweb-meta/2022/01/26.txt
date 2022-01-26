@@ -1,0 +1,1 @@
+2022-01-26 01:26:41.666700 {"type":"join","timestamp":1643160401.6667244,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"darkkirb","nickname":"darkkirb","username":"~darkkirb","name":"Charlotte \ud83e\udd9d","photo":null,"url":null,"tz":null,"host":"80.243.52.144"},"content":null,"modes":[]}
