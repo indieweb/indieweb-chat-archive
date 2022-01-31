@@ -1,0 +1,1 @@
+2022-01-31 00:01:56.364700 {"type":"join","timestamp":1643587316.3646946,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"j0hnny","nickname":"j0hnny","username":"kadnsjkfnw","name":"j0hnny","photo":null,"url":null,"tz":null,"host":"shell.xshellz.com"},"content":null,"modes":[]}
