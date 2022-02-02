@@ -1,0 +1,1 @@
+2022-02-02 00:07:52.816900 {"type":"join","timestamp":1643760472.8168576,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"cygnoir[d]","nickname":"cygnoir[d]","username":"Cygnoir","name":"Cygnoir","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
