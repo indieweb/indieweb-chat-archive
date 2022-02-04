@@ -1,0 +1,1 @@
+2022-02-04 00:55:01.311500 {"type":"join","timestamp":1643936101.3115456,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"nertzy","nickname":"nertzy","username":"~grant","name":null,"photo":null,"url":null,"tz":null,"host":"2a09:bac0:15::814:7b6e"},"content":null,"modes":[]}
