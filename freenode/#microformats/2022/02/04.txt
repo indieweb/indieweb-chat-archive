@@ -1,0 +1,1 @@
+2022-02-04 01:26:27.223500 {"type":"join","timestamp":1643937987.2234602,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"darkkirb","nickname":"darkkirb","username":"~darkkirb","name":"Charlotte \ud83e\udd9d","photo":null,"url":null,"tz":null,"host":"80.243.52.145"},"content":null,"modes":[]}
