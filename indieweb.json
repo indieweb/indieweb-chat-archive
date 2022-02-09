@@ -3365,6 +3365,29 @@
         ],
         "properties": {
             "name": [
+                "ggirelli"
+            ],
+            "nickname": [
+                "ggirelli"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://ggirelli.info"
+            ],
+            "photo": [
+                "https://www.gravatar.com/avatar/029e7f13c99ac161d240a446a4f40560.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gidzit"
             ],
             "nickname": [
