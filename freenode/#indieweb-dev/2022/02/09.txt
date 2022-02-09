@@ -1,0 +1,1 @@
+2022-02-09 01:12:31.646300 {"type":"join","timestamp":1644369151.646334,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"strugee","nickname":"strugee","username":"~strugee","name":"AJ Jordan","photo":null,"url":null,"tz":null,"host":"steevie.strugee.net"},"content":null,"modes":[]}
