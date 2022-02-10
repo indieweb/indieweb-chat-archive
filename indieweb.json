@@ -17,9 +17,13 @@
                 "http://alirezahayati.com"
             ],
             "photo": [
-                "https://alirezahayati.com/static/images/avatar-bg.svg"
+                {
+                    "value": "https://alirezahayati.com/static/images/avatar-bg.svg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ARH.5Bm.5D",
         "lang": "en"
     },
     {
@@ -40,6 +44,7 @@
                 "http://brucewang.net"
             ]
         },
+        "id": "__number5__",
         "lang": "en"
     },
     {
@@ -60,6 +65,7 @@
                 "http://6a68.net"
             ]
         },
+        "id": "_6a68",
         "lang": "en"
     },
     {
@@ -80,9 +86,13 @@
                 "http://aaronparecki.com"
             ],
             "photo": [
-                "https://aaronparecki.com/images/aaronpk-128.jpg"
+                {
+                    "value": "https://aaronparecki.com/images/aaronpk-128.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "aaronpk",
         "lang": "en"
     },
     {
@@ -103,6 +113,7 @@
                 "http://acegiak.net"
             ]
         },
+        "id": "acegiak",
         "lang": "en"
     },
     {
@@ -123,6 +134,7 @@
                 "http://achor.net"
             ]
         },
+        "id": "achor",
         "lang": "en"
     },
     {
@@ -143,9 +155,13 @@
                 "http://www.ciccarello.me"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/17d306899b5f20953440eca1d65d34e0?s=128"
+                {
+                    "value": "https://secure.gravatar.com/avatar/17d306899b5f20953440eca1d65d34e0?s=128",
+                    "alt": ""
+                }
             ]
         },
+        "id": "aciccarello",
         "lang": "en"
     },
     {
@@ -166,6 +182,7 @@
                 "http://Adactio.com"
             ]
         },
+        "id": "adactio",
         "lang": "en"
     },
     {
@@ -186,9 +203,13 @@
                 "http://discursive.adamprocter.co.uk"
             ],
             "photo": [
-                "https://adamprocter.co.uk/img/profile.jpg"
+                {
+                    "value": "https://adamprocter.co.uk/img/profile.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "adamprocter",
         "lang": "en"
     },
     {
@@ -209,9 +230,13 @@
                 "http://alanpearce.eu"
             ],
             "photo": [
-                "https://alanpearce.eu/img/me-thumb.jpg"
+                {
+                    "value": "https://alanpearce.eu/img/me-thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "alanpearce",
         "lang": "en"
     },
     {
@@ -232,9 +257,13 @@
                 "http://alisonw.uk"
             ],
             "photo": [
-                "https://alisonw.uk/owner/avatar.png"
+                {
+                    "value": "https://alisonw.uk/owner/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "AlisonW",
         "lang": "en"
     },
     {
@@ -255,9 +284,13 @@
                 "http://jonrichter.de"
             ],
             "photo": [
-                "http://jonrichter.de/media/2014avatar.jpg"
+                {
+                    "value": "http://jonrichter.de/media/2014avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "almereyda",
         "lang": "en"
     },
     {
@@ -278,9 +311,13 @@
                 "http://atomicules.co.uk"
             ],
             "photo": [
-                "http://atomicules.co.uk/images/favicon.png"
+                {
+                    "value": "http://atomicules.co.uk/images/favicon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "atomicules",
         "lang": "en"
     },
     {
@@ -301,9 +338,13 @@
                 "http://Robbinespu.gitlab.io"
             ],
             "photo": [
-                "https://robbinespu.gitlab.io/images/upload/Screenshot_20210816_124946.png"
+                {
+                    "value": "https://robbinespu.gitlab.io/images/upload/Screenshot_20210816_124946.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mambang.5Bm.5D",
         "lang": "en"
     },
     {
@@ -324,9 +365,13 @@
                 "http://matienzo.org"
             ],
             "photo": [
-                "https://matienzo.org/images/matienzo.jpg"
+                {
+                    "value": "https://matienzo.org/images/matienzo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "anarchivist",
         "lang": "en"
     },
     {
@@ -347,9 +392,13 @@
                 "http://markdain.net"
             ],
             "photo": [
-                "https://markdain.net/img/mark.jpg"
+                {
+                    "value": "https://markdain.net/img/mark.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ancarda",
         "lang": "en"
     },
     {
@@ -370,6 +419,7 @@
                 "http://alexhartley.me"
             ]
         },
+        "id": "alexhartley",
         "lang": "en"
     },
     {
@@ -390,9 +440,13 @@
                 "http://www.redblobgames.com"
             ],
             "photo": [
-                "http://www.redblobgames.com/red%20blob%202d.png"
+                {
+                    "value": "http://www.redblobgames.com/red%20blob%202d.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "amitp",
         "lang": "en"
     },
     {
@@ -413,9 +467,13 @@
                 "http://angelogladding.com"
             ],
             "photo": [
-                "https://lahacker.net/images/faces/Ph7fnw7/9d4ed3afe15ce62ca6034c686d572514ba55250d4833f4e867263a761e9cbe4b.jpg"
+                {
+                    "value": "https://lahacker.net/images/faces/Ph7fnw7/9d4ed3afe15ce62ca6034c686d572514ba55250d4833f4e867263a761e9cbe4b.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "angelo",
         "lang": "en"
     },
     {
@@ -436,9 +494,13 @@
                 "http://q4.re"
             ],
             "photo": [
-                "https://q4.re/arne.jpg"
+                {
+                    "value": "https://q4.re/arne.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "argovaerts",
         "lang": "en"
     },
     {
@@ -459,6 +521,7 @@
                 "http://ashersilberman.com"
             ]
         },
+        "id": "asteres",
         "lang": "en"
     },
     {
@@ -479,9 +542,13 @@
                 "http://asuh.com"
             ],
             "photo": [
-                "https://asuh.com/images/asuh581x583.jpg"
+                {
+                    "value": "https://asuh.com/images/asuh581x583.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "asuh",
         "lang": "en"
     },
     {
@@ -502,6 +569,7 @@
                 "http://offtopica.uk"
             ]
         },
+        "id": "asymptotically",
         "lang": "en"
     },
     {
@@ -522,9 +590,13 @@
                 "http://astrid.tech"
             ],
             "photo": [
-                "https://astrid.tech/static/24700b173f821342d96c100a602340a3/3e0e0/avatar.jpg"
+                {
+                    "value": "https://astrid.tech/static/24700b173f821342d96c100a602340a3/3e0e0/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "astralbijection",
         "lang": "en"
     },
     {
@@ -545,9 +617,13 @@
                 "http://Www.kryogenix.org"
             ],
             "photo": [
-                "http://kryogenix.org/images/hackergotchi-simpler.png"
+                {
+                    "value": "http://kryogenix.org/images/hackergotchi-simpler.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "aquarius",
         "lang": "en"
     },
     {
@@ -568,9 +644,13 @@
                 "http://artlung.com"
             ],
             "photo": [
-                "http://artlung.com/blog/wp-content/uploads/2018/02/28151142_1939262596387586_3798784005059379200_n-100x100.jpg"
+                {
+                    "value": "http://artlung.com/blog/wp-content/uploads/2018/02/28151142_1939262596387586_3798784005059379200_n-100x100.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "artlung",
         "lang": "en"
     },
     {
@@ -591,6 +671,7 @@
                 "http://roblord.org"
             ]
         },
+        "id": "b0bg0d",
         "lang": "en"
     },
     {
@@ -611,9 +692,13 @@
                 "http://waterpigs.co.uk"
             ],
             "photo": [
-                "https://waterpigs.co.uk/photo-2016-01-04.jpg"
+                {
+                    "value": "https://waterpigs.co.uk/photo-2016-01-04.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "barnaby",
         "lang": "en"
     },
     {
@@ -634,9 +719,13 @@
                 "http://waterpigs.co.uk"
             ],
             "photo": [
-                "https://waterpigs.co.uk/photo-2016-01-04.jpg"
+                {
+                    "value": "https://waterpigs.co.uk/photo-2016-01-04.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "barnabywalters",
         "lang": "en"
     },
     {
@@ -657,9 +746,13 @@
                 "http://barryfrost.com"
             ],
             "photo": [
-                "https://barryf.s3.amazonaws.com/barryfrost.jpg"
+                {
+                    "value": "https://barryf.s3.amazonaws.com/barryfrost.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "barryf",
         "lang": "en"
     },
     {
@@ -680,9 +773,13 @@
                 "http://esham.io"
             ],
             "photo": [
-                "https://esham.io/images/avatar.jpg"
+                {
+                    "value": "https://esham.io/images/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bdesham",
         "lang": "en"
     },
     {
@@ -703,9 +800,13 @@
                 "http://Coty.design"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/1056694280775847936/XZ10lG-d_400x400.jpg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/1056694280775847936/XZ10lG-d_400x400.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "beacrea",
         "lang": "en"
     },
     {
@@ -726,9 +827,13 @@
                 "http://Bear.im"
             ],
             "photo": [
-                "https://bear.im/images/bear_128x128.jpg"
+                {
+                    "value": "https://bear.im/images/bear_128x128.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bear",
         "lang": "en"
     },
     {
@@ -749,9 +854,13 @@
                 "http://beko.famkos.net"
             ],
             "photo": [
-                "https://beko.famkos.net/wp-content/uploads/2019/05/photo_2017-10-20_11-57-42-40x40.jpg"
+                {
+                    "value": "https://beko.famkos.net/wp-content/uploads/2019/05/photo_2017-10-20_11-57-42-40x40.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "beko",
         "lang": "en"
     },
     {
@@ -772,9 +881,13 @@
                 "http://ben.thatmustbe.me"
             ],
             "photo": [
-                "https://ben.thatmustbe.me/image/static/icon_64.jpg"
+                {
+                    "value": "https://ben.thatmustbe.me/image/static/icon_64.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ben_thatmustbeme",
         "lang": "en"
     },
     {
@@ -795,9 +908,13 @@
                 "http://ben.thatmustbe.me"
             ],
             "photo": [
-                "https://ben.thatmustbe.me/image/static/icon_64.jpg"
+                {
+                    "value": "https://ben.thatmustbe.me/image/static/icon_64.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ben_thatmust",
         "lang": "en"
     },
     {
@@ -818,6 +935,7 @@
                 "http://Benatkin.com"
             ]
         },
+        "id": "benatkin",
         "lang": "en"
     },
     {
@@ -838,9 +956,13 @@
                 "http://benharr.is"
             ],
             "photo": [
-                "https://benharr.is/images/profilepic.jpg"
+                {
+                    "value": "https://benharr.is/images/profilepic.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "benharri",
         "lang": "en"
     },
     {
@@ -861,6 +983,7 @@
                 "http://Throwingbones.com"
             ]
         },
+        "id": "benprew",
         "lang": "en"
     },
     {
@@ -881,9 +1004,13 @@
                 "http://bengo.is"
             ],
             "photo": [
-                "https://cldup.com/wk0lcdq6cj.jpg"
+                {
+                    "value": "https://cldup.com/wk0lcdq6cj.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bengo",
         "lang": "en"
     },
     {
@@ -904,9 +1031,13 @@
                 "http://Werd.io"
             ],
             "photo": [
-                "http://werd.io/file/538d0a4cbed7de5111a1ad31/thumb.jpg"
+                {
+                    "value": "http://werd.io/file/538d0a4cbed7de5111a1ad31/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "benwerd",
         "lang": "en"
     },
     {
@@ -927,9 +1058,13 @@
                 "http://chrisbergeron.com"
             ],
             "photo": [
-                "http://chrisbergeron.com/chrisbergeron.png"
+                {
+                    "value": "http://chrisbergeron.com/chrisbergeron.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bergeron",
         "lang": "en"
     },
     {
@@ -950,9 +1085,13 @@
                 "http://taoetc.org"
             ],
             "photo": [
-                "https://blog.taoetc.org/img/beto_dealmeida.jpg"
+                {
+                    "value": "https://blog.taoetc.org/img/beto_dealmeida.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "betodealmeida",
         "lang": "en"
     },
     {
@@ -973,6 +1112,7 @@
                 "http://bigbluehat.com"
             ]
         },
+        "id": "bigbluehat",
         "lang": "en"
     },
     {
@@ -993,6 +1133,7 @@
                 "http://sebastian.kip.pe"
             ]
         },
+        "id": "binbasti",
         "lang": "en"
     },
     {
@@ -1013,9 +1154,13 @@
                 "http://binyam.in"
             ],
             "photo": [
-                "https://binyam.in/profile.jpeg"
+                {
+                    "value": "https://binyam.in/profile.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "binyamin",
         "lang": "en"
     },
     {
@@ -1036,9 +1181,13 @@
                 "http://binyam.in"
             ],
             "photo": [
-                "https://binyam.in/profile.jpeg"
+                {
+                    "value": "https://binyam.in/profile.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "BinyaminGreen.5Bm.5D",
         "lang": "en"
     },
     {
@@ -1059,9 +1208,13 @@
                 "http://bjoern.stierand.org"
             ],
             "photo": [
-                "https://bjoern.stierand.org/assets/images/head.jpg"
+                {
+                    "value": "https://bjoern.stierand.org/assets/images/head.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bjoern",
         "lang": "en"
     },
     {
@@ -1082,9 +1235,13 @@
                 "http://bneil.me"
             ],
             "photo": [
-                "https://bneil.me/images/me.gif"
+                {
+                    "value": "https://bneil.me/images/me.gif",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bneil",
         "lang": "en"
     },
     {
@@ -1105,9 +1262,13 @@
                 "http://Brennannovak.com"
             ],
             "photo": [
-                "https://brennannovak.com/uploads/sites/1/Me_Train_Tracks_200.jpg"
+                {
+                    "value": "https://brennannovak.com/uploads/sites/1/Me_Train_Tracks_200.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bnvk",
         "lang": "en"
     },
     {
@@ -1128,9 +1289,13 @@
                 "http://manuel-strehl.de"
             ],
             "photo": [
-                "https://www.manuel-strehl.de/assets/image/touch/avatar48.png"
+                {
+                    "value": "https://www.manuel-strehl.de/assets/image/touch/avatar48.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "boldewyn",
         "lang": "en"
     },
     {
@@ -1151,9 +1316,13 @@
                 "http://ramblinggit.com"
             ],
             "photo": [
-                "https://micro.blog/bradenslen/avatar.jpg"
+                {
+                    "value": "https://micro.blog/bradenslen/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bradenslen",
         "lang": "en"
     },
     {
@@ -1174,6 +1343,7 @@
                 "http://bradleyallen.info"
             ]
         },
+        "id": "bradleyallen",
         "lang": "en"
     },
     {
@@ -1194,9 +1364,13 @@
                 "http://brandonrozek.com"
             ],
             "photo": [
-                "https://brandonrozek.com/wp-content/themes/developersLife/assets/profile152x152.png"
+                {
+                    "value": "https://brandonrozek.com/wp-content/themes/developersLife/assets/profile152x152.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "brandonrozek",
         "lang": "en"
     },
     {
@@ -1217,9 +1391,13 @@
                 "http://brandur.org"
             ],
             "photo": [
-                "https://brandur.org/assets/images/about/avatar.jpg"
+                {
+                    "value": "https://brandur.org/assets/images/about/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "brandur",
         "lang": "en"
     },
     {
@@ -1240,6 +1418,7 @@
                 "http://loveiswhoweare.com"
             ]
         },
+        "id": "Bryn_Wolf",
         "lang": "en"
     },
     {
@@ -1260,6 +1439,7 @@
                 "http://www.atoddswithclarity.com"
             ]
         },
+        "id": "brainTrain",
         "lang": "en"
     },
     {
@@ -1280,9 +1460,13 @@
                 "http://Bret.io"
             ],
             "photo": [
-                "http://www.gravatar.com/avatar/8d8b82740cb7ca994449cccd1dfdef5f.png"
+                {
+                    "value": "http://www.gravatar.com/avatar/8d8b82740cb7ca994449cccd1dfdef5f.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "bret",
         "lang": "en"
     },
     {
@@ -1303,6 +1487,7 @@
                 "http://bjb.io"
             ]
         },
+        "id": "brianloveswords",
         "lang": "en"
     },
     {
@@ -1323,6 +1508,7 @@
                 "http://butterwell.exploratori.us"
             ]
         },
+        "id": "butterwell",
         "lang": "en"
     },
     {
@@ -1343,9 +1529,13 @@
                 "http://patrick.craftycorvid.com"
             ],
             "photo": [
-                "https://gravatar.com/avatar/d025c6693e64f2851458a914a24b11a5.png"
+                {
+                    "value": "https://gravatar.com/avatar/d025c6693e64f2851458a914a24b11a5.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "callovarne",
         "lang": "en"
     },
     {
@@ -1366,6 +1556,7 @@
                 "http://cambridgeport90.org"
             ]
         },
+        "id": "cambridgeport90",
         "lang": "en"
     },
     {
@@ -1386,9 +1577,13 @@
                 "http://calumryan.com"
             ],
             "photo": [
-                "https://calumryan.com/images/profile_md.jpg"
+                {
+                    "value": "https://calumryan.com/images/profile_md.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "calumryan",
         "lang": "en"
     },
     {
@@ -1409,6 +1604,7 @@
                 "http://Caseorganic.com"
             ]
         },
+        "id": "caseorganic",
         "lang": "en"
     },
     {
@@ -1429,9 +1625,13 @@
                 "http://cdevroe.com"
             ],
             "photo": [
-                "http://static.public.getbarley.com/colin.getbarley.com/barley-media-uploads/2015/6/60d4331b552d475fb5d7bef8c4501b9a.jpg"
+                {
+                    "value": "http://static.public.getbarley.com/colin.getbarley.com/barley-media-uploads/2015/6/60d4331b552d475fb5d7bef8c4501b9a.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cdevroe",
         "lang": "en"
     },
     {
@@ -1452,9 +1652,13 @@
                 "http://blog.storycards.net"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/b8d17b38f5e6ac7af37e18a0e78f70bf"
+                {
+                    "value": "https://secure.gravatar.com/avatar/b8d17b38f5e6ac7af37e18a0e78f70bf",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cgrayson",
         "lang": "en"
     },
     {
@@ -1475,9 +1679,13 @@
                 "http://chaitanya.page"
             ],
             "photo": [
-                "https://micro.blog/chaitanya/avatar.jpg"
+                {
+                    "value": "https://micro.blog/chaitanya/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "chaitanya",
         "lang": "en"
     },
     {
@@ -1498,9 +1706,13 @@
                 "http://chromic.org"
             ],
             "photo": [
-                "https://chromic.org/images/bio-photo.png"
+                {
+                    "value": "https://chromic.org/images/bio-photo.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "chimo",
         "lang": "en"
     },
     {
@@ -1521,9 +1733,13 @@
                 "http://chee.snoot.club"
             ],
             "photo": [
-                "https://chee.snoot.club/chee.jpg"
+                {
+                    "value": "https://chee.snoot.club/chee.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "chee",
         "lang": "en"
     },
     {
@@ -1544,6 +1760,7 @@
                 "http://chreekat.net"
             ]
         },
+        "id": "chreekat",
         "lang": "en"
     },
     {
@@ -1564,9 +1781,13 @@
                 "http://boffosocko.com"
             ],
             "photo": [
-                "https://www.boffosocko.com/logo.jpg"
+                {
+                    "value": "https://www.boffosocko.com/logo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "chrisaldrich",
         "lang": "en"
     },
     {
@@ -1587,9 +1808,13 @@
                 "http://chrisburnell.com"
             ],
             "photo": [
-                "https://chrisburnell.com/images/avatar.png"
+                {
+                    "value": "https://chrisburnell.com/images/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "chrisburnell",
         "lang": "en"
     },
     {
@@ -1610,6 +1835,7 @@
                 "http://chrischerrett.co.uk"
             ]
         },
+        "id": "chrischerrett",
         "lang": "en"
     },
     {
@@ -1630,6 +1856,7 @@
                 "http://Chrisroos.co.uk"
             ]
         },
+        "id": "chrisroos",
         "lang": "en"
     },
     {
@@ -1650,6 +1877,7 @@
                 "http://cj.w6k.ca"
             ]
         },
+        "id": "cjw6k",
         "lang": "en"
     },
     {
@@ -1670,9 +1898,13 @@
                 "http://cleverdevil.io"
             ],
             "photo": [
-                "http://cleverdevil.io/file/aebc8830bb7d63be725f43949ed90fa4/thumb.jpg"
+                {
+                    "value": "http://cleverdevil.io/file/aebc8830bb7d63be725f43949ed90fa4/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cleverdevil",
         "lang": "en"
     },
     {
@@ -1693,9 +1925,13 @@
                 "http://christinahendricks.ca"
             ],
             "photo": [
-                "http://christinahendricks.ca/wp-content/uploads/2019/12/christina_y17_0701r1c_web_large-best.jpg"
+                {
+                    "value": "http://christinahendricks.ca/wp-content/uploads/2019/12/christina_y17_0701r1c_web_large-best.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "clhendricksbc",
         "lang": "en"
     },
     {
@@ -1716,6 +1952,7 @@
                 "http://Cmal.info"
             ]
         },
+        "id": "cmal",
         "lang": "en"
     },
     {
@@ -1736,6 +1973,7 @@
                 "http://colelyman.com"
             ]
         },
+        "id": "colelyman",
         "lang": "en"
     },
     {
@@ -1756,9 +1994,13 @@
                 "http://Colintedford.com"
             ],
             "photo": [
-                "http://colintedford.com/u/2015/cted-px-icon.png"
+                {
+                    "value": "http://colintedford.com/u/2015/cted-px-icon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "colintedford",
         "lang": "en"
     },
     {
@@ -1779,9 +2021,13 @@
                 "http://colinwalker.blog"
             ],
             "photo": [
-                "http://colinwalker.blog/colinwalker-thumb.jpg"
+                {
+                    "value": "http://colinwalker.blog/colinwalker-thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "colinwalker",
         "lang": "en"
     },
     {
@@ -1802,6 +2048,7 @@
                 "http://corntoole.micro.blog"
             ]
         },
+        "id": "corntoole",
         "lang": "en"
     },
     {
@@ -1822,9 +2069,13 @@
                 "http://cowglow.com"
             ],
             "photo": [
-                "https://indieweb.org/images/8/85/psaa.png"
+                {
+                    "value": "https://indieweb.org/images/8/85/psaa.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cowglow",
         "lang": "en"
     },
     {
@@ -1845,9 +2096,13 @@
                 "http://tonyburns.net"
             ],
             "photo": [
-                "https://s.gravatar.com/avatar/3499f0da01e50fbc716d431fda9e4478"
+                {
+                    "value": "https://s.gravatar.com/avatar/3499f0da01e50fbc716d431fda9e4478",
+                    "alt": ""
+                }
             ]
         },
+        "id": "craftyphotons",
         "lang": "en"
     },
     {
@@ -1868,6 +2123,7 @@
                 "http://ike.io"
             ]
         },
+        "id": "crossdiver",
         "lang": "en"
     },
     {
@@ -1888,9 +2144,13 @@
                 "http://crowdersoup.com"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/2574579885e58fc56cdb3af0c1cda01f"
+                {
+                    "value": "https://secure.gravatar.com/avatar/2574579885e58fc56cdb3af0c1cda01f",
+                    "alt": ""
+                }
             ]
         },
+        "id": "CrowderSoup",
         "lang": "en"
     },
     {
@@ -1911,6 +2171,7 @@
                 "http://charles.stanho.pe"
             ]
         },
+        "id": "cstanhope",
         "lang": "en"
     },
     {
@@ -1931,9 +2192,13 @@
                 "http://cweiske.de"
             ],
             "photo": [
-                "http://avatar.cweiske.de/avatar/9e263681488308e5e5d5e548b2f9bc99"
+                {
+                    "value": "http://avatar.cweiske.de/avatar/9e263681488308e5e5d5e548b2f9bc99",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cweiske",
         "lang": "en"
     },
     {
@@ -1954,9 +2219,13 @@
                 "http://cuibonobo.com"
             ],
             "photo": [
-                "http://i.imgur.com/i263dCJ.jpg"
+                {
+                    "value": "http://i.imgur.com/i263dCJ.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cuibonobo",
         "lang": "en"
     },
     {
@@ -1977,9 +2246,13 @@
                 "http://Wwwtech.de_about"
             ],
             "photo": [
-                "https://wwwtech.de/images/christian-kruse-242470c34a3671da4cab3e3b0d941729.jpg"
+                {
+                    "value": "https://wwwtech.de/images/christian-kruse-242470c34a3671da4cab3e3b0d941729.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cjk101010",
         "lang": "en"
     },
     {
@@ -2000,9 +2273,13 @@
                 "http://Www.cygnoir.net"
             ],
             "photo": [
-                "http://micro.blog/cygnoir/avatar.jpg"
+                {
+                    "value": "http://micro.blog/cygnoir/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "cygnoir",
         "lang": "en"
     },
     {
@@ -2023,6 +2300,7 @@
                 "http://danbri.org"
             ]
         },
+        "id": "danbri",
         "lang": "en"
     },
     {
@@ -2043,6 +2321,7 @@
                 "http://www.flutterby.net_user:danlyke"
             ]
         },
+        "id": "danlyke",
         "lang": "en"
     },
     {
@@ -2063,9 +2342,13 @@
                 "http://Tinysubversions.com"
             ],
             "photo": [
-                "https://tinysubversions.com/pics/profile-fc-small.jpg"
+                {
+                    "value": "https://tinysubversions.com/pics/profile-fc-small.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dariusk",
         "lang": "en"
     },
     {
@@ -2086,6 +2369,7 @@
                 "http://www.bushlabs.com"
             ]
         },
+        "id": "davidb7",
         "lang": "en"
     },
     {
@@ -2106,6 +2390,7 @@
                 "http://davidized.com"
             ]
         },
+        "id": "davidized",
         "lang": "en"
     },
     {
@@ -2126,9 +2411,13 @@
                 "http://davidjohnmead.com"
             ],
             "photo": [
-                "https://dl.dropboxusercontent.com/u/994285/davidjohnmead.jpg"
+                {
+                    "value": "https://dl.dropboxusercontent.com/u/994285/davidjohnmead.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "davidmead",
         "lang": "en"
     },
     {
@@ -2149,6 +2438,7 @@
                 "http://davegoesthedistance.com"
             ]
         },
+        "id": "dave",
         "lang": "en"
     },
     {
@@ -2169,6 +2459,7 @@
                 "http://davegoesthedistance.com"
             ]
         },
+        "id": "David_Millar",
         "lang": "en"
     },
     {
@@ -2189,9 +2480,13 @@
                 "http://davidpea.ch"
             ],
             "photo": [
-                "http://davidpea.ch/img/avatar.jpg"
+                {
+                    "value": "http://davidpea.ch/img/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "davidpeach",
         "lang": "en"
     },
     {
@@ -2212,9 +2507,13 @@
                 "http://davy.tyrrell.co"
             ],
             "photo": [
-                "https://davy.tyrrell.co/media/tmpProfile.png"
+                {
+                    "value": "https://davy.tyrrell.co/media/tmpProfile.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "davy__",
         "lang": "en"
     },
     {
@@ -2235,6 +2534,7 @@
                 "http://www.madmode.com"
             ]
         },
+        "id": "dckc",
         "lang": "en"
     },
     {
@@ -2255,9 +2555,13 @@
                 "http://joelpurra.com"
             ],
             "photo": [
-                "https://joelpurra.com/image/joel-purra-512x768.jpg"
+                {
+                    "value": "https://joelpurra.com/image/joel-purra-512x768.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "deathrow1",
         "lang": "en"
     },
     {
@@ -2278,9 +2582,13 @@
                 "http://dianoetic.net"
             ],
             "photo": [
-                "https://dianoetic.net/assets/d.png"
+                {
+                    "value": "https://dianoetic.net/assets/d.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dianoetic",
         "lang": "en"
     },
     {
@@ -2301,9 +2609,13 @@
                 "http://Drewmcweeney.com"
             ],
             "photo": [
-                "http://drewmcweeney.com/wp-content/uploads/2018/12/Drexel-University-Concert.jpg"
+                {
+                    "value": "http://drewmcweeney.com/wp-content/uploads/2018/12/Drexel-University-Concert.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dmcweeney",
         "lang": "en"
     },
     {
@@ -2324,6 +2636,7 @@
                 "http://www.davethewebguy.com"
             ]
         },
+        "id": "DWGinNYC",
         "lang": "en"
     },
     {
@@ -2344,6 +2657,7 @@
                 "http://deiu.rww.io"
             ]
         },
+        "id": "deiu",
         "lang": "en"
     },
     {
@@ -2364,9 +2678,13 @@
                 "http://www.desttinghim.name"
             ],
             "photo": [
-                "http://www.desttinghim.name/avatar.png"
+                {
+                    "value": "http://www.desttinghim.name/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "desttinghim",
         "lang": "en"
     },
     {
@@ -2387,6 +2705,7 @@
                 "http://dunlaps.net/darius"
             ]
         },
+        "id": "dariusdunlap",
         "lang": "en"
     },
     {
@@ -2407,9 +2726,13 @@
                 "http://https://dustycloud.org"
             ],
             "photo": [
-                "https://dustycloud.org/gfx/goodies/racktris-terminal-avatar.png"
+                {
+                    "value": "https://dustycloud.org/gfx/goodies/racktris-terminal-avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dustyweb",
         "lang": "en"
     },
     {
@@ -2430,6 +2753,7 @@
                 "http://deeden.co.uk"
             ]
         },
+        "id": "deeden",
         "lang": "en"
     },
     {
@@ -2450,9 +2774,13 @@
                 "http://dem.cx"
             ],
             "photo": [
-                "https://dem.cx/i/amani-mena.jpg"
+                {
+                    "value": "https://dem.cx/i/amani-mena.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dem.cx",
         "lang": "en"
     },
     {
@@ -2473,9 +2801,13 @@
                 "http://ascraeus.org"
             ],
             "photo": [
-                "https://ascraeus.org/pictures/marvin.png"
+                {
+                    "value": "https://ascraeus.org/pictures/marvin.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dgold",
         "lang": "en"
     },
     {
@@ -2496,6 +2828,7 @@
                 "http://metafluff.com"
             ]
         },
+        "id": "dietrich",
         "lang": "en"
     },
     {
@@ -2516,6 +2849,7 @@
                 "http://retout.co.uk"
             ]
         },
+        "id": "diocles",
         "lang": "en"
     },
     {
@@ -2536,9 +2870,13 @@
                 "http://wirres.net"
             ],
             "photo": [
-                "https://assets.wirres.net/03022687630_h2.jpg"
+                {
+                    "value": "https://assets.wirres.net/03022687630_h2.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "diplix",
         "lang": "en"
     },
     {
@@ -2559,9 +2897,13 @@
                 "http://danielmoch.com"
             ],
             "photo": [
-                "https://danielmoch.com/assets/avatar.jpg"
+                {
+                    "value": "https://danielmoch.com/assets/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "djmoch",
         "lang": "en"
     },
     {
@@ -2582,9 +2924,13 @@
                 "http://dmitri.shuralyov.com"
             ],
             "photo": [
-                "https://dmitri.shuralyov.com/avatar-32.jpg"
+                {
+                    "value": "https://dmitri.shuralyov.com/avatar-32.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dmitshur",
         "lang": "en"
     },
     {
@@ -2605,9 +2951,13 @@
                 "http://glenn.thedixons.net"
             ],
             "photo": [
-                "https://glenn.thedixons.net/wp-content/uploads/2018/07/ig3JlW1h-150x150.jpg"
+                {
+                    "value": "https://glenn.thedixons.net/wp-content/uploads/2018/07/ig3JlW1h-150x150.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "donblanco",
         "lang": "en"
     },
     {
@@ -2628,6 +2978,7 @@
                 "http://donpark.org"
             ]
         },
+        "id": "donpdonp",
         "lang": "en"
     },
     {
@@ -2648,6 +2999,7 @@
                 "http://www.dori.com"
             ]
         },
+        "id": "dori",
         "lang": "en"
     },
     {
@@ -2668,9 +3020,13 @@
                 "http://nicoletollefson.com"
             ],
             "photo": [
-                "http://nicoletollefson.com/landscape.jpg"
+                {
+                    "value": "http://nicoletollefson.com/landscape.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dotnic",
         "lang": "en"
     },
     {
@@ -2691,9 +3047,13 @@
                 "http://doubleloop.net"
             ],
             "photo": [
-                "https://doubleloop.net/images/profile.jpg"
+                {
+                    "value": "https://doubleloop.net/images/profile.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "doubleloop",
         "lang": "en"
     },
     {
@@ -2714,9 +3074,13 @@
                 "http://dougbeal.com"
             ],
             "photo": [
-                "http://gravatar.com/avatar/4aef6f46cd0c5c51bbf5c15d4e66b35e.png"
+                {
+                    "value": "http://gravatar.com/avatar/4aef6f46cd0c5c51bbf5c15d4e66b35e.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "dougbeal",
         "lang": "en"
     },
     {
@@ -2737,6 +3101,7 @@
                 "http://dougmckown.com"
             ]
         },
+        "id": "dougmckown",
         "lang": "en"
     },
     {
@@ -2757,6 +3122,7 @@
                 "http://dpk.io"
             ]
         },
+        "id": "dpk",
         "lang": "en"
     },
     {
@@ -2777,6 +3143,7 @@
                 "http://dym.sh"
             ]
         },
+        "id": "dym",
         "lang": "en"
     },
     {
@@ -2797,9 +3164,13 @@
                 "http://eddiehinkle.com"
             ],
             "photo": [
-                "https://eddiehinkle.com/images/profile.jpg"
+                {
+                    "value": "https://eddiehinkle.com/images/profile.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "eddie",
         "lang": "en"
     },
     {
@@ -2820,9 +3191,13 @@
                 "http://eddiehinkle.com"
             ],
             "photo": [
-                "https://eddiehinkle.com/images/profile.jpg"
+                {
+                    "value": "https://eddiehinkle.com/images/profile.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "eddiehinkle",
         "lang": "en"
     },
     {
@@ -2843,9 +3218,13 @@
                 "http://theta.eu.org"
             ],
             "photo": [
-                "https://theta.eu.org/assets/logo.png"
+                {
+                    "value": "https://theta.eu.org/assets/logo.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "eeeeeta",
         "lang": "en"
     },
     {
@@ -2866,9 +3245,13 @@
                 "http://inkdroid.org"
             ],
             "photo": [
-                "http://www.gravatar.com/avatar/d09b0c40cfc33125691b128b3fbe539d.png"
+                {
+                    "value": "http://www.gravatar.com/avatar/d09b0c40cfc33125691b128b3fbe539d.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "edsu",
         "lang": "en"
     },
     {
@@ -2889,9 +3272,13 @@
                 "http://ehlovader.com"
             ],
             "photo": [
-                "https://dl.dropboxusercontent.com/u/25741255/EHLOVader.png"
+                {
+                    "value": "https://dl.dropboxusercontent.com/u/25741255/EHLOVader.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ehlovader",
         "lang": "en"
     },
     {
@@ -2912,6 +3299,7 @@
                 "http://ag.eitilt.life"
             ]
         },
+        "id": "eitilt",
         "lang": "en"
     },
     {
@@ -2932,9 +3320,13 @@
                 "http://stefanovski.io"
             ],
             "photo": [
-                "https://stefanovski.io/s/Profile_Versailles_256px.jpg"
+                {
+                    "value": "https://stefanovski.io/s/Profile_Versailles_256px.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "endi",
         "lang": "en"
     },
     {
@@ -2955,9 +3347,13 @@
                 "http://exppad.com"
             ],
             "photo": [
-                "http://data.exppad.com/public/elie/images/avatar.png"
+                {
+                    "value": "http://data.exppad.com/public/elie/images/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "elie",
         "lang": "en"
     },
     {
@@ -2978,9 +3374,13 @@
                 "http://eli.li"
             ],
             "photo": [
-                "http://eli.li/imgs/1.jpg"
+                {
+                    "value": "http://eli.li/imgs/1.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "eli_oat",
         "lang": "en"
     },
     {
@@ -3001,9 +3401,13 @@
                 "http://elliottucker.net"
             ],
             "photo": [
-                "http://elliottucker.net/file/53f4ff46a47375a7118b4568/thumb.png"
+                {
+                    "value": "http://elliottucker.net/file/53f4ff46a47375a7118b4568/thumb.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "elliottucker",
         "lang": "en"
     },
     {
@@ -3024,6 +3428,7 @@
                 "http://ellton.me"
             ]
         },
+        "id": "ellton",
         "lang": "en"
     },
     {
@@ -3044,9 +3449,13 @@
                 "http://emmahodge.org"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/707062535791321088/LvpviC2W.jpg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/707062535791321088/LvpviC2W.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "EmmaH",
         "lang": "en"
     },
     {
@@ -3067,9 +3476,13 @@
                 "http://emmah.net"
             ],
             "photo": [
-                "http://emmah.net/public/images/glasses.jpg"
+                {
+                    "value": "http://emmah.net/public/images/glasses.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "emceeaich",
         "lang": "en"
     },
     {
@@ -3090,6 +3503,7 @@
                 "http://notenoughneon.com"
             ]
         },
+        "id": "emmak",
         "lang": "en"
     },
     {
@@ -3110,6 +3524,7 @@
                 "http://erikmaarten.com"
             ]
         },
+        "id": "erikmaarten",
         "lang": "en"
     },
     {
@@ -3130,9 +3545,13 @@
                 "http://t37.net"
             ],
             "photo": [
-                "http://t37.net/files/resource/1396/thumb_dGVbyzQU.jpeg"
+                {
+                    "value": "http://t37.net/files/resource/1396/thumb_dGVbyzQU.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "fdevillamil",
         "lang": "en"
     },
     {
@@ -3153,6 +3572,7 @@
                 "http://fiatjaf.alhur.es"
             ]
         },
+        "id": "fiatjaf",
         "lang": "en"
     },
     {
@@ -3173,9 +3593,13 @@
                 "http://rawlinson.us"
             ],
             "photo": [
-                "http://rawlinson.us/bill/thumbnail.jpg"
+                {
+                    "value": "http://rawlinson.us/bill/thumbnail.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "finalcut",
         "lang": "en"
     },
     {
@@ -3196,9 +3620,13 @@
                 "http://beesbuzz.biz"
             ],
             "photo": [
-                "https://beesbuzz.biz/static/headshot.jpg?1"
+                {
+                    "value": "https://beesbuzz.biz/static/headshot.jpg?1",
+                    "alt": ""
+                }
             ]
         },
+        "id": "fluffy",
         "lang": "en"
     },
     {
@@ -3219,9 +3647,13 @@
                 "http://Diggingthedigital.com"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/ae0d61ecec9ba68060523144917aed32"
+                {
+                    "value": "https://secure.gravatar.com/avatar/ae0d61ecec9ba68060523144917aed32",
+                    "alt": ""
+                }
             ]
         },
+        "id": "frank",
         "lang": "en"
     },
     {
@@ -3242,9 +3674,13 @@
                 "http://fredcy.com"
             ],
             "photo": [
-                "https://fredcy.com/images/self.jpg"
+                {
+                    "value": "https://fredcy.com/images/self.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "fredcy",
         "lang": "en"
     },
     {
@@ -3265,9 +3701,13 @@
                 "http://www.funwhilelost.com"
             ],
             "photo": [
-                "http://www.funwhilelost.com/file/2df8c4b09dc4893cf66008de813eadda"
+                {
+                    "value": "http://www.funwhilelost.com/file/2df8c4b09dc4893cf66008de813eadda",
+                    "alt": ""
+                }
             ]
         },
+        "id": "funwhilelost",
         "lang": "en"
     },
     {
@@ -3288,6 +3728,7 @@
                 "http://gavin.carothers.name"
             ]
         },
+        "id": "gavinc",
         "lang": "en"
     },
     {
@@ -3308,9 +3749,13 @@
                 "http://genehack.org"
             ],
             "photo": [
-                "http://genehack.org/images/genehack.jpg"
+                {
+                    "value": "http://genehack.org/images/genehack.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "genehack",
         "lang": "en"
     },
     {
@@ -3331,9 +3776,13 @@
                 "http://jbn.abreka.com"
             ],
             "photo": [
-                "http://jbn.abreka.com/img/me_smaller.png"
+                {
+                    "value": "http://jbn.abreka.com/img/me_smaller.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "generativist",
         "lang": "en"
     },
     {
@@ -3354,9 +3803,13 @@
                 "http://hans.gerwitz.com"
             ],
             "photo": [
-                "https://s.gravatar.com/avatar/1e1162be11b9724d9426a9dadd43f60d.jpg"
+                {
+                    "value": "https://s.gravatar.com/avatar/1e1162be11b9724d9426a9dadd43f60d.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "gerwitz",
         "lang": "en"
     },
     {
@@ -3377,9 +3830,13 @@
                 "http://ggirelli.info"
             ],
             "photo": [
-                "https://www.gravatar.com/avatar/029e7f13c99ac161d240a446a4f40560.jpg"
+                {
+                    "value": "https://www.gravatar.com/avatar/029e7f13c99ac161d240a446a4f40560.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ggirelli",
         "lang": "en"
     },
     {
@@ -3400,6 +3857,7 @@
                 "http://me.gidzit.org"
             ]
         },
+        "id": "gidzit",
         "lang": "en"
     },
     {
@@ -3420,6 +3878,7 @@
                 "http://gkbrk.com"
             ]
         },
+        "id": "gkbrk",
         "lang": "en"
     },
     {
@@ -3440,9 +3899,13 @@
                 "http://glennjones.net"
             ],
             "photo": [
-                "http://glennjones.net/images/photo-small.png"
+                {
+                    "value": "http://glennjones.net/images/photo-small.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "glennjones",
         "lang": "en"
     },
     {
@@ -3463,9 +3926,13 @@
                 "http://grant.codes"
             ],
             "photo": [
-                "https://grant.codes/icons/favicon-32x32.png"
+                {
+                    "value": "https://grant.codes/icons/favicon-32x32.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "grantcodes",
         "lang": "en"
     },
     {
@@ -3486,9 +3953,13 @@
                 "http://gregorlove.com"
             ],
             "photo": [
-                "https://gregorlove.com/site/assets/files/3473/profile-2016-med.jpg"
+                {
+                    "value": "https://gregorlove.com/site/assets/files/3473/profile-2016-med.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "gRegor",
         "lang": "en"
     },
     {
@@ -3509,9 +3980,13 @@
                 "http://gregorlove.com"
             ],
             "photo": [
-                "https://gregorlove.com/site/assets/files/3473/profile-2016-med.jpg"
+                {
+                    "value": "https://gregorlove.com/site/assets/files/3473/profile-2016-med.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "gRegorLove",
         "lang": "en"
     },
     {
@@ -3532,9 +4007,13 @@
                 "http://grib.co"
             ],
             "photo": [
-                "https://en.gravatar.com/userimage/3075028/edcacb6aba72b40f1888e4009f58cdc9.jpeg"
+                {
+                    "value": "https://en.gravatar.com/userimage/3075028/edcacb6aba72b40f1888e4009f58cdc9.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "grib",
         "lang": "en"
     },
     {
@@ -3555,6 +4034,7 @@
                 "http://guerillero.net"
             ]
         },
+        "id": "guerillero",
         "lang": "en"
     },
     {
@@ -3575,9 +4055,13 @@
                 "http://david.shanske.com"
             ],
             "photo": [
-                "https://david.shanske.com/wp-content/uploads/avatar-privacy/cache/gravatar/2/c/2cb1f8afd9c8d3b646b4071c5ed887c970d81d625eeed87e447706940e2c403d-96.png"
+                {
+                    "value": "https://david.shanske.com/wp-content/uploads/avatar-privacy/cache/gravatar/2/c/2cb1f8afd9c8d3b646b4071c5ed887c970d81d625eeed87e447706940e2c403d-96.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "gwg",
         "lang": "en"
     },
     {
@@ -3598,6 +4082,7 @@
                 "http://mz-80k.com"
             ]
         },
+        "id": "gyuumaou",
         "lang": "en"
     },
     {
@@ -3618,6 +4103,7 @@
                 "http://tobilehman.com"
             ]
         },
+        "id": "habitmelon",
         "lang": "en"
     },
     {
@@ -3638,9 +4124,13 @@
                 "http://kuemmerle.name"
             ],
             "photo": [
-                "https://kuemmerle.name/wp-content/uploads/2021/09/Heinrich-Kuemmerle-black-highres.png"
+                {
+                    "value": "https://kuemmerle.name/wp-content/uploads/2021/09/Heinrich-Kuemmerle-black-highres.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Heinrich",
         "lang": "en"
     },
     {
@@ -3661,9 +4151,13 @@
                 "http://sarah-hibner.com"
             ],
             "photo": [
-                "https://i.imgur.com/svW9HH3.jpg"
+                {
+                    "value": "https://i.imgur.com/svW9HH3.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "hibs",
         "lang": "en"
     },
     {
@@ -3684,6 +4178,7 @@
                 "http://hmans.io"
             ]
         },
+        "id": "hmans",
         "lang": "en"
     },
     {
@@ -3704,6 +4199,7 @@
                 "http://edward.oconnor.cx"
             ]
         },
+        "id": "hober",
         "lang": "en"
     },
     {
@@ -3724,6 +4220,7 @@
                 "http://hodgestar.za.net"
             ]
         },
+        "id": "Hodgestar",
         "lang": "en"
     },
     {
@@ -3744,6 +4241,7 @@
                 "http://Hoschi-it.de"
             ]
         },
+        "id": "hoschi-it",
         "lang": "en"
     },
     {
@@ -3764,9 +4262,13 @@
                 "http://indiewebcat.com"
             ],
             "photo": [
-                "https://indiewebcat.com/images/dora.png"
+                {
+                    "value": "https://indiewebcat.com/images/dora.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "indiewebcat",
         "lang": "en"
     },
     {
@@ -3787,9 +4289,13 @@
                 "http://jay.funabashi.co.uk"
             ],
             "photo": [
-                "http://j4y.co/profile_pic.jpeg"
+                {
+                    "value": "http://j4y.co/profile_pic.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "j4y_funabashi",
         "lang": "en"
     },
     {
@@ -3810,9 +4316,13 @@
                 "http://jamesg.blog"
             ],
             "photo": [
-                "https://jamesg.blog/assets/coffeeshop.jpg"
+                {
+                    "value": "https://jamesg.blog/assets/coffeeshop.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "capjamesg",
         "lang": "en"
     },
     {
@@ -3833,9 +4343,13 @@
                 "http://johanbove.info"
             ],
             "photo": [
-                "https://johanbove.info/img/johanbove_200x200.jpg"
+                {
+                    "value": "https://johanbove.info/img/johanbove_200x200.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jbove",
         "lang": "en"
     },
     {
@@ -3856,9 +4370,13 @@
                 "http://sixtwothree.org"
             ],
             "photo": [
-                "http://en.gravatar.com/userimage/229165/26531ce8d54f390f77045a354e5a1d5c.jpg"
+                {
+                    "value": "http://en.gravatar.com/userimage/229165/26531ce8d54f390f77045a354e5a1d5c.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jgarber",
         "lang": "en"
     },
     {
@@ -3879,9 +4397,13 @@
                 "http://jgregorymcverry.com"
             ],
             "photo": [
-                "http://quickthoughts.jgregorymcverry.com/file/6802fbcdd3fada8cb61ffb798978f72f/thumb.jpg"
+                {
+                    "value": "http://quickthoughts.jgregorymcverry.com/file/6802fbcdd3fada8cb61ffb798978f72f/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jgmac1106",
         "lang": "en"
     },
     {
@@ -3902,9 +4424,13 @@
                 "http://jnoh.net"
             ],
             "photo": [
-                "https://jnoh.net/avatar.jpeg"
+                {
+                    "value": "https://jnoh.net/avatar.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jnoh",
         "lang": "en"
     },
     {
@@ -3925,6 +4451,7 @@
                 "http://Jordan.io"
             ]
         },
+        "id": "href",
         "lang": "en"
     },
     {
@@ -3945,6 +4472,7 @@
                 "http://hupili.net"
             ]
         },
+        "id": "hupili",
         "lang": "en"
     },
     {
@@ -3965,9 +4493,13 @@
                 "http://iambismark.net"
             ],
             "photo": [
-                "https://iambismark.net/avatar.svg"
+                {
+                    "value": "https://iambismark.net/avatar.svg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "iambismark",
         "lang": "en"
     },
     {
@@ -3988,6 +4520,7 @@
                 "http://www.iangreenleaf.com"
             ]
         },
+        "id": "iangreenleaf",
         "lang": "en"
     },
     {
@@ -4008,6 +4541,7 @@
                 "http://natwelch.com"
             ]
         },
+        "id": "icco",
         "lang": "en"
     },
     {
@@ -4028,6 +4562,7 @@
                 "http://ingoogni.nl"
             ]
         },
+        "id": "ingoogni",
         "lang": "en"
     },
     {
@@ -4048,6 +4583,7 @@
                 "http://s.ly"
             ]
         },
+        "id": "obra",
         "lang": "en"
     },
     {
@@ -4068,6 +4604,7 @@
                 "http://ihatemornings.com"
             ]
         },
+        "id": "ihatemornings",
         "lang": "en"
     },
     {
@@ -4088,6 +4625,7 @@
                 "http://itsjustk.com"
             ]
         },
+        "id": "itsjustk",
         "lang": "en"
     },
     {
@@ -4108,9 +4646,13 @@
                 "http://upon2020.com"
             ],
             "photo": [
-                "http://upon2020.com/public/portrait-128x128.jpg"
+                {
+                    "value": "http://upon2020.com/public/portrait-128x128.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "j12t",
         "lang": "en"
     },
     {
@@ -4131,9 +4673,13 @@
                 "http://j605.tk_blog"
             ],
             "photo": [
-                "https://j605.tk/blog/headshot.jpg"
+                {
+                    "value": "https://j605.tk/blog/headshot.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "j605",
         "lang": "en"
     },
     {
@@ -4154,6 +4700,7 @@
                 "http://jackjamieson.net"
             ]
         },
+        "id": "jackjamieson",
         "lang": "en"
     },
     {
@@ -4174,9 +4721,13 @@
                 "http://jacky.wtf"
             ],
             "photo": [
-                "https://v2.jacky.wtf/media/profile-image"
+                {
+                    "value": "https://v2.jacky.wtf/media/profile-image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jacky",
         "lang": "en"
     },
     {
@@ -4197,9 +4748,13 @@
                 "http://jacky.wtf"
             ],
             "photo": [
-                "https://v2.jacky.wtf/media/profile-image"
+                {
+                    "value": "https://v2.jacky.wtf/media/profile-image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jalcine",
         "lang": "en"
     },
     {
@@ -4220,9 +4775,13 @@
                 "http://jacky.wtf"
             ],
             "photo": [
-                "https://v2.jacky.wtf/media/profile-image"
+                {
+                    "value": "https://v2.jacky.wtf/media/profile-image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jackyalcine",
         "lang": "en"
     },
     {
@@ -4243,9 +4802,13 @@
                 "http://www.jvt.me"
             ],
             "photo": [
-                "https://www.jvt.me/img/profile.png"
+                {
+                    "value": "https://www.jvt.me/img/profile.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jamietanna",
         "lang": "en"
     },
     {
@@ -4266,9 +4829,13 @@
                 "http://www.jvt.me"
             ],
             "photo": [
-                "https://www.jvt.me/img/profile.png"
+                {
+                    "value": "https://www.jvt.me/img/profile.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jamietanna.5Bm.5D",
         "lang": "en"
     },
     {
@@ -4289,6 +4856,7 @@
                 "http://jden.us"
             ]
         },
+        "id": "jden",
         "lang": "en"
     },
     {
@@ -4309,9 +4877,13 @@
                 "http://achangeiscoming.net"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/517143070194675712/Zq6I252H.png"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/517143070194675712/Zq6I252H.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jdp23",
         "lang": "en"
     },
     {
@@ -4332,6 +4904,7 @@
                 "http://jonathan.is"
             ]
         },
+        "id": "jedahan",
         "lang": "en"
     },
     {
@@ -4352,9 +4925,13 @@
                 "http://jeena.net"
             ],
             "photo": [
-                "https://jeena.net/avatar.jpg"
+                {
+                    "value": "https://jeena.net/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jeena",
         "lang": "en"
     },
     {
@@ -4375,9 +4952,13 @@
                 "http://jeremycherfas.net"
             ],
             "photo": [
-                "https://www.jeremycherfas.net/user/themes/mytheme/images/zoot.jpg"
+                {
+                    "value": "https://www.jeremycherfas.net/user/themes/mytheme/images/zoot.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jeremycherfas",
         "lang": "en"
     },
     {
@@ -4398,6 +4979,7 @@
                 "http://silencematters.com"
             ]
         },
+        "id": "JeremyZilar",
         "lang": "en"
     },
     {
@@ -4418,9 +5000,13 @@
                 "http://k.evdemon.org"
             ],
             "photo": [
-                "https://k.evdemon.org/file/6a1dd1911ecccfe5d51481e5e05d2aa2/thumb.jpg"
+                {
+                    "value": "https://k.evdemon.org/file/6a1dd1911ecccfe5d51481e5e05d2aa2/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jevdemon",
         "lang": "en"
     },
     {
@@ -4441,9 +5027,13 @@
                 "http://joel.franusic.com"
             ],
             "photo": [
-                "http://www.gravatar.com/avatar/05b73afa3f75c234598f5dadf53679ca.png"
+                {
+                    "value": "http://www.gravatar.com/avatar/05b73afa3f75c234598f5dadf53679ca.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jfranusic",
         "lang": "en"
     },
     {
@@ -4464,6 +5054,7 @@
                 "http://jihais.se"
             ]
         },
+        "id": "Jihaisse",
         "lang": "en"
     },
     {
@@ -4484,9 +5075,13 @@
                 "http://jimpick.com"
             ],
             "photo": [
-                "https://jimpick.com/images/bio/jpick-960x960.jpg"
+                {
+                    "value": "https://jimpick.com/images/bio/jpick-960x960.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jimpick",
         "lang": "en"
     },
     {
@@ -4507,9 +5102,13 @@
                 "http://jjuran.org"
             ],
             "photo": [
-                "https://www.jjuran.org/avatar.jpg"
+                {
+                    "value": "https://www.jjuran.org/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jjuran",
         "lang": "en"
     },
     {
@@ -4530,9 +5129,13 @@
                 "http://jkphl.is"
             ],
             "photo": [
-                "https://jkphl.is/avatar.jpg"
+                {
+                    "value": "https://jkphl.is/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jkphl",
         "lang": "en"
     },
     {
@@ -4553,9 +5156,13 @@
                 "http://jlelse.dev"
             ],
             "photo": [
-                "https://jlelse.dev/profile-512.jpg"
+                {
+                    "value": "https://jlelse.dev/profile-512.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jlelse",
         "lang": "en"
     },
     {
@@ -4576,6 +5183,7 @@
                 "http://jlsuttles.me"
             ]
         },
+        "id": "jlsuttles",
         "lang": "en"
     },
     {
@@ -4596,9 +5204,13 @@
                 "http://jmac.org"
             ],
             "photo": [
-                "http://jmac.org/misc/old_unicorn.png"
+                {
+                    "value": "http://jmac.org/misc/old_unicorn.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jmac",
         "lang": "en"
     },
     {
@@ -4619,9 +5231,13 @@
                 "http://johnjohnston.info/blog/"
             ],
             "photo": [
-                "http://johnjohnston.info/blog/wp-content/uploads/2014/08/me.jpg"
+                {
+                    "value": "http://johnjohnston.info/blog/wp-content/uploads/2014/08/me.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "johnjohnston",
         "lang": "en"
     },
     {
@@ -4642,9 +5258,13 @@
                 "http://aaron.jorb.in"
             ],
             "photo": [
-                "http://2.gravatar.com/avatar/b3e2b94eb305bf95a1bee11bc7705fb7"
+                {
+                    "value": "http://2.gravatar.com/avatar/b3e2b94eb305bf95a1bee11bc7705fb7",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Jorbin",
         "lang": "en"
     },
     {
@@ -4665,9 +5285,13 @@
                 "http://www.tangerinelaboratories.com"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/75aa9f4838ffa386273225ab9af83d5d.png"
+                {
+                    "value": "https://secure.gravatar.com/avatar/75aa9f4838ffa386273225ab9af83d5d.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "josejuanisaac.2Cjjitl",
         "lang": "en"
     },
     {
@@ -4688,9 +5312,13 @@
                 "http://jnymck.com"
             ],
             "photo": [
-                "http://jnymck.com/img/jnymck_thumb.jpg"
+                {
+                    "value": "http://jnymck.com/img/jnymck_thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jnymck",
         "lang": "en"
     },
     {
@@ -4711,6 +5339,7 @@
                 "http://www.dmrutherford.com"
             ]
         },
+        "id": "joinerman",
         "lang": "en"
     },
     {
@@ -4731,9 +5360,13 @@
                 "http://jonathantneal.com"
             ],
             "photo": [
-                "https://0.gravatar.com/avatar/2889096995a38fa697ab83d8b59a5637"
+                {
+                    "value": "https://0.gravatar.com/avatar/2889096995a38fa697ab83d8b59a5637",
+                    "alt": ""
+                }
             ]
         },
+        "id": "JonathanNeal",
         "lang": "en"
     },
     {
@@ -4754,9 +5387,13 @@
                 "http://jonnybarnes.uk"
             ],
             "photo": [
-                "https://jonnybarnes.uk/assets/img/jmb-bw.png"
+                {
+                    "value": "https://jonnybarnes.uk/assets/img/jmb-bw.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jonnybarnes",
         "lang": "en"
     },
     {
@@ -4777,6 +5414,7 @@
                 "http://josephg.com"
             ]
         },
+        "id": "josephg",
         "lang": "en"
     },
     {
@@ -4797,9 +5435,13 @@
                 "http://joskar.se"
             ],
             "photo": [
-                "https://joskar.se/joskar.jpg"
+                {
+                    "value": "https://joskar.se/joskar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "joskar",
         "lang": "en"
     },
     {
@@ -4820,9 +5462,13 @@
                 "http://jrenslin.de"
             ],
             "photo": [
-                "http://jrenslin.de/media/me/jrenslin.jpg"
+                {
+                    "value": "http://jrenslin.de/media/me/jrenslin.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "jrenslin",
         "lang": "en"
     },
     {
@@ -4843,6 +5489,7 @@
                 "http://Jschweinsberg.de"
             ]
         },
+        "id": "jschweinsberg",
         "lang": "en"
     },
     {
@@ -4863,6 +5510,7 @@
                 "http://julian.so"
             ]
         },
+        "id": "julian.60",
         "lang": "en"
     },
     {
@@ -4883,9 +5531,13 @@
                 "http://julian.foad.me.uk"
             ],
             "photo": [
-                "http://julian.foad.me.uk/img/Julian-P1130119-75.jpg"
+                {
+                    "value": "http://julian.foad.me.uk/img/Julian-P1130119-75.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "julianf",
         "lang": "en"
     },
     {
@@ -4906,6 +5558,7 @@
                 "http://jxn.is"
             ]
         },
+        "id": "jxn-is",
         "lang": "en"
     },
     {
@@ -4926,9 +5579,13 @@
                 "http://kartikprabhu.com"
             ],
             "photo": [
-                "https://lh3.googleusercontent.com/-r3A9y0QWUGA/T4XzCE5BhCI/AAAAAAAAPRU/zAXHDpcuuqg/s50-c/Recursion-small.jpg"
+                {
+                    "value": "https://lh3.googleusercontent.com/-r3A9y0QWUGA/T4XzCE5BhCI/AAAAAAAAPRU/zAXHDpcuuqg/s50-c/Recursion-small.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "KartikPrabhu",
         "lang": "en"
     },
     {
@@ -4949,6 +5606,7 @@
                 "http://kasperzutterman.com"
             ]
         },
+        "id": "kasperzutterman",
         "lang": "en"
     },
     {
@@ -4969,9 +5627,13 @@
                 "http://kbsriram.com"
             ],
             "photo": [
-                "http://i.imgur.com/CKnds6m.png"
+                {
+                    "value": "http://i.imgur.com/CKnds6m.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kbs",
         "lang": "en"
     },
     {
@@ -4992,9 +5654,13 @@
                 "http://keithjgrant.com"
             ],
             "photo": [
-                "https://keithjgrant.com/images/keithjgrant.jpg"
+                {
+                    "value": "https://keithjgrant.com/images/keithjgrant.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "keithjgrant",
         "lang": "en"
     },
     {
@@ -5015,9 +5681,13 @@
                 "http://known.kenbauer.me"
             ],
             "photo": [
-                "https://known.kenbauer.me/file/6a22b028aa281abe7350c1f0d2288925/thumb.png"
+                {
+                    "value": "https://known.kenbauer.me/file/6a22b028aa281abe7350c1f0d2288925/thumb.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kenbauer",
         "lang": "en"
     },
     {
@@ -5038,9 +5708,13 @@
                 "http://caffeinewitch.tech"
             ],
             "photo": [
-                "https://caffeinewitch.tech/file/5192bd4a2544e9d81df86cd89efb3583"
+                {
+                    "value": "https://caffeinewitch.tech/file/5192bd4a2544e9d81df86cd89efb3583",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ketudb",
         "lang": "en"
     },
     {
@@ -5061,9 +5735,13 @@
                 "http://caffeinewitch.tech"
             ],
             "photo": [
-                "https://caffeinewitch.tech/file/5192bd4a2544e9d81df86cd89efb3583"
+                {
+                    "value": "https://caffeinewitch.tech/file/5192bd4a2544e9d81df86cd89efb3583",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ketudb.5Bm.5D",
         "lang": "en"
     },
     {
@@ -5084,9 +5762,13 @@
                 "http://kevinmarks.com"
             ],
             "photo": [
-                "http://www.kevinmarks.com/km.jpg"
+                {
+                    "value": "http://www.kevinmarks.com/km.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "KevinMarks",
         "lang": "en"
     },
     {
@@ -5107,9 +5789,13 @@
                 "http://kevinmarks.com"
             ],
             "photo": [
-                "http://www.kevinmarks.com/km.jpg"
+                {
+                    "value": "http://www.kevinmarks.com/km.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "KevinMarks2",
         "lang": "en"
     },
     {
@@ -5130,6 +5816,7 @@
                 "http://auli.haldjas.org"
             ]
         },
+        "id": "kirilind",
         "lang": "en"
     },
     {
@@ -5150,6 +5837,7 @@
                 "http://kaja.sknebel.net"
             ]
         },
+        "id": "Kaja",
         "lang": "en"
     },
     {
@@ -5170,9 +5858,13 @@
                 "http://scripter.co"
             ],
             "photo": [
-                "https://scripter.co/images/me.png"
+                {
+                    "value": "https://scripter.co/images/me.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kaushalmodi",
         "lang": "en"
     },
     {
@@ -5193,9 +5885,13 @@
                 "http://scripter.co"
             ],
             "photo": [
-                "https://scripter.co/images/me.png"
+                {
+                    "value": "https://scripter.co/images/me.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kaushal_modi",
         "lang": "en"
     },
     {
@@ -5216,9 +5912,13 @@
                 "http://www.kiaikim.com"
             ],
             "photo": [
-                "https://www.kiaikim.com/file/8d28ec486f524174afaf95ed3f41ed35/thumb.jpg"
+                {
+                    "value": "https://www.kiaikim.com/file/8d28ec486f524174afaf95ed3f41ed35/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kiai",
         "lang": "en"
     },
     {
@@ -5239,9 +5939,13 @@
                 "http://kimberlyhirsh.com"
             ],
             "photo": [
-                "https://kimberlyhirsh.com/phd/wp-content/uploads/2015/03/cropped-Kimberly_Hirsh-3.jpg"
+                {
+                    "value": "https://kimberlyhirsh.com/phd/wp-content/uploads/2015/03/cropped-Kimberly_Hirsh-3.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kimberlyhirsh",
         "lang": "en"
     },
     {
@@ -5262,9 +5966,13 @@
                 "http://klezlab.it"
             ],
             "photo": [
-                "https://klezlab.it/images/klez.png"
+                {
+                    "value": "https://klezlab.it/images/klez.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "klez",
         "lang": "en"
     },
     {
@@ -5285,9 +5993,13 @@
                 "http://kongaloosh.com"
             ],
             "photo": [
-                "http://kongaloosh.com/static/img/profile.jpg"
+                {
+                    "value": "http://kongaloosh.com/static/img/profile.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Kongaloosh",
         "lang": "en"
     },
     {
@@ -5308,9 +6020,13 @@
                 "http://kylewm.com"
             ],
             "photo": [
-                "https://kylewm.com/static/img/users/kyle.jpg"
+                {
+                    "value": "https://kylewm.com/static/img/users/kyle.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "kylewm",
         "lang": "en"
     },
     {
@@ -5331,9 +6047,13 @@
                 "http://lancey.space"
             ],
             "photo": [
-                "http://lancey.space/static/img/users/lance.png"
+                {
+                    "value": "http://lancey.space/static/img/users/lance.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Lancey",
         "lang": "en"
     },
     {
@@ -5354,9 +6074,13 @@
                 "http://lancey.space"
             ],
             "photo": [
-                "http://lancey.space/static/img/users/lance.png"
+                {
+                    "value": "http://lancey.space/static/img/users/lance.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "LanceyWork",
         "lang": "en"
     },
     {
@@ -5377,9 +6101,13 @@
                 "http://hacktivis.me"
             ],
             "photo": [
-                "https://hacktivis.me/images/avatar.png"
+                {
+                    "value": "https://hacktivis.me/images/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "lanodan",
         "lang": "en"
     },
     {
@@ -5400,6 +6128,7 @@
                 "http://lbj.org.uk"
             ]
         },
+        "id": "lauraj",
         "lang": "en"
     },
     {
@@ -5420,6 +6149,7 @@
                 "http://thepaperlion.ca"
             ]
         },
+        "id": "leecalvink",
         "lang": "en"
     },
     {
@@ -5440,6 +6170,7 @@
                 "http://Www.lewiscowles.co.uk"
             ]
         },
+        "id": "LewisCowles",
         "lang": "en"
     },
     {
@@ -5460,9 +6191,13 @@
                 "http://lmorchard.com"
             ],
             "photo": [
-                "http://lmorchard.com/avatar.jpg"
+                {
+                    "value": "http://lmorchard.com/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "lmorchard",
         "lang": "en"
     },
     {
@@ -5483,9 +6218,13 @@
                 "http://lohn.in"
             ],
             "photo": [
-                "https://lohn.in/images/thumb.jpg"
+                {
+                    "value": "https://lohn.in/images/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "lohn",
         "lang": "en"
     },
     {
@@ -5506,6 +6245,7 @@
                 "http://loic.mathaud.fr"
             ]
         },
+        "id": "loic_m",
         "lang": "en"
     },
     {
@@ -5526,9 +6266,13 @@
                 "http://loqi.me"
             ],
             "photo": [
-                "http://loqi.me/logo/loqisaur.png"
+                {
+                    "value": "http://loqi.me/logo/loqisaur.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Loqi",
         "lang": "en"
     },
     {
@@ -5549,9 +6293,13 @@
                 "http://lovi.star.is"
             ],
             "photo": [
-                "https://lovi.star.is"
+                {
+                    "value": "https://lovi.star.is",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Lovi",
         "lang": "en"
     },
     {
@@ -5572,6 +6320,7 @@
                 "http://ludovic.chabant.com"
             ]
         },
+        "id": "ludovicchabant",
         "lang": "en"
     },
     {
@@ -5592,9 +6341,13 @@
                 "http://gonze.com"
             ],
             "photo": [
-                "http://gonze.com/avatar.jpg"
+                {
+                    "value": "http://gonze.com/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "lucasgonze",
         "lang": "en"
     },
     {
@@ -5615,6 +6368,7 @@
                 "http://theporouscity.com"
             ]
         },
+        "id": "lukasb",
         "lang": "en"
     },
     {
@@ -5635,6 +6389,7 @@
                 "http://lukasrosenstock.net"
             ]
         },
+        "id": "LukasRos",
         "lang": "en"
     },
     {
@@ -5655,6 +6410,7 @@
                 "http://luxagraf.net"
             ]
         },
+        "id": "luxagraf",
         "lang": "en"
     },
     {
@@ -5675,9 +6431,13 @@
                 "http://Micro.welltempered.net"
             ],
             "photo": [
-                "https://micro.blog/macgenie/avatar.jpg"
+                {
+                    "value": "https://micro.blog/macgenie/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "macgenie",
         "lang": "en"
     },
     {
@@ -5698,9 +6458,13 @@
                 "http://Manton.org"
             ],
             "photo": [
-                "https://micro.blog/manton/avatar.jpg"
+                {
+                    "value": "https://micro.blog/manton/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "manton",
         "lang": "en"
     },
     {
@@ -5721,9 +6485,13 @@
                 "http://Marclaporte.com"
             ],
             "photo": [
-                "https://en.gravatar.com/userimage/4204193/405de450ba37ed566edfc5f6bac81e3a.jpeg"
+                {
+                    "value": "https://en.gravatar.com/userimage/4204193/405de450ba37ed566edfc5f6bac81e3a.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "MarcLaporte",
         "lang": "en"
     },
     {
@@ -5744,9 +6512,13 @@
                 "http://marcozehe.de"
             ],
             "photo": [
-                "https://www.marcozehe.de/wp-content/uploads/2018/07/Marco_Profilbild.jpg"
+                {
+                    "value": "https://www.marcozehe.de/wp-content/uploads/2018/07/Marco_Profilbild.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "MarcoZDe",
         "lang": "en"
     },
     {
@@ -5767,9 +6539,13 @@
                 "http://marcus-povey.co.uk"
             ],
             "photo": [
-                "https://www.marcus-povey.co.uk/wp-content/4879322645_3b0290d2b2_o.jpg"
+                {
+                    "value": "https://www.marcus-povey.co.uk/wp-content/4879322645_3b0290d2b2_o.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mapkyca",
         "lang": "en"
     },
     {
@@ -5790,6 +6566,7 @@
                 "http://marcthiele.com"
             ]
         },
+        "id": "marcthiele",
         "lang": "en"
     },
     {
@@ -5810,6 +6587,7 @@
                 "http://marinintim.com"
             ]
         },
+        "id": "marinin.5Bm.5D",
         "lang": "en"
     },
     {
@@ -5830,6 +6608,7 @@
                 "http://markmhendrickson.com"
             ]
         },
+        "id": "markmhendrickson",
         "lang": "en"
     },
     {
@@ -5850,6 +6629,7 @@
                 "http://markmurfin.com"
             ]
         },
+        "id": "Mark87",
         "lang": "en"
     },
     {
@@ -5870,9 +6650,13 @@
                 "http://marksuth.dev"
             ],
             "photo": [
-                "https://marksuth.dev/avatar.jpg"
+                {
+                    "value": "https://marksuth.dev/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "marksuth",
         "lang": "en"
     },
     {
@@ -5893,9 +6677,13 @@
                 "http://martymcgui.re"
             ],
             "photo": [
-                "https://martymcgui.re/img/logo.jpg"
+                {
+                    "value": "https://martymcgui.re/img/logo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "martymcguire.5Bm.5D",
         "lang": "en"
     },
     {
@@ -5916,6 +6704,7 @@
                 "http://matej.ceplovi.cz"
             ]
         },
+        "id": "mcepl",
         "lang": "en"
     },
     {
@@ -5936,9 +6725,13 @@
                 "http://mattl.us"
             ],
             "photo": [
-                "http://mattl.us/mattl-homepage.jpg"
+                {
+                    "value": "http://mattl.us/mattl-homepage.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mattl",
         "lang": "en"
     },
     {
@@ -5959,6 +6752,7 @@
                 "http://www.maxwelljoslyn.com"
             ]
         },
+        "id": "maxwelljoslyn",
         "lang": "en"
     },
     {
@@ -5979,9 +6773,13 @@
                 "http://mblaney.xyz"
             ],
             "photo": [
-                "https://mblaney.xyz/public/profile_thumb.png"
+                {
+                    "value": "https://mblaney.xyz/public/profile_thumb.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mblaney",
         "lang": "en"
     },
     {
@@ -6002,6 +6800,7 @@
                 "http://melvincarvalho.com"
             ]
         },
+        "id": "melvster",
         "lang": "en"
     },
     {
@@ -6022,9 +6821,13 @@
                 "http://robertvanbregt.nl"
             ],
             "photo": [
-                "https://www.gravatar.com/avatar/951332480630db814aa03e362f2eb5cb"
+                {
+                    "value": "https://www.gravatar.com/avatar/951332480630db814aa03e362f2eb5cb",
+                    "alt": ""
+                }
             ]
         },
+        "id": "metbril",
         "lang": "en"
     },
     {
@@ -6045,9 +6848,13 @@
                 "http://mey.vn"
             ],
             "photo": [
-                "http://1.gravatar.com/avatar/4f0307d567aee5c748590e9a1de623f1"
+                {
+                    "value": "http://1.gravatar.com/avatar/4f0307d567aee5c748590e9a1de623f1",
+                    "alt": ""
+                }
             ]
         },
+        "id": "hotzeplotz",
         "lang": "en"
     },
     {
@@ -6068,9 +6875,13 @@
                 "http://me.micahrl.com"
             ],
             "photo": [
-                "https://me.micahrl.com/equation.png"
+                {
+                    "value": "https://me.micahrl.com/equation.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "micahrl.5Bm.5D",
         "lang": "en"
     },
     {
@@ -6091,9 +6902,13 @@
                 "http://michael-lewis.com"
             ],
             "photo": [
-                "https://michael-lewis.com/images/crystalme.gif"
+                {
+                    "value": "https://michael-lewis.com/images/crystalme.gif",
+                    "alt": ""
+                }
             ]
         },
+        "id": "michael-lewis",
         "lang": "en"
     },
     {
@@ -6114,9 +6929,13 @@
                 "http://miche.lv"
             ],
             "photo": [
-                "http://miche.lv/images/avatar.jpg"
+                {
+                    "value": "http://miche.lv/images/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "michel_v",
         "lang": "en"
     },
     {
@@ -6137,6 +6956,7 @@
                 "http://michielbdejong.com"
             ]
         },
+        "id": "michielbdejong",
         "lang": "en"
     },
     {
@@ -6157,6 +6977,7 @@
                 "http://remond.im"
             ]
         },
+        "id": "mickael",
         "lang": "en"
     },
     {
@@ -6177,9 +6998,13 @@
                 "http://mikaela.info"
             ],
             "photo": [
-                "https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/master/avatar.jpeg"
+                {
+                    "value": "https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/master/avatar.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Mikaela",
         "lang": "en"
     },
     {
@@ -6200,9 +7025,13 @@
                 "http://miklb.com"
             ],
             "photo": [
-                "http://cdn.miklb.com/images/profile_4_16.jpg"
+                {
+                    "value": "http://cdn.miklb.com/images/profile_4_16.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "miklb",
         "lang": "en"
     },
     {
@@ -6223,6 +7052,7 @@
                 "http://mff.io"
             ]
         },
+        "id": "mikelodeon",
         "lang": "en"
     },
     {
@@ -6243,6 +7073,7 @@
                 "http://adam.thebeckmeyers.xyz"
             ]
         },
+        "id": "mindB",
         "lang": "en"
     },
     {
@@ -6263,9 +7094,13 @@
                 "http://mjordan.codes"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/1235671350758408192/7BMXepbn_400x400.jpg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/1235671350758408192/7BMXepbn_400x400.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mjordancodes",
         "lang": "en"
     },
     {
@@ -6286,9 +7121,13 @@
                 "http://mlncn.withknown.com"
             ],
             "photo": [
-                "http://agaric.com/sites/all/themes/agaric_bootstrap/img/favicon.png"
+                {
+                    "value": "http://agaric.com/sites/all/themes/agaric_bootstrap/img/favicon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mlncn",
         "lang": "en"
     },
     {
@@ -6309,9 +7148,13 @@
                 "http://mowens.com"
             ],
             "photo": [
-                "https://mowens.com/images/mowens-70x70.jpg"
+                {
+                    "value": "https://mowens.com/images/mowens-70x70.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mko",
         "lang": "en"
     },
     {
@@ -6332,6 +7175,7 @@
                 "http://robin.millette.info"
             ]
         },
+        "id": "millette",
         "lang": "en"
     },
     {
@@ -6352,6 +7196,7 @@
                 "http://felixniklas.de"
             ]
         },
+        "id": "mrflix",
         "lang": "en"
     },
     {
@@ -6372,9 +7217,13 @@
                 "http://mrkapowski.com"
             ],
             "photo": [
-                "https://mrkapowski.com/wp-content/uploads/avatar-privacy/cache/user/4/8/4818f52cfced12ce4ac33b7232fc47e282ce29844d4f625ed812bd6afca11c56-512.jpg"
+                {
+                    "value": "https://mrkapowski.com/wp-content/uploads/avatar-privacy/cache/user/4/8/4818f52cfced12ce4ac33b7232fc47e282ce29844d4f625ed812bd6afca11c56-512.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "MrKapowski",
         "lang": "en"
     },
     {
@@ -6395,9 +7244,13 @@
                 "http://techdesignpsych.com"
             ],
             "photo": [
-                "http://techdesignpsych.com/images/MS-square-closeup.jpg"
+                {
+                    "value": "http://techdesignpsych.com/images/MS-square-closeup.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "MSiep",
         "lang": "en"
     },
     {
@@ -6418,9 +7271,13 @@
                 "http://theadhocracy.co.uk"
             ],
             "photo": [
-                "https://cms.theadhocracy.co.uk/assets/theadhocracy/website/murray-headshot-square.jpg"
+                {
+                    "value": "https://cms.theadhocracy.co.uk/assets/theadhocracy/website/murray-headshot-square.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Murray",
         "lang": "en"
     },
     {
@@ -6441,6 +7298,7 @@
                 "http://markwunsch.com"
             ]
         },
+        "id": "mwunsch",
         "lang": "en"
     },
     {
@@ -6461,6 +7319,7 @@
                 "http://unrelenting.technology"
             ]
         },
+        "id": "unrelentingtech",
         "lang": "en"
     },
     {
@@ -6481,6 +7340,7 @@
                 "http://tristanhavelick.com"
             ]
         },
+        "id": "Natris1979",
         "lang": "en"
     },
     {
@@ -6501,9 +7361,13 @@
                 "http://ncollig.net"
             ],
             "photo": [
-                "https://ncollig.net/file/29fb5b71090d7a6f18e3941bd9d73b3d/thumb.jpg"
+                {
+                    "value": "https://ncollig.net/file/29fb5b71090d7a6f18e3941bd9d73b3d/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ncollig",
         "lang": "en"
     },
     {
@@ -6524,9 +7388,13 @@
                 "http://readwriterespond.com"
             ],
             "photo": [
-                "https://readwriterespond.com/wp-content/uploads/2017/11/Profile-Picture.jpg"
+                {
+                    "value": "https://readwriterespond.com/wp-content/uploads/2017/11/Profile-Picture.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mrkrndvs",
         "lang": "en"
     },
     {
@@ -6547,9 +7415,13 @@
                 "http://degruchy.org"
             ],
             "photo": [
-                "https://degruchy.org/assets/images/me.svg"
+                {
+                    "value": "https://degruchy.org/assets/images/me.svg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ndegruchy",
         "lang": "en"
     },
     {
@@ -6570,9 +7442,13 @@
                 "http://mylesb.ca"
             ],
             "photo": [
-                "https://mylesb.ca/apple-touch-icon-152x152-precomposed.png"
+                {
+                    "value": "https://mylesb.ca/apple-touch-icon-152x152-precomposed.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "mylesbraithwaite",
         "lang": "en"
     },
     {
@@ -6593,9 +7469,13 @@
                 "http://evgenykuznetsov.org"
             ],
             "photo": [
-                "https://evgenykuznetsov.org/img/avatar.jpg"
+                {
+                    "value": "https://evgenykuznetsov.org/img/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "nekr0z",
         "lang": "en"
     },
     {
@@ -6616,9 +7496,13 @@
                 "http://t37.net"
             ],
             "photo": [
-                "http://t37.net/files/resource/1396/thumb_dGVbyzQU.jpeg"
+                {
+                    "value": "http://t37.net/files/resource/1396/thumb_dGVbyzQU.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "neuro.60",
         "lang": "en"
     },
     {
@@ -6639,6 +7523,7 @@
                 "http://idolstarastronomer.com"
             ]
         },
+        "id": "Nissyen",
         "lang": "en"
     },
     {
@@ -6659,9 +7544,13 @@
                 "http://alternativebit.fr"
             ],
             "photo": [
-                "https://alternativebit.fr/img/favicon.png"
+                {
+                    "value": "https://alternativebit.fr/img/favicon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "NinjaTrappeur",
         "lang": "en"
     },
     {
@@ -6682,6 +7571,7 @@
                 "http://standblog.org"
             ]
         },
+        "id": "nitot",
         "lang": "en"
     },
     {
@@ -6702,9 +7592,13 @@
                 "http://abisso.org"
             ],
             "photo": [
-                "https://abisso.org/images/me_128-8b0ab3fd.jpg"
+                {
+                    "value": "https://abisso.org/images/me_128-8b0ab3fd.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "nolith",
         "lang": "en"
     },
     {
@@ -6725,9 +7619,13 @@
                 "http://npdoty.name"
             ],
             "photo": [
-                "https://npdoty.name/profile.jpg"
+                {
+                    "value": "https://npdoty.name/profile.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "npdoty",
         "lang": "en"
     },
     {
@@ -6748,9 +7646,13 @@
                 "http://olivermak.es"
             ],
             "photo": [
-                "https://olivermak.es/icons/favicon64.png"
+                {
+                    "value": "https://olivermak.es/icons/favicon64.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "oliverpattison",
         "lang": "en"
     },
     {
@@ -6771,9 +7673,13 @@
                 "http://00dani.me"
             ],
             "photo": [
-                "https://cdn.00dani.me/media/avatars/1/dewdash_crop.png"
+                {
+                    "value": "https://cdn.00dani.me/media/avatars/1/dewdash_crop.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "oodani",
         "lang": "en"
     },
     {
@@ -6794,9 +7700,13 @@
                 "http://omz13.com"
             ],
             "photo": [
-                "https://omz13.com/dso-thumbnail.jpg"
+                {
+                    "value": "https://omz13.com/dso-thumbnail.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "omz13",
         "lang": "en"
     },
     {
@@ -6817,6 +7727,7 @@
                 "http://ozten.com"
             ]
         },
+        "id": "ozten",
         "lang": "en"
     },
     {
@@ -6837,9 +7748,13 @@
                 "http://bunkham.com"
             ],
             "photo": [
-                "https://s.gravatar.com/avatar/f27534c260226216d2f4c30160be4755"
+                {
+                    "value": "https://s.gravatar.com/avatar/f27534c260226216d2f4c30160be4755",
+                    "alt": ""
+                }
             ]
         },
+        "id": "pablinos",
         "lang": "en"
     },
     {
@@ -6860,6 +7775,7 @@
                 "http://pauloppenheim.com"
             ]
         },
+        "id": "pauloppenheim",
         "lang": "en"
     },
     {
@@ -6880,9 +7796,13 @@
                 "http://greptilian.com"
             ],
             "photo": [
-                "http://greptilian.com/images/favicons/wiki.greptilian.com.png"
+                {
+                    "value": "http://greptilian.com/images/favicons/wiki.greptilian.com.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "pdurbin",
         "lang": "en"
     },
     {
@@ -6903,6 +7823,7 @@
                 "http://peat.org"
             ]
         },
+        "id": "peat",
         "lang": "en"
     },
     {
@@ -6923,9 +7844,13 @@
                 "http://petermolnar.net"
             ],
             "photo": [
-                "https://petermolnar.net/favicon.png"
+                {
+                    "value": "https://petermolnar.net/favicon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "petermolnar",
         "lang": "en"
     },
     {
@@ -6946,9 +7871,13 @@
                 "http://peterstuifzand.nl"
             ],
             "photo": [
-                "https://peterstuifzand.nl/img/profile-128.jpg"
+                {
+                    "value": "https://peterstuifzand.nl/img/profile-128.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "pstuifzand",
         "lang": "en"
     },
     {
@@ -6969,9 +7898,13 @@
                 "http://peterwilson.cc"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/1dd9fded718f9b344d48f37f9bfcb159"
+                {
+                    "value": "https://secure.gravatar.com/avatar/1dd9fded718f9b344d48f37f9bfcb159",
+                    "alt": ""
+                }
             ]
         },
+        "id": "pwcc",
         "lang": "en"
     },
     {
@@ -6992,9 +7925,13 @@
                 "http://Notiz.blog"
             ],
             "photo": [
-                "https://twitter.com/pfefferle/profile_image"
+                {
+                    "value": "https://twitter.com/pfefferle/profile_image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "pfefferle",
         "lang": "en"
     },
     {
@@ -7015,9 +7952,13 @@
                 "http://fberriman.com"
             ],
             "photo": [
-                "https://farm4.staticflickr.com/3907/14681916407_8f36767ac4_s.jpg"
+                {
+                    "value": "https://farm4.staticflickr.com/3907/14681916407_8f36767ac4_s.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Phae",
         "lang": "en"
     },
     {
@@ -7038,6 +7979,7 @@
                 "http://phyks.me"
             ]
         },
+        "id": "Phyks",
         "lang": "en"
     },
     {
@@ -7058,6 +8000,7 @@
                 "http://pius.me"
             ]
         },
+        "id": "pius",
         "lang": "en"
     },
     {
@@ -7078,6 +8021,7 @@
                 "http://microblog.pierre-o.fr"
             ]
         },
+        "id": "pierre-o",
         "lang": "en"
     },
     {
@@ -7098,9 +8042,13 @@
                 "http://1500wordmtu.com"
             ],
             "photo": [
-                "http://www.1500wordmtu.com/file/0aa48b90951ef3beced2d4250f029d75/thumb.jpg"
+                {
+                    "value": "http://www.1500wordmtu.com/file/0aa48b90951ef3beced2d4250f029d75/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "plindner",
         "lang": "en"
     },
     {
@@ -7121,6 +8069,7 @@
                 "http://pniedzielski.net"
             ]
         },
+        "id": "pniedzielski",
         "lang": "en"
     },
     {
@@ -7141,9 +8090,13 @@
                 "http://paulopinto.org"
             ],
             "photo": [
-                "https://paulopinto-file-backup.s3.eu-central-1.wasabisys.com/images/eu_indieweb.jpg"
+                {
+                    "value": "https://paulopinto-file-backup.s3.eu-central-1.wasabisys.com/images/eu_indieweb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "paulopinto",
         "lang": "en"
     },
     {
@@ -7164,9 +8117,13 @@
                 "http://prtksxna.com"
             ],
             "photo": [
-                "http://gravatar.com/avatar/17f37be7dfd491b7b442a79f69e08f16"
+                {
+                    "value": "http://gravatar.com/avatar/17f37be7dfd491b7b442a79f69e08f16",
+                    "alt": ""
+                }
             ]
         },
+        "id": "prtksxna",
         "lang": "en"
     },
     {
@@ -7187,9 +8144,13 @@
                 "http://pyradrake.id.au"
             ],
             "photo": [
-                "https://pyradrake.id.au/wp-content/uploads/2021/12/Trynity.jpg"
+                {
+                    "value": "https://pyradrake.id.au/wp-content/uploads/2021/12/Trynity.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Pyra_Drake",
         "lang": "en"
     },
     {
@@ -7210,9 +8171,13 @@
                 "http://jeremywsherman.com"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/1772659df4e9e46903034ff3efa34bc1"
+                {
+                    "value": "https://secure.gravatar.com/avatar/1772659df4e9e46903034ff3efa34bc1",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rainbow-zsh",
         "lang": "en"
     },
     {
@@ -7233,6 +8198,7 @@
                 "http://raretrack.uk"
             ]
         },
+        "id": "raretrack",
         "lang": "en"
     },
     {
@@ -7253,9 +8219,13 @@
                 "http://rascul.xyz"
             ],
             "photo": [
-                "https://rascul.xyz/avatar.jpg"
+                {
+                    "value": "https://rascul.xyz/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rascul",
         "lang": "en"
     },
     {
@@ -7276,9 +8246,13 @@
                 "http://reiterate.app"
             ],
             "photo": [
-                "https://reiterate.app/images/ppt.jpg"
+                {
+                    "value": "https://reiterate.app/images/ppt.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rattroupe",
         "lang": "en"
     },
     {
@@ -7299,9 +8273,13 @@
                 "http://sebastian.kip.pe"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/d9dd0ea7c6199720c5d40f37b3c2dad4?d=retro&s=256"
+                {
+                    "value": "https://secure.gravatar.com/avatar/d9dd0ea7c6199720c5d40f37b3c2dad4?d=retro&s=256",
+                    "alt": ""
+                }
             ]
         },
+        "id": "raucao",
         "lang": "en"
     },
     {
@@ -7322,9 +8300,13 @@
                 "http://rauhl.com/"
             ],
             "photo": [
-                "https://rauhl.com/photo.jpeg"
+                {
+                    "value": "https://rauhl.com/photo.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rauhl",
         "lang": "en"
     },
     {
@@ -7345,9 +8327,13 @@
                 "http://http://www.raynamharris.com/"
             ],
             "photo": [
-                "https://avatars2.githubusercontent.com/u/7544197?v=4"
+                {
+                    "value": "https://avatars2.githubusercontent.com/u/7544197?v=4",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rayna",
         "lang": "en"
     },
     {
@@ -7368,9 +8354,13 @@
                 "http://rebelle.micro.blog"
             ],
             "photo": [
-                "https://micro.blog/rebelle/avatar.jpg"
+                {
+                    "value": "https://micro.blog/rebelle/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rebelle",
         "lang": "en"
     },
     {
@@ -7391,6 +8381,7 @@
                 "http://www.reedstrom.org"
             ]
         },
+        "id": "reedstrm",
         "lang": "en"
     },
     {
@@ -7411,9 +8402,13 @@
                 "http://reiterate.app"
             ],
             "photo": [
-                "https://reiterate.app/images/Reiterate-logo.png"
+                {
+                    "value": "https://reiterate.app/images/Reiterate-logo.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "reiterate_app",
         "lang": "en"
     },
     {
@@ -7434,9 +8429,13 @@
                 "http://renem.net"
             ],
             "photo": [
-                "https://renem.net/assets/renem_profile.png"
+                {
+                    "value": "https://renem.net/assets/renem_profile.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "renem",
         "lang": "en"
     },
     {
@@ -7457,9 +8456,13 @@
                 "http://rhiaro.co.uk"
             ],
             "photo": [
-                "http://rhiaro.co.uk/stash/dp.png"
+                {
+                    "value": "http://rhiaro.co.uk/stash/dp.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rhiaro",
         "lang": "en"
     },
     {
@@ -7480,9 +8483,13 @@
                 "http://river.cat"
             ],
             "photo": [
-                "https://river.cat/img/me.png"
+                {
+                    "value": "https://river.cat/img/me.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rivercat",
         "lang": "en"
     },
     {
@@ -7503,6 +8510,7 @@
                 "http://rkn.la"
             ]
         },
+        "id": "rknLA",
         "lang": "en"
     },
     {
@@ -7523,9 +8531,13 @@
                 "http://timculverhouse.com"
             ],
             "photo": [
-                "https://www.timculverhouse.com/assets/img/tim.jpeg"
+                {
+                    "value": "https://www.timculverhouse.com/assets/img/tim.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rockorager",
         "lang": "en"
     },
     {
@@ -7546,9 +8558,13 @@
                 "http://rosemaryorchard.com"
             ],
             "photo": [
-                "https://i0.wp.com/rosemaryorchard.com/wp-content/uploads/2019/03/igazPjBx.jpg"
+                {
+                    "value": "https://i0.wp.com/rosemaryorchard.com/wp-content/uploads/2019/03/igazPjBx.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Rose",
         "lang": "en"
     },
     {
@@ -7569,9 +8585,13 @@
                 "http://rowanmanning.com"
             ],
             "photo": [
-                "https://rowanmanning.com/about/rowan.png"
+                {
+                    "value": "https://rowanmanning.com/about/rowan.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rowanmanning",
         "lang": "en"
     },
     {
@@ -7592,9 +8612,13 @@
                 "http://notes.whatthefuck.computer"
             ],
             "photo": [
-                "https://twitter.com/rrrrrrrix/profile_image"
+                {
+                    "value": "https://twitter.com/rrrrrrrix/profile_image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rrix",
         "lang": "en"
     },
     {
@@ -7615,9 +8639,13 @@
                 "http://www.rmendes.net"
             ],
             "photo": [
-                "https://www.rmendes.net/file/9f0747742998d53a7fd32e575fd64e19/thumb.jpg"
+                {
+                    "value": "https://www.rmendes.net/file/9f0747742998d53a7fd32e575fd64e19/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "rMdes",
         "lang": "en"
     },
     {
@@ -7638,9 +8666,13 @@
                 "http://ignite.digitalignition.net"
             ],
             "photo": [
-                "https://en.gravatar.com/userimage/506286/b88c4c7f21fef6fc563f130136e1ceda.jpg"
+                {
+                    "value": "https://en.gravatar.com/userimage/506286/b88c4c7f21fef6fc563f130136e1ceda.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ruxton",
         "lang": "en"
     },
     {
@@ -7661,9 +8693,13 @@
                 "http://sadik.goifnetwork.org"
             ],
             "photo": [
-                "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghana_team_member_Wiki_Indaba_2017.jpg"
+                {
+                    "value": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ghana_team_member_Wiki_Indaba_2017.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Sadike25",
         "lang": "en"
     },
     {
@@ -7684,6 +8720,7 @@
                 "http://altsalt.net"
             ]
         },
+        "id": "Salt",
         "lang": "en"
     },
     {
@@ -7704,6 +8741,7 @@
                 "http://Sandeep.io"
             ]
         },
+        "id": "sandeepshetty",
         "lang": "en"
     },
     {
@@ -7724,6 +8762,7 @@
                 "http://sebbu.fr"
             ]
         },
+        "id": "sebbu",
         "lang": "en"
     },
     {
@@ -7744,9 +8783,13 @@
                 "http://freekurt.com"
             ],
             "photo": [
-                "https://freekurt.com/file/804a606b9be773cec7b61bd4af1ac174/thumb.jpg"
+                {
+                    "value": "https://freekurt.com/file/804a606b9be773cec7b61bd4af1ac174/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sensiblemn",
         "lang": "en"
     },
     {
@@ -7767,6 +8810,7 @@
                 "http://shevski.com"
             ]
         },
+        "id": "shevski",
         "lang": "en"
     },
     {
@@ -7787,9 +8831,13 @@
                 "http://stefan-auditor.de"
             ],
             "photo": [
-                "http://audiens.de/images/pic05.jpg"
+                {
+                    "value": "http://audiens.de/images/pic05.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sanduhrs",
         "lang": "en"
     },
     {
@@ -7810,9 +8858,13 @@
                 "http://martymcgui.re"
             ],
             "photo": [
-                "https://martymcgui.re/img/logo.jpg"
+                {
+                    "value": "https://martymcgui.re/img/logo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "schmarty",
         "lang": "en"
     },
     {
@@ -7833,9 +8885,13 @@
                 "http://scojjac.com"
             ],
             "photo": [
-                "https://scojjac.com/wp-content/uploads/2021/02/cropped-cropped-cropped-1DBFAD2C-441B-46F1-B81E-51C593CE9BF4.jpeg"
+                {
+                    "value": "https://scojjac.com/wp-content/uploads/2021/02/cropped-cropped-cropped-1DBFAD2C-441B-46F1-B81E-51C593CE9BF4.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "scojjac",
         "lang": "en"
     },
     {
@@ -7856,6 +8912,7 @@
                 "http://jenson.org"
             ]
         },
+        "id": "scottjenson",
         "lang": "en"
     },
     {
@@ -7876,9 +8933,13 @@
                 "http://belp.audio"
             ],
             "photo": [
-                "http://www.schamoni.de/typo3temp/pics/ed17046d11.jpg"
+                {
+                    "value": "http://www.schamoni.de/typo3temp/pics/ed17046d11.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Schnitz",
         "lang": "en"
     },
     {
@@ -7899,9 +8960,13 @@
                 "http://sebastiangreger.net"
             ],
             "photo": [
-                "https://sebastiangreger.net/favicon.jpg"
+                {
+                    "value": "https://sebastiangreger.net/favicon.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sgreger",
         "lang": "en"
     },
     {
@@ -7922,9 +8987,13 @@
                 "http://sebastianlasse.de"
             ],
             "photo": [
-                "https://en.gravatar.com/userimage/102693419/30b44297c18af48d3c52222c3cb88847.jpeg"
+                {
+                    "value": "https://en.gravatar.com/userimage/102693419/30b44297c18af48d3c52222c3cb88847.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sl007",
         "lang": "en"
     },
     {
@@ -7945,9 +9014,13 @@
                 "http://seblog.nl"
             ],
             "photo": [
-                "http://seblog.nl/photo.jpg"
+                {
+                    "value": "http://seblog.nl/photo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sebsel",
         "lang": "en"
     },
     {
@@ -7968,9 +9041,13 @@
                 "http://sentamal.in"
             ],
             "photo": [
-                "https://sentamal.in/apple-touch-icon-precomposed.png"
+                {
+                    "value": "https://sentamal.in/apple-touch-icon-precomposed.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sentamalin",
         "lang": "en"
     },
     {
@@ -7991,9 +9068,13 @@
                 "http://sdoconnell.net"
             ],
             "photo": [
-                "https://sdoconnell.net/files/sdoconnell.jpg"
+                {
+                    "value": "https://sdoconnell.net/files/sdoconnell.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "sdoconnell",
         "lang": "en"
     },
     {
@@ -8014,9 +9095,13 @@
                 "http://seirdy.one"
             ],
             "photo": [
-                "https://seirdy.one/favicon.png"
+                {
+                    "value": "https://seirdy.one/favicon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Seirdy",
         "lang": "en"
     },
     {
@@ -8037,9 +9122,13 @@
                 "http://ShaneHudson.net"
             ],
             "photo": [
-                "http://shanehudson.net/avatar.png"
+                {
+                    "value": "http://shanehudson.net/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "ShaneHudson",
         "lang": "en"
     },
     {
@@ -8060,9 +9149,13 @@
                 "http://veganstraightedge.com"
             ],
             "photo": [
-                "http://assets.veganstraightedge.com/images/apple-touch-icon-57-precomposed.png"
+                {
+                    "value": "http://assets.veganstraightedge.com/images/apple-touch-icon-57-precomposed.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "shaners",
         "lang": "en"
     },
     {
@@ -8083,9 +9176,13 @@
                 "http://shiflett.org"
             ],
             "photo": [
-                "https://farm6.staticflickr.com/5334/buddyicons/87233981@N00_l.jpg"
+                {
+                    "value": "https://farm6.staticflickr.com/5334/buddyicons/87233981@N00_l.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "shiflett",
         "lang": "en"
     },
     {
@@ -8106,9 +9203,13 @@
                 "http://www.shimmy1996.com"
             ],
             "photo": [
-                "https://www.shimmy1996.com/logo.svg"
+                {
+                    "value": "https://www.shimmy1996.com/logo.svg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "shimmy1996",
         "lang": "en"
     },
     {
@@ -8129,9 +9230,13 @@
                 "http://www.rich-text.net"
             ],
             "photo": [
-                "https://www.porknachos.com/files/naviavi.jpg"
+                {
+                    "value": "https://www.porknachos.com/files/naviavi.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "shoesNsocks",
         "lang": "en"
     },
     {
@@ -8152,9 +9257,13 @@
                 "http://breakfastdinnertea.co.uk"
             ],
             "photo": [
-                "https://secure.gravatar.com/avatar/353ff31345fee55e89b17669fa2daa3b"
+                {
+                    "value": "https://secure.gravatar.com/avatar/353ff31345fee55e89b17669fa2daa3b",
+                    "alt": ""
+                }
             ]
         },
+        "id": "simons",
         "lang": "en"
     },
     {
@@ -8175,9 +9284,13 @@
                 "http://singpolyma.net"
             ],
             "photo": [
-                "https://singpolyma.net/avatar.jpg"
+                {
+                    "value": "https://singpolyma.net/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "singpolyma",
         "lang": "en"
     },
     {
@@ -8198,9 +9311,13 @@
                 "http://skippy.net"
             ],
             "photo": [
-                "https://skippy.net/images/scott-merrill-2016.jpg"
+                {
+                    "value": "https://skippy.net/images/scott-merrill-2016.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "skippy",
         "lang": "en"
     },
     {
@@ -8221,6 +9338,7 @@
                 "http://www.svenknebel.de"
             ]
         },
+        "id": "sknebel",
         "lang": "en"
     },
     {
@@ -8241,6 +9359,7 @@
                 "http://aheadrobot.com"
             ]
         },
+        "id": "smagdali",
         "lang": "en"
     },
     {
@@ -8261,6 +9380,7 @@
                 "http://snarfed.org"
             ]
         },
+        "id": "snarfed",
         "lang": "en"
     },
     {
@@ -8281,9 +9401,13 @@
                 "http://souradip.com"
             ],
             "photo": [
-                "https://souradip.mookerj.ee/img/index-sketch.jpg"
+                {
+                    "value": "https://souradip.mookerj.ee/img/index-sketch.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "souramoo.5Bm.5D",
         "lang": "en"
     },
     {
@@ -8304,6 +9428,7 @@
                 "http://4c4d.com"
             ]
         },
+        "id": "sparverius",
         "lang": "en"
     },
     {
@@ -8324,6 +9449,7 @@
                 "http://sarah-pugachev.com"
             ]
         },
+        "id": "spugachev",
         "lang": "en"
     },
     {
@@ -8344,9 +9470,13 @@
                 "http://stephenpieper.net"
             ],
             "photo": [
-                "https://stephenpieper.net/images/icon.png"
+                {
+                    "value": "https://stephenpieper.net/images/icon.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "spieper",
         "lang": "en"
     },
     {
@@ -8367,9 +9497,13 @@
                 "http://stevestreza.com"
             ],
             "photo": [
-                "https://twitter.com/stevestreza/profile_image"
+                {
+                    "value": "https://twitter.com/stevestreza/profile_image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "stevestreza",
         "lang": "en"
     },
     {
@@ -8390,9 +9524,13 @@
                 "http://strk.kbt.io"
             ],
             "photo": [
-                "https://avatars.kbt.io/avatar/fe2a9e759730ee64c44bf8901bf4ccc3?s=128"
+                {
+                    "value": "https://avatars.kbt.io/avatar/fe2a9e759730ee64c44bf8901bf4ccc3?s=128",
+                    "alt": ""
+                }
             ]
         },
+        "id": "strk",
         "lang": "en"
     },
     {
@@ -8413,9 +9551,13 @@
                 "http://strugee.net"
             ],
             "photo": [
-                "https://strugee.net/images/small-headshot.jpeg"
+                {
+                    "value": "https://strugee.net/images/small-headshot.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "strugee",
         "lang": "en"
     },
     {
@@ -8436,6 +9578,7 @@
                 "http://Indieauth.christoffer.me"
             ]
         },
+        "id": "Squeakytoy",
         "lang": "en"
     },
     {
@@ -8456,6 +9599,7 @@
                 "http://www.sukiletxe.eu"
             ]
         },
+        "id": "sukil",
         "lang": "en"
     },
     {
@@ -8476,9 +9620,13 @@
                 "http:// suze.dev"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/1160159491364704256/AVZpDOSg_400x400.jpg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/1160159491364704256/AVZpDOSg_400x400.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "SuzeShardlow",
         "lang": "en"
     },
     {
@@ -8499,9 +9647,13 @@
                 "http://realize.be"
             ],
             "photo": [
-                "https://realize.be/vue/images/swentel.png"
+                {
+                    "value": "https://realize.be/vue/images/swentel.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "swentel",
         "lang": "en"
     },
     {
@@ -8522,6 +9674,7 @@
                 "http://davegoesthedistance.com"
             ]
         },
+        "id": "Taco_Dave",
         "lang": "en"
     },
     {
@@ -8542,6 +9695,7 @@
                 "http://charlotteallen.info"
             ]
         },
+        "id": "takev",
         "lang": "en"
     },
     {
@@ -8562,6 +9716,7 @@
                 "http://Paulmunday.net"
             ]
         },
+        "id": "tallpaul",
         "lang": "en"
     },
     {
@@ -8582,9 +9737,13 @@
                 "http://Tantek.com"
             ],
             "photo": [
-                "https://tantek.com/logo.jpg"
+                {
+                    "value": "https://tantek.com/logo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tantek",
         "lang": "en"
     },
     {
@@ -8605,9 +9764,13 @@
                 "http://www.chrisbolas.com"
             ],
             "photo": [
-                "https://www.chrisbolas.com/file/31d9dd88a373ec5596e1db04720c271d/thumb.jpg"
+                {
+                    "value": "https://www.chrisbolas.com/file/31d9dd88a373ec5596e1db04720c271d/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tanlaan",
         "lang": "en"
     },
     {
@@ -8628,9 +9791,13 @@
                 "http://herestomwiththeweather.com"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/52629372/flickr_400x400.jpg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/52629372/flickr_400x400.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tbbrown",
         "lang": "en"
     },
     {
@@ -8651,9 +9818,13 @@
                 "http://harryreeder.co.uk"
             ],
             "photo": [
-                "https://twitter.com/harry_reeder/profile_image"
+                {
+                    "value": "https://twitter.com/harry_reeder/profile_image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tbrb",
         "lang": "en"
     },
     {
@@ -8674,9 +9845,13 @@
                 "http://Techlifeweb.com"
             ],
             "photo": [
-                "http://techlifeweb.com/images/avatar.jpg"
+                {
+                    "value": "http://techlifeweb.com/images/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "techlifeweb",
         "lang": "en"
     },
     {
@@ -8697,6 +9872,7 @@
                 "http://tylerfontaine.me"
             ]
         },
+        "id": "tfontaine",
         "lang": "en"
     },
     {
@@ -8717,9 +9893,13 @@
                 "http://tombruning.com"
             ],
             "photo": [
-                "http://www.tombruning.com/wp-content/uploads/2014/10/photo114.png"
+                {
+                    "value": "http://www.tombruning.com/wp-content/uploads/2014/10/photo114.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tgbrun",
         "lang": "en"
     },
     {
@@ -8740,6 +9920,7 @@
                 "http://tglo.be"
             ]
         },
+        "id": "tglobe",
         "lang": "en"
     },
     {
@@ -8760,9 +9941,13 @@
                 "http://simonesalis.com"
             ],
             "photo": [
-                "https://hooman.ist/content/images/2018/10/Salis_avatar_focused_white.jpg"
+                {
+                    "value": "https://hooman.ist/content/images/2018/10/Salis_avatar_focused_white.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "the_hoomanist",
         "lang": "en"
     },
     {
@@ -8783,9 +9968,13 @@
                 "http://baer.works"
             ],
             "photo": [
-                "https://baer.works/image/avatar.jpg"
+                {
+                    "value": "https://baer.works/image/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "thebaer",
         "lang": "en"
     },
     {
@@ -8806,9 +9995,13 @@
                 "http://dubiousdod.org"
             ],
             "photo": [
-                "https://zzzen.com/gfx/chibi-dod-avatar-96.png"
+                {
+                    "value": "https://zzzen.com/gfx/chibi-dod-avatar-96.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "thedod",
         "lang": "en"
     },
     {
@@ -8829,9 +10022,13 @@
                 "http://Social.thedavidjohnson.com"
             ],
             "photo": [
-                "https://twitter.com/TheDavidJohnson/profile_image"
+                {
+                    "value": "https://twitter.com/TheDavidJohnson/profile_image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "TheDavidJohnson",
         "lang": "en"
     },
     {
@@ -8852,9 +10049,13 @@
                 "http://kodo.keybase.pub"
             ],
             "photo": [
-                "https://kodo.keybase.pub/avatar-thumb.png"
+                {
+                    "value": "https://kodo.keybase.pub/avatar-thumb.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "TheGillies",
         "lang": "en"
     },
     {
@@ -8875,9 +10076,13 @@
                 "http://thierry.marianne.io"
             ],
             "photo": [
-                "https://tmar.io/photographs/tmario_bnw_500.jpg"
+                {
+                    "value": "https://tmar.io/photographs/tmario_bnw_500.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "thierrym",
         "lang": "en"
     },
     {
@@ -8898,9 +10103,13 @@
                 "http://randall.bleeds.info"
             ],
             "photo": [
-                "http://www.gravatar.com/avatar/7129ff665d962af537bf7a01f392396d.png"
+                {
+                    "value": "http://www.gravatar.com/avatar/7129ff665d962af537bf7a01f392396d.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tilgovi",
         "lang": "en"
     },
     {
@@ -8921,9 +10130,13 @@
                 "http://timowens.io"
             ],
             "photo": [
-                "http://timowens.io/avatar128px.jpg"
+                {
+                    "value": "http://timowens.io/avatar128px.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "timmmmyboy",
         "lang": "en"
     },
     {
@@ -8944,9 +10157,13 @@
                 "http://tjkoury.com"
             ],
             "photo": [
-                "http://tjkoury.com/me.jpg"
+                {
+                    "value": "http://tjkoury.com/me.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tjkoury",
         "lang": "en"
     },
     {
@@ -8967,9 +10184,13 @@
                 "http://todrobbins.com"
             ],
             "photo": [
-                "https://todrobbins.com/images/tod-small.jpg"
+                {
+                    "value": "https://todrobbins.com/images/tod-small.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "todrobbins",
         "lang": "en"
     },
     {
@@ -8990,9 +10211,13 @@
                 "http://Tommorris.org"
             ],
             "photo": [
-                "https://tommorris.org/images/me.jpg"
+                {
+                    "value": "https://tommorris.org/images/me.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tommorris",
         "lang": "en"
     },
     {
@@ -9013,9 +10238,13 @@
                 "http://www.zylstra.org_blog"
             ],
             "photo": [
-                "https://www.zylstra.org/wp/wp-content/uploads/2012/03/AntonZijlstra_TheGreenLand-150x150.jpg"
+                {
+                    "value": "https://www.zylstra.org/wp/wp-content/uploads/2012/03/AntonZijlstra_TheGreenLand-150x150.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tonz",
         "lang": "en"
     },
     {
@@ -9036,6 +10265,7 @@
                 "http://tiagopinto.pt"
             ]
         },
+        "id": "tpinto",
         "lang": "en"
     },
     {
@@ -9056,9 +10286,13 @@
                 "http://tracydurnell.com"
             ],
             "photo": [
-                "http://tracydurnell.com/gravatar.jpeg"
+                {
+                    "value": "http://tracydurnell.com/gravatar.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "tracydurnell",
         "lang": "en"
     },
     {
@@ -9079,6 +10313,7 @@
                 "http://trodrigues.net"
             ]
         },
+        "id": "trodrigues",
         "lang": "en"
     },
     {
@@ -9099,6 +10334,7 @@
                 "http://apiratelifefor.me"
             ]
         },
+        "id": "tw2113",
         "lang": "en"
     },
     {
@@ -9119,9 +10355,13 @@
                 "http://www.unindented.org"
             ],
             "photo": [
-                "https://www.unindented.org/authors/daniel-192.png"
+                {
+                    "value": "https://www.unindented.org/authors/daniel-192.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "unindented",
         "lang": "en"
     },
     {
@@ -9142,6 +10382,7 @@
                 "http://vanderwal.net"
             ]
         },
+        "id": "vanderwal",
         "lang": "en"
     },
     {
@@ -9162,6 +10403,7 @@
                 "http://vendaria.net"
             ]
         },
+        "id": "vendan",
         "lang": "en"
     },
     {
@@ -9182,9 +10424,13 @@
                 "http://michaelverdi.com"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/499017446842310656/pryl_eia_400x400.jpeg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/499017446842310656/pryl_eia_400x400.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "verdi",
         "lang": "en"
     },
     {
@@ -9205,9 +10451,13 @@
                 "http://imyaman.youre.space"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/3141593920/45925d64256a5722df57149941f00b36_400x400.png"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/3141593920/45925d64256a5722df57149941f00b36_400x400.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "vergence",
         "lang": "en"
     },
     {
@@ -9228,9 +10478,13 @@
                 "http://fireburn.ru"
             ],
             "photo": [
-                "https://avatars1.githubusercontent.com/u/7953163"
+                {
+                    "value": "https://avatars1.githubusercontent.com/u/7953163",
+                    "alt": ""
+                }
             ]
         },
+        "id": "vikanezrimaya",
         "lang": "en"
     },
     {
@@ -9251,9 +10505,13 @@
                 "http://vil.lv"
             ],
             "photo": [
-                "https://vil.lv/avatar.png"
+                {
+                    "value": "https://vil.lv/avatar.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "vilhalmer",
         "lang": "en"
     },
     {
@@ -9274,9 +10532,13 @@
                 "http://www.sleepyowl.ink"
             ],
             "photo": [
-                "https://www.sleepyowl.ink/wp-content/uploads/2018/08/avatar.jpeg"
+                {
+                    "value": "https://www.sleepyowl.ink/wp-content/uploads/2018/08/avatar.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "vishae",
         "lang": "en"
     },
     {
@@ -9297,9 +10559,13 @@
                 "http://blog.voss.co"
             ],
             "photo": [
-                "https://blog.voss.co/file/bb88afea7bb0cbecd09a029bf415754e/thumb.jpg"
+                {
+                    "value": "https://blog.voss.co/file/bb88afea7bb0cbecd09a029bf415754e/thumb.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "voss",
         "lang": "en"
     },
     {
@@ -9320,9 +10586,13 @@
                 "http://kodfabrik.se"
             ],
             "photo": [
-                "http://voxpelli.com/avatar.jpg"
+                {
+                    "value": "http://voxpelli.com/avatar.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "voxpelli",
         "lang": "en"
     },
     {
@@ -9343,6 +10613,7 @@
                 "http://vrypan.net"
             ]
         },
+        "id": "vrypan",
         "lang": "en"
     },
     {
@@ -9363,6 +10634,7 @@
                 "http://wagle.io"
             ]
         },
+        "id": "wagle",
         "lang": "en"
     },
     {
@@ -9383,6 +10655,7 @@
                 "http://wavis.org"
             ]
         },
+        "id": "wavis.2Czztr.2Czztw",
         "lang": "en"
     },
     {
@@ -9403,9 +10676,13 @@
                 "http://www.webrocker.de"
             ],
             "photo": [
-                "https://twitter.com/webrocker/profile_image"
+                {
+                    "value": "https://twitter.com/webrocker/profile_image",
+                    "alt": ""
+                }
             ]
         },
+        "id": "webrocker",
         "lang": "en"
     },
     {
@@ -9426,6 +10703,7 @@
                 "http://wholewheattoast.com"
             ]
         },
+        "id": "wholewheattoast",
         "lang": "en"
     },
     {
@@ -9446,9 +10724,13 @@
                 "http://willnorris.com"
             ],
             "photo": [
-                "https://willnorris.com/logo.jpg"
+                {
+                    "value": "https://willnorris.com/logo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "willnorris",
         "lang": "en"
     },
     {
@@ -9469,6 +10751,7 @@
                 "http://wolftune.com"
             ]
         },
+        "id": "wolftune",
         "lang": "en"
     },
     {
@@ -9489,9 +10772,13 @@
                 "http://wiobyrne.com"
             ],
             "photo": [
-                "https://farm3.staticflickr.com/2950/15311871347_16124a2f70_m.jpg"
+                {
+                    "value": "https://farm3.staticflickr.com/2950/15311871347_16124a2f70_m.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "wiobyrne",
         "lang": "en"
     },
     {
@@ -9512,6 +10799,7 @@
                 "http://petar.petrovic.io"
             ]
         },
+        "id": "wyomingplease",
         "lang": "en"
     },
     {
@@ -9532,6 +10820,7 @@
                 "http://www.jboy.us"
             ]
         },
+        "id": "yobj",
         "lang": "en"
     },
     {
@@ -9552,6 +10841,7 @@
                 "http://xavierroy.com"
             ]
         },
+        "id": "xavierroy",
         "lang": "en"
     },
     {
@@ -9572,6 +10862,7 @@
                 "http://owenshepherd.net"
             ]
         },
+        "id": "XgF",
         "lang": "en"
     },
     {
@@ -9592,9 +10883,13 @@
                 "http://xolotl.org"
             ],
             "photo": [
-                "http://1.gravatar.com/avatar/7a82c3ef7c1619ea82f4f22d93ffb959"
+                {
+                    "value": "http://1.gravatar.com/avatar/7a82c3ef7c1619ea82f4f22d93ffb959",
+                    "alt": ""
+                }
             ]
         },
+        "id": "xolotl",
         "lang": "en"
     },
     {
@@ -9615,9 +10910,13 @@
                 "http://christopheducamp.com"
             ],
             "photo": [
-                "http://christopheducamp.com/logo.jpg"
+                {
+                    "value": "http://christopheducamp.com/logo.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "xtof",
         "lang": "en"
     },
     {
@@ -9638,9 +10937,13 @@
                 "http://levenom.com"
             ],
             "photo": [
-                "https://pbs.twimg.com/profile_images/507725513884839936/WnyXKaCz_bigger.jpeg"
+                {
+                    "value": "https://pbs.twimg.com/profile_images/507725513884839936/WnyXKaCz_bigger.jpeg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "xxcoeurxx",
         "lang": "en"
     },
     {
@@ -9661,9 +10964,13 @@
                 "http://yenly.wtf"
             ],
             "photo": [
-                "https://www.yenly.wtf/images/yenly.jpg"
+                {
+                    "value": "https://www.yenly.wtf/images/yenly.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "yenly",
         "lang": "en"
     },
     {
@@ -9684,9 +10991,13 @@
                 "http://zachdonovan.net"
             ],
             "photo": [
-                "https://zachdonovan.net/static/img/users/zachdonovan.jpg"
+                {
+                    "value": "https://zachdonovan.net/static/img/users/zachdonovan.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "zachdonovan",
         "lang": "en"
     },
     {
@@ -9707,9 +11018,13 @@
                 "http://vanderven.se/martijn/"
             ],
             "photo": [
-                "https://vanderven.se/martijn/martijn.jpg"
+                {
+                    "value": "https://vanderven.se/martijn/martijn.jpg",
+                    "alt": ""
+                }
             ]
         },
+        "id": "Zegnat",
         "lang": "en"
     },
     {
@@ -9730,9 +11045,13 @@
                 "http://distresssignal.org"
             ],
             "photo": [
-                "http://www.gravatar.com/avatar/b1f0aaa5169b785bc9f833a12aba5b3c.png"
+                {
+                    "value": "http://www.gravatar.com/avatar/b1f0aaa5169b785bc9f833a12aba5b3c.png",
+                    "alt": ""
+                }
             ]
         },
+        "id": "zero-gravitas",
         "lang": "en"
     },
     {
@@ -9753,6 +11072,7 @@
                 "http://Traviswellman.com"
             ]
         },
+        "id": "zztr.2Czztw",
         "lang": "en"
     }
 ]
