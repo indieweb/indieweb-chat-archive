@@ -4803,7 +4803,7 @@
             ],
             "photo": [
                 {
-                    "value": "https://www.jvt.me/img/profile.png",
+                    "value": "https://www.jvt.me/img/profile.png?",
                     "alt": ""
                 }
             ]
@@ -4830,7 +4830,7 @@
             ],
             "photo": [
                 {
-                    "value": "https://www.jvt.me/img/profile.png",
+                    "value": "https://www.jvt.me/img/profile.png?",
                     "alt": ""
                 }
             ]
