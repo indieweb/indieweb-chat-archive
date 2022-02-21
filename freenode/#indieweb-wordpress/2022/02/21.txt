@@ -1,0 +1,1 @@
+2022-02-21 00:22:23.687800 {"type":"join","timestamp":1645402943.6878424,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"JoelSQ","nickname":"JoelSQ","username":"~joel","name":"JoelSQ","photo":null,"url":null,"tz":null,"host":"host-52-124-120-231.public.eastlink.ca"},"content":null,"modes":[]}
