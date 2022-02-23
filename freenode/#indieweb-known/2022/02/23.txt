@@ -1,0 +1,1 @@
+2022-02-23 02:16:55.316200 {"type":"join","timestamp":1645582615.3162336,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"synkarius","nickname":"synkarius","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
