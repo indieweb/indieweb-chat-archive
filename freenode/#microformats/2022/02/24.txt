@@ -1,0 +1,1 @@
+2022-02-24 00:03:29.904100 {"type":"join","timestamp":1645661009.9040802,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"angelo","nickname":"angelo","username":"~angelo","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"2600:1700:8780:c7c0:9233:4b59:3f33:2a03"},"content":null,"modes":[]}
