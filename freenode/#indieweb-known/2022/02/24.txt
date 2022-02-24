@@ -1,0 +1,1 @@
+2022-02-24 13:02:10.196500 {"type":"join","timestamp":1645707730.1964831,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"franklen[d]","nickname":"franklen[d]","username":"franklen","name":null,"photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
