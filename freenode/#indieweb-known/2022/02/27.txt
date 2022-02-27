@@ -1,0 +1,1 @@
+2022-02-27 00:26:47.155900 {"type":"join","timestamp":1645921607.1559358,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jarkad","nickname":"jarkad","username":"~jarkad","name":null,"photo":null,"url":null,"tz":null,"host":"188.163.109.136"},"content":null,"modes":[]}
