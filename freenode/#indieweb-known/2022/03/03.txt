@@ -1,0 +1,1 @@
+2022-03-03 00:08:58.002500 {"type":"join","timestamp":1646266138.0024927,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Darius_Dunlap[d]","nickname":"Darius_Dunlap[d]","username":"Darius_Dun","name":"Darius Dunlap","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
