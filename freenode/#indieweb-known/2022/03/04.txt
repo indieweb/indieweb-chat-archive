@@ -1,0 +1,1 @@
+2022-03-04 07:52:35.294300 {"type":"join","timestamp":1646380355.2943177,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jzeneto","nickname":"jzeneto","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
