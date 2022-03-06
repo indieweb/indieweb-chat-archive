@@ -1,0 +1,1 @@
+2022-03-06 00:27:05.909500 {"type":"join","timestamp":1646526425.909524,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"angelo","nickname":"angelo","username":"~angelo","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"gateway\/vpn\/pia\/angelo"},"content":null,"modes":[]}
