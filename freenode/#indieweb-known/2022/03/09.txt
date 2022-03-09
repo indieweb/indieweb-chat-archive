@@ -1,0 +1,1 @@
+2022-03-09 08:09:33.563100 {"type":"join","timestamp":1646813373.563069,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"hans63us[d]","nickname":"hans63us[d]","username":"hans63us","name":"hans63us","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
