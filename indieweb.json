@@ -971,6 +971,33 @@
         ],
         "properties": {
             "name": [
+                "benjaminchait"
+            ],
+            "nickname": [
+                "benjaminchait"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://benjaminchait.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://benjaminchait.net/assets/img/img_0534.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "benjaminchait",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "benprew"
             ],
             "nickname": [
