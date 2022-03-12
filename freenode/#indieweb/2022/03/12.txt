@@ -1,0 +1,1 @@
+2022-03-12 00:55:03.692800 {"type":"join","timestamp":1647046503.692818,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"silberfuchs","nickname":"silberfuchs","username":"~silberfuc","name":"silberfuchs (they\/es)","photo":null,"url":null,"tz":null,"host":"edist.ro\/silberfuchs"},"content":null,"modes":[]}
