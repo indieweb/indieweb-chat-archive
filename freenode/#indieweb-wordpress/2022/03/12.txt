@@ -1,0 +1,1 @@
+2022-03-12 00:43:55.564400 {"type":"join","timestamp":1647045835.5643826,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jsbach","nickname":"jsbach","username":"~jsbach","name":"johann sebastian","photo":null,"url":null,"tz":null,"host":"81-223-39-134.static.upcbusiness.at"},"content":null,"modes":[]}
