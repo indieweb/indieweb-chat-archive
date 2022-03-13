@@ -1,0 +1,1 @@
+2022-03-13 02:52:35.291600 {"type":"join","timestamp":1647139955.2916312,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"hepphepp[d]","nickname":"hepphepp[d]","username":"hepphepp","name":null,"photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
