@@ -1,0 +1,1 @@
+2022-03-13 00:28:47.830400 {"type":"join","timestamp":1647131327.8303552,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"ShinyCyril","nickname":"ShinyCyril","username":"~ShinyCyri","name":null,"photo":null,"url":null,"tz":null,"host":"65.79.144.153"},"content":null,"modes":[]}
