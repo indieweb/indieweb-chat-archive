@@ -1,0 +1,1 @@
+2022-03-19 00:05:08.406300 {"type":"join","timestamp":1647648308.4062853,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mceldeen","nickname":"mceldeen","username":"~mceldeen","name":null,"photo":null,"url":null,"tz":null,"host":"h66-222-117-47.mdsnwi.tisp.static.tds.net"},"content":null,"modes":[]}
