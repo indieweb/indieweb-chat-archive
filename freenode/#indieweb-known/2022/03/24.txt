@@ -1,0 +1,1 @@
+2022-03-24 00:08:32.281100 {"type":"join","timestamp":1648080512.2810538,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[benatwork]","nickname":"[benatwork]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
