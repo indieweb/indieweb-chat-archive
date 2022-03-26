@@ -1304,6 +1304,27 @@
         ],
         "properties": {
             "name": [
+                "boehs"
+            ],
+            "nickname": [
+                "boehs"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://boehs.org"
+            ]
+        },
+        "id": "boehs",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "boldewyn"
             ],
             "nickname": [
@@ -3171,6 +3192,27 @@
             ]
         },
         "id": "dym",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "eb"
+            ],
+            "nickname": [
+                "eb"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://boehs.org"
+            ]
+        },
+        "id": "eb",
         "lang": "en"
     },
     {
