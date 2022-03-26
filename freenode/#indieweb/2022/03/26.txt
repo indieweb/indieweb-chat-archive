@@ -1,0 +1,1 @@
+2022-03-26 00:06:32.165400 {"type":"join","timestamp":1648253192.1654,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"gRegor","nickname":"gRegor","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"ip72-197-254-201.sd.sd.cox.net"},"content":null,"modes":[]}
