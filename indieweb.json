@@ -7832,6 +7832,33 @@
         ],
         "properties": {
             "name": [
+                "Pauho"
+            ],
+            "nickname": [
+                "Pauho"
+            ],
+            "tz": [
+                "Europe/Brussels"
+            ],
+            "url": [
+                "http://pauho.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://pauho.net/wp-content/uploads/2021/11/25450785777_00d332e02d_k-e1638565923330.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Pauho",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "pauloppenheim"
             ],
             "nickname": [
