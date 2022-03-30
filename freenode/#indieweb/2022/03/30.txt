@@ -1,0 +1,1 @@
+2022-03-30 00:00:55.730500 {"type":"join","timestamp":1648598455.7304718,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"Murray[d]","nickname":"Murray[d]","username":"GnorthernG","name":"GnorthernGnome","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
