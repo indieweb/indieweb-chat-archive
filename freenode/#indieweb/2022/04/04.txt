@@ -1,0 +1,1 @@
+2022-04-04 00:25:00.210000 {"type":"join","timestamp":1649031900.2100072,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"adstew","nickname":"adstew","username":"~austen","name":null,"photo":null,"url":null,"tz":null,"host":"c-73-24-163-62.hsd1.az.comcast.net"},"content":null,"modes":[]}
