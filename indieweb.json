@@ -218,6 +218,33 @@
         ],
         "properties": {
             "name": [
+                "adstew"
+            ],
+            "nickname": [
+                "adstew"
+            ],
+            "tz": [
+                "America/Phoenix"
+            ],
+            "url": [
+                "http://adstew.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://adstew.net/images/me.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "adstew",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "alanpearce"
             ],
             "nickname": [
