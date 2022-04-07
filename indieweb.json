@@ -1592,6 +1592,33 @@
         ],
         "properties": {
             "name": [
+                "caesar"
+            ],
+            "nickname": [
+                "caesar"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://caesarschinas.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://caesarschinas.com/images/caesar-128.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "caesar",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "callovarne"
             ],
             "nickname": [
