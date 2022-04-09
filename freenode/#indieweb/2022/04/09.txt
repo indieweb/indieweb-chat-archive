@@ -1,0 +1,1 @@
+2022-04-09 00:27:09.933400 {"type":"join","timestamp":1649464029.9333544,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"inspiron","nickname":"inspiron","username":"~inspiron","name":null,"photo":null,"url":null,"tz":null,"host":"76-217-31-142.lightspeed.yrlnca.sbcglobal.net"},"content":null,"modes":[]}
