@@ -1341,6 +1341,12 @@
             ],
             "url": [
                 "http://boehs.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://boehs.org/favicon.ico",
+                    "alt": ""
+                }
             ]
         },
         "id": "boehs",
@@ -3264,6 +3270,12 @@
             ],
             "url": [
                 "http://boehs.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://boehs.org/favicon.ico",
+                    "alt": ""
+                }
             ]
         },
         "id": "eb",
