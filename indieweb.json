@@ -4727,6 +4727,27 @@
         ],
         "properties": {
             "name": [
+                "IWDiscordGateway"
+            ],
+            "nickname": [
+                "IWDiscordGateway"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://IWDiscordGateway"
+            ]
+        },
+        "id": "IWDiscordGateway",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "obra"
             ],
             "nickname": [
