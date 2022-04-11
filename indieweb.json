@@ -4706,6 +4706,27 @@
         ],
         "properties": {
             "name": [
+                "IWSlackGateway"
+            ],
+            "nickname": [
+                "IWSlackGateway"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://IWSlackGateway"
+            ]
+        },
+        "id": "IWSlackGateway",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "obra"
             ],
             "nickname": [
