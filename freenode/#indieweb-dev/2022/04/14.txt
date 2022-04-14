@@ -1,0 +1,1 @@
+2022-04-14 00:44:48.205200 {"type":"join","timestamp":1649897088.2052343,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"jsteggy","nickname":"jsteggy","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
