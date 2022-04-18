@@ -4892,14 +4892,14 @@
                 "jacky"
             ],
             "tz": [
-                "America/Los_Angeles"
+                "America/New_York"
             ],
             "url": [
                 "http://jacky.wtf"
             ],
             "photo": [
                 {
-                    "value": "https://v2.jacky.wtf/media/profile-image",
+                    "value": "https://jacky.wtf/assets/favicon.c9a993d2.png",
                     "alt": ""
                 }
             ]
@@ -4919,14 +4919,14 @@
                 "jalcine"
             ],
             "tz": [
-                "America/Los_Angeles"
+                "America/New_York"
             ],
             "url": [
                 "http://jacky.wtf"
             ],
             "photo": [
                 {
-                    "value": "https://v2.jacky.wtf/media/profile-image",
+                    "value": "https://jacky.wtf/assets/favicon.c9a993d2.png",
                     "alt": ""
                 }
             ]
@@ -4946,14 +4946,14 @@
                 "jackyalcine"
             ],
             "tz": [
-                "America/Los_Angeles"
+                "America/New_York"
             ],
             "url": [
                 "http://jacky.wtf"
             ],
             "photo": [
                 {
-                    "value": "https://v2.jacky.wtf/media/profile-image",
+                    "value": "https://jacky.wtf/assets/favicon.c9a993d2.png",
                     "alt": ""
                 }
             ]
