@@ -1,0 +1,1 @@
+2022-04-21 00:27:14.736900 {"type":"join","timestamp":1650500834.7369263,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"darkkirb","nickname":"darkkirb","username":"~darkkirb","name":null,"photo":null,"url":null,"tz":null,"host":"80.243.52.142"},"content":null,"modes":[]}
