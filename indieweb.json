@@ -10505,6 +10505,27 @@
         ],
         "properties": {
             "name": [
+                "trigonella"
+            ],
+            "nickname": [
+                "trigonella"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://trigonella.net"
+            ]
+        },
+        "id": "trigonella",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "trodrigues"
             ],
             "nickname": [
