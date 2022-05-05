@@ -2678,6 +2678,33 @@
         ],
         "properties": {
             "name": [
+                "den"
+            ],
+            "nickname": [
+                "den"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://denmchenry.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://denmchenry.com/img/den-headshot.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "den",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dianoetic"
             ],
             "nickname": [
