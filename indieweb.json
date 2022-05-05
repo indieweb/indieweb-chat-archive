@@ -6650,6 +6650,33 @@
         ],
         "properties": {
             "name": [
+                "m2m"
+            ],
+            "nickname": [
+                "m2m"
+            ],
+            "tz": [
+                "Europe/Rome"
+            ],
+            "url": [
+                "http://Minutestomidnight.co.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://minutestomidnight.co.uk/assets/images/minutestomidnight-avatar-uphoto.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "m2m",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "macgenie"
             ],
             "nickname": [
