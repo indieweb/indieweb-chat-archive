@@ -2678,13 +2678,13 @@
         ],
         "properties": {
             "name": [
-                "den"
+                "Den"
             ],
             "nickname": [
-                "den"
+                "Den"
             ],
             "tz": [
-                "US/Pacific"
+                "America/San_Francisco"
             ],
             "url": [
                 "http://denmchenry.com"
@@ -2696,7 +2696,7 @@
                 }
             ]
         },
-        "id": "den",
+        "id": "Den",
         "lang": "en"
     },
     {
