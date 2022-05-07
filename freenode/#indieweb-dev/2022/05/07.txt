@@ -1,0 +1,1 @@
+2022-05-07 02:07:29.425000 {"type":"join","timestamp":1651889249.424959,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"AramZS","nickname":"AramZS","username":"~AramZS","name":null,"photo":null,"url":null,"tz":null,"host":"pool-96-232-200-90.nycmny.fios.verizon.net"},"content":null,"modes":[]}
