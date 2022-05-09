@@ -1,0 +1,1 @@
+2022-05-09 00:10:30.821900 {"type":"join","timestamp":1652055030.8219361,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"rvalue","nickname":"rvalue","username":"~rvalue","name":"rvalue","photo":null,"url":null,"tz":null,"host":"user\/rvalue"},"content":null,"modes":[]}
