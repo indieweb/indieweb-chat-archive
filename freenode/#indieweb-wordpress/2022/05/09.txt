@@ -1,0 +1,1 @@
+2022-05-09 03:25:42.758000 {"type":"join","timestamp":1652066742.7580044,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[calumryan]1","nickname":"[calumryan]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
