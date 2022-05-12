@@ -1,0 +1,1 @@
+2022-05-12 00:34:18.725000 {"type":"join","timestamp":1652315658.7250204,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"cybi","nickname":"cybi","username":"~cybi","name":null,"photo":null,"url":null,"tz":null,"host":"pa8-84-91-203-155.netvisao.pt"},"content":null,"modes":[]}
