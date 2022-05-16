@@ -1,0 +1,1 @@
+2022-05-16 06:19:45.157600 {"type":"join","timestamp":1652681985.157562,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jsbach","nickname":"jsbach","username":"~jsbach","name":"johann sebastian","photo":null,"url":null,"tz":null,"host":"2a01:c22:b1d8:6200:c639:e009:57b4:ddc7"},"content":null,"modes":[]}
