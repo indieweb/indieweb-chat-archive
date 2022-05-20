@@ -1,0 +1,1 @@
+2022-05-20 00:58:30.513400 {"type":"join","timestamp":1653008310.5133889,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Hollie","nickname":"Hollie","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
