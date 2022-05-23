@@ -1,0 +1,1 @@
+2022-05-23 00:48:04.773200 {"type":"join","timestamp":1653266884.7731736,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"angelo","nickname":"angelo","username":"~angelo","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"2600:1700:8780:c7c0:c751:74cc:94ee:3f90"},"content":null,"modes":[]}
