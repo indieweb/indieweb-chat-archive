@@ -3314,6 +3314,33 @@
         ],
         "properties": {
             "name": [
+                "echo"
+            ],
+            "nickname": [
+                "echo"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://echonyc.blog"
+            ],
+            "photo": [
+                {
+                    "value": "https://en.gravatar.com/userimage/38827744/c95966bf1bf72ab9a5c9a9206dca67dd.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "echo",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "eddie"
             ],
             "nickname": [
