@@ -491,11 +491,11 @@
                 "America/Los_Angeles"
             ],
             "url": [
-                "http://angelogladding.com"
+                "http://ragt.ag"
             ],
             "photo": [
                 {
-                    "value": "https://lahacker.net/images/faces/Ph7fnw7/9d4ed3afe15ce62ca6034c686d572514ba55250d4833f4e867263a761e9cbe4b.jpg",
+                    "value": "http://ragt.ag/static/eye.png",
                     "alt": ""
                 }
             ]
@@ -1700,6 +1700,33 @@
         ],
         "properties": {
             "name": [
+                "campegg"
+            ],
+            "nickname": [
+                "campegg"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://campegg.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://campegg.com/assets/img/favicon-256x256.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "campegg",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "caseorganic"
             ],
             "nickname": [
@@ -2585,11 +2612,11 @@
                 "Europe/Tamworth"
             ],
             "url": [
-                "http://davidpea.ch"
+                "http://davidpeach"
             ],
             "photo": [
                 {
-                    "value": "http://davidpea.ch/img/avatar.jpg",
+                    "value": "https://cdn.davidpeach.me/2022/05/27140552/me.jpg",
                     "alt": ""
                 }
             ]
@@ -3824,6 +3851,60 @@
         ],
         "properties": {
             "name": [
+                "_fluffy"
+            ],
+            "nickname": [
+                "_fluffy"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://beesbuzz.biz"
+            ],
+            "photo": [
+                {
+                    "value": "https://beesbuzz.biz/static/headshot.jpg?1",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "_fluffy",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "[fluffy]1"
+            ],
+            "nickname": [
+                "[fluffy]1"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://beesbuzz.biz"
+            ],
+            "photo": [
+                {
+                    "value": "https://beesbuzz.biz/static/headshot.jpg?1",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": ".5Bfluffy.5D1",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "fncll"
             ],
             "nickname": [
@@ -3999,6 +4080,33 @@
             ]
         },
         "id": "generativist",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "geoffo"
+            ],
+            "nickname": [
+                "geoffo"
+            ],
+            "tz": [
+                "America/Denver"
+            ],
+            "url": [
+                "http://geoffoliver.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://geoffoliver.me/profile-photo",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "geoffo",
         "lang": "en"
     },
     {
@@ -4355,6 +4463,33 @@
         ],
         "properties": {
             "name": [
+                "hacdias"
+            ],
+            "nickname": [
+                "hacdias"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://hacdias.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://hacdias.com/me.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "hacdias",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "hibs"
             ],
             "nickname": [
@@ -4437,6 +4572,33 @@
             ]
         },
         "id": "Hodgestar",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "hollie"
+            ],
+            "nickname": [
+                "hollie"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://teaandbook.net"
+            ],
+            "photo": [
+                {
+                    "value": "http://teaandbook.net/wp-content/uploads/2022/05/CC6BFDAA-7ADE-4AC3-955A-C0975BBC8948-1.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "hollie",
         "lang": "en"
     },
     {
@@ -5094,6 +5256,33 @@
             ]
         },
         "id": "jamietanna.5Bm.5D",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "Jamie_Tanna"
+            ],
+            "nickname": [
+                "Jamie_Tanna"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://www.jvt.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.jvt.me/img/profile.png?",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Jamie_Tanna",
         "lang": "en"
     },
     {
@@ -7592,27 +7781,6 @@
         ],
         "properties": {
             "name": [
-                "unrelentingtech"
-            ],
-            "nickname": [
-                "unrelentingtech"
-            ],
-            "tz": [
-                "Europe/Moscow"
-            ],
-            "url": [
-                "http://unrelenting.technology"
-            ]
-        },
-        "id": "unrelentingtech",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "Natris1979"
             ],
             "nickname": [
@@ -8756,6 +8924,33 @@
         ],
         "properties": {
             "name": [
+                "revi"
+            ],
+            "nickname": [
+                "revi"
+            ],
+            "tz": [
+                "Asia/Seoul"
+            ],
+            "url": [
+                "http://revi.xyz"
+            ],
+            "photo": [
+                {
+                    "value": "https://cloudfront.revicdn.net/sian2022.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "revi",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rhiaro"
             ],
             "nickname": [
@@ -8850,6 +9045,33 @@
             ]
         },
         "id": "rockorager",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "robijntje"
+            ],
+            "nickname": [
+                "robijntje"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://geheimesite.nl"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.geheimesite.nl/images/me.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "robijntje",
         "lang": "en"
     },
     {
@@ -9974,6 +10196,33 @@
         ],
         "properties": {
             "name": [
+                "s[_]"
+            ],
+            "nickname": [
+                "s[_]"
+            ],
+            "tz": [
+                "Asia/Seoul"
+            ],
+            "url": [
+                "http://revi.xyz"
+            ],
+            "photo": [
+                {
+                    "value": "https://cloudfront.revicdn.net/sian2022.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "s.5B_.5D",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Taco Dave"
             ],
             "nickname": [
@@ -10376,6 +10625,33 @@
         ],
         "properties": {
             "name": [
+                "thesheps"
+            ],
+            "nickname": [
+                "thesheps"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://www.thesheps.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.thesheps.dev/assets/images/bio.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "thesheps",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "thierrym"
             ],
             "nickname": [
@@ -10737,6 +11013,27 @@
             ]
         },
         "id": "vendan",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "vera"
+            ],
+            "nickname": [
+                "vera"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://work.vera.pink"
+            ]
+        },
+        "id": "vera",
         "lang": "en"
     },
     {
@@ -11433,6 +11730,27 @@
             ]
         },
         "id": "zztr.2Czztw",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "sp1ff"
+            ],
+            "nickname": [
+                "sp1ff"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://www.unwoundstack.com"
+            ]
+        },
+        "id": "sp1ff",
         "lang": "en"
     }
 ]

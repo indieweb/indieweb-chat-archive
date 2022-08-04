@@ -1,0 +1,1 @@
+2022-07-23 18:25:41.102500 {"type":"join","timestamp":1658600741.102522,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld","nickname":"feld","username":"~feld","name":null,"photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
