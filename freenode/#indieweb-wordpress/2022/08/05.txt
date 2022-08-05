@@ -1,0 +1,1 @@
+2022-08-05 00:43:07.827800 {"type":"join","timestamp":1659660187.8277729,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"chee","nickname":"chee","username":"chee","name":"chee","photo":null,"url":null,"tz":null,"host":"snoot.club"},"content":null,"modes":[]}
