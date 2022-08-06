@@ -1,0 +1,1 @@
+2022-08-06 01:55:32.358200 {"type":"join","timestamp":1659750932.3581905,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"RasAlGhoul","nickname":"RasAlGhoul","username":"~RasAlGhou","name":null,"photo":null,"url":null,"tz":null,"host":"185.127.183.132"},"content":null,"modes":[]}
