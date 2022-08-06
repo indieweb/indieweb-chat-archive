@@ -1,0 +1,1 @@
+2022-08-06 08:40:35.951400 {"type":"join","timestamp":1659775235.9514418,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jon1","nickname":"jon1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
