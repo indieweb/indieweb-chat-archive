@@ -1,0 +1,1 @@
+2022-08-08 00:22:46.855500 {"type":"join","timestamp":1659918166.8554988,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"alex11","nickname":"alex11","username":"~alex11","name":"your worst nightmare","photo":null,"url":null,"tz":null,"host":"user\/alex11"},"content":null,"modes":[]}
