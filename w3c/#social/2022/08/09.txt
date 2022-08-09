@@ -1,0 +1,1 @@
+2022-08-09 08:08:08.276500 {"type":"join","timestamp":1660032488.2765338,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Chocobozzz","nickname":"Chocobozzz","username":"~florian","name":"Unknown","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
