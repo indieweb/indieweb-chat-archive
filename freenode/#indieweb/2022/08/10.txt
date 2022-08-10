@@ -1,0 +1,1 @@
+2022-08-10 00:22:15.115800 {"type":"join","timestamp":1660090935.1158257,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"ehmry","nickname":"ehmry","username":"~quassel","name":"Emery","photo":null,"url":null,"tz":null,"host":"WLWB-VID145-122-227.lcom.net"},"content":null,"modes":[]}
