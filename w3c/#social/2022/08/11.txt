@@ -1,0 +1,1 @@
+2022-08-11 10:02:49.474600 {"type":"leave","timestamp":1660212169.4745588,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"madebankonit","nickname":"madebankonit","username":"~madebancma","name":"@madebanc:matrix.org","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
