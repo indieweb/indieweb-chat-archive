@@ -1,0 +1,1 @@
+2022-08-17 00:30:58.127400 {"type":"join","timestamp":1660696258.1273594,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Donaldbtc","nickname":"Donaldbtc","username":"~yungbtcmat","name":null,"photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
