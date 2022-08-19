@@ -1,0 +1,1 @@
+2022-08-19 07:48:44.813100 {"type":"leave","timestamp":1660895324.813105,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jonnycat","nickname":"jonnycat","username":"~jonnycatma","name":"@jonnycat:matrix.org","photo":null,"url":null,"tz":null,"host":"af629938.public.cloak"},"content":null,"modes":[]}
