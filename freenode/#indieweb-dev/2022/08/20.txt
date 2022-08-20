@@ -1,0 +1,1 @@
+2022-08-20 00:22:29.074500 {"type":"join","timestamp":1660954949.074455,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"nertzy","nickname":"nertzy","username":"~grant","name":"Grant Hutchins","photo":null,"url":null,"tz":null,"host":"cpe-70-112-182-10.austin.res.rr.com"},"content":null,"modes":[]}
