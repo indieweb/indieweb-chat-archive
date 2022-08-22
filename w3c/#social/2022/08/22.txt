@@ -1,0 +1,1 @@
+2022-08-22 04:53:42.125800 {"type":"join","timestamp":1661144022.1258373,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan","nickname":"ajordan","username":"~ajordan","name":"AJ Jordan","photo":null,"url":null,"tz":null,"host":"71dc0f22.publics.cloak"},"content":null,"modes":[]}
