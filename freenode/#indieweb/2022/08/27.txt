@@ -1,0 +1,1 @@
+2022-08-27 01:31:35.829100 {"type":"join","timestamp":1661563895.8290675,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bozo","nickname":"bozo","username":"~bozo","name":"Bozo","photo":null,"url":null,"tz":null,"host":"188.252.185.52"},"content":null,"modes":[]}
