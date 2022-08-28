@@ -1,0 +1,1 @@
+2022-08-28 01:09:18.952800 {"type":"join","timestamp":1661648958.9528356,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"n8chz","nickname":"n8chz","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"2601:40d:c100:2be4:2d05:1980:fe33:a8f1"},"content":null,"modes":[]}
