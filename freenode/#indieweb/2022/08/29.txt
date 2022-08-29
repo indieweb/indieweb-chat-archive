@@ -1,0 +1,1 @@
+2022-08-29 00:21:51.424200 {"type":"join","timestamp":1661732511.4242473,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"shadowkyogre","nickname":"shadowkyogre","username":"7358dd25f8","name":null,"photo":null,"url":null,"tz":null,"host":"jabberfr.org"},"content":null,"modes":[]}
