@@ -1,0 +1,1 @@
+2022-09-01 02:51:13.682200 {"type":"join","timestamp":1662000673.6822145,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mini222","nickname":"mini222","username":"~mini222mat","name":null,"photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
