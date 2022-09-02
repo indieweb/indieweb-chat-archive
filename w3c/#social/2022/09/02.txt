@@ -1,0 +1,1 @@
+2022-09-02 08:15:00.385800 {"type":"join","timestamp":1662106500.38577,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tenma","nickname":"tenma","username":"~tenma","name":null,"photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
