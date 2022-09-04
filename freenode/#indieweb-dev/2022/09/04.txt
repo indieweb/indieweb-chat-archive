@@ -1,0 +1,1 @@
+2022-09-04 00:19:07.527700 {"type":"join","timestamp":1662250747.527676,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"neceve","nickname":"neceve","username":"~neceve","name":null,"photo":null,"url":null,"tz":null,"host":"2.26.93.14"},"content":null,"modes":[]}
