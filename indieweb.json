@@ -1385,6 +1385,33 @@
         ],
         "properties": {
             "name": [
+                "Borghal"
+            ],
+            "nickname": [
+                "Borghal"
+            ],
+            "tz": [
+                "North America/New_York"
+            ],
+            "url": [
+                "http://borghal.blog"
+            ],
+            "photo": [
+                {
+                    "value": "https://borghal.blog/avatars/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Borghal",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bradenslen"
             ],
             "nickname": [
