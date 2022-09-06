@@ -4442,6 +4442,27 @@
         ],
         "properties": {
             "name": [
+                "h4kor"
+            ],
+            "nickname": [
+                "h4kor"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://blog.libove.org"
+            ]
+        },
+        "id": "h4kor",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "habitmelon"
             ],
             "nickname": [
