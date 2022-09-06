@@ -1,0 +1,1 @@
+2022-09-06 01:06:16.692900 {"type":"join","timestamp":1662426376.6929324,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Magnus","nickname":"Magnus","username":"~frdhmatrix","name":null,"photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
