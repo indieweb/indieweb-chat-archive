@@ -1,0 +1,1 @@
+2022-09-06 00:10:41.257100 {"type":"join","timestamp":1662423041.2570658,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"gxt","nickname":"gxt","username":"~gxt","name":null,"photo":null,"url":null,"tz":null,"host":"gateway\/tor-sasl\/gxt"},"content":null,"modes":[]}
