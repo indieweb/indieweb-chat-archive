@@ -1,0 +1,1 @@
+2022-09-07 00:20:34.820000 {"type":"join","timestamp":1662510034.8200288,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jeremy","nickname":"jeremy","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
