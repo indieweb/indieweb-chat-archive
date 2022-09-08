@@ -1,0 +1,1 @@
+2022-09-08 00:00:21.144800 {"type":"join","timestamp":1662595221.1447961,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"gopiandcode","nickname":"gopiandcode","username":"~gopiandco","name":null,"photo":null,"url":null,"tz":null,"host":"137.132.218.136"},"content":null,"modes":[]}
