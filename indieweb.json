@@ -2219,6 +2219,33 @@
         ],
         "properties": {
             "name": [
+                "corlaez"
+            ],
+            "nickname": [
+                "corlaez"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://corlaez.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://corlaez.com/assets/signature-white-210.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "corlaez",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cowglow"
             ],
             "nickname": [
