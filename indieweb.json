@@ -9800,6 +9800,33 @@
         ],
         "properties": {
             "name": [
+                "shindakun"
+            ],
+            "nickname": [
+                "shindakun"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://shindakun.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://pbs.twimg.com/profile_images/3429611113/96fd4e59d4abf22f6934a5c3d114bc08_400x400.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "shindakun",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "shoesNsocks"
             ],
             "nickname": [
