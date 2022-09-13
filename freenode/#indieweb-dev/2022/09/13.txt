@@ -1,0 +1,1 @@
+2022-09-13 00:45:53.369400 {"type":"join","timestamp":1663029953.3693662,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Hgghn","nickname":"Hgghn","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
