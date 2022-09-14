@@ -1,0 +1,1 @@
+2022-09-14 00:03:49.410000 {"type":"join","timestamp":1663113829.40995,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"AramZS","nickname":"AramZS","username":"~AramZS","name":null,"photo":null,"url":null,"tz":null,"host":"64.114.255.97"},"content":null,"modes":[]}
