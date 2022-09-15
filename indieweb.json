@@ -3578,33 +3578,6 @@
         ],
         "properties": {
             "name": [
-                "endi"
-            ],
-            "nickname": [
-                "endi"
-            ],
-            "tz": [
-                "America/New_York"
-            ],
-            "url": [
-                "http://stefanovski.io"
-            ],
-            "photo": [
-                {
-                    "value": "https://stefanovski.io/s/Profile_Versailles_256px.jpg",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "endi",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "elie"
             ],
             "nickname": [
@@ -3774,6 +3747,60 @@
             ]
         },
         "id": "emmak",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "endi"
+            ],
+            "nickname": [
+                "endi"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://stefanovski.io"
+            ],
+            "photo": [
+                {
+                    "value": "https://stefanovski.io/s/Profile_Versailles_256px.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "endi",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "epoch"
+            ],
+            "nickname": [
+                "epoch"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://thebackupbox.net/~epoch"
+            ],
+            "photo": [
+                {
+                    "value": "https://thebackupbox.net/~epoch/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "epoch",
         "lang": "en"
     },
     {
