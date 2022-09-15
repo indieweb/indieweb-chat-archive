@@ -1,0 +1,1 @@
+2022-09-15 00:09:59.123700 {"type":"join","timestamp":1663200599.1236677,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"AramZS","nickname":"AramZS","username":"~AramZS","name":null,"photo":null,"url":null,"tz":null,"host":"172.58.107.78"},"content":null,"modes":[]}
