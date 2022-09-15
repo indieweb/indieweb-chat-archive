@@ -10079,6 +10079,27 @@
         ],
         "properties": {
             "name": [
+                "sp1ff"
+            ],
+            "nickname": [
+                "sp1ff"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://www.unwoundstack.com"
+            ]
+        },
+        "id": "sp1ff",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sparverius"
             ],
             "nickname": [
@@ -11859,27 +11880,6 @@
             ]
         },
         "id": "zztr.2Czztw",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "sp1ff"
-            ],
-            "nickname": [
-                "sp1ff"
-            ],
-            "tz": [
-                "US/Pacific"
-            ],
-            "url": [
-                "http://www.unwoundstack.com"
-            ]
-        },
-        "id": "sp1ff",
         "lang": "en"
     }
 ]
