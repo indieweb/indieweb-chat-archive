@@ -1,0 +1,1 @@
+2022-09-17 02:00:14.370800 {"type":"join","timestamp":1663380014.3708203,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Loqi","nickname":"Loqi","username":"~Loqi","name":"cinch","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
