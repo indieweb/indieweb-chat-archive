@@ -1,0 +1,1 @@
+2022-09-20 01:35:44.151900 {"type":"leave","timestamp":1663637744.1518643,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jacobcrypusa","nickname":"jacobcrypusa","username":"~jacobcrypu","name":"@jacobcrypusa:matrix.org","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
