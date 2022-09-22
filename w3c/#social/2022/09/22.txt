@@ -1,0 +1,1 @@
+2022-09-22 00:43:56.775800 {"type":"join","timestamp":1663807436.7758274,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ben_thatmustbeme","nickname":"ben_thatmustbeme","username":"~quassel","name":"Ben Roberts","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
