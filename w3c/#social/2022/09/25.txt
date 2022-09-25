@@ -1,0 +1,1 @@
+2022-09-25 13:37:15.885000 {"type":"join","timestamp":1664113035.8850436,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld","nickname":"feld","username":"~feld","name":"Mark Felder","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
