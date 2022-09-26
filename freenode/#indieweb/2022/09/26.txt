@@ -1,0 +1,1 @@
+2022-09-26 00:03:00.076800 {"type":"join","timestamp":1664150580.0768375,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mcint","nickname":"mcint","username":"mcint","name":null,"photo":null,"url":null,"tz":null,"host":"user\/mcint"},"content":null,"modes":[]}
