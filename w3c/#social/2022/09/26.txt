@@ -1,0 +1,1 @@
+2022-09-26 09:57:26.456700 {"type":"join","timestamp":1664186246.4567347,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Hugh","nickname":"Hugh","username":"~M73ooomatr","name":"@73ooo:matrix.org","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
