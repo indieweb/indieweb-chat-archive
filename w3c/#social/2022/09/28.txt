@@ -1,0 +1,1 @@
+2022-09-28 00:11:37.196600 {"type":"join","timestamp":1664323897.196554,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"rektide","nickname":"rektide","username":"~rektide","name":"rektide","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}

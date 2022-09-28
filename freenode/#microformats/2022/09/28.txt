@@ -1,0 +1,1 @@
+2022-09-28 00:11:45.175600 {"type":"join","timestamp":1664323905.1755865,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"rektide","nickname":"rektide","username":"~rektide","name":"rektide","photo":null,"url":null,"tz":null,"host":"eldergods.com"},"content":null,"modes":[]}
