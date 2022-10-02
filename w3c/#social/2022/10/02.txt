@@ -1,0 +1,1 @@
+2022-10-02 06:14:42.245200 {"type":"join","timestamp":1664691282.2451901,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"meatvladski","nickname":"meatvladski","username":"~meatvladsk","name":null,"photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
