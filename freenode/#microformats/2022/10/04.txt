@@ -1,0 +1,1 @@
+2022-10-04 01:56:50.194300 {"type":"join","timestamp":1664848610.1943433,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[snarfed]1","nickname":"[snarfed]1","username":"~slackuser","name":"snarfed via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
