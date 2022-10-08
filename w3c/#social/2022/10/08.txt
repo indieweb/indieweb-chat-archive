@@ -1,0 +1,1 @@
+2022-10-08 13:05:40.421400 {"type":"join","timestamp":1665234340.4214132,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Gargron","nickname":"Gargron","username":"~quassel","name":"Eugen","photo":null,"url":null,"tz":null,"host":"11c9e7f5.public.cloak"},"content":null,"modes":[]}
