@@ -7712,6 +7712,33 @@
         ],
         "properties": {
             "name": [
+                "mnlwldr"
+            ],
+            "nickname": [
+                "mnlwldr"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://defer.cc"
+            ],
+            "photo": [
+                {
+                    "value": "https://gravatar.com/avatar/b42419eb01bd34ba1fb9999c96472e5e",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "mnlwldr",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mko"
             ],
             "nickname": [
