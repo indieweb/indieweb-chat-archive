@@ -10091,6 +10091,33 @@
         ],
         "properties": {
             "name": [
+                "slyduda"
+            ],
+            "nickname": [
+                "slyduda"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://slyduda.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://slyduda.com/me.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "slyduda",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "smagdali"
             ],
             "nickname": [
