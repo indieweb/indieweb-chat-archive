@@ -1,0 +1,1 @@
+2022-10-30 01:40:20.730000 {"type":"join","timestamp":1667094020.7299507,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"ehmry","nickname":"ehmry","username":"~quassel","name":"Emery","photo":null,"url":null,"tz":null,"host":"WLWB-VID145-122-227.lcom.net"},"content":null,"modes":[]}
