@@ -1,0 +1,1 @@
+2022-10-31 01:32:46.606400 {"type":"join","timestamp":1667179966.6063955,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Evert1","nickname":"Evert1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
