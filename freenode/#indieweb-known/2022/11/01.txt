@@ -1,0 +1,1 @@
+2022-11-01 09:38:42.619500 {"type":"join","timestamp":1667295522.6194701,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[MiaCrow]","nickname":"[MiaCrow]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
