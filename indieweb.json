@@ -1802,6 +1802,33 @@
         ],
         "properties": {
             "name": [
+                "catgirlinspace"
+            ],
+            "nickname": [
+                "catgirlinspace"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://catgirlin.space"
+            ],
+            "photo": [
+                {
+                    "value": "https://catgirlin.space/images/pfp.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "catgirlinspace",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cdevroe"
             ],
             "nickname": [
@@ -4718,7 +4745,7 @@
                 "US/Pacific"
             ],
             "url": [
-                "http://hollie.io"
+                "http://mossyrock.net"
             ],
             "photo": [
                 {
@@ -9290,6 +9317,33 @@
         ],
         "properties": {
             "name": [
+                "rossabaker"
+            ],
+            "nickname": [
+                "rossabaker"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://rossabaker.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://rossabaker.com/img/profile.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "rossabaker",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rowanmanning"
             ],
             "nickname": [
@@ -10964,6 +11018,33 @@
         ],
         "properties": {
             "name": [
+                "tiim"
+            ],
+            "nickname": [
+                "tiim"
+            ],
+            "tz": [
+                "Europe/Zurich"
+            ],
+            "url": [
+                "http://tiim.ch"
+            ],
+            "photo": [
+                {
+                    "value": "https://media.tiim.ch/tiim.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "tiim",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "timmmmyboy"
             ],
             "nickname": [
@@ -11010,6 +11091,33 @@
             ]
         },
         "id": "tjkoury",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "tmichellemoore"
+            ],
+            "nickname": [
+                "tmichellemoore"
+            ],
+            "tz": [
+                "US/New_York"
+            ],
+            "url": [
+                "http://www.tmichellemoore.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://photos.smugmug.com/Galleries/Journal/2022/2022-11-10-Birthday-Portrait/i-xNhx2CB/1/1ee2931f/Th/DSC04496-Th.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "tmichellemoore",
         "lang": "en"
     },
     {
