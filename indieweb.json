@@ -1052,6 +1052,33 @@
         ],
         "properties": {
             "name": [
+                "benji"
+            ],
+            "nickname": [
+                "benji"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://www.benji.dog"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.benji.dog/assets/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "benji",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "benprew"
             ],
             "nickname": [
