@@ -1,0 +1,1 @@
+2022-12-02 01:13:22.990700 {"type":"join","timestamp":1669943602.9906526,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[Joe_Crawford]","nickname":"[Joe_Crawford]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
