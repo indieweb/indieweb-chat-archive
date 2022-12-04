@@ -8501,6 +8501,27 @@
         ],
         "properties": {
             "name": [
+                "paulrobertlloyd"
+            ],
+            "nickname": [
+                "paulrobertlloyd"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://paulrobertlloyd.com"
+            ]
+        },
+        "id": "paulrobertlloyd",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "pdurbin"
             ],
             "nickname": [
