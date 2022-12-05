@@ -1,0 +1,1 @@
+2022-12-05 01:57:04.144500 {"type":"leave","timestamp":1670205424.1445293,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"sheila600k","nickname":"sheila600k","username":"~sheila600k","name":null,"photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
