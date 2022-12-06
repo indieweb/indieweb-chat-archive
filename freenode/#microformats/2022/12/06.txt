@@ -1,0 +1,1 @@
+2022-12-06 04:20:09.946700 {"type":"leave","timestamp":1670300409.9466813,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"btrem","nickname":"btrem","username":"~brian","name":null,"photo":null,"url":null,"tz":null,"host":"c-24-18-178-211.hsd1.wa.comcast.net"},"content":null,"modes":[]}
