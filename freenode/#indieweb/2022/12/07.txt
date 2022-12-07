@@ -1,0 +1,1 @@
+2022-12-07 00:57:08.902100 {"type":"join","timestamp":1670374628.9021392,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"neceve","nickname":"neceve","username":"~neceve","name":"ZNC - https:\/\/znc.in","photo":null,"url":null,"tz":null,"host":"2.29.116.232"},"content":null,"modes":[]}
