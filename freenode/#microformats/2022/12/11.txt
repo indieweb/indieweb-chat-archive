@@ -1,0 +1,1 @@
+2022-12-11 01:40:12.072200 {"type":"join","timestamp":1670722812.0721798,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"quarky[m]","nickname":"quarky[m]","username":"~ashheyqua","name":null,"photo":null,"url":null,"tz":null,"host":"2001:470:69fc:105::1:4d40"},"content":null,"modes":[]}
