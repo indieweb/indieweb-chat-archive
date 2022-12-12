@@ -1,0 +1,1 @@
+2022-12-12 01:53:20.871600 {"type":"join","timestamp":1670810000.8716068,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"ClayFerguson[m]","nickname":"ClayFerguson[m]","username":"~wclayferg","name":null,"photo":null,"url":null,"tz":null,"host":"2001:470:69fc:105::9f6"},"content":null,"modes":[]}
