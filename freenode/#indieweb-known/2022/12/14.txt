@@ -1,0 +1,1 @@
+2022-12-14 08:56:14.089800 {"type":"join","timestamp":1671008174.0898395,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Xin","nickname":"Xin","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
