@@ -1,0 +1,1 @@
+2022-12-15 02:44:32.878100 {"type":"join","timestamp":1671072272.878106,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"persise","nickname":"persise","username":"~persisemat","name":null,"photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
