@@ -1,0 +1,1 @@
+2022-12-18 00:19:59.424400 {"type":"join","timestamp":1671322799.4243543,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Starrwulfe","nickname":"Starrwulfe","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
