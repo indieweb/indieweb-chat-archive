@@ -1,0 +1,1 @@
+2022-12-18 02:18:29.171200 {"type":"join","timestamp":1671329909.1711693,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"babyforacutiefx","nickname":"babyforacutiefx","username":"~babyforacu","name":null,"photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
