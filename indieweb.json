@@ -9473,6 +9473,33 @@
         ],
         "properties": {
             "name": [
+                "rupl"
+            ],
+            "nickname": [
+                "rupl"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://chrisruppel.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://chrisruppel.com/static/chris-ruppel-2015@192x192.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "rupl",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ruxton"
             ],
             "nickname": [
