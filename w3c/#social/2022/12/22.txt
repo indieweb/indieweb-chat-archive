@@ -1,0 +1,1 @@
+2022-12-22 00:45:10.109300 {"type":"join","timestamp":1671669910.1093104,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"AaronNGray","nickname":"AaronNGray","username":"~aaronngray","name":null,"photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
