@@ -1,0 +1,1 @@
+2022-12-23 00:35:37.361500 {"type":"join","timestamp":1671755737.3614833,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"peterhil","nickname":"peterhil","username":"~peterhil","name":"realname","photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
