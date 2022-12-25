@@ -1,0 +1,1 @@
+2022-12-25 08:42:10.315100 {"type":"join","timestamp":1671957730.3151395,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mro","nickname":"mro","username":"~mro","name":"mro","photo":null,"url":null,"tz":null,"host":"f449d638.publics.cloak"},"content":null,"modes":[]}
