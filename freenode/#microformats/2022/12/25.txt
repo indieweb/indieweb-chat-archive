@@ -1,0 +1,1 @@
+2022-12-25 00:07:27.517000 {"type":"join","timestamp":1671926847.5169744,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"ehmry","nickname":"ehmry","username":"~quassel","name":"Emery","photo":null,"url":null,"tz":null,"host":"WLWB-VID145-122-215.lcom.net"},"content":null,"modes":[]}
