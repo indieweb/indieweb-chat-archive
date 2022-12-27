@@ -1,0 +1,1 @@
+2022-12-27 03:07:19.275800 {"type":"join","timestamp":1672110439.2758439,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"jvsg","nickname":"jvsg","username":"~jvsgmatrix","name":null,"photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
