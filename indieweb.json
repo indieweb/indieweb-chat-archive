@@ -7049,6 +7049,33 @@
         ],
         "properties": {
             "name": [
+                "M0x3b0b[m]"
+            ],
+            "nickname": [
+                "M0x3b0b[m]"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://bw3.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://bw3.dev/static/noicon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "M0x3b0b[m]",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "m2m"
             ],
             "nickname": [
