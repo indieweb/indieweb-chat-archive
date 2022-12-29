@@ -7049,10 +7049,10 @@
         ],
         "properties": {
             "name": [
-                "M0x3b0b[m]"
+                "M0x3b0b"
             ],
             "nickname": [
-                "M0x3b0b[m]"
+                "M0x3b0b"
             ],
             "tz": [
                 "America/New_York"
@@ -7067,7 +7067,7 @@
                 }
             ]
         },
-        "id": "M0x3b0b[m]",
+        "id": "M0x3b0b",
         "lang": "en"
     },
     {
