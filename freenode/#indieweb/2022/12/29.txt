@@ -1,0 +1,1 @@
+2022-12-29 00:40:30.882700 {"type":"join","timestamp":1672274430.8827014,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"discipolo","nickname":"discipolo","username":"~discipolo","name":null,"photo":null,"url":null,"tz":null,"host":"p200300ec3704ca43211b4abc670cef1c.dip0.t-ipconnect.de"},"content":null,"modes":[]}
