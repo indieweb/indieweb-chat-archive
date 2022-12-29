@@ -74,6 +74,33 @@
         ],
         "properties": {
             "name": [
+                "0x3b0b"
+            ],
+            "nickname": [
+                "0x3b0b"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://bw3.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://bw3.dev/static/noicon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "0x3b0b",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "aaronpk"
             ],
             "nickname": [
