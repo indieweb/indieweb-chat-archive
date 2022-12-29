@@ -1,0 +1,1 @@
+2022-12-29 15:38:40.630300 {"type":"join","timestamp":1672328320.6302834,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Rick]","nickname":"[Rick]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
