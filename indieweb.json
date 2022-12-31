@@ -1357,23 +1357,23 @@
             "h-card"
         ],
         "properties": {
-            "name": [
-                "bneil"
-            ],
-            "nickname": [
-                "bneil"
-            ],
-            "tz": [
-                "America/Denver"
-            ],
             "url": [
-                "http://bneil.me"
+                "http://www.gregsplace.net"
             ],
-            "photo": [
-                {
-                    "value": "https://bneil.me/images/me.gif",
-                    "alt": ""
-                }
+            "name": [
+                "profile-photo-scaled.jpg"
+            ]
+        },
+        "id": "blindnerd",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                ""
             ]
         },
         "id": "bneil",
