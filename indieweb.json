@@ -4454,6 +4454,33 @@
         ],
         "properties": {
             "name": [
+                "GregL"
+            ],
+            "nickname": [
+                "GregL"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://www.gregsplace.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.gregsplace.net/wp-content/uploads/2022/12/profile-photo-scaled.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "GregL",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gRegor"
             ],
             "nickname": [
