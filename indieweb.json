@@ -1357,11 +1357,23 @@
             "h-card"
         ],
         "properties": {
+            "name": [
+                "blindnerd"
+            ],
+            "nickname": [
+                "blindnerd"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
             "url": [
                 "http://www.gregsplace.net"
             ],
-            "name": [
-                "profile-photo-scaled.jpg"
+            "photo": [
+                {
+                    "value": "https://www.gregsplace.net/wp-content/uploads/2022/12/profile-photo-scaled.jpg",
+                    "alt": ""
+                }
             ]
         },
         "id": "blindnerd",
@@ -1373,7 +1385,22 @@
         ],
         "properties": {
             "name": [
-                ""
+                "bneil"
+            ],
+            "nickname": [
+                "bneil"
+            ],
+            "tz": [
+                "America/Denver"
+            ],
+            "url": [
+                "http://bneil.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://bneil.me/images/me.gif",
+                    "alt": ""
+                }
             ]
         },
         "id": "bneil",
