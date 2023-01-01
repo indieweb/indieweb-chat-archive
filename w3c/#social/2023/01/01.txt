@@ -1,0 +1,1 @@
+2023-01-01 01:37:13.311100 {"type":"join","timestamp":1672537033.3110547,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ionmite","nickname":"ionmite","username":"~ionmitemat","name":null,"photo":null,"url":null,"tz":null,"host":"536ebf46.public.cloak"},"content":null,"modes":[]}
