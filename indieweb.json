@@ -563,6 +563,27 @@
         ],
         "properties": {
             "name": [
+                "AramZ-S"
+            ],
+            "nickname": [
+                "AramZ-S"
+            ],
+            "tz": [
+                "me-sm.jpg"
+            ],
+            "url": [
+                "http://aramzuckerscharff.com"
+            ]
+        },
+        "id": "AramZ-S",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "argovaerts"
             ],
             "nickname": [
