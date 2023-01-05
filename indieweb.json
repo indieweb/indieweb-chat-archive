@@ -569,10 +569,16 @@
                 "AramZ-S"
             ],
             "tz": [
-                "me-sm.jpg"
+                "America/New_York"
             ],
             "url": [
                 "http://aramzuckerscharff.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://aramzuckerscharff.com/imgs/me-sm.jpg",
+                    "alt": ""
+                }
             ]
         },
         "id": "AramZ-S",
