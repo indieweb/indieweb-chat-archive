@@ -1,0 +1,1 @@
+2023-01-09 00:13:11.057500 {"type":"join","timestamp":1673223191.057493,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"starrwulfe","nickname":"starrwulfe","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}

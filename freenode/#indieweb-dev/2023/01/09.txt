@@ -1,0 +1,1 @@
+2023-01-09 00:13:10.846100 {"type":"join","timestamp":1673223190.8461022,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"starrwulfe","nickname":"starrwulfe","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
