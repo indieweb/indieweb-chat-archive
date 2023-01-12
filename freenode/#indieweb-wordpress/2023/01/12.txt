@@ -1,0 +1,1 @@
+2023-01-12 00:01:42.821800 {"type":"join","timestamp":1673481702.821772,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"doug_c_im","nickname":"doug_c_im","username":"~dougs2021","name":null,"photo":null,"url":null,"tz":null,"host":"c-67-174-156-23.hsd1.ca.comcast.net"},"content":null,"modes":[]}
