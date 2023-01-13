@@ -9483,6 +9483,12 @@
             ],
             "url": [
                 "http://www.axiomeval.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://2.gravatar.com/avatar/0dafdd6c1d650e72609b6e2a1a27ac8a",
+                    "alt": ""
+                }
             ]
         },
         "id": "Ross",
