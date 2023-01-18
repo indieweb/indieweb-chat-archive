@@ -3509,6 +3509,33 @@
         ],
         "properties": {
             "name": [
+                "dtw"
+            ],
+            "nickname": [
+                "dtw"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://rubyquartzglasses.me.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://gravatar.com/avatar/f2e6693840a015b276c49353e3a16b25.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "dtw",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dym"
             ],
             "nickname": [
