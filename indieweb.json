@@ -4781,10 +4781,10 @@
         ],
         "properties": {
             "name": [
-                "Herbi"
+                "herbi"
             ],
             "nickname": [
-                "Herbi"
+                "herbi"
             ],
             "tz": [
                 "America/New_York"
@@ -4799,7 +4799,7 @@
                 }
             ]
         },
-        "id": "Herbi",
+        "id": "herbi",
         "lang": "en"
     },
     {
