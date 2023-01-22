@@ -1,0 +1,1 @@
+2023-01-22 00:10:48.413000 {"type":"join","timestamp":1674346248.4130242,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"to2ds","nickname":"to2ds","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
