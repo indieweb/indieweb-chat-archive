@@ -1,0 +1,1 @@
+2023-01-23 00:00:07.309400 {"type":"join","timestamp":1674432007.309408,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"sp1ff","nickname":"sp1ff","username":"~user","name":null,"photo":null,"url":"http:\/\/www.unwoundstack.com","tz":"US\/Pacific","host":"c-73-189-25-64.hsd1.ca.comcast.net"},"content":null,"modes":[]}
