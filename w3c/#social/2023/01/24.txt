@@ -1,0 +1,1 @@
+2023-01-24 05:03:38.929500 {"type":"join","timestamp":1674536618.9294822,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Loqi_","nickname":"Loqi_","username":"~Loqi","name":"cinch","photo":null,"url":null,"tz":null,"host":"d9560e24.public.cloak"},"content":null,"modes":[]}
