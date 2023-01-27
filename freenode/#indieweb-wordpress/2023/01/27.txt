@@ -1,0 +1,1 @@
+2023-01-27 00:12:47.288300 {"type":"join","timestamp":1674778367.2882855,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"starrwul1","nickname":"starrwul1","username":"~j7","name":null,"photo":null,"url":null,"tz":null,"host":"2607:fb90:d784:eac4:112f:e7fa:9ae0:a4d"},"content":null,"modes":[]}
