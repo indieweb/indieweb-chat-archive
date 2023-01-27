@@ -6461,6 +6461,33 @@
         ],
         "properties": {
             "name": [
+                "Ken"
+            ],
+            "nickname": [
+                "Ken"
+            ],
+            "tz": [
+                "US/Los_Angeles"
+            ],
+            "url": [
+                "http://ken.fyi"
+            ],
+            "photo": [
+                {
+                    "value": "https://ken.fyi/Images/_favicon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Ken",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kenbauer"
             ],
             "nickname": [
