@@ -1,0 +1,1 @@
+2023-01-28 01:41:49.464400 {"type":"join","timestamp":1674870109.4643579,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"LibreDrip","nickname":"LibreDrip","username":"~LibreDrip","name":null,"photo":null,"url":null,"tz":null,"host":"2001:9e8:f220:a900:9b44:cd04:235c:fd22"},"content":null,"modes":[]}
