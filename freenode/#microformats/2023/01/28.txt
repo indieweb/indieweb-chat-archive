@@ -1,0 +1,1 @@
+2023-01-28 01:25:03.186600 {"type":"join","timestamp":1674869103.1865613,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"ur5us","nickname":"ur5us","username":"~ur5us","name":null,"photo":null,"url":null,"tz":null,"host":"2406:e002:6e06:f101:9ed5:571d:4dd4:c50a"},"content":null,"modes":[]}
