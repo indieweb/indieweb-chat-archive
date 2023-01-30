@@ -1,0 +1,1 @@
+2023-01-30 00:33:30.615800 {"type":"join","timestamp":1675038810.6158319,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bhall","nickname":"bhall","username":"~brunohall","name":null,"photo":null,"url":null,"tz":null,"host":"138.199.22.99"},"content":null,"modes":[]}
