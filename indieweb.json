@@ -6359,6 +6359,27 @@
         ],
         "properties": {
             "name": [
+                "kaezon"
+            ],
+            "nickname": [
+                "kaezon"
+            ],
+            "tz": [
+                "America/Detroit"
+            ],
+            "url": [
+                "http://bcost.site"
+            ]
+        },
+        "id": "kaezon",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "KartikPrabhu"
             ],
             "nickname": [
