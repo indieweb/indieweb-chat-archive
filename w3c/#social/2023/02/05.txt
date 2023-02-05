@@ -1,0 +1,1 @@
+2023-02-05 04:29:58.739300 {"type":"join","timestamp":1675571398.7392757,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld","nickname":"feld","username":"~feld","name":"Mark Felder","photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
