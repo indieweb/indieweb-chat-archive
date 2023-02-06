@@ -9134,6 +9134,33 @@
         ],
         "properties": {
             "name": [
+                "qubyte"
+            ],
+            "nickname": [
+                "qubyte"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://qubyte.codes"
+            ],
+            "photo": [
+                {
+                    "value": "https://qubyte.codes/img/profile-150.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "qubyte",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rainbow-zsh"
             ],
             "nickname": [
