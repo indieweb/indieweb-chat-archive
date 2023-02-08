@@ -1,0 +1,1 @@
+2023-02-08 08:56:17.037600 {"type":"join","timestamp":1675846577.0376134,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"janboddez","nickname":"janboddez","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
