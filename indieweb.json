@@ -3584,6 +3584,33 @@
         ],
         "properties": {
             "name": [
+                "EBValkyrie"
+            ],
+            "nickname": [
+                "EBValkyrie"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://www.ebvs.blog"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.ebvs.blog/wp-content/uploads/2023/01/avatar_b48d7a7c4690_128.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "EBValkyrie",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "echo"
             ],
             "nickname": [
