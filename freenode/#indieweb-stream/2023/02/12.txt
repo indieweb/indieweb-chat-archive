@@ -1,0 +1,1 @@
+2023-02-12 01:08:44.640400 {"type":"join","timestamp":1676164124.6404238,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[tw2113_Slack_]1","nickname":"[tw2113_Slack_]1","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"104.237.158.110"},"content":null,"modes":[]}
