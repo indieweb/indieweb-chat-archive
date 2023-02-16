@@ -1,0 +1,1 @@
+2023-02-16 01:47:17.245500 {"type":"join","timestamp":1676512037.245529,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mike","nickname":"mike","username":"~mike","name":"Never give up!","photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
