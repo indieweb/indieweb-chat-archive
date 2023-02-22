@@ -1,0 +1,1 @@
+2023-02-22 02:56:54.882500 {"type":"join","timestamp":1677034614.8825135,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jeremycherfas","nickname":"jeremycherfas","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
