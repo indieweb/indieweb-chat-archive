@@ -1,0 +1,1 @@
+2023-02-25 00:04:54.980600 {"type":"join","timestamp":1677283494.9805684,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"gRegor","nickname":"gRegor","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"ip72-197-254-201.sd.sd.cox.net"},"content":null,"modes":[]}
