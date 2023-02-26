@@ -1,0 +1,1 @@
+2023-02-26 06:33:04.237500 {"type":"join","timestamp":1677393184.237493,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"crs333","nickname":"crs333","username":"~crs333matr","name":null,"photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
