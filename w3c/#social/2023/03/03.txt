@@ -1,0 +1,1 @@
+2023-03-03 00:17:34.122500 {"type":"join","timestamp":1677802654.12249,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~dmitriz","name":"Dmitri Zagidulin","photo":null,"url":null,"tz":null,"host":"c8725cf7.publics.cloak"},"content":null,"modes":[]}
