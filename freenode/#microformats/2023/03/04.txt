@@ -1,0 +1,1 @@
+2023-03-04 07:20:42.863800 {"type":"join","timestamp":1677914442.8637516,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"btrem","nickname":"btrem","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"c-24-18-178-211.hsd1.wa.comcast.net"},"content":null,"modes":[]}
