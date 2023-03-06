@@ -1,0 +1,1 @@
+2023-03-06 10:13:07.710500 {"type":"join","timestamp":1678097587.7105339,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mro","nickname":"mro","username":"~mro","name":"mro","photo":null,"url":null,"tz":null,"host":"c8725cf7.publics.cloak"},"content":null,"modes":[]}
