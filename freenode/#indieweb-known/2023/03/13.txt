@@ -1,0 +1,1 @@
+2023-03-13 02:55:54.228200 {"type":"join","timestamp":1678676154.2282276,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[tw2113_Slack_]","nickname":"[tw2113_Slack_]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
