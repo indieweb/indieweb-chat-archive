@@ -1,0 +1,1 @@
+2023-03-21 02:10:42.284600 {"type":"join","timestamp":1679364642.2846117,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"RasAlGhoul","nickname":"RasAlGhoul","username":"~RasAlGhou","name":"Ras","photo":null,"url":null,"tz":null,"host":"pool-108-46-136-167.nycmny.fios.verizon.net"},"content":null,"modes":[]}
