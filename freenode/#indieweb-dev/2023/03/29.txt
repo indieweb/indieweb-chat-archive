@@ -1,0 +1,1 @@
+2023-03-29 01:21:00.294900 {"type":"join","timestamp":1680052860.294881,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"lagash","nickname":"lagash","username":"lagash","name":"ZNC - https:\/\/znc.in","photo":null,"url":null,"tz":null,"host":"lagash.shelltalk.net"},"content":null,"modes":[]}
