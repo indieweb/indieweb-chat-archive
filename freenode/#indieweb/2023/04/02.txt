@@ -1,0 +1,1 @@
+2023-04-02 00:01:52.070400 {"type":"join","timestamp":1680393712.070395,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"schmudde","nickname":"schmudde","username":"schmudde","name":null,"photo":null,"url":null,"tz":null,"host":"2600:3c03::f03c:92ff:fef7:af8"},"content":null,"modes":[]}
