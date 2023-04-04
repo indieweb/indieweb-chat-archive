@@ -1,0 +1,1 @@
+2023-04-04 10:33:50.251700 {"type":"join","timestamp":1680604430.2516978,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Rock_Hunter","nickname":"Rock_Hunter","username":"~Rock_Hunter","name":null,"photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
