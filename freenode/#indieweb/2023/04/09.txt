@@ -1,0 +1,1 @@
+2023-04-09 00:53:58.229500 {"type":"join","timestamp":1681001638.2294586,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"jarkad","nickname":"jarkad","username":"jarkad","name":"jarkad","photo":null,"url":null,"tz":null,"host":"jarkad.freeirc.org"},"content":null,"modes":[]}
