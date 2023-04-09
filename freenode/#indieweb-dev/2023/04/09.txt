@@ -1,0 +1,1 @@
+2023-04-09 02:59:10.774900 {"type":"join","timestamp":1681009150.774897,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"bob1","nickname":"bob1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
