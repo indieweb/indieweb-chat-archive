@@ -1,0 +1,1 @@
+2023-04-11 00:16:26.968100 {"type":"join","timestamp":1681172186.96809,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"mouse[d]","nickname":"mouse[d]","username":"~mouse","name":"mouse","photo":null,"url":null,"tz":null,"host":"alia.petermolnar.eu"},"content":null,"modes":[]}
