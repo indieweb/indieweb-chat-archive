@@ -1,0 +1,1 @@
+2023-04-12 00:04:47.350500 {"type":"join","timestamp":1681257887.350476,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Chocobozzz","nickname":"Chocobozzz","username":"~florian","name":"Unknown","photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
