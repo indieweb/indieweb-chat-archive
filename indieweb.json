@@ -3896,6 +3896,33 @@
         ],
         "properties": {
             "name": [
+                "elret"
+            ],
+            "nickname": [
+                "elret"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://spieltagsgedichte.de"
+            ],
+            "photo": [
+                {
+                    "value": "http://www.gravatar.com/avatar/156458d5d4228637efcefa338daf7141.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "elret",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "EmmaH"
             ],
             "nickname": [
