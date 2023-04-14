@@ -1,0 +1,1 @@
+2023-04-14 00:07:48.003200 {"type":"join","timestamp":1681430868.003209,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[James_Van_Dyne]","nickname":"[James_Van_Dyne]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
