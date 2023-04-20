@@ -2120,6 +2120,33 @@
         ],
         "properties": {
             "name": [
+                "chrisbergr"
+            ],
+            "nickname": [
+                "chrisbergr"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://Christian.hockenberger.us"
+            ],
+            "photo": [
+                {
+                    "value": "https://christian-hockenberger.com/wp-content/uploads/2020/11/learning-pscc.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "chrisbergr",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "chrisburnell"
             ],
             "nickname": [
