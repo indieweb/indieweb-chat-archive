@@ -1,0 +1,1 @@
+2023-04-20 00:40:16.557000 {"type":"join","timestamp":1681951216.5570097,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~dmitriz","name":null,"photo":null,"url":null,"tz":null,"host":"c8725cf7.publics.cloak"},"content":null,"modes":[]}
