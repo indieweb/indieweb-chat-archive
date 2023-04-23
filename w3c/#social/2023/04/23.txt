@@ -1,0 +1,1 @@
+2023-04-23 09:00:08.664400 {"type":"join","timestamp":1682240408.664435,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"aaronpk","nickname":"aaronpk","username":"~aaronpk","name":"aaronpk","photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
