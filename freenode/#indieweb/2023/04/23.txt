@@ -1,0 +1,1 @@
+2023-04-23 00:00:24.236700 {"type":"join","timestamp":1682208024.2367206,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"BinarySavior","nickname":"BinarySavior","username":"~BinarySav","name":"Joshua","photo":null,"url":null,"tz":null,"host":"idlerpg\/player\/BinarySavior"},"content":null,"modes":[]}
