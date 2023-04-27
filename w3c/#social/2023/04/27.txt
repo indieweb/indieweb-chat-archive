@@ -1,0 +1,1 @@
+2023-04-27 13:44:24.582100 {"type":"join","timestamp":1682603064.5820704,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
