@@ -1,0 +1,1 @@
+2023-05-02 04:32:43.913900 {"type":"join","timestamp":1683001963.9139209,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[lifeofpablo]","nickname":"[lifeofpablo]","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
