@@ -6896,6 +6896,33 @@
         ],
         "properties": {
             "name": [
+                "KMF"
+            ],
+            "nickname": [
+                "KMF"
+            ],
+            "tz": [
+                "America/Vancouver"
+            ],
+            "url": [
+                "http://kmfstudiosarchives.neocities.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://kmfstudiosarchives.neocities.org/favicon.ico",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "KMF",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Kongaloosh"
             ],
             "nickname": [
