@@ -1,0 +1,1 @@
+2023-05-05 15:34:05.509500 {"type":"leave","timestamp":1683300845.5094812,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feoh[m]","nickname":"feoh[m]","username":"~feohmatrix","name":"@feoh:matrix.org","photo":null,"url":null,"tz":null,"host":"a11e3e9c.public.cloak"},"content":null,"modes":[]}
