@@ -10064,6 +10064,33 @@
         ],
         "properties": {
             "name": [
+                "sentience"
+            ],
+            "nickname": [
+                "sentience"
+            ],
+            "tz": [
+                "Australia/Melbourne"
+            ],
+            "url": [
+                "http://Kevinyank.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://kevinyank.com/assets/images/avatar_320.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "sentience",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "shevski"
             ],
             "nickname": [
