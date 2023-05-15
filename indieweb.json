@@ -1379,33 +1379,6 @@
         ],
         "properties": {
             "name": [
-                "blindnerd"
-            ],
-            "nickname": [
-                "blindnerd"
-            ],
-            "tz": [
-                "America/Los_Angeles"
-            ],
-            "url": [
-                "http://gregsplace.net"
-            ],
-            "photo": [
-                {
-                    "value": "https://gregsplace.net/wp-content/uploads/2023/01/profile-photo-scaled.jpg",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "blindnerd",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "bneil"
             ],
             "nickname": [
@@ -4656,6 +4629,27 @@
             ]
         },
         "id": "gRegorLove",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "gregsplace"
+            ],
+            "nickname": [
+                "gregsplace"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://gregsplace.net"
+            ]
+        },
+        "id": "gregsplace",
         "lang": "en"
     },
     {
