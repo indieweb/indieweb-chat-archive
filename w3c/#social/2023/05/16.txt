@@ -1,0 +1,1 @@
+2023-05-16 09:53:21.081300 {"type":"join","timestamp":1684230801.081333,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"baku","nickname":"baku","username":"~baku","name":null,"photo":null,"url":null,"tz":null,"host":"3a9b0e44.public.cloak"},"content":null,"modes":[]}
