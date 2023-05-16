@@ -1,0 +1,1 @@
+2023-05-16 01:40:51.652300 {"type":"join","timestamp":1684201251.6522653,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Tim_Nolte]","nickname":"[Tim_Nolte]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
