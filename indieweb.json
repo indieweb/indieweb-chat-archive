@@ -4647,6 +4647,12 @@
             ],
             "url": [
                 "http://gregsplace.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://gregsplace.net/profile-photo.jpg",
+                    "alt": ""
+                }
             ]
         },
         "id": "gregsplace",
