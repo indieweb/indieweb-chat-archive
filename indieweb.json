@@ -9521,6 +9521,33 @@
         ],
         "properties": {
             "name": [
+                "reesericci"
+            ],
+            "nickname": [
+                "reesericci"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://reeseric.ci"
+            ],
+            "photo": [
+                {
+                    "value": "https://reeseric.ci/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "reesericci",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "reiterate_app"
             ],
             "nickname": [
