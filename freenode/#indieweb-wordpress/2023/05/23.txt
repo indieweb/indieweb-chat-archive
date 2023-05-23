@@ -1,0 +1,1 @@
+2023-05-23 00:24:21.612300 {"type":"join","timestamp":1684801461.6123478,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"antranigv","nickname":"antranigv","username":"~antranigv","name":"Antranig Vartanian","photo":null,"url":null,"tz":null,"host":"37.252.78.252"},"content":null,"modes":[]}
