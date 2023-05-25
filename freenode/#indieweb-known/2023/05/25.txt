@@ -1,0 +1,1 @@
+2023-05-25 01:47:50.895200 {"type":"join","timestamp":1684979270.895166,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"JanMiksovsky","nickname":"JanMiksovsky","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
