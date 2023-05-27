@@ -1,0 +1,1 @@
+2023-05-27 01:48:14.019400 {"type":"join","timestamp":1685152094.0193777,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Kaja","nickname":"Kaja","username":"~Kaja","name":"cinch","photo":null,"url":"http:\/\/kaja.sknebel.net","tz":"UTC","host":"v22016013254630973.happysrv.de"},"content":null,"modes":[]}
