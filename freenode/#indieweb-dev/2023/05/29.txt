@@ -1,0 +1,1 @@
+2023-05-29 00:47:27.125300 {"type":"join","timestamp":1685321247.1252925,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"strugee|","nickname":"strugee|","username":"~strugee","name":null,"photo":null,"url":null,"tz":null,"host":"rrcs-50-74-115-74.nyc.biz.rr.com"},"content":null,"modes":[]}
