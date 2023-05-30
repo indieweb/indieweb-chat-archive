@@ -1,0 +1,1 @@
+2023-05-30 01:18:11.925000 {"type":"join","timestamp":1685409491.9249954,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Xe","nickname":"Xe","username":"~cadey","name":"Cadey A. Ratio","photo":null,"url":null,"tz":null,"host":"tailscale\/xe"},"content":null,"modes":[]}
