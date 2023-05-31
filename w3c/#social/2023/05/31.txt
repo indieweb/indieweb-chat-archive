@@ -1,0 +1,1 @@
+2023-05-31 13:05:31.232300 {"type":"join","timestamp":1685538331.2322505,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null,"host":"ef8537ec.team.cloak"},"content":null,"modes":[]}
