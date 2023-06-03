@@ -1,0 +1,1 @@
+2023-06-03 04:01:32.853000 {"type":"join","timestamp":1685764892.8530285,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"treora","nickname":"treora","username":"~blub","name":"Gerben","photo":null,"url":null,"tz":null,"host":"972e1c5f.public.cloak"},"content":null,"modes":[]}
