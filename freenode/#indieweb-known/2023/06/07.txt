@@ -1,0 +1,1 @@
+2023-06-07 04:50:40.749700 {"type":"join","timestamp":1686113440.7496617,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Jo]","nickname":"[Jo]","username":"~slackuser","name":"Jo via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
