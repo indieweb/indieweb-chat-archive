@@ -1,0 +1,1 @@
+2023-06-07 00:05:36.604600 {"type":"join","timestamp":1686096336.6046183,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"mretka","nickname":"mretka","username":"~mretka","name":"M","photo":null,"url":null,"tz":null,"host":"user\/mretka"},"content":null,"modes":[]}
