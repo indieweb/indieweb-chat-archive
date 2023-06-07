@@ -1,0 +1,1 @@
+2023-06-07 03:36:35.114900 {"type":"join","timestamp":1686108995.1149457,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"angelo","nickname":"angelo","username":"~angelo","name":"Angelo Gladding","photo":null,"url":null,"tz":null,"host":"2600:1700:8780:c7c0:f0b0:4278:c516:e75"},"content":null,"modes":[]}
