@@ -1,0 +1,1 @@
+2023-06-08 14:02:27.153200 {"type":"join","timestamp":1686232947.1531806,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantekj","nickname":"tantekj","username":"~tantekj","name":null,"photo":null,"url":null,"tz":null,"host":"1d899584.public.cloak"},"content":null,"modes":[]}
