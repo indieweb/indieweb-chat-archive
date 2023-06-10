@@ -1,0 +1,1 @@
+2023-06-10 00:15:21.145800 {"type":"join","timestamp":1686356121.1458492,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"snow","nickname":"snow","username":"~snow","name":null,"photo":null,"url":null,"tz":null,"host":"1d899584.public.cloak"},"content":null,"modes":[]}
