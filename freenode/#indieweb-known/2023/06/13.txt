@@ -1,0 +1,1 @@
+2023-06-13 08:04:00.454900 {"type":"join","timestamp":1686643440.4548738,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"sebbu2","nickname":"sebbu2","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
