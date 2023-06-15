@@ -2702,6 +2702,33 @@
         ],
         "properties": {
             "name": [
+                "darylsun"
+            ],
+            "nickname": [
+                "darylsun"
+            ],
+            "tz": [
+                "Asia/Manila"
+            ],
+            "url": [
+                "http://darylsun.page"
+            ],
+            "photo": [
+                {
+                    "value": "https://profiles.cache.lol/darylsun/picture",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "darylsun",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "davidb7"
             ],
             "nickname": [
