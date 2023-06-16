@@ -1,0 +1,1 @@
+2023-06-16 09:44:55.204600 {"type":"join","timestamp":1686908695.204646,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vt","nickname":"vt","username":"~vt","name":"vt","photo":null,"url":null,"tz":null,"host":"1d899584.public.cloak"},"content":null,"modes":[]}
