@@ -1,0 +1,1 @@
+2023-06-17 00:05:13.532600 {"type":"join","timestamp":1686960313.5325677,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"tei_1","nickname":"tei_1","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"38.240.226.82"},"content":null,"modes":[]}
