@@ -1,0 +1,1 @@
+2023-06-20 00:07:00.761400 {"type":"join","timestamp":1687219620.7613676,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[benatwork]","nickname":"[benatwork]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
