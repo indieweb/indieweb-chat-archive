@@ -1,0 +1,1 @@
+2023-06-21 15:34:52.156200 {"type":"join","timestamp":1687361692.1561537,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"UmCara","nickname":"UmCara","username":"~UmCara","name":null,"photo":null,"url":null,"tz":null,"host":"1d899584.public.cloak"},"content":null,"modes":[]}
