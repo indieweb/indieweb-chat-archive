@@ -1,0 +1,1 @@
+2023-06-21 00:05:13.301800 {"type":"join","timestamp":1687305913.3017907,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"moose333","nickname":"moose333","username":"~moose333","name":"Moose333","photo":null,"url":null,"tz":null,"host":"li895-253.members.linode.com"},"content":null,"modes":[]}
