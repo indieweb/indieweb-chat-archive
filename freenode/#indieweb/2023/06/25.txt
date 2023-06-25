@@ -1,0 +1,1 @@
+2023-06-25 00:46:09.551400 {"type":"join","timestamp":1687653969.5514472,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"n8chz","nickname":"n8chz","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"24.127.94.241"},"content":null,"modes":[]}
