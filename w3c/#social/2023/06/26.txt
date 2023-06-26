@@ -1,0 +1,1 @@
+2023-06-26 14:24:08.483600 {"type":"join","timestamp":1687789448.4835687,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld6","nickname":"feld6","username":"~feld","name":null,"photo":null,"url":null,"tz":null,"host":"1d302a1.public.cloak"},"content":null,"modes":[]}
