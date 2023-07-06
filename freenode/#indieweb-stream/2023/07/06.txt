@@ -1,0 +1,1 @@
+2023-07-06 00:30:29.822900 {"type":"join","timestamp":1688603429.8228605,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"Logan1","nickname":"Logan1","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
