@@ -1,0 +1,1 @@
+2023-07-07 04:24:41.493900 {"type":"join","timestamp":1688703881.4938693,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"nicknickname","nickname":"nicknickname","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
