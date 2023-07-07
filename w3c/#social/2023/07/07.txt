@@ -1,0 +1,1 @@
+2023-07-07 01:32:24.292000 {"type":"join","timestamp":1688693544.291955,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"poggersgamer","nickname":"poggersgamer","username":"~poggersgamer","name":null,"photo":null,"url":null,"tz":null,"host":"1d302a1.public.cloak"},"content":null,"modes":[]}
