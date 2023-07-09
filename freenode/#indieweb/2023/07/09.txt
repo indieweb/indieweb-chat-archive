@@ -1,0 +1,1 @@
+2023-07-09 00:12:51.121500 {"type":"join","timestamp":1688861571.1214979,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"chronological[m]","nickname":"chronological[m]","username":"~chronolog","name":"@chronological:matrix.org","photo":null,"url":null,"tz":null,"host":"2001:470:69fc:105::3:7c17"},"content":null,"modes":[]}
