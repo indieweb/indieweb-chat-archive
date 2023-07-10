@@ -1,0 +1,1 @@
+2023-07-10 07:57:19.313900 {"type":"join","timestamp":1688975839.3138669,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"btsavage","nickname":"btsavage","username":"~btsavage","name":null,"photo":null,"url":null,"tz":null,"host":"1d302a1.public.cloak"},"content":null,"modes":[]}
