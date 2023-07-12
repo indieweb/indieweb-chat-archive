@@ -6011,6 +6011,33 @@
         ],
         "properties": {
             "name": [
+                "jkingweb"
+            ],
+            "nickname": [
+                "jkingweb"
+            ],
+            "tz": [
+                "America/Toronto"
+            ],
+            "url": [
+                "http://Jkingweb.ca"
+            ],
+            "photo": [
+                {
+                    "value": "https://jkingweb.ca/me.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jkingweb",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jkphl"
             ],
             "nickname": [
