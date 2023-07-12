@@ -1,0 +1,1 @@
+2023-07-12 02:15:11.590000 {"type":"join","timestamp":1689128111.5899844,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"jan6","nickname":"jan6","username":"jan6","name":"Devilus Advocatus Annoyingus","photo":null,"url":null,"tz":null,"host":"tilde.team\/user\/jan6"},"content":null,"modes":[]}
