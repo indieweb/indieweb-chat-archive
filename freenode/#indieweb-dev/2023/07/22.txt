@@ -1,0 +1,1 @@
+2023-07-22 00:39:03.809300 {"type":"join","timestamp":1689986343.809293,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"rubenwardy","nickname":"rubenwardy","username":"~rw","name":"rw@rubenwardy.com","photo":null,"url":null,"tz":null,"host":"rubenwardy.com"},"content":null,"modes":[]}
