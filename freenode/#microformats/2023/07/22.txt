@@ -1,0 +1,1 @@
+2023-07-22 10:51:11.304500 {"type":"join","timestamp":1690023071.304527,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"btrem","nickname":"btrem","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"2601:602:8080:114b:b841:7647:6966:eebc"},"content":null,"modes":[]}
