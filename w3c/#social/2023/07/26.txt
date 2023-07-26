@@ -1,0 +1,1 @@
+2023-07-26 11:05:11.700300 {"type":"join","timestamp":1690369511.70031,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"val","nickname":"val","username":"~val","name":null,"photo":null,"url":null,"tz":null,"host":"3232b82.publics.cloak"},"content":null,"modes":[]}
