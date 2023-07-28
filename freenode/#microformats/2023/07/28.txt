@@ -1,0 +1,1 @@
+2023-07-28 04:58:15.172600 {"type":"join","timestamp":1690520295.172569,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[Jo]","nickname":"[Jo]","username":"~slackuser","name":"Jo via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
