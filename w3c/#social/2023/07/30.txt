@@ -1,0 +1,1 @@
+2023-07-30 14:38:52.910200 {"type":"join","timestamp":1690727932.910243,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"navi","nickname":"navi","username":"~anna","name":null,"photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
