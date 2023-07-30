@@ -1,0 +1,1 @@
+2023-07-30 08:41:57.915800 {"type":"join","timestamp":1690706517.9157963,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"dominik","nickname":"dominik","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
