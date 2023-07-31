@@ -1,0 +1,1 @@
+2023-07-31 02:50:45.355300 {"type":"join","timestamp":1690771845.3552582,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"IWSlackGateway","nickname":"IWSlackGateway","username":"~IWSlackGa","name":"IRC to Slack Gateway","photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
