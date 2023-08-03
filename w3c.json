@@ -705,6 +705,26 @@
         ],
         "properties": {
             "name": [
+                "Mario_B"
+            ],
+            "nickname": [
+                "Mario_B"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/{{{4}}}"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "MarkS"
             ],
             "nickname": [
