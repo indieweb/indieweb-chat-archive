@@ -4169,6 +4169,33 @@
         ],
         "properties": {
             "name": [
+                "fLaMEd"
+            ],
+            "nickname": [
+                "fLaMEd"
+            ],
+            "tz": [
+                "Pacific/Auckland"
+            ],
+            "url": [
+                "http://flamedfury.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://flamedfury.com/assets/images/avatar-128.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "fLaMEd",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "fluffy"
             ],
             "nickname": [
