@@ -6092,33 +6092,6 @@
         ],
         "properties": {
             "name": [
-                "jlelse"
-            ],
-            "nickname": [
-                "jlelse"
-            ],
-            "tz": [
-                "Europe/Berlin"
-            ],
-            "url": [
-                "http://jlelse.dev"
-            ],
-            "photo": [
-                {
-                    "value": "https://jlelse.dev/profile-512.jpg",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "jlelse",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "jlsuttles"
             ],
             "nickname": [
