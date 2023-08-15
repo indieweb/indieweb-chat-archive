@@ -1,0 +1,1 @@
+2023-08-15 00:26:40.979200 {"type":"join","timestamp":1692059200.9792027,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"galambo","nickname":"galambo","username":"galambo","name":null,"photo":null,"url":null,"tz":null,"host":"user\/galambo"},"content":null,"modes":[]}
