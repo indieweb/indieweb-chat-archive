@@ -1,0 +1,1 @@
+2023-08-17 01:16:28.909600 {"type":"join","timestamp":1692234988.9096494,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vt","nickname":"vt","username":"~vt","name":"vt","photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
