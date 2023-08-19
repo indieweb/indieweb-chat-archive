@@ -10646,6 +10646,27 @@
         ],
         "properties": {
             "name": [
+                "SigmundurM"
+            ],
+            "nickname": [
+                "SigmundurM"
+            ],
+            "tz": [
+                "Atlantic/Faroe"
+            ],
+            "url": [
+                "http://sigmundur.morkore.fo"
+            ]
+        },
+        "id": "SigmundurM",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "simons"
             ],
             "nickname": [
