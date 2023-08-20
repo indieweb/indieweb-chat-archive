@@ -1,0 +1,1 @@
+2023-08-20 01:48:25.263500 {"type":"join","timestamp":1692496105.2635264,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"gerben","nickname":"gerben","username":"~blub","name":"Gerben","photo":null,"url":null,"tz":null,"host":"149.210.205.9"},"content":null,"modes":[]}
