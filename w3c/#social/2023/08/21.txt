@@ -1,0 +1,1 @@
+2023-08-21 04:44:07.109300 {"type":"join","timestamp":1692593047.1092508,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"includeals_","nickname":"includeals_","username":"~includeals","name":null,"photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
