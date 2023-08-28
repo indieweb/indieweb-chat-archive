@@ -1,0 +1,1 @@
+2023-08-28 00:47:38.362900 {"type":"join","timestamp":1693183658.3628702,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"fr33domlover5","nickname":"fr33domlover5","username":"~fr33domlover","name":"Pere Lev","photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
