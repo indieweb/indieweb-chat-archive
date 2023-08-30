@@ -1,0 +1,1 @@
+2023-08-30 00:30:02.130800 {"type":"join","timestamp":1693355402.1308386,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"lockywolf_","nickname":"lockywolf_","username":"~lockywolf","name":null,"photo":null,"url":null,"tz":null,"host":"public.lockywolf.net"},"content":null,"modes":[]}
