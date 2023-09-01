@@ -1,0 +1,1 @@
+2023-09-01 01:38:20.551600 {"type":"join","timestamp":1693532300.5516207,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"btrem","nickname":"btrem","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"2601:602:8080:114b:1598:d797:8674:2bbb"},"content":null,"modes":[]}
