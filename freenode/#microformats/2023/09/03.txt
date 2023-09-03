@@ -1,0 +1,1 @@
+2023-09-03 00:46:58.095900 {"type":"join","timestamp":1693702018.095892,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Saphire1","nickname":"Saphire1","username":"saphire","name":"Lurking dragon","photo":null,"url":null,"tz":null,"host":"lunar.exchange"},"content":null,"modes":[]}
