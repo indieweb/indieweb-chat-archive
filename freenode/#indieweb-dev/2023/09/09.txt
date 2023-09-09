@@ -1,0 +1,1 @@
+2023-09-09 00:11:05.041300 {"type":"join","timestamp":1694218265.0413024,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"bterry","nickname":"bterry","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"64.25.204.10"},"content":null,"modes":[]}
