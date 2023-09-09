@@ -1,0 +1,1 @@
+2023-09-09 07:05:56.005400 {"type":"leave","timestamp":1694243156.0054083,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"vt","nickname":"vt","username":"~vt","name":"vt","photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
