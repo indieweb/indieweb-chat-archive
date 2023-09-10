@@ -1,0 +1,1 @@
+2023-09-10 00:12:56.767000 {"type":"join","timestamp":1694304776.7669663,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"x6rian","nickname":"x6rian","username":"~x6rian","name":null,"photo":null,"url":null,"tz":null,"host":"cpe-104-162-112-197.nyc.res.rr.com"},"content":null,"modes":[]}
