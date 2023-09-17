@@ -1,0 +1,1 @@
+2023-09-17 03:52:43.328800 {"type":"join","timestamp":1694922763.3287923,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"gRegorLove_","nickname":"gRegorLove_","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:9d27:300:5807:366c:2b1d:a55c"},"content":null,"modes":[]}
