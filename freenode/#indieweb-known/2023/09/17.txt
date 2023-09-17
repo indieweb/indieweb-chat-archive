@@ -1,0 +1,1 @@
+2023-09-17 05:29:16.304900 {"type":"join","timestamp":1694928556.3048944,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[B53A3]","nickname":"[B53A3]","username":"~slackuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
