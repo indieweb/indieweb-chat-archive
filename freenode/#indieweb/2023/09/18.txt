@@ -1,0 +1,1 @@
+2023-09-18 00:39:02.644900 {"type":"join","timestamp":1694997542.6448975,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"btrem","nickname":"btrem","username":"~Thunderbi","name":"btrem","photo":null,"url":null,"tz":null,"host":"c-24-18-178-211.hsd1.wa.comcast.net"},"content":null,"modes":[]}
