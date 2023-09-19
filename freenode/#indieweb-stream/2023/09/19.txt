@@ -1,0 +1,1 @@
+2023-09-19 00:35:34.305900 {"type":"join","timestamp":1695083734.3058925,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"joe","nickname":"joe","username":"~webuser","name":null,"photo":null,"url":null,"tz":null,"host":"li826-110.members.linode.com"},"content":null,"modes":[]}
