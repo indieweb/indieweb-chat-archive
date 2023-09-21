@@ -10928,6 +10928,33 @@
         ],
         "properties": {
             "name": [
+                "starrwulfe"
+            ],
+            "nickname": [
+                "starrwulfe"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://starrwulfe.xyz"
+            ],
+            "photo": [
+                {
+                    "value": "https://a.deviantart.net/avatars-big/s/t/starrwulfe.png?5",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "starrwulfe",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "spieper"
             ],
             "nickname": [
