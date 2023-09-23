@@ -1,0 +1,1 @@
+2023-09-23 02:14:15.886800 {"type":"join","timestamp":1695435255.8867788,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"lqdev","nickname":"lqdev","username":"~lqdev","name":null,"photo":null,"url":null,"tz":null,"host":"185.199.103.200"},"content":null,"modes":[]}
