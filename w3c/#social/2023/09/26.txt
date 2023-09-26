@@ -1,0 +1,1 @@
+2023-09-26 00:23:16.143800 {"type":"join","timestamp":1695687796.1437786,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cptaffe","nickname":"cptaffe","username":"~cptaffe","name":null,"photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
