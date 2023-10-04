@@ -1,0 +1,1 @@
+2023-10-04 03:16:50.321300 {"type":"join","timestamp":1696389410.3212671,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cptaffe","nickname":"cptaffe","username":"~cptaffe","name":"Connor Taffe","photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
