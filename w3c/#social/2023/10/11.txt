@@ -1,0 +1,1 @@
+2023-10-11 07:24:07.367700 {"type":"join","timestamp":1697009047.3677187,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null,"host":"42d6ce4.team.cloak"},"content":null,"modes":[]}
