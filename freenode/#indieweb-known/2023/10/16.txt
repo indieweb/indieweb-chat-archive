@@ -1,0 +1,1 @@
+2023-10-16 02:54:04.689400 {"type":"join","timestamp":1697424844.6894412,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jimmy","nickname":"jimmy","username":"~jimmy","name":null,"photo":null,"url":null,"tz":null,"host":"82.sub-174-215-177.myvzw.com"},"content":null,"modes":[]}
