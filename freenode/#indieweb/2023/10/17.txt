@@ -1,0 +1,1 @@
+2023-10-17 00:43:26.489200 {"type":"join","timestamp":1697503406.4891753,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"monoob1","nickname":"monoob1","username":"monoob","name":null,"photo":null,"url":null,"tz":null,"host":"user\/monoob"},"content":null,"modes":[]}
