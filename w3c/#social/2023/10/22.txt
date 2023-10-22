@@ -1,0 +1,1 @@
+2023-10-22 01:05:29.391300 {"type":"join","timestamp":1697936729.391339,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"treora","nickname":"treora","username":"~blub","name":"Gerben","photo":null,"url":null,"tz":null,"host":"7e4e2622.public.cloak"},"content":null,"modes":[]}
