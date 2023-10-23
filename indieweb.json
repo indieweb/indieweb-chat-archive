@@ -9974,6 +9974,33 @@
         ],
         "properties": {
             "name": [
+                "rubenwardy"
+            ],
+            "nickname": [
+                "rubenwardy"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://rubenwardy.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://rubenwardy.com/static/ruben-512.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "rubenwardy",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rupl"
             ],
             "nickname": [
