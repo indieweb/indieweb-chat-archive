@@ -1,0 +1,1 @@
+2023-10-25 00:20:19.653400 {"type":"join","timestamp":1698193219.6533546,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bterry","nickname":"bterry","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"64.25.204.10"},"content":null,"modes":[]}
