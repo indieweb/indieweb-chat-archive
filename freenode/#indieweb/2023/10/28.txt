@@ -1,0 +1,1 @@
+2023-10-28 00:24:33.643600 {"type":"join","timestamp":1698452673.6436384,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"gerben","nickname":"gerben","username":"~blub","name":"Gerben","photo":null,"url":null,"tz":null,"host":"149.210.205.9"},"content":null,"modes":[]}
