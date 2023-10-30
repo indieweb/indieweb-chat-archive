@@ -1,0 +1,1 @@
+2023-10-30 08:38:01.992500 {"type":"join","timestamp":1698655081.9925222,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"mro","nickname":"mro","username":"~mro","name":null,"photo":null,"url":null,"tz":null,"host":"3232b82.publics.cloak"},"content":null,"modes":[]}
