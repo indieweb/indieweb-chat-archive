@@ -7175,6 +7175,33 @@
         ],
         "properties": {
             "name": [
+                "lifeofpablo"
+            ],
+            "nickname": [
+                "lifeofpablo"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://lifeofpablo.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://static.lifeofpablo.com/pabs-cropped.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "lifeofpablo",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lmorchard"
             ],
             "nickname": [
