@@ -7004,6 +7004,33 @@
         ],
         "properties": {
             "name": [
+                "kovah"
+            ],
+            "nickname": [
+                "kovah"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://kovah.de"
+            ],
+            "photo": [
+                {
+                    "value": "https://kovah.de/assets/kovah.de_indieweb_2023.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "kovah",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kylewm"
             ],
             "nickname": [
