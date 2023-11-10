@@ -11009,6 +11009,33 @@
         ],
         "properties": {
             "name": [
+                "srijan"
+            ],
+            "nickname": [
+                "srijan"
+            ],
+            "tz": [
+                "Asia/Kolkata"
+            ],
+            "url": [
+                "http://srijan.ch"
+            ],
+            "photo": [
+                {
+                    "value": "https://srijan.ch/media/site/737919654b-1698403138/srijan-128x.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "srijan",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "starrwulfe"
             ],
             "nickname": [
