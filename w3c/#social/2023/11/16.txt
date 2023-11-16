@@ -1,0 +1,1 @@
+2023-11-16 05:21:34.486900 {"type":"join","timestamp":1700112094.4869096,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan","nickname":"ajordan","username":"~ajordan","name":"AJ Jordan","photo":null,"url":null,"tz":null,"host":"3232b82.publics.cloak"},"content":null,"modes":[]}
