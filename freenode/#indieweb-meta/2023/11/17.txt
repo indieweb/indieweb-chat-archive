@@ -1,0 +1,1 @@
+2023-11-17 00:15:00.474700 {"type":"join","timestamp":1700180100.4746594,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"kikx","nickname":"kikx","username":"kikxwh4eZU","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
