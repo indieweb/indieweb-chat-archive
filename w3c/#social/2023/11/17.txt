@@ -1,0 +1,1 @@
+2023-11-17 13:44:08.064700 {"type":"join","timestamp":1700228648.064742,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"xkr47","nickname":"xkr47","username":"~xkr47","name":"Jonas Berlin \u00b7 http:\/\/xkr47.space\/","photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
