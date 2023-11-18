@@ -1,0 +1,1 @@
+2023-11-18 12:28:50.768300 {"type":"join","timestamp":1700310530.7683177,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[m]","nickname":"[m]","username":"mlis6vWPFo","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
