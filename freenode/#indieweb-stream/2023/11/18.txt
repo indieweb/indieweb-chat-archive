@@ -1,0 +1,1 @@
+2023-11-18 00:42:41.292600 {"type":"join","timestamp":1700268161.2926018,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"infinitetape_","nickname":"infinitetape_","username":"~Adium","name":null,"photo":null,"url":null,"tz":null,"host":"2601:540:c600:1958:6945:97ff:aaa9:c31f"},"content":null,"modes":[]}
