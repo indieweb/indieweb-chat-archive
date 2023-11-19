@@ -1,0 +1,1 @@
+2023-11-19 07:37:50.313900 {"type":"join","timestamp":1700379470.3139055,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
