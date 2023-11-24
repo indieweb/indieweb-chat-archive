@@ -8267,6 +8267,33 @@
         ],
         "properties": {
             "name": [
+                "mossymaker"
+            ],
+            "nickname": [
+                "mossymaker"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://mossymaker.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://micro.blog/mossymaker/avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "mossymaker",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "mko"
             ],
             "nickname": [
