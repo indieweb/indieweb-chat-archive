@@ -10205,6 +10205,33 @@
         ],
         "properties": {
             "name": [
+                "sandra"
+            ],
+            "nickname": [
+                "sandra"
+            ],
+            "tz": [
+                "Europe/Stockholm"
+            ],
+            "url": [
+                "http://idiomdrottning.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://idiomdrottning.org/media/0772b2d9-df31-4bf6-920d-8df5da48d288/blob",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "sandra",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sebbu"
             ],
             "nickname": [
