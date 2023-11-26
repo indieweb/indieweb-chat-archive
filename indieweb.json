@@ -4883,6 +4883,33 @@
         ],
         "properties": {
             "name": [
+                "havacow"
+            ],
+            "nickname": [
+                "havacow"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://alxwntr.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://alxwntr.com/wp-content/themes/alxwntr-v2/assets/favicon-light-mode.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "havacow",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Heinrich"
             ],
             "nickname": [
