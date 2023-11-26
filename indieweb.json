@@ -10028,6 +10028,33 @@
         ],
         "properties": {
             "name": [
+                "roxwize"
+            ],
+            "nickname": [
+                "roxwize"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://roxwize.xyz"
+            ],
+            "photo": [
+                {
+                    "value": "https://roxwize.xyz/static/img/logo.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "roxwize",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rrix"
             ],
             "nickname": [
