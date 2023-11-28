@@ -1,0 +1,1 @@
+2023-11-28 01:20:10.517500 {"type":"join","timestamp":1701134410.517493,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"ianjs","nickname":"ianjs","username":"ianjsgykf0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
