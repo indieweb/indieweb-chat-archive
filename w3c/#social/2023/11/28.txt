@@ -1,0 +1,1 @@
+2023-11-28 10:47:30.122900 {"type":"join","timestamp":1701168450.1228511,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"plh","nickname":"plh","username":"plehegar","name":"Philippe Le Hegaret","photo":null,"url":null,"tz":null,"host":"6492c3ce.team.cloak"},"content":null,"modes":[]}
