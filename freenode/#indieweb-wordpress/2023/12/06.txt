@@ -1,0 +1,1 @@
+2023-12-06 00:59:26.450200 {"type":"join","timestamp":1701824366.4502344,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[tw2113]","nickname":"[tw2113]","username":"tw2113y_PA","name":"tw2113 via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
