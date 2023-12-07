@@ -1,0 +1,1 @@
+2023-12-07 01:30:59.815500 {"type":"join","timestamp":1701912659.8154683,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"viroxd1","nickname":"viroxd1","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"99-190-103-14.lightspeed.irvnca.sbcglobal.net"},"content":null,"modes":[]}
