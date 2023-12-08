@@ -1,0 +1,1 @@
+2023-12-08 11:03:36.484800 {"type":"join","timestamp":1702033416.4847922,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"sahil","nickname":"sahil","username":"sahilphkPA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
