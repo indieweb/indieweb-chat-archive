@@ -1,0 +1,1 @@
+2023-12-08 00:02:32.685000 {"type":"join","timestamp":1701993752.6849897,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[0x3b0b]","nickname":"[0x3b0b]","username":"m-sadv56","name":"[0x3b0b]","photo":null,"url":null,"tz":null,"host":"150.136.217.7"},"content":null,"modes":[]}
