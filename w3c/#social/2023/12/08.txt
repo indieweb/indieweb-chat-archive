@@ -1,0 +1,1 @@
+2023-12-08 12:49:51.150300 {"type":"join","timestamp":1702039791.1502924,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"abecede","nickname":"abecede","username":"~abecede","name":null,"photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
