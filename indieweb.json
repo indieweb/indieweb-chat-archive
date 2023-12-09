@@ -9098,6 +9098,27 @@
         ],
         "properties": {
             "name": [
+                "peterkaminski"
+            ],
+            "nickname": [
+                "peterkaminski"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://peterkaminski.wiki"
+            ]
+        },
+        "id": "peterkaminski",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "petermolnar"
             ],
             "nickname": [
