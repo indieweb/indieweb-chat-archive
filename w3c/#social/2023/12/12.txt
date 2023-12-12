@@ -1,0 +1,1 @@
+2023-12-12 15:04:11.293100 {"type":"join","timestamp":1702393451.2930906,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"TallTed","nickname":"TallTed","username":"~Thud","name":null,"photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
