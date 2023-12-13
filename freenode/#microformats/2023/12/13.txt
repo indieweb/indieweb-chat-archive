@@ -1,0 +1,1 @@
+2023-12-13 01:19:16.237500 {"type":"join","timestamp":1702430356.23754,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[0x3b0b]","nickname":"[0x3b0b]","username":"m-sadv56","name":"[0x3b0b]","photo":null,"url":null,"tz":null,"host":"150.136.217.7"},"content":null,"modes":[]}
