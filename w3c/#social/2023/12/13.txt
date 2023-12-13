@@ -1,0 +1,1 @@
+2023-12-13 04:18:56.044700 {"type":"join","timestamp":1702441136.0446637,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"lanodan","nickname":"lanodan","username":"~lanodan","name":"lanodan","photo":null,"url":null,"tz":null,"host":"3232b82.publics.cloak"},"content":null,"modes":[]}
