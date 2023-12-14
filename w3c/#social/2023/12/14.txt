@@ -1,0 +1,1 @@
+2023-12-14 03:30:37.075300 {"type":"join","timestamp":1702524637.0752811,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ron2l","nickname":"ron2l","username":"~ron2l","name":null,"photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
