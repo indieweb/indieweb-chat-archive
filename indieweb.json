@@ -272,6 +272,33 @@
         ],
         "properties": {
             "name": [
+                "alabut"
+            ],
+            "nickname": [
+                "alabut"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://alabut.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://d32mxho067pe0f.cloudfront.net/images/splash/al-in-Maui6-vertical.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "alabut",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "alanpearce"
             ],
             "nickname": [
@@ -5526,6 +5553,27 @@
             ]
         },
         "id": "ihatemornings",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "ihudson"
+            ],
+            "nickname": [
+                "ihudson"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://complicatedstatus.com"
+            ]
+        },
+        "id": "ihudson",
         "lang": "en"
     },
     {
