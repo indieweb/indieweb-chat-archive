@@ -1,0 +1,1 @@
+2024-01-02 02:07:44.487700 {"type":"join","timestamp":1704161264.4877043,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"kubie","nickname":"kubie","username":"kubieAyxFA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
