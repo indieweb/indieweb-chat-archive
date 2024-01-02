@@ -1,0 +1,1 @@
+2024-01-02 00:17:11.213700 {"type":"join","timestamp":1704154631.2137237,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"dmowitz","nickname":"dmowitz","username":"~dmowitz","name":null,"photo":null,"url":null,"tz":null,"host":"2a03:2260:300c:400:61bd:fe2e:1f3c:b90a"},"content":null,"modes":[]}
