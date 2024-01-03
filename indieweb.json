@@ -12062,6 +12062,33 @@
         ],
         "properties": {
             "name": [
+                "to2ds"
+            ],
+            "nickname": [
+                "to2ds"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://toddpresta.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://toddpresta.com/img/avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "to2ds",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "todrobbins"
             ],
             "nickname": [
