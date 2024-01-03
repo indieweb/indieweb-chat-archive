@@ -7235,6 +7235,33 @@
         ],
         "properties": {
             "name": [
+                "lazcorp"
+            ],
+            "nickname": [
+                "lazcorp"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://Www.lazaruscorporation.co.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://cdn.lazaruscorporation.co.uk/artwork/paul-watson.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "lazcorp",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "leecalvink"
             ],
             "nickname": [
