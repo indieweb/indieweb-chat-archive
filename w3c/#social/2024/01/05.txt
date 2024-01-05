@@ -1,0 +1,1 @@
+2024-01-05 04:18:41.057200 {"type":"join","timestamp":1704428321.0571556,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"treora","nickname":"treora","username":"~blub","name":"Gerben","photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
