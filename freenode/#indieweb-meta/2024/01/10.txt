@@ -1,0 +1,1 @@
+2024-01-10 00:41:09.082900 {"type":"join","timestamp":1704847269.08293,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[0x3b0b]","nickname":"[0x3b0b]","username":"m-sadv56","name":"[0x3b0b]","photo":null,"url":null,"tz":null,"host":"150.136.217.7"},"content":null,"modes":[]}
