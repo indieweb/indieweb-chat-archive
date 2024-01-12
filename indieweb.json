@@ -638,6 +638,30 @@
         ],
         "properties": {
             "name": [
+                "artlung"
+            ],
+            "nickname": [
+                "artlung"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://artlung.com"
+            ],
+            "photo": [
+                "https://indieweb.org/chat-names"
+            ]
+        },
+        "id": "artlung",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "asteres"
             ],
             "nickname": [
@@ -12081,6 +12105,27 @@
             ]
         },
         "id": "tmichellemoore",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "tnbd"
+            ],
+            "nickname": [
+                "tnbd"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://tnbd.xyz"
+            ]
+        },
+        "id": "tnbd",
         "lang": "en"
     },
     {
