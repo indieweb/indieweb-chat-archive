@@ -638,30 +638,6 @@
         ],
         "properties": {
             "name": [
-                "artlung"
-            ],
-            "nickname": [
-                "artlung"
-            ],
-            "tz": [
-                "America/Los_Angeles"
-            ],
-            "url": [
-                "http://artlung.com"
-            ],
-            "photo": [
-                "https://indieweb.org/chat-names"
-            ]
-        },
-        "id": "artlung",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "asteres"
             ],
             "nickname": [
@@ -791,7 +767,7 @@
                 "artlung"
             ],
             "tz": [
-                "US/Pacific"
+                "America/Los_Angeles"
             ],
             "url": [
                 "http://artlung.com"
