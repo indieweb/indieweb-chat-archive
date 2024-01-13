@@ -7133,6 +7133,33 @@
         ],
         "properties": {
             "name": [
+                "laker"
+            ],
+            "nickname": [
+                "laker"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://laker.tech"
+            ],
+            "photo": [
+                {
+                    "value": "https://laker.tech/cdn/image/hat-icon.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "laker",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Lancey"
             ],
             "nickname": [
