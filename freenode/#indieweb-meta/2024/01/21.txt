@@ -1,0 +1,1 @@
+2024-01-21 01:44:47.429400 {"type":"join","timestamp":1705801487.4293516,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"Ezri","nickname":"Ezri","username":"~finnekit","name":null,"photo":null,"url":null,"tz":null,"host":"fsf\/member\/finnekit"},"content":null,"modes":[]}
