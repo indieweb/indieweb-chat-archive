@@ -1,0 +1,1 @@
+2024-01-24 01:37:07.875300 {"type":"join","timestamp":1706060227.8753142,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"antranigv","nickname":"antranigv","username":"~antranigv","name":null,"photo":null,"url":null,"tz":null,"host":"37.252.78.252"},"content":null,"modes":[]}
