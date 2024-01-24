@@ -1,0 +1,1 @@
+2024-01-24 05:49:59.720300 {"type":"join","timestamp":1706075399.7202733,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"IWSlackGateway1","nickname":"IWSlackGateway1","username":"IWSlackGat","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
