@@ -1,0 +1,1 @@
+2024-01-29 00:00:29.056600 {"type":"join","timestamp":1706486429.0566146,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"colinbate","nickname":"colinbate","username":"~colinbate","name":null,"photo":null,"url":null,"tz":null,"host":"185.198.240.110"},"content":null,"modes":[]}
