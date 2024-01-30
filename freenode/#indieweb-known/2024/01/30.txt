@@ -1,0 +1,1 @@
+2024-01-30 03:05:37.158300 {"type":"join","timestamp":1706583937.158329,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"jeremy","nickname":"jeremy","username":"~jeremy","name":"ZNC - https:\/\/znc.in","photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
