@@ -1,0 +1,1 @@
+2024-02-04 00:57:26.156700 {"type":"join","timestamp":1707008246.1566732,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"includeals","nickname":"includeals","username":"~includeals","name":null,"photo":null,"url":null,"tz":null,"host":"c080ddbb.public.cloak"},"content":null,"modes":[]}
