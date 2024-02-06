@@ -1,0 +1,1 @@
+2024-02-06 01:27:53.846500 {"type":"join","timestamp":1707182873.8464558,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"btrem","nickname":"btrem","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"2601:602:8080:114b:eaf3:c2d:d518:ed0"},"content":null,"modes":[]}
