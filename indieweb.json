@@ -3365,6 +3365,33 @@
         ],
         "properties": {
             "name": [
+                "dominik"
+            ],
+            "nickname": [
+                "dominik"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://lostfocus.de"
+            ],
+            "photo": [
+                {
+                    "value": "https://dominikschwind.com/img/avatar/2020-01-500.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "dominik",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "donblanco"
             ],
             "nickname": [
