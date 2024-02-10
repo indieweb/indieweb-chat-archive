@@ -12389,6 +12389,33 @@
         ],
         "properties": {
             "name": [
+                "tsxyz"
+            ],
+            "nickname": [
+                "tsxyz"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://tsxyz.neocities.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://tsxyz.neocities.org/assets/ts.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "tsxyz",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tw2113"
             ],
             "nickname": [
