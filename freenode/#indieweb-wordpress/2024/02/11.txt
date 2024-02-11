@@ -1,0 +1,1 @@
+2024-02-11 00:20:27.327500 {"type":"join","timestamp":1707610827.3274827,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[Al_Abut]","nickname":"[Al_Abut]","username":"~Al_AbudKw","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
