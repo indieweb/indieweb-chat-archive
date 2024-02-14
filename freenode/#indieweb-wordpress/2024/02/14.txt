@@ -1,0 +1,1 @@
+2024-02-14 00:03:09.335900 {"type":"join","timestamp":1707868989.3358524,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"sam1","nickname":"sam1","username":"~samFWNXdg","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
