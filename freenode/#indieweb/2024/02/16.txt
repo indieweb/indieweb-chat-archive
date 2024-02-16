@@ -1,0 +1,1 @@
+2024-02-16 00:14:20.065200 {"type":"join","timestamp":1708042460.0651891,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"tPoltergeist","nickname":"tPoltergeist","username":"~tPolterge","name":"jacknemitz","photo":null,"url":null,"tz":null,"host":"97-116-57-131.mpls.qwest.net"},"content":null,"modes":[]}
