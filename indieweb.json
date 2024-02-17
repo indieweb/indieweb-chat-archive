@@ -13256,6 +13256,33 @@
         ],
         "properties": {
             "name": [
+                "Zoraster"
+            ],
+            "nickname": [
+                "Zoraster"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://Www.zoraster.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.zoraster.org/images/profile2.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Zoraster",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "zztr,zztw"
             ],
             "nickname": [
