@@ -1,0 +1,1 @@
+2024-02-21 00:20:53.869200 {"type":"join","timestamp":1708474853.8692014,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"tryinbrian","nickname":"tryinbrian","username":"~Brian","name":null,"photo":null,"url":null,"tz":null,"host":"8-3-90-245.starry-inc.net"},"content":null,"modes":[]}
