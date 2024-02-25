@@ -1,0 +1,1 @@
+2024-02-25 06:35:19.513600 {"type":"join","timestamp":1708842919.5135515,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"kody","nickname":"kody","username":"~quassel","name":null,"photo":null,"url":null,"tz":null,"host":"098-121-073-235.res.spectrum.com"},"content":null,"modes":[]}
