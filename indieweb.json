@@ -2846,6 +2846,27 @@
         ],
         "properties": {
             "name": [
+                "Dave Letorey"
+            ],
+            "nickname": [
+                "Dave Letorey"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://letorey.co.uk"
+            ]
+        },
+        "id": "Dave_Letorey",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "David Millar"
             ],
             "nickname": [
