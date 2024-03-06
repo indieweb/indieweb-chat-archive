@@ -1,0 +1,1 @@
+2024-03-06 00:14:15.185100 {"type":"join","timestamp":1709684055.1851015,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"specialmonkeytom","nickname":"specialmonkeytom","username":"~specialmo","name":null,"photo":null,"url":null,"tz":null,"host":"2001:268:9b02:3d6e:cd0d:92e8:fd9c:4355"},"content":null,"modes":[]}
