@@ -1,0 +1,1 @@
+2024-03-07 07:20:22.348800 {"type":"join","timestamp":1709796022.348757,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Tom_Nowell]","nickname":"[Tom_Nowell]","username":"~Tom_NoUpr","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
