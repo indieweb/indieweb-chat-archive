@@ -10436,6 +10436,27 @@
         ],
         "properties": {
             "name": [
+                "samboyer"
+            ],
+            "nickname": [
+                "samboyer"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://Samboyer.uk"
+            ]
+        },
+        "id": "samboyer",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sandeepshetty"
             ],
             "nickname": [
