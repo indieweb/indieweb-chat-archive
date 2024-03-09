@@ -1,0 +1,1 @@
+2024-03-09 02:01:39.003200 {"type":"join","timestamp":1709949699.0032291,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"sennomo","nickname":"sennomo","username":"~sennomo","name":null,"photo":null,"url":null,"tz":null,"host":"8.sub-97-132-99.myvzw.com"},"content":null,"modes":[]}
