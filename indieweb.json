@@ -2231,6 +2231,33 @@
         ],
         "properties": {
             "name": [
+                "claudinec"
+            ],
+            "nickname": [
+                "claudinec"
+            ],
+            "tz": [
+                "Australia/Melbourne"
+            ],
+            "url": [
+                "http://www.claudinec.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.claudinec.net/memoji-128x128.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "claudinec",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cleverdevil"
             ],
             "nickname": [
@@ -10695,6 +10722,27 @@
             ]
         },
         "id": "scottjenson",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "scoutaloud"
+            ],
+            "nickname": [
+                "scoutaloud"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://scoutaloud.net"
+            ]
+        },
+        "id": "scoutaloud",
         "lang": "en"
     },
     {
