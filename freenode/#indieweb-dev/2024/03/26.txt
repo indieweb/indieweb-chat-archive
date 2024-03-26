@@ -1,0 +1,1 @@
+2024-03-26 00:09:36.565800 {"type":"join","timestamp":1711411776.565815,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"jazzSlug","nickname":"jazzSlug","username":"~jazzSlug","name":null,"photo":null,"url":null,"tz":null,"host":"142.184.89.185"},"content":null,"modes":[]}
