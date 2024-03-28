@@ -565,6 +565,26 @@
         ],
         "properties": {
             "name": [
+                "jjs"
+            ],
+            "nickname": [
+                "jjs"
+            ],
+            "tz": [
+                "US/Mountain"
+            ],
+            "photo": [
+                "https://w3csocial.files.fedi.monster/accounts/avatars/111/993/879/534/597/361/original/ccb2e79efd48f5f9.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "JohnRochford"
             ],
             "nickname": [
