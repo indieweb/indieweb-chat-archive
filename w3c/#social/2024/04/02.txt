@@ -1,0 +1,1 @@
+2024-04-02 13:56:59.130400 {"type":"join","timestamp":1712066219.130398,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"TallTed","nickname":"TallTed","username":"~Thud","name":"That Guy There","photo":null,"url":null,"tz":null,"host":"9347813c.public.cloak"},"content":null,"modes":[]}
