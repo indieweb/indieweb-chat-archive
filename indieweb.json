@@ -809,6 +809,33 @@
         ],
         "properties": {
             "name": [
+                "bacardi55"
+            ],
+            "nickname": [
+                "bacardi55"
+            ],
+            "tz": [
+                "CET"
+            ],
+            "url": [
+                "http://bacardi55.io"
+            ],
+            "photo": [
+                {
+                    "value": "https://bacardi55.io/dragonhead.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "bacardi55",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "barnaby"
             ],
             "nickname": [
