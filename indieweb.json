@@ -5915,6 +5915,33 @@
         ],
         "properties": {
             "name": [
+                "jantuomi"
+            ],
+            "nickname": [
+                "jantuomi"
+            ],
+            "tz": [
+                "Europe/Helsinki"
+            ],
+            "url": [
+                "http://jan.systems"
+            ],
+            "photo": [
+                {
+                    "value": "https://jan.systems/files/Jan_Tuomi_headshot.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jantuomi",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jden"
             ],
             "nickname": [
