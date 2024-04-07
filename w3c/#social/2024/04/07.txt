@@ -1,0 +1,1 @@
+2024-04-07 00:40:11.906900 {"type":"join","timestamp":1712450411.9068885,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"donpdonp","nickname":"donpdonp","username":"~thelounge53","name":null,"photo":null,"url":null,"tz":null,"host":"9347813c.public.cloak"},"content":null,"modes":[]}
