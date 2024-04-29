@@ -1,0 +1,1 @@
+2024-04-21 16:49:12.599600 {"type":"join","timestamp":1713718152.5996056,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Raito_Bezarius","nickname":"Raito_Bezarius","username":"~Raito","name":"Raito Bezarius","photo":null,"url":null,"tz":null,"host":"7a930742.publics.cloak"},"content":null,"modes":[]}

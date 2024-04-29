@@ -12623,6 +12623,27 @@
         ],
         "properties": {
             "name": [
+                "vanitas_gloam"
+            ],
+            "nickname": [
+                "vanitas_gloam"
+            ],
+            "tz": [
+                "Europe/Zurich"
+            ],
+            "url": [
+                "http://gloam.place"
+            ]
+        },
+        "id": "vanitas_gloam",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "vendan"
             ],
             "nickname": [
