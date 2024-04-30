@@ -12179,6 +12179,33 @@
         ],
         "properties": {
             "name": [
+                "Tiffany"
+            ],
+            "nickname": [
+                "Tiffany"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://tiffnix.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://tiffnix.com/images/profile-pic.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Tiffany",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tilgovi"
             ],
             "nickname": [
