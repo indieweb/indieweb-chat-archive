@@ -1,0 +1,1 @@
+2024-05-03 00:41:16.170300 {"type":"join","timestamp":1714696876.17032,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"df561d9f.public.cloak"},"content":null,"modes":[]}
