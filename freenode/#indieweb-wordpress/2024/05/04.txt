@@ -1,0 +1,1 @@
+2024-05-04 10:04:46.011600 {"type":"join","timestamp":1714817086.0115538,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"standingdesk[d]","nickname":"standingdesk[d]","username":"~standingd","name":null,"photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}
