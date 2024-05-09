@@ -11813,6 +11813,33 @@
         ],
         "properties": {
             "name": [
+                "tantek.com"
+            ],
+            "nickname": [
+                "tantek.com"
+            ],
+            "tz": [
+                "America/San_Francisco"
+            ],
+            "url": [
+                "http://Tantek.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://tantek.com/logo.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "tantek.com",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tanlaan"
             ],
             "nickname": [
