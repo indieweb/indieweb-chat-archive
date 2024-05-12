@@ -1,0 +1,1 @@
+2024-05-12 00:14:38.274400 {"type":"join","timestamp":1715472878.274421,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"ttybitnik","nickname":"ttybitnik","username":"~user","name":null,"photo":null,"url":null,"tz":null,"host":"user\/wolper"},"content":null,"modes":[]}
