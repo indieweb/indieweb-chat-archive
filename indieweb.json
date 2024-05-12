@@ -9335,6 +9335,33 @@
         ],
         "properties": {
             "name": [
+                "pcarrier"
+            ],
+            "nickname": [
+                "pcarrier"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://pcarrier.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://pcarrier.com/avatar.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "pcarrier",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "peat"
             ],
             "nickname": [
