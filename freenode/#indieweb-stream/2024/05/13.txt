@@ -1,0 +1,1 @@
+2024-05-13 01:05:09.400200 {"type":"join","timestamp":1715562309.400176,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"morgan","nickname":"morgan","username":"~morgan7vR","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
