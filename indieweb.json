@@ -1883,33 +1883,6 @@
         ],
         "properties": {
             "name": [
-                "campegg"
-            ],
-            "nickname": [
-                "campegg"
-            ],
-            "tz": [
-                "America/New_York"
-            ],
-            "url": [
-                "http://campegg.com"
-            ],
-            "photo": [
-                {
-                    "value": "https://campegg.com/assets/img/favicon-256x256.png",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "campegg",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "caseorganic"
             ],
             "nickname": [
@@ -6207,6 +6180,33 @@
             ]
         },
         "id": "jimpick",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "jimwins"
+            ],
+            "nickname": [
+                "jimwins"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://trainedmonkey.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://trainedmonkey.com/scratch/hanging-monkey.svg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jimwins",
         "lang": "en"
     },
     {
@@ -11532,7 +11532,7 @@
             ],
             "photo": [
                 {
-                    "value": "https://a.deviantart.net/avatars-big/s/t/starrwulfe.png?5",
+                    "value": "https://starrwulfe.xyz/wp-content/uploads/2023/11/Starrwulfe-dark-pxl-removebg-preview.png",
                     "alt": ""
                 }
             ]
@@ -13257,6 +13257,33 @@
             ]
         },
         "id": "yobj",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "xandra.cc"
+            ],
+            "nickname": [
+                "xandra.cc"
+            ],
+            "tz": [
+                "America/San_Francisco"
+            ],
+            "url": [
+                "http://xandra.cc"
+            ],
+            "photo": [
+                {
+                    "value": "https://xandra.cc/me3.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "xandra.cc",
         "lang": "en"
     },
     {
