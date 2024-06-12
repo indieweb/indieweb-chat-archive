@@ -1,0 +1,1 @@
+2024-06-12 00:32:40.550900 {"type":"join","timestamp":1718152360.5508785,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Salt_","nickname":"Salt_","username":"m-ngznor","name":null,"photo":null,"url":"http:\/\/altsalt.net","tz":"America\/Los_Angeles","host":"107.174.240.197"},"content":null,"modes":[]}
