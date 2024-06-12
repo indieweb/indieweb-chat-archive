@@ -1,0 +1,1 @@
+2024-06-12 04:02:01.114500 {"type":"join","timestamp":1718164921.1144636,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"thepaperpilot","nickname":"thepaperpilot","username":"~thepaperp","name":null,"photo":null,"url":null,"tz":null,"host":"mail.incremental.social"},"content":null,"modes":[]}
