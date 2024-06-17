@@ -1,0 +1,1 @@
+2024-06-17 12:13:47.631500 {"type":"join","timestamp":1718626427.6314669,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"capjamesg","nickname":"capjamesg","username":"~capjamesg","name":"capjamesg","photo":null,"url":null,"tz":null,"host":"e2f177d0.publics.cloak"},"content":null,"modes":[]}
