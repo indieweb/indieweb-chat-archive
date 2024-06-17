@@ -1,0 +1,1 @@
+2024-06-17 07:05:46.683100 {"type":"join","timestamp":1718607946.6830807,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"toastal","nickname":"toastal","username":"e261808aa0","name":"toastal","photo":null,"url":null,"tz":null,"host":"134.236.109.239"},"content":null,"modes":[]}
