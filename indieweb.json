@@ -9110,6 +9110,33 @@
         ],
         "properties": {
             "name": [
+                "ojrask"
+            ],
+            "nickname": [
+                "ojrask"
+            ],
+            "tz": [
+                "Europe/Helsinki"
+            ],
+            "url": [
+                "http://www.ottorask.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.ottorask.com/img/avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "ojrask",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "oliverpattison"
             ],
             "nickname": [
