@@ -1,0 +1,1 @@
+2024-06-21 00:34:51.839100 {"type":"join","timestamp":1718930091.839068,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"Yummers","nickname":"Yummers","username":"~Yummers","name":null,"photo":null,"url":null,"tz":null,"host":"2600:1001:a010:aadf:7c58:20c8:e164:fad7"},"content":null,"modes":[]}
