@@ -1,0 +1,1 @@
+2024-06-22 00:56:05.736000 {"type":"join","timestamp":1719017765.7359753,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"sp1ff","nickname":"sp1ff","username":"~user","name":"unknown","photo":null,"url":"http:\/\/www.unwoundstack.com","tz":"US\/Pacific","host":"c-73-11-70-111.hsd1.wa.comcast.net"},"content":null,"modes":[]}
