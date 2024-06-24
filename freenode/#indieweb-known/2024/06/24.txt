@@ -1,0 +1,1 @@
+2024-06-24 06:06:20.924000 {"type":"join","timestamp":1719209180.9239752,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"withed[d]","nickname":"withed[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}

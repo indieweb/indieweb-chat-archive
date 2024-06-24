@@ -1,0 +1,1 @@
+2024-06-24 06:06:20.949400 {"type":"join","timestamp":1719209180.9493651,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"withed[d]","nickname":"withed[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}
