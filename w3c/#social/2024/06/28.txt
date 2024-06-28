@@ -1,0 +1,1 @@
+2024-06-28 14:04:42.107500 {"type":"join","timestamp":1719583482.1074827,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"9b82873d.public.cloak"},"content":null,"modes":[]}
