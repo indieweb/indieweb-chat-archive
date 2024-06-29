@@ -1,0 +1,1 @@
+2024-06-29 00:00:49.796000 {"type":"join","timestamp":1719619249.7959526,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"_DuBPiRaTe_","nickname":"_DuBPiRaTe_","username":"~E_bomb","name":null,"photo":null,"url":null,"tz":null,"host":"2600:6c50:7f7f:d89a:1621:f4df:482f:2437"},"content":null,"modes":[]}
