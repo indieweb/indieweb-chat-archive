@@ -1,0 +1,1 @@
+2024-07-01 01:00:48.400300 {"type":"join","timestamp":1719795648.4003003,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"k3","nickname":"k3","username":"~k9DMWRIDX","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
