@@ -1,0 +1,1 @@
+2024-07-02 00:25:58.058300 {"type":"join","timestamp":1719879958.0582576,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"zicklepop6","nickname":"zicklepop6","username":"~zicklepop","name":null,"photo":null,"url":null,"tz":null,"host":"174.140.162.122"},"content":null,"modes":[]}

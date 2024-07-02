@@ -1,0 +1,1 @@
+2024-07-02 00:25:59.000700 {"type":"join","timestamp":1719879959.000733,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"zicklepop6","nickname":"zicklepop6","username":"~zicklepop","name":null,"photo":null,"url":null,"tz":null,"host":"174.140.162.122"},"content":null,"modes":[]}
