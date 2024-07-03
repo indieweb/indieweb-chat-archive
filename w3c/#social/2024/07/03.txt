@@ -1,0 +1,1 @@
+2024-07-03 15:01:27.061000 {"type":"join","timestamp":1720018887.0610292,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"TallTed","nickname":"TallTed","username":"~Thud","name":null,"photo":null,"url":null,"tz":null,"host":"2bef0590.public.cloak"},"content":null,"modes":[]}
