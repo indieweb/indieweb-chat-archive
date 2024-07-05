@@ -1,0 +1,1 @@
+2024-07-05 01:54:34.010200 {"type":"join","timestamp":1720144474.0101871,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"DigitalDragon","nickname":"DigitalDragon","username":"~Digi","name":"DigitalDragon","photo":null,"url":null,"tz":null,"host":"9d40a032.publics.cloak"},"content":null,"modes":[]}
