@@ -1,0 +1,1 @@
+2024-07-06 09:07:19.401000 {"type":"join","timestamp":1720256839.4010031,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Lahusen1","nickname":"Lahusen1","username":"~LahuseOxJ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
