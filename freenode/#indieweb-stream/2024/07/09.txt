@@ -1,0 +1,1 @@
+2024-07-09 00:25:56.404000 {"type":"join","timestamp":1720484756.4040082,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"drewmcweeney","nickname":"drewmcweeney","username":"~drewmcph4","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
