@@ -1,0 +1,1 @@
+2024-07-11 02:49:48.394700 {"type":"join","timestamp":1720666188.3947365,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[morganm]","nickname":"[morganm]","username":"~morgantzl","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
