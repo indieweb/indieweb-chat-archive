@@ -1,0 +1,1 @@
+2024-07-14 14:10:55.942000 {"type":"join","timestamp":1720966255.9420497,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"thegr8whoopdini[","nickname":"thegr8whoopdini[","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"2600:3c01::f03c:93ff:fe06:ef48"},"content":null,"modes":[]}
