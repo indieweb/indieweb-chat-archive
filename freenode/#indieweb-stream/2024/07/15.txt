@@ -1,0 +1,1 @@
+2024-07-15 01:55:03.306400 {"type":"join","timestamp":1721008503.3064053,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"aaronpk","nickname":"aaronpk","username":"~aaronpk","name":"aaronpk","photo":null,"url":null,"tz":null,"host":"user\/aaronpk"},"content":null,"modes":[]}
