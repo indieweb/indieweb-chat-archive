@@ -5942,6 +5942,33 @@
         ],
         "properties": {
             "name": [
+                "jarema"
+            ],
+            "nickname": [
+                "jarema"
+            ],
+            "tz": [
+                "Asia/Bangkok"
+            ],
+            "url": [
+                "http://jarema.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://jarema.me/fvic.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jarema",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jden"
             ],
             "nickname": [
@@ -6188,10 +6215,10 @@
         ],
         "properties": {
             "name": [
-                "jimwins"
+                "jimw"
             ],
             "nickname": [
-                "jimwins"
+                "jimw"
             ],
             "tz": [
                 "America/Los_Angeles"
@@ -6206,7 +6233,7 @@
                 }
             ]
         },
-        "id": "jimwins",
+        "id": "jimw",
         "lang": "en"
     },
     {
@@ -8046,6 +8073,33 @@
             ]
         },
         "id": "marksuth",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "marksuth.dev"
+            ],
+            "nickname": [
+                "marksuth.dev"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://marksuth.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://marksuth.dev/images/avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "marksuth.dev",
         "lang": "en"
     },
     {
