@@ -1,0 +1,1 @@
+2024-08-10 09:22:50.363600 {"type":"join","timestamp":1723281770.3636029,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[Scout]","nickname":"[Scout]","username":"ScoutDJ9jo","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
