@@ -1,0 +1,1 @@
+2024-08-12 01:58:11.665000 {"type":"join","timestamp":1723427891.6650443,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~trwnh.com","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"2a01:4ff:f0:47d3::"},"content":null,"modes":[]}
