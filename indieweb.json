@@ -1100,16 +1100,16 @@
         ],
         "properties": {
             "name": [
-                "benharri"
+                "ben"
             ],
             "nickname": [
-                "benharri"
+                "ben"
             ],
             "tz": [
                 "America/Detroit"
             ],
             "url": [
-                "http://benharr.is"
+                "http://benharri.org"
             ],
             "photo": [
                 {
@@ -1118,7 +1118,7 @@
                 }
             ]
         },
-        "id": "benharri",
+        "id": "ben",
         "lang": "en"
     },
     {
