@@ -9320,6 +9320,54 @@
         ],
         "properties": {
             "name": [
+                "parnikkapore"
+            ],
+            "nickname": [
+                "parnikkapore"
+            ],
+            "tz": [
+                "Asia/Bangkok"
+            ],
+            "url": [
+                "http://parnikkapore.neocities.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://parnikkapore.neocities.org/media/tang.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "parnikkapore",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "parnikkapore_x"
+            ],
+            "nickname": [
+                "parnikkapore_x"
+            ],
+            "tz": [
+                "Asia/Bangkok"
+            ],
+            "url": [
+                "http://parnikkapore.neocities.org"
+            ]
+        },
+        "id": "parnikkapore_x",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Pauho"
             ],
             "nickname": [
