@@ -1,0 +1,1 @@
+2024-08-31 02:18:22.272300 {"type":"join","timestamp":1725070702.2722514,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"aldur2","nickname":"aldur2","username":"~aldur","name":null,"photo":null,"url":null,"tz":null,"host":"user\/aldur"},"content":null,"modes":[]}
