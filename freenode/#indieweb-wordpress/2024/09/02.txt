@@ -1,0 +1,1 @@
+2024-09-02 00:29:49.440300 {"type":"join","timestamp":1725236989.4402719,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"Hi","nickname":"Hi","username":"hiZstwyeqQ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
