@@ -1,0 +1,1 @@
+2024-09-03 00:41:57.805100 {"type":"join","timestamp":1725324117.805107,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"fluffy","nickname":"fluffy","username":"~fluffy","name":null,"photo":null,"url":null,"tz":null,"host":"96-126-101-56.ip.linodeusercontent.com"},"content":null,"modes":[]}

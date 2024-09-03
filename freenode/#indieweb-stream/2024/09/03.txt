@@ -1,0 +1,1 @@
+2024-09-03 00:41:57.810800 {"type":"join","timestamp":1725324117.810796,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"fluffy","nickname":"fluffy","username":"~fluffy","name":null,"photo":null,"url":null,"tz":null,"host":"96-126-101-56.ip.linodeusercontent.com"},"content":null,"modes":[]}
