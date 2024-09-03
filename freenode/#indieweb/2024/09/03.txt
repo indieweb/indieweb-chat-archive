@@ -1,0 +1,1 @@
+2024-09-03 00:02:48.962600 {"type":"join","timestamp":1725321768.9626021,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"thegreekgeek_","nickname":"thegreekgeek_","username":"~quassel","name":null,"photo":null,"url":null,"tz":null,"host":"1654591-static.rochmnaa.metronetinc.net"},"content":null,"modes":[]}
