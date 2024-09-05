@@ -1,0 +1,1 @@
+2024-09-05 09:40:19.743500 {"type":"leave","timestamp":1725529219.7435372,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"xfq","nickname":"xfq","username":"xfq","name":"Your full name","photo":null,"url":null,"tz":null,"host":"50aea1d9.team.cloak"},"content":null,"modes":[]}
