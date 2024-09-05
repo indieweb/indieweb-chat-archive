@@ -2189,6 +2189,33 @@
         ],
         "properties": {
             "name": [
+                "ChrisFu"
+            ],
+            "nickname": [
+                "ChrisFu"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://chris.funderburg.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://chris.funderburg.me/me.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "ChrisFu",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "chrisroos"
             ],
             "nickname": [
