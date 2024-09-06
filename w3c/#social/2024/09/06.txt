@@ -1,0 +1,1 @@
+2024-09-06 06:59:27.522600 {"type":"join","timestamp":1725605967.5225627,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dshanske","nickname":"dshanske","username":"~dshanske","name":"ZNC - https:\/\/znc.in","photo":null,"url":null,"tz":null,"host":"9d40a032.publics.cloak"},"content":null,"modes":[]}
