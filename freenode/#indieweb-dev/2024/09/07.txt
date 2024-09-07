@@ -1,0 +1,1 @@
+2024-09-07 00:08:38.616200 {"type":"join","timestamp":1725667718.6162305,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"doesnm","nickname":"doesnm","username":"~doesnm","name":"doesnm","photo":null,"url":null,"tz":null,"host":"user\/doesnm"},"content":null,"modes":[]}
