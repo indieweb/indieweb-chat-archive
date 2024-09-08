@@ -1,0 +1,1 @@
+2024-09-08 00:47:52.674800 {"type":"join","timestamp":1725756472.6747649,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"to2ds","nickname":"to2ds","username":"to2ds11tZA","name":null,"photo":null,"url":"http:\/\/toddpresta.com","tz":"America\/Los_Angeles","host":"gateway.indieweb.org"},"content":null,"modes":[]}
