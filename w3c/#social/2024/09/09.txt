@@ -1,0 +1,1 @@
+2024-09-09 03:18:47.354600 {"type":"join","timestamp":1725851927.3546174,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dlehn1","nickname":"dlehn1","username":"~dlehn","name":null,"photo":null,"url":null,"tz":null,"host":"2bef0590.public.cloak"},"content":null,"modes":[]}
