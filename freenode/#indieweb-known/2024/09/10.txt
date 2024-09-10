@@ -1,0 +1,1 @@
+2024-09-10 05:55:12.809200 {"type":"join","timestamp":1725947712.809152,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Banana","nickname":"Banana","username":"Banana_D8U","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
