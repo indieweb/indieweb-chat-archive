@@ -1,0 +1,1 @@
+2024-09-11 09:07:25.271400 {"type":"join","timestamp":1726045645.2714205,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"sebbu2","nickname":"sebbu2","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
