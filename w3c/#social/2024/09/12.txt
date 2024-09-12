@@ -1,0 +1,1 @@
+2024-09-12 05:59:06.816300 {"type":"join","timestamp":1726120746.816341,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Ariadne","nickname":"Ariadne","username":"~sid506515","name":"Ariadne Conill","photo":null,"url":null,"tz":null,"host":"2bef0590.public.cloak"},"content":null,"modes":[]}
