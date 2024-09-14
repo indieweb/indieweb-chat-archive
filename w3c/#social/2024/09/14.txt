@@ -1,0 +1,1 @@
+2024-09-14 06:31:44.987500 {"type":"join","timestamp":1726295504.9875093,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"9d40a032.publics.cloak"},"content":null,"modes":[]}
