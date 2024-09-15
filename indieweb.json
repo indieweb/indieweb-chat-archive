@@ -13166,6 +13166,33 @@
         ],
         "properties": {
             "name": [
+                "vroman"
+            ],
+            "nickname": [
+                "vroman"
+            ],
+            "tz": [
+                "Europe/Madrid"
+            ],
+            "url": [
+                "http://www.victorroman.es"
+            ],
+            "photo": [
+                {
+                    "value": "https://pbs.twimg.com/profile_images/1403110071614255108/QP8BqiHD_400x400.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "vroman",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "vrypan"
             ],
             "nickname": [
