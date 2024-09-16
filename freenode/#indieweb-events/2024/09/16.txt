@@ -1,0 +1,1 @@
+2024-09-16 07:11:05.174400 {"type":"join","timestamp":1726470665.1744428,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"[manton]1","nickname":"[manton]1","username":"manton9wvQ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}

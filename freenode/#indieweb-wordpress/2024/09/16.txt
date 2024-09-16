@@ -1,0 +1,1 @@
+2024-09-16 07:11:05.155000 {"type":"join","timestamp":1726470665.1549723,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"[manton]1","nickname":"[manton]1","username":"manton9wvQ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
