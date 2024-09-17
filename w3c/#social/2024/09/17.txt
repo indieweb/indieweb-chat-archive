@@ -1,0 +1,1 @@
+2024-09-17 06:27:41.610400 {"type":"join","timestamp":1726554461.6103683,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Vuthanh","nickname":"Vuthanh","username":"~Vuthanh","name":null,"photo":null,"url":null,"tz":null,"host":"9d40a032.publics.cloak"},"content":null,"modes":[]}
