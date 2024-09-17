@@ -1,0 +1,1 @@
+2024-09-17 01:02:16.536500 {"type":"join","timestamp":1726534936.5364783,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"bencevans","nickname":"bencevans","username":"~bencevans","name":"ZNC - https:\/\/znc.in","photo":null,"url":null,"tz":null,"host":"83.105.127.117"},"content":null,"modes":[]}
