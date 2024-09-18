@@ -1,0 +1,1 @@
+2024-09-18 07:22:35.090600 {"type":"join","timestamp":1726644155.0905871,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"csarven","nickname":"csarven","username":"~nevrasc","name":"https:\/\/csarven.ca\/#i","photo":null,"url":null,"tz":null,"host":"2bef0590.public.cloak"},"content":null,"modes":[]}
