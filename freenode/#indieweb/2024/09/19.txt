@@ -1,0 +1,1 @@
+2024-09-19 00:00:35.121200 {"type":"join","timestamp":1726704035.121152,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"Xenguy","nickname":"Xenguy","username":"~Xenguy","name":null,"photo":null,"url":null,"tz":null,"host":"user\/xenguy"},"content":null,"modes":[]}
