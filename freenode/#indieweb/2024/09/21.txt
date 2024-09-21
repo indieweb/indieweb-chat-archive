@@ -1,0 +1,1 @@
+2024-09-21 00:28:15.142000 {"type":"join","timestamp":1726878495.1420252,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"scoates","nickname":"scoates","username":"uid325467","name":"Sean Coates","photo":null,"url":null,"tz":null,"host":"id-325467.hampstead.irccloud.com"},"content":null,"modes":[]}
