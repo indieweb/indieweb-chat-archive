@@ -905,6 +905,26 @@
         ],
         "properties": {
             "name": [
+                "octogonz"
+            ],
+            "nickname": [
+                "octogonz"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "photo": [
+                "https://www.octogonz.com/images/octogonz-200x200.jpg"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "oshepherd"
             ],
             "nickname": [
