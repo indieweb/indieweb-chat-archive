@@ -545,6 +545,26 @@
         ],
         "properties": {
             "name": [
+                "jets"
+            ],
+            "nickname": [
+                "jets"
+            ],
+            "tz": [
+                "US/Mountain"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/{{{4}}}"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "JF"
             ],
             "nickname": [
