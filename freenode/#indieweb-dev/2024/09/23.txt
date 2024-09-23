@@ -1,0 +1,1 @@
+2024-09-23 00:14:39.795500 {"type":"join","timestamp":1727050479.7954645,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"AramZS","nickname":"AramZS","username":"~AramZS","name":"Aram Zucker-Scharff","photo":null,"url":null,"tz":null,"host":"75-55-249-110.lightspeed.irvnca.sbcglobal.net"},"content":null,"modes":[]}
