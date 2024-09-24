@@ -1,0 +1,1 @@
+2024-09-24 02:12:31.636700 {"type":"join","timestamp":1727143951.636725,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"mooff","nickname":"mooff","username":"mooff","name":"mooff","photo":null,"url":null,"tz":null,"host":"cyberspace.baby"},"content":null,"modes":[]}
