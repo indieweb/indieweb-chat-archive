@@ -1,0 +1,1 @@
+2024-09-25 01:48:02.687400 {"type":"join","timestamp":1727228882.6873896,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"athan","nickname":"athan","username":"~athan","name":"Athan Clark","photo":null,"url":null,"tz":null,"host":"syn-098-153-145-140.biz.spectrum.com"},"content":null,"modes":[]}
