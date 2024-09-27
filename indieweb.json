@@ -1760,6 +1760,27 @@
         ],
         "properties": {
             "name": [
+                "btrem"
+            ],
+            "nickname": [
+                "btrem"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://btrem.com"
+            ]
+        },
+        "id": "btrem",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "butterwell"
             ],
             "nickname": [
