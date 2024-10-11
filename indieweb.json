@@ -6419,6 +6419,33 @@
         ],
         "properties": {
             "name": [
+                "Jo"
+            ],
+            "nickname": [
+                "Jo"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://dead.garden"
+            ],
+            "photo": [
+                {
+                    "value": "https://em-content.zobj.net/source/toss-face/381/fly_1fab0.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Jo",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "johnjohnston"
             ],
             "nickname": [
