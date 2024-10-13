@@ -1,0 +1,1 @@
+2024-10-13 03:42:56.128700 {"type":"join","timestamp":1728790976.128672,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"AramZS","nickname":"AramZS","username":"~AramZS","name":"Aram Zucker-Scharff","photo":null,"url":null,"tz":null,"host":"2607:fb91:1237:5040:50fc:a4a:ea90:6b80"},"content":null,"modes":[]}
