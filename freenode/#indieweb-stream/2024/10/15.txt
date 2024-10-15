@@ -1,0 +1,1 @@
+2024-10-15 00:46:26.767200 {"type":"join","timestamp":1728953186.7671955,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"stormyyy","nickname":"stormyyy","username":"stormyd13I","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
