@@ -1487,6 +1487,33 @@
         ],
         "properties": {
             "name": [
+                "Brentter"
+            ],
+            "nickname": [
+                "Brentter"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://Brentter.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://files.catbox.moe/dt9nz3.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Brentter",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "boehs"
             ],
             "nickname": [
@@ -4508,6 +4535,33 @@
         ],
         "properties": {
             "name": [
+                "freddy"
+            ],
+            "nickname": [
+                "freddy"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://frederikbraun.de"
+            ],
+            "photo": [
+                {
+                    "value": "https://frederikbraun.de/profile.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "freddy",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "funwhilelost"
             ],
             "nickname": [
@@ -7202,6 +7256,33 @@
         ],
         "properties": {
             "name": [
+                "kiko"
+            ],
+            "nickname": [
+                "kiko"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://kiko.io"
+            ],
+            "photo": [
+                {
+                    "value": "https://kiko.io/images/kristof-zerbe.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "kiko",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kimberlyhirsh"
             ],
             "nickname": [
@@ -7329,6 +7410,33 @@
             ]
         },
         "id": "kovah",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "kupietz"
+            ],
+            "nickname": [
+                "kupietz"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://michaelkupietz.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://michaelkupietz.com/wp-content/uploads/2023/08/K-Stamp-from-Goudy-Initials-font-cyan-to-blue-light-1-150x150.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "kupietz",
         "lang": "en"
     },
     {
@@ -11003,7 +11111,7 @@
                 "US/Eastern"
             ],
             "url": [
-                "http://its.scojjac.com"
+                "http://scojjac.com"
             ],
             "photo": [
                 {

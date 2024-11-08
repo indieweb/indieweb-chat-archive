@@ -65,6 +65,26 @@
         ],
         "properties": {
             "name": [
+                "angelo"
+            ],
+            "nickname": [
+                "angelo"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "photo": [
+                "https://ragt.ag/media/XWjA.png"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "annbass"
             ],
             "nickname": [
