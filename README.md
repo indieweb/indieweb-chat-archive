@@ -4,6 +4,8 @@ This repo contains the full archive of IndieWeb chat log data files visible at h
 
 Chat logs are added to this repo every 15 minutes.
 
+Looking for the website source code for chat.indieweb.org? See: https://github.com/indieweb/chat.indieweb.org
+
 ## File Format
 
 Each channel's files can be read using [QuartzDB](https://github.com/aaronpk/QuartzDB). The files follow a simple format:
