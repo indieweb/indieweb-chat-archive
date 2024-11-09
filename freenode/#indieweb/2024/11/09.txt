@@ -1,0 +1,1 @@
+2024-11-09 00:33:54.035200 {"type":"join","timestamp":1731112434.0352042,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"wobbol","nickname":"wobbol","username":"~wobbol","name":null,"photo":null,"url":null,"tz":null,"host":"159.89.49.176"},"content":null,"modes":[]}
