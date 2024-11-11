@@ -1,0 +1,1 @@
+2024-11-11 00:56:19.148600 {"type":"join","timestamp":1731286579.1485777,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"someonewithpc","nickname":"someonewithpc","username":"~someonewithpc","name":null,"photo":null,"url":null,"tz":null,"host":"4f1164.public.cloak"},"content":null,"modes":[]}
