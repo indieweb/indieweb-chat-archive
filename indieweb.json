@@ -10808,6 +10808,33 @@
         ],
         "properties": {
             "name": [
+                "srudersdorf"
+            ],
+            "nickname": [
+                "srudersdorf"
+            ],
+            "tz": [
+                "Europe/Frankfurt"
+            ],
+            "url": [
+                "http://Rudersdorf.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://rudersdorf.com/img/sr-potrait.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "srudersdorf",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rupl"
             ],
             "nickname": [
