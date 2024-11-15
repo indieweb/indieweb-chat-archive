@@ -1,0 +1,1 @@
+2024-11-15 00:28:53.693600 {"type":"join","timestamp":1731630533.6936448,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"tenaciouslyGnarl","nickname":"tenaciouslyGnarl","username":"tenaciC-b8","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
