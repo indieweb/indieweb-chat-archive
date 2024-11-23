@@ -1,0 +1,1 @@
+2024-11-23 02:15:46.814900 {"type":"join","timestamp":1732328146.8148954,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"GuestZero","nickname":"GuestZero","username":"~GuestZero","name":null,"photo":null,"url":null,"tz":null,"host":"2a02:3033:680:d533:91ac:d634:c002:9283"},"content":null,"modes":[]}
