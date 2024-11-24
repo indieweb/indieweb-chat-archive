@@ -1,0 +1,1 @@
+2024-11-24 02:14:48.299600 {"type":"join","timestamp":1732414488.2995799,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"GuestZero","nickname":"GuestZero","username":"~GuestZero","name":null,"photo":null,"url":null,"tz":null,"host":"dynamic-046-114-093-233.46.114.pool.telefonica.de"},"content":null,"modes":[]}
