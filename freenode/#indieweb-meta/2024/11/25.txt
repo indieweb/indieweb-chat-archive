@@ -1,0 +1,1 @@
+2024-11-25 00:03:55.398800 {"type":"join","timestamp":1732493035.3987918,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"JadedBlueEyes","nickname":"JadedBlueEyes","username":"~JadedBlue","name":null,"photo":null,"url":null,"tz":null,"host":"ns3763049.ip-213-32-25.eu"},"content":null,"modes":[]}
