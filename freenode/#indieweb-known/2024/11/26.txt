@@ -1,0 +1,1 @@
+2024-11-26 13:21:58.178600 {"type":"join","timestamp":1732627318.1785874,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Guest6","nickname":"Guest6","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"93-34-91-5.ip49.fastwebnet.it"},"content":null,"modes":[]}
