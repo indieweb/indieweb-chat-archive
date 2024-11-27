@@ -1,0 +1,1 @@
+2024-11-27 00:00:58.379300 {"type":"join","timestamp":1732665658.3793275,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"antranigv","nickname":"antranigv","username":"~antranigv","name":null,"photo":null,"url":null,"tz":null,"host":"bsd.am"},"content":null,"modes":[]}
