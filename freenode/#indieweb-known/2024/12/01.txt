@@ -1,0 +1,1 @@
+2024-12-01 14:55:13.323700 {"type":"join","timestamp":1733064913.323662,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Dryusdan","nickname":"Dryusdan","username":"~Dryusdan","name":null,"photo":null,"url":null,"tz":null,"host":"2a01:e0a:21a:17a0:1:5ee:bad:c0de"},"content":null,"modes":[]}
