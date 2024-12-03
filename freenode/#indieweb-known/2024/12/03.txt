@@ -1,0 +1,1 @@
+2024-12-03 01:59:35.673400 {"type":"join","timestamp":1733191175.673411,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"connorgurney","nickname":"connorgurney","username":"connorHSa0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
