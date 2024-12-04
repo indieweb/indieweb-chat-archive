@@ -645,6 +645,26 @@
         ],
         "properties": {
             "name": [
+                "Jon_Gibbins"
+            ],
+            "nickname": [
+                "Jon_Gibbins"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "photo": [
+                "https://www.w3.org/wiki/IRC-people"
+            ]
+        },
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kborchers"
             ],
             "nickname": [
