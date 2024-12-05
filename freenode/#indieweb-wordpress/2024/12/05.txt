@@ -1,0 +1,1 @@
+2024-12-05 02:04:33.706000 {"type":"join","timestamp":1733364273.7060494,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"jeremych-","nickname":"jeremych-","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
