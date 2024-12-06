@@ -1,0 +1,1 @@
+2024-12-06 02:37:37.656900 {"type":"join","timestamp":1733452657.6569355,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"g1","nickname":"g1","username":"gztIzya_ik","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
