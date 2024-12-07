@@ -3782,6 +3782,33 @@
         ],
         "properties": {
             "name": [
+                "doesnm"
+            ],
+            "nickname": [
+                "doesnm"
+            ],
+            "tz": [
+                "Europe/Moscow"
+            ],
+            "url": [
+                "http://doesnm.cc"
+            ],
+            "photo": [
+                {
+                    "value": "https://doesnm.p.psf.lt/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "doesnm",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "eb"
             ],
             "nickname": [
