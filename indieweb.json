@@ -5708,6 +5708,33 @@
         ],
         "properties": {
             "name": [
+                "ilovecomputers"
+            ],
+            "nickname": [
+                "ilovecomputers"
+            ],
+            "tz": [
+                "America/Pacific"
+            ],
+            "url": [
+                "http://ilove.computer"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.ilove.computer/images/logo.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "ilovecomputers",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ingoogni"
             ],
             "nickname": [
