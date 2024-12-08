@@ -1,0 +1,1 @@
+2024-12-08 00:08:08.606300 {"type":"join","timestamp":1733616488.6062725,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"hatkirby","nickname":"hatkirby","username":"hatkirQkOk","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
