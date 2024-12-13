@@ -4643,6 +4643,33 @@
         ],
         "properties": {
             "name": [
+                "funkylarma"
+            ],
+            "nickname": [
+                "funkylarma"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://adamchamberlin.info"
+            ],
+            "photo": [
+                {
+                    "value": "https://adamchamberlin.info/assets/images/headshot.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "funkylarma",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gavinc"
             ],
             "nickname": [
