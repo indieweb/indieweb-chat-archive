@@ -1,0 +1,1 @@
+2024-12-14 13:30:33.220200 {"type":"join","timestamp":1734183033.2201824,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"aelaraji3","nickname":"aelaraji3","username":"~skinshafi","name":null,"photo":null,"url":null,"tz":null,"host":"user\/skinshafi"},"content":null,"modes":[]}
