@@ -1,0 +1,1 @@
+2024-12-20 01:23:45.465600 {"type":"join","timestamp":1734657825.4655757,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Morganm","nickname":"Morganm","username":"MorganMmpU","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
