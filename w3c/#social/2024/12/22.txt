@@ -1,0 +1,1 @@
+2024-12-22 00:06:54.497400 {"type":"join","timestamp":1734826014.4974256,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cptaffe","nickname":"cptaffe","username":"~cptaffe","name":null,"photo":null,"url":null,"tz":null,"host":"4f1164.public.cloak"},"content":null,"modes":[]}
