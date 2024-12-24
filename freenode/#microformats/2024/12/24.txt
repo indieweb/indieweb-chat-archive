@@ -1,0 +1,1 @@
+2024-12-24 11:05:48.281700 {"type":"join","timestamp":1735038348.281656,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Guest6","nickname":"Guest6","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"93-34-91-129.ip49.fastwebnet.it"},"content":null,"modes":[]}
