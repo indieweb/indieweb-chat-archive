@@ -1,0 +1,1 @@
+2024-12-24 00:22:33.429500 {"type":"join","timestamp":1734999753.429473,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"rvalue","nickname":"rvalue","username":"~rvalue","name":null,"photo":null,"url":null,"tz":null,"host":"user\/rvalue"},"content":null,"modes":[]}
