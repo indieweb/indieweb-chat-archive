@@ -1,0 +1,1 @@
+2024-12-28 04:21:44.669100 {"type":"join","timestamp":1735359704.6691394,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[aciccarello]","nickname":"[aciccarello]","username":"aciccaJZZk","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
