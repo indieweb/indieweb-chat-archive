@@ -3809,6 +3809,33 @@
         ],
         "properties": {
             "name": [
+                "dsofeir"
+            ],
+            "nickname": [
+                "dsofeir"
+            ],
+            "tz": [
+                "Australia/Melbourne"
+            ],
+            "url": [
+                "http://www.dfoley.ie"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.dfoley.ie/static/images/dsofeir.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "dsofeir",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "eb"
             ],
             "nickname": [
