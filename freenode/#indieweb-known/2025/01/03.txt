@@ -1,0 +1,1 @@
+2025-01-03 03:56:36.414200 {"type":"join","timestamp":1735876596.4142013,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Ben2","nickname":"Ben2","username":"Benqhk9BfQ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
