@@ -1,0 +1,1 @@
+2025-01-04 00:47:27.697800 {"type":"join","timestamp":1735951647.6977646,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"scattershot","nickname":"scattershot","username":"scatte2WVw","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
