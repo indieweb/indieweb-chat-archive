@@ -1,0 +1,1 @@
+2025-01-04 00:34:16.258600 {"type":"join","timestamp":1735950856.2586176,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"melm","nickname":"melm","username":"~melm","name":null,"photo":null,"url":null,"tz":null,"host":"user\/melm"},"content":null,"modes":[]}
