@@ -6200,6 +6200,33 @@
         ],
         "properties": {
             "name": [
+                "janboddez"
+            ],
+            "nickname": [
+                "janboddez"
+            ],
+            "tz": [
+                "Europe/Brussels"
+            ],
+            "url": [
+                "http://jan.boddez.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://jan.boddez.net/storage/2024/11/photo.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "janboddez",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jantuomi"
             ],
             "nickname": [
