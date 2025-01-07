@@ -1,0 +1,1 @@
+2025-01-07 00:48:37.425200 {"type":"join","timestamp":1736210917.4252107,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"schmarz-Ws","name":"schmarty via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
