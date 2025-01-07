@@ -3917,6 +3917,33 @@
         ],
         "properties": {
             "name": [
+                "Ed"
+            ],
+            "nickname": [
+                "Ed"
+            ],
+            "tz": [
+                "Europe/Rome"
+            ],
+            "url": [
+                "http://cantina.ragnate.la"
+            ],
+            "photo": [
+                {
+                    "value": "https://user.fm/files/v2-4ebc51ded23036236853ff9a915b5e6c/faceto00.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Ed",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "eddie"
             ],
             "nickname": [
