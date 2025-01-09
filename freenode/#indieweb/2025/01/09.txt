@@ -1,0 +1,1 @@
+2025-01-09 00:44:03.013500 {"type":"join","timestamp":1736383443.0134656,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"saulosilva","nickname":"saulosilva","username":"~saulosilv","name":null,"photo":null,"url":null,"tz":null,"host":"181.216.220.21"},"content":null,"modes":[]}
