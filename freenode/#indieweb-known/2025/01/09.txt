@@ -1,0 +1,1 @@
+2025-01-09 09:14:47.132000 {"type":"join","timestamp":1736414087.1319828,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Laura_Hilliger]","nickname":"[Laura_Hilliger]","username":"Laura_mVDA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
