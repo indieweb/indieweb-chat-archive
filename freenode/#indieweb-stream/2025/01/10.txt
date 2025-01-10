@@ -1,0 +1,1 @@
+2025-01-10 00:01:14.436200 {"type":"join","timestamp":1736467274.4361663,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[tantek]2","nickname":"[tantek]2","username":"tantekEEws","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
