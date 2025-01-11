@@ -5057,6 +5057,33 @@
         ],
         "properties": {
             "name": [
+                "gregsarjeant"
+            ],
+            "nickname": [
+                "gregsarjeant"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://subcultureofone.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://subcultureofone.org/photos/profile.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "gregsarjeant",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "grib"
             ],
             "nickname": [
