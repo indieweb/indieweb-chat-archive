@@ -1,0 +1,1 @@
+2025-01-12 00:27:17.329900 {"type":"join","timestamp":1736641637.3299441,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"bterry","nickname":"bterry","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"64.25.204.10"},"content":null,"modes":[]}
