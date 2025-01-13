@@ -1,0 +1,1 @@
+2025-01-13 09:07:10.151400 {"type":"join","timestamp":1736759230.1513598,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"scattershot","nickname":"scattershot","username":"ScatteZ9rU","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
