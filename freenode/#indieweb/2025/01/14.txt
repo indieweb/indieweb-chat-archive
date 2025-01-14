@@ -1,0 +1,1 @@
+2025-01-14 00:32:20.733200 {"type":"join","timestamp":1736814740.7332087,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"rupertsworld","nickname":"rupertsworld","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"2403-5809-c400-0-ccc4-cb8e-1282-3f87.ip6.aussiebb.net"},"content":null,"modes":[]}
