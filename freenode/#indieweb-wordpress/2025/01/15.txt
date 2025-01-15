@@ -1,0 +1,1 @@
+2025-01-15 00:00:34.230600 {"type":"join","timestamp":1736899234.2306178,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"sebbu3","nickname":"sebbu3","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
