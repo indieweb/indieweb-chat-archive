@@ -1,0 +1,1 @@
+2025-01-16 04:17:09.943600 {"type":"join","timestamp":1737001029.9435687,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"m5zs7k","nickname":"m5zs7k","username":"aquares","name":"m5zs7k","photo":null,"url":null,"tz":null,"host":"web10.mydevil.net"},"content":null,"modes":[]}
