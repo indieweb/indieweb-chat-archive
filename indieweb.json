@@ -13559,6 +13559,27 @@
         ],
         "properties": {
             "name": [
+                "VinceAggrippino"
+            ],
+            "nickname": [
+                "VinceAggrippino"
+            ],
+            "tz": [
+                "Asia/Kuching"
+            ],
+            "url": [
+                "http://aggrippino.com"
+            ]
+        },
+        "id": "VinceAggrippino",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "vishae"
             ],
             "nickname": [
