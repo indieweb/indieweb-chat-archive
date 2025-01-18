@@ -1,0 +1,1 @@
+2025-01-18 00:57:04.341600 {"type":"join","timestamp":1737161824.3416228,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[tw2113]","nickname":"[tw2113]","username":"tw2113y_PA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
