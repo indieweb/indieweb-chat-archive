@@ -1,0 +1,1 @@
+2025-01-20 11:31:30.409300 {"type":"join","timestamp":1737372690.4092913,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Marcos","nickname":"Marcos","username":"Marcos-iV8","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
