@@ -1,0 +1,1 @@
+2025-01-22 00:23:07.187200 {"type":"join","timestamp":1737505387.1871727,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"plantroon","nickname":"plantroon","username":"~plantroon","name":null,"photo":null,"url":null,"tz":null,"host":"ip-046-223-162-157.um13.pools.vodafone-ip.de"},"content":null,"modes":[]}
