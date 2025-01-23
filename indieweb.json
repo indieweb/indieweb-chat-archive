@@ -14168,6 +14168,33 @@
         ],
         "properties": {
             "name": [
+                "zachary.kai"
+            ],
+            "nickname": [
+                "zachary.kai"
+            ],
+            "tz": [
+                "Europe/Madrid"
+            ],
+            "url": [
+                "http://zacharykai.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://zacharykai.net/assets/zk_icon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "zachary.kai",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "zachdonovan"
             ],
             "nickname": [
