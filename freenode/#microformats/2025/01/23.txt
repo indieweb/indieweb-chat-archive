@@ -1,0 +1,1 @@
+2025-01-23 02:02:22.347600 {"type":"join","timestamp":1737597742.3475633,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"xgpt","nickname":"xgpt","username":"~xgpt","name":null,"photo":null,"url":null,"tz":null,"host":"user\/xgpt"},"content":null,"modes":[]}
