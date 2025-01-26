@@ -1,0 +1,1 @@
+2025-01-26 00:36:34.173200 {"type":"join","timestamp":1737851794.1731906,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"[Joe_Crawford]","nickname":"[Joe_Crawford]","username":"Joe_Crh0uw","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
