@@ -9563,14 +9563,14 @@
                 "nsmsn"
             ],
             "tz": [
-                "America/New_York"
+                "America/Denver"
             ],
             "url": [
                 "http://nicksimson.com"
             ],
             "photo": [
                 {
-                    "value": "https://nicksimson.netlify.app/img/meta/cartoon-face-yellow.png",
+                    "value": "https://nicksimson.netlify.app/img/meta/pixel-profile.png",
                     "alt": ""
                 }
             ]
