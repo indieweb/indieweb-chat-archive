@@ -1,0 +1,1 @@
+2025-01-28 00:40:58.416600 {"type":"join","timestamp":1738024858.4166172,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"[qubyte]","nickname":"[qubyte]","username":"qubytelaL4","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
