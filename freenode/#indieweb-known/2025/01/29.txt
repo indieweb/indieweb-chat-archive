@@ -1,0 +1,1 @@
+2025-01-29 10:52:14.428400 {"type":"join","timestamp":1738147934.4284093,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Murray]","nickname":"[Murray]","username":"MurrayOyAQ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
