@@ -1,0 +1,1 @@
+2025-02-01 11:05:29.425300 {"type":"join","timestamp":1738407929.4253314,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"alpal","nickname":"alpal","username":"alpalVhoJQ","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
