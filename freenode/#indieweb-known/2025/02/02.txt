@@ -1,0 +1,1 @@
+2025-02-02 02:37:42.403700 {"type":"join","timestamp":1738463862.4036665,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Fangs1","nickname":"Fangs1","username":"FangsIGeCU","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
