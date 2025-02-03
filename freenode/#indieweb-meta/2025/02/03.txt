@@ -1,0 +1,1 @@
+2025-02-03 02:03:02.375800 {"type":"join","timestamp":1738548182.3757832,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"gRegor","nickname":"gRegor","username":"~gRegorLov","name":null,"photo":null,"url":null,"tz":null,"host":"2600:8801:9914:2700:e84d:4349:8b7:20b2"},"content":null,"modes":[]}
