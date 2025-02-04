@@ -1,0 +1,1 @@
+2025-02-04 00:19:40.427100 {"type":"join","timestamp":1738628380.427103,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[KevinMarks]","nickname":"[KevinMarks]","username":"KevinMVVNs","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
