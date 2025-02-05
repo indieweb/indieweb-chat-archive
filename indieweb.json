@@ -7655,33 +7655,6 @@
         ],
         "properties": {
             "name": [
-                "kupietz"
-            ],
-            "nickname": [
-                "kupietz"
-            ],
-            "tz": [
-                "America/Los_Angeles"
-            ],
-            "url": [
-                "http://michaelkupietz.com"
-            ],
-            "photo": [
-                {
-                    "value": "https://michaelkupietz.com/wp-content/uploads/2023/08/K-Stamp-from-Goudy-Initials-font-cyan-to-blue-light-1-150x150.png",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "kupietz",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "kylewm"
             ],
             "nickname": [
