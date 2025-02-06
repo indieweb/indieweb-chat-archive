@@ -1,0 +1,1 @@
+2025-02-06 00:12:22.132800 {"type":"join","timestamp":1738800742.1328268,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tenma_","nickname":"tenma_","username":"~tenma","name":null,"photo":null,"url":null,"tz":null,"host":"4f1164.public.cloak"},"content":null,"modes":[]}
