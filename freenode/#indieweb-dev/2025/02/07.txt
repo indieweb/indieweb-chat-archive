@@ -1,0 +1,1 @@
+2025-02-07 00:15:45.032300 {"type":"join","timestamp":1738887345.032288,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Guest1235","nickname":"Guest1235","username":"hg7ceZNsSM","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
