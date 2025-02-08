@@ -2387,6 +2387,33 @@
         ],
         "properties": {
             "name": [
+                "coder"
+            ],
+            "nickname": [
+                "coder"
+            ],
+            "tz": [
+                "Asia/Calcutta"
+            ],
+            "url": [
+                "http://coderrrrr.site"
+            ],
+            "photo": [
+                {
+                    "value": "https://i.ibb.co/N6J5b8WS/download20250102015611.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "coder",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "cmal"
             ],
             "nickname": [
