@@ -1,0 +1,1 @@
+2025-02-08 02:48:41.717600 {"type":"join","timestamp":1738982921.7175653,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"noderanger[d]","nickname":"noderanger[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}
