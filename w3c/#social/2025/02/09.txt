@@ -1,0 +1,1 @@
+2025-02-09 00:23:05.500000 {"type":"join","timestamp":1739060585.4999633,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ma1uta","nickname":"ma1uta","username":"~ma1uta","name":"ma1uta","photo":null,"url":null,"tz":null,"host":"4f1164.public.cloak"},"content":null,"modes":[]}
