@@ -1,0 +1,1 @@
+2025-02-10 00:25:28.335500 {"type":"join","timestamp":1739147128.335521,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"MyNetAz","nickname":"MyNetAz","username":"~MyNetAz","name":"FaRiD KaRiMoV 2024","photo":null,"url":null,"tz":null,"host":"user\/MyNetAz"},"content":null,"modes":[]}
