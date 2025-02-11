@@ -1,0 +1,1 @@
+2025-02-11 00:13:14.081200 {"type":"join","timestamp":1739232794.08122,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"athan","nickname":"athan","username":"~athan","name":null,"photo":null,"url":null,"tz":null,"host":"syn-173-042-095-241.biz.spectrum.com"},"content":null,"modes":[]}
