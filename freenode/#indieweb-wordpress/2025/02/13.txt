@@ -1,0 +1,1 @@
+2025-02-13 00:16:45.629400 {"type":"join","timestamp":1739405805.6293924,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"aczietlow","nickname":"aczietlow","username":"acziett9T0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
