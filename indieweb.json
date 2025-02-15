@@ -4616,6 +4616,27 @@
         ],
         "properties": {
             "name": [
+                "fractalkitty"
+            ],
+            "nickname": [
+                "fractalkitty"
+            ],
+            "tz": [
+                "Oregon/US"
+            ],
+            "url": [
+                "http://FractalKitty.com"
+            ]
+        },
+        "id": "fractalkitty",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "frank"
             ],
             "nickname": [
