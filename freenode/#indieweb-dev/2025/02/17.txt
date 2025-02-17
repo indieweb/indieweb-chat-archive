@@ -1,0 +1,1 @@
+2025-02-17 00:06:20.688800 {"type":"join","timestamp":1739750780.6888416,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"yewscion_","nickname":"yewscion_","username":"~yewscion","name":null,"photo":null,"url":null,"tz":null,"host":"2601:547:1400:1ab0:b3d9:e178:7811:ae04"},"content":null,"modes":[]}
