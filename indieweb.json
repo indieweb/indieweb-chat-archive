@@ -836,6 +836,33 @@
         ],
         "properties": {
             "name": [
+                "balint"
+            ],
+            "nickname": [
+                "balint"
+            ],
+            "tz": [
+                "Europe/Budapest"
+            ],
+            "url": [
+                "http://balintmagyar.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://balintmagyar.com/images/balint_portrait.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "balint",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "barnaby"
             ],
             "nickname": [
