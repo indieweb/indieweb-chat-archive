@@ -1,0 +1,1 @@
+2025-02-18 01:31:35.208300 {"type":"join","timestamp":1739842295.2082531,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"pka","nickname":"pka","username":"pkarHDQI-g","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
