@@ -1,0 +1,1 @@
+2025-02-19 00:05:12.459700 {"type":"join","timestamp":1739923512.4596872,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"alfiee","nickname":"alfiee","username":"~alfiee","name":"alfiee","photo":null,"url":null,"tz":null,"host":"user\/alfiee"},"content":null,"modes":[]}
