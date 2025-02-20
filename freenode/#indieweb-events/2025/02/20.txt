@@ -1,0 +1,1 @@
+2025-02-20 00:16:30.124000 {"type":"join","timestamp":1740010590.1239853,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"PrettyDecay","nickname":"PrettyDecay","username":"Prettybf1c","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
