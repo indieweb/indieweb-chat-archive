@@ -836,10 +836,10 @@
         ],
         "properties": {
             "name": [
-                "balint"
+                "balintm"
             ],
             "nickname": [
-                "balint"
+                "balintm"
             ],
             "tz": [
                 "Europe/Budapest"
@@ -854,7 +854,7 @@
                 }
             ]
         },
-        "id": "balint",
+        "id": "balintm",
         "lang": "en"
     },
     {
