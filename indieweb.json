@@ -14243,13 +14243,13 @@
         ],
         "properties": {
             "name": [
-                "zachary.kai"
+                "zacharykai"
             ],
             "nickname": [
-                "zachary.kai"
+                "zacharykai"
             ],
             "tz": [
-                "Europe/Madrid"
+                "Europe/Istanbul"
             ],
             "url": [
                 "http://zacharykai.net"
@@ -14261,7 +14261,7 @@
                 }
             ]
         },
-        "id": "zachary.kai",
+        "id": "zacharykai",
         "lang": "en"
     },
     {
