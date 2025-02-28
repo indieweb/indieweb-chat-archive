@@ -1,0 +1,1 @@
+2025-02-28 01:38:55.637000 {"type":"join","timestamp":1740706735.6370401,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Nic","nickname":"Nic","username":"Nic3CGjkfc","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
