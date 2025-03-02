@@ -1,0 +1,1 @@
+2025-03-02 03:25:41.215500 {"type":"join","timestamp":1740885941.2154953,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Jasperad","nickname":"Jasperad","username":"Jasper_vJU","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
