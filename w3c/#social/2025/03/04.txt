@@ -1,0 +1,1 @@
+2025-03-04 00:21:36.520500 {"type":"join","timestamp":1741047696.520453,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"ecc4d82f.public.cloak"},"content":null,"modes":[]}
