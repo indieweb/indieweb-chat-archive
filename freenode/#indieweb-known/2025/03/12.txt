@@ -1,0 +1,1 @@
+2025-03-12 08:25:19.720700 {"type":"join","timestamp":1741767919.7207263,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Trevor_Morris]","nickname":"[Trevor_Morris]","username":"TrevorZCgA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
