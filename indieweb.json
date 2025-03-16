@@ -944,6 +944,33 @@
         ],
         "properties": {
             "name": [
+                "bbbhltz"
+            ],
+            "nickname": [
+                "bbbhltz"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://bobbyhiltz.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://bobbyhiltz.com/favicon-32x32.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "bbbhltz",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bdesham"
             ],
             "nickname": [
