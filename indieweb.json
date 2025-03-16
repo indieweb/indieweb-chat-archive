@@ -8774,6 +8774,27 @@
         ],
         "properties": {
             "name": [
+                "Mez"
+            ],
+            "nickname": [
+                "Mez"
+            ],
+            "tz": [
+                "Europe/Dublin"
+            ],
+            "url": [
+                "http://tre.praze.net"
+            ]
+        },
+        "id": "Mez",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "hotzeplotz"
             ],
             "nickname": [
