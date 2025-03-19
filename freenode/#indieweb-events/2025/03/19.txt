@@ -1,0 +1,1 @@
+2025-03-19 00:13:32.335200 {"type":"join","timestamp":1742343212.3351583,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"sebbu2","nickname":"sebbu2","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
