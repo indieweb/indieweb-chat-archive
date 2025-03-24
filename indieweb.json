@@ -12059,6 +12059,27 @@
         ],
         "properties": {
             "name": [
+                "skrlet13"
+            ],
+            "nickname": [
+                "skrlet13"
+            ],
+            "tz": [
+                "America/Santiago"
+            ],
+            "url": [
+                "http://skrlet13.xyz"
+            ]
+        },
+        "id": "skrlet13",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "slyduda"
             ],
             "nickname": [
