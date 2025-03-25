@@ -1,0 +1,1 @@
+2025-03-25 00:26:14.241500 {"type":"join","timestamp":1742862374.2414637,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"schmarz-Ws","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
