@@ -10211,6 +10211,27 @@
         ],
         "properties": {
             "name": [
+                "pfych"
+            ],
+            "nickname": [
+                "pfych"
+            ],
+            "tz": [
+                "Australia/Sydney"
+            ],
+            "url": [
+                "http://pfy.ch"
+            ]
+        },
+        "id": "pfych",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Phae"
             ],
             "nickname": [
