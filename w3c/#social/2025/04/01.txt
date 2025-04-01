@@ -1,0 +1,1 @@
+2025-04-01 08:39:20.376300 {"type":"join","timestamp":1743496760.3763025,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"includeals_","nickname":"includeals_","username":"~includeals","name":null,"photo":null,"url":null,"tz":null,"host":"ecc4d82f.public.cloak"},"content":null,"modes":[]}
