@@ -1,0 +1,1 @@
+2025-04-02 00:40:45.729800 {"type":"join","timestamp":1743554445.7297752,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"aelaraji","nickname":"aelaraji","username":"~skinshafi","name":null,"photo":null,"url":null,"tz":null,"host":"user\/skinshafi"},"content":null,"modes":[]}
