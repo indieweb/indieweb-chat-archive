@@ -1,0 +1,1 @@
+2025-04-02 01:00:22.418300 {"type":"join","timestamp":1743555622.4182866,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"sebbu2","nickname":"sebbu2","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
