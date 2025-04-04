@@ -1,0 +1,1 @@
+2025-04-04 00:50:22.027200 {"type":"message","timestamp":1743727822.0272055,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"carrvo","nickname":"carrvo","username":"indieweb","name":"discord","photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":"I'm glad to have sparked some cleanup!","modes":[]}
