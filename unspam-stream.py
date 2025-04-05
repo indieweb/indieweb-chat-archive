@@ -7,6 +7,8 @@ import re
 # Maybe there will be more in the future. Yay.
 SPAM_REGEXES = [
     r"uid.*loqi.*@flashpost",
+    r"uid.*loqi.*mastodon.online.*@ahmetcadirci",
+    r"uid.*loqi.*toot.community.*@instantletter",
     # Add known regexes here
 ]
 
