@@ -2864,6 +2864,33 @@
         ],
         "properties": {
             "name": [
+                "daniel"
+            ],
+            "nickname": [
+                "daniel"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://danielpietzsch.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://danielpietzsch.com/assets/images/avatar.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "daniel",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "danlyke"
             ],
             "nickname": [
