@@ -1,0 +1,1 @@
+2025-04-07 00:33:42.871000 {"type":"join","timestamp":1743986022.8710322,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"onla_","nickname":"onla_","username":"onla","name":"onla","photo":null,"url":null,"tz":null,"host":"onla.planetofnix.com"},"content":null,"modes":[]}
