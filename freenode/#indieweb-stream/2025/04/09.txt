@@ -1,0 +1,1 @@
+2025-04-09 01:32:45.343700 {"type":"join","timestamp":1744162365.3436832,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"sebbu","nickname":"sebbu","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
