@@ -1,0 +1,1 @@
+2025-04-10 00:12:13.719100 {"type":"join","timestamp":1744243933.7190568,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"krjst","nickname":"krjst","username":"~krjst","name":"krjst","photo":null,"url":null,"tz":null,"host":"2a0a:4cc0:2000:789a:b827:c6ff:fed6:bb48"},"content":null,"modes":[]}
