@@ -12314,6 +12314,33 @@
         ],
         "properties": {
             "name": [
+                "srxl"
+            ],
+            "nickname": [
+                "srxl"
+            ],
+            "tz": [
+                "Australia/Melbourne"
+            ],
+            "url": [
+                "http://srxl.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://srxl.me/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "srxl",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "starrwulfe"
             ],
             "nickname": [
