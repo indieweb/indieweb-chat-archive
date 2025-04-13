@@ -14468,6 +14468,27 @@
         ],
         "properties": {
             "name": [
+                "zain"
+            ],
+            "nickname": [
+                "zain"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://iamzain.com"
+            ]
+        },
+        "id": "zain",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Zegnat"
             ],
             "nickname": [
