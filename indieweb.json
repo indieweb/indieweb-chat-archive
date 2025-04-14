@@ -3035,27 +3035,6 @@
         ],
         "properties": {
             "name": [
-                "dave"
-            ],
-            "nickname": [
-                "dave"
-            ],
-            "tz": [
-                "America/Chicago"
-            ],
-            "url": [
-                "http://davegoesthedistance.com"
-            ]
-        },
-        "id": "dave",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "Dave Letorey"
             ],
             "nickname": [
@@ -3069,27 +3048,6 @@
             ]
         },
         "id": "Dave_Letorey",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "David Millar"
-            ],
-            "nickname": [
-                "David Millar"
-            ],
-            "tz": [
-                "America/Chicago"
-            ],
-            "url": [
-                "http://davegoesthedistance.com"
-            ]
-        },
-        "id": "David_Millar",
         "lang": "en"
     },
     {
@@ -12612,27 +12570,6 @@
             ]
         },
         "id": "s[_]",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "Taco Dave"
-            ],
-            "nickname": [
-                "Taco Dave"
-            ],
-            "tz": [
-                "America/Chicago"
-            ],
-            "url": [
-                "http://davegoesthedistance.com"
-            ]
-        },
-        "id": "Taco_Dave",
         "lang": "en"
     },
     {
