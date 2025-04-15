@@ -1,0 +1,1 @@
+2025-04-15 04:57:39.492700 {"type":"join","timestamp":1744693059.4926713,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"feld0","nickname":"feld0","username":"~feld","name":null,"photo":null,"url":null,"tz":null,"host":"ecc4d82f.public.cloak"},"content":null,"modes":[]}
