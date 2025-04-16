@@ -1,0 +1,1 @@
+2025-04-16 01:56:05.923300 {"type":"join","timestamp":1744768565.9232957,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"sebbu2","nickname":"sebbu2","username":"~sebbu","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sebbu"},"content":null,"modes":[]}
