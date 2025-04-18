@@ -1,0 +1,1 @@
+2025-04-18 00:31:02.216700 {"type":"join","timestamp":1744936262.216738,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"zimms","nickname":"zimms","username":"zimmsj6Cvs","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
