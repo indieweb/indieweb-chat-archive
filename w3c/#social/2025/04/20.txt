@@ -1,0 +1,1 @@
+2025-04-20 20:00:30.200400 {"type":"join","timestamp":1745179230.2004297,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"timbl","nickname":"timbl","username":"timbl","name":null,"photo":null,"url":null,"tz":null,"host":"455bf785.team.cloak"},"content":null,"modes":[]}
