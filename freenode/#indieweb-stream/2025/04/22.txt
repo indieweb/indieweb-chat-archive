@@ -1,0 +1,1 @@
+2025-04-22 00:58:22.961800 {"type":"join","timestamp":1745283502.9618297,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"jbkkd","nickname":"jbkkd","username":"jbkkdLsoa8","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
