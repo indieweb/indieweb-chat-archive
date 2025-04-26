@@ -1,0 +1,1 @@
+2025-04-26 01:57:20.087400 {"type":"join","timestamp":1745632640.0874155,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"maxb1","nickname":"maxb1","username":"maxbg-WQaI","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
