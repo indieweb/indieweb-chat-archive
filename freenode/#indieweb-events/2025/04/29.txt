@@ -1,0 +1,1 @@
+2025-04-29 00:05:23.629600 {"type":"join","timestamp":1745885123.6296365,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"aa","nickname":"aa","username":"aaJJo6k1QY","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
