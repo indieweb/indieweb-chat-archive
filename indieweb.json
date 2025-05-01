@@ -11006,6 +11006,27 @@
         ],
         "properties": {
             "name": [
+                "rosipov"
+            ],
+            "nickname": [
+                "rosipov"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://rosipov.com"
+            ]
+        },
+        "id": "rosipov",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Ross"
             ],
             "nickname": [
