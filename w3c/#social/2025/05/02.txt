@@ -1,0 +1,1 @@
+2025-05-02 08:35:55.233200 {"type":"join","timestamp":1746174955.2331622,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"duanin3","nickname":"duanin3","username":"~Thunderbird","name":null,"photo":null,"url":null,"tz":null,"host":"233a1d02.publics.cloak"},"content":null,"modes":[]}
