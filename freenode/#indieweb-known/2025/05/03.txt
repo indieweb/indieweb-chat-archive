@@ -1,0 +1,1 @@
+2025-05-03 01:55:18.149400 {"type":"join","timestamp":1746237318.1493716,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"dank1","nickname":"dank1","username":"dankinypB0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
