@@ -12599,6 +12599,33 @@
         ],
         "properties": {
             "name": [
+                "scottnm"
+            ],
+            "nickname": [
+                "scottnm"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://scottnm.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://scottnm.com/site_images/profile/bman.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "scottnm",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "takev"
             ],
             "nickname": [
