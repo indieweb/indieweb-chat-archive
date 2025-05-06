@@ -1,0 +1,1 @@
+2025-05-06 00:07:38.749700 {"type":"join","timestamp":1746490058.749665,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"tei_","nickname":"tei_","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"135-23-42-218.cpe.pppoe.ca"},"content":null,"modes":[]}
