@@ -1,0 +1,1 @@
+2025-05-07 05:18:06.149800 {"type":"join","timestamp":1746595086.149811,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"_123nick[d]","nickname":"_123nick[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}
