@@ -1,0 +1,1 @@
+2025-05-09 15:53:00.676300 {"type":"join","timestamp":1746805980.6762507,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[social]","nickname":"[social]","username":"socialsUoE","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
