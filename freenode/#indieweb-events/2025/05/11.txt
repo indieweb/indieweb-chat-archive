@@ -1,0 +1,1 @@
+2025-05-11 08:51:52.477700 {"type":"join","timestamp":1746953512.4776852,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"PsyLok","nickname":"PsyLok","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"2001:2042:7bbb:e600:1582:8094:e3e1:2b56"},"content":null,"modes":[]}
