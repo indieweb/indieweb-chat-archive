@@ -1,0 +1,1 @@
+2025-05-14 02:27:13.691800 {"type":"join","timestamp":1747189633.6917875,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"aaaash","nickname":"aaaash","username":"aaaashBgxs","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
