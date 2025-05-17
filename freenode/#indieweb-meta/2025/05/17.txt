@@ -1,0 +1,1 @@
+2025-05-17 00:29:28.954100 {"type":"join","timestamp":1747441768.9540577,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"JadedBlueEyes9","nickname":"JadedBlueEyes9","username":"~JadedBlue","name":null,"photo":null,"url":null,"tz":null,"host":"mail.ellis.link"},"content":null,"modes":[]}
