@@ -1,0 +1,1 @@
+2025-05-17 06:36:26.269100 {"type":"join","timestamp":1747463786.269112,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[mail918]","nickname":"[mail918]","username":"mail919lT0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
