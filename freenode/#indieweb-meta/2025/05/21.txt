@@ -1,0 +1,1 @@
+2025-05-21 00:01:16.084300 {"type":"join","timestamp":1747785676.0842545,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"jeremycherfas","nickname":"jeremycherfas","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
