@@ -1,0 +1,1 @@
+2025-05-23 00:06:34.091200 {"type":"join","timestamp":1747958794.0911956,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"bugliker0","nickname":"bugliker0","username":"~bugliker","name":null,"photo":null,"url":null,"tz":null,"host":"user\/bugliker"},"content":null,"modes":[]}
