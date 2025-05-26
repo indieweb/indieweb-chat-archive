@@ -1,0 +1,1 @@
+2025-05-26 04:19:36.527000 {"type":"join","timestamp":1748233176.5270286,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"jeremy","nickname":"jeremy","username":"~jeremy","name":null,"photo":null,"url":null,"tz":null,"host":"jeremy.powered.by.lunarbnc.net"},"content":null,"modes":[]}
