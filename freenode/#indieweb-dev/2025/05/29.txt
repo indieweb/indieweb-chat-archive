@@ -1,0 +1,1 @@
+2025-05-29 00:20:15.163800 {"type":"join","timestamp":1748478015.1638365,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"grufwub","nickname":"grufwub","username":"~grufwub","name":"grufwub","photo":null,"url":null,"tz":null,"host":"user\/grufwub"},"content":null,"modes":[]}
