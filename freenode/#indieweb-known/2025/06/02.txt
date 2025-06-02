@@ -1,0 +1,1 @@
+2025-06-02 07:09:57.174000 {"type":"join","timestamp":1748848197.1740425,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Guest6027","nickname":"Guest6027","username":"User5Nyok0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
