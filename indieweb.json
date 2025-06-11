@@ -3581,6 +3581,33 @@
         ],
         "properties": {
             "name": [
+                "dnnsmnstrr"
+            ],
+            "nickname": [
+                "dnnsmnstrr"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://Muensterer.tech"
+            ],
+            "photo": [
+                {
+                    "value": "https://muensterer.tech/.well-known/avatar?github",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "dnnsmnstrr",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dominik"
             ],
             "nickname": [
