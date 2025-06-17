@@ -4424,6 +4424,33 @@
         ],
         "properties": {
             "name": [
+                "ephes"
+            ],
+            "nickname": [
+                "ephes"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://wersdoerfer.de"
+            ],
+            "photo": [
+                {
+                    "value": "https://d2b7dn9rofvhjd.cloudfront.net/uploads/jochen-cover-profile_8SKdFNe.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "ephes",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "epoch"
             ],
             "nickname": [
