@@ -1,0 +1,1 @@
+2025-06-17 01:27:40.863600 {"type":"join","timestamp":1750123660.8636396,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Noisytoot","nickname":"Noisytoot","username":"~noisytoot","name":null,"photo":null,"url":null,"tz":null,"host":"9cd7628a.publics.cloak"},"content":null,"modes":[]}
