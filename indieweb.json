@@ -8594,6 +8594,27 @@
         ],
         "properties": {
             "name": [
+                "mark"
+            ],
+            "nickname": [
+                "mark"
+            ],
+            "tz": [
+                "Europe/Germany"
+            ],
+            "url": [
+                "http://mark-asbach.de"
+            ]
+        },
+        "id": "mark",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "markmhendrickson"
             ],
             "nickname": [
@@ -12645,6 +12666,27 @@
             ]
         },
         "id": "scottnm",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "schepp"
+            ],
+            "nickname": [
+                "schepp"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://Schepp.dev"
+            ]
+        },
+        "id": "schepp",
         "lang": "en"
     },
     {
