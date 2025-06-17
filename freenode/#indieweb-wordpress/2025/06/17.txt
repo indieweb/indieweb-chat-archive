@@ -1,0 +1,1 @@
+2025-06-17 08:01:33.691800 {"type":"join","timestamp":1750147293.6917963,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"Guest6","nickname":"Guest6","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null,"host":"93-34-91-129.ip49.fastwebnet.it"},"content":null,"modes":[]}
