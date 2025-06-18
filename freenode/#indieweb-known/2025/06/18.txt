@@ -1,0 +1,1 @@
+2025-06-18 13:55:47.217200 {"type":"join","timestamp":1750254947.2171576,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Jo]","nickname":"[Jo]","username":"JozmWehIBw","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
