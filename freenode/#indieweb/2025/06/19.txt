@@ -1,0 +1,1 @@
+2025-06-19 00:22:08.715000 {"type":"join","timestamp":1750292528.7149646,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"gregarious","nickname":"gregarious","username":"~gregariou","name":null,"photo":null,"url":null,"tz":null,"host":"2607:fb90:ec27:ca5b:401a:d85f:d502:5fd1"},"content":null,"modes":[]}
