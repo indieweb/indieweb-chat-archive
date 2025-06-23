@@ -6572,6 +6572,33 @@
         ],
         "properties": {
             "name": [
+                "jeremy"
+            ],
+            "nickname": [
+                "jeremy"
+            ],
+            "tz": [
+                "Australia/Perth"
+            ],
+            "url": [
+                "http://itsjeremy.art"
+            ],
+            "photo": [
+                {
+                    "value": "https://itsjeremy.art/profile.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jeremy",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jeremycherfas"
             ],
             "nickname": [
