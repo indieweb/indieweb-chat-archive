@@ -1,0 +1,1 @@
+2025-06-25 00:16:13.364100 {"type":"join","timestamp":1750810573.364123,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mald0r0r","nickname":"mald0r0r","username":"~mald0r0r","name":"mald0r0r","photo":null,"url":null,"tz":null,"host":"samuelviel.fr"},"content":null,"modes":[]}
