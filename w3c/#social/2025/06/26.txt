@@ -1,0 +1,1 @@
+2025-06-26 00:00:05.593800 {"type":"join","timestamp":1750896005.5937953,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"tantek","nickname":"tantek","username":"~tantek","name":null,"photo":null,"url":null,"tz":null,"host":"9cd7628a.publics.cloak"},"content":null,"modes":[]}
