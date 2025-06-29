@@ -1,0 +1,1 @@
+2025-06-29 00:00:16.053700 {"type":"join","timestamp":1751155216.0537295,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"lqdev","nickname":"lqdev","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"99.175.86.29"},"content":null,"modes":[]}
