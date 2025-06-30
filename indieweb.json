@@ -12497,6 +12497,33 @@
         ],
         "properties": {
             "name": [
+                "straydogstrut"
+            ],
+            "nickname": [
+                "straydogstrut"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://straydogstrut.co.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://straydogstrut.co.uk/assets/profile_pic.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "straydogstrut",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "strk"
             ],
             "nickname": [
