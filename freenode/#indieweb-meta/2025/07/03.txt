@@ -1,0 +1,1 @@
+2025-07-03 00:34:23.524900 {"type":"join","timestamp":1751502863.5249283,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"sebbu","nickname":"sebbu","username":"~sebbu","name":null,"photo":null,"url":"http:\/\/sebbu.fr","tz":"Europe\/Paris","host":"user\/sebbu"},"content":null,"modes":[]}
