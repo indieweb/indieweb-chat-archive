@@ -6314,6 +6314,33 @@
         ],
         "properties": {
             "name": [
+                "jak2k"
+            ],
+            "nickname": [
+                "jak2k"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://jak2k.eu"
+            ],
+            "photo": [
+                {
+                    "value": "https://jak2k.eu/favicon.svg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jak2k",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jamietanna"
             ],
             "nickname": [
