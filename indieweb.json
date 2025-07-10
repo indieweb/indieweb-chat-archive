@@ -14228,6 +14228,33 @@
         ],
         "properties": {
             "name": [
+                "wingpang.com"
+            ],
+            "nickname": [
+                "wingpang.com"
+            ],
+            "tz": [
+                "Australia/Sydney"
+            ],
+            "url": [
+                "http://wingpang.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://wingpang.com/img/wqChzcDpUM-210.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "wingpang.com",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "wolftune"
             ],
             "nickname": [
