@@ -1,0 +1,1 @@
+2025-07-12 03:58:32.185200 {"type":"join","timestamp":1752292712.1851535,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"9b601eda.public.cloak"},"content":null,"modes":[]}
