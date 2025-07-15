@@ -1,0 +1,1 @@
+2025-07-15 00:40:40.757500 {"type":"join","timestamp":1752540040.7574754,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"Owal","nickname":"Owal","username":"~Owal","name":null,"photo":null,"url":null,"tz":null,"host":"c-71-238-143-38.hsd1.ar.comcast.net"},"content":null,"modes":[]}
