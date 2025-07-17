@@ -1841,6 +1841,33 @@
         ],
         "properties": {
             "name": [
+                "paperbritt"
+            ],
+            "nickname": [
+                "paperbritt"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://britthub.co.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://britthub.co.uk/wp-content/uploads/2015/12/profile-200x200.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "paperbritt",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "btrem"
             ],
             "nickname": [
