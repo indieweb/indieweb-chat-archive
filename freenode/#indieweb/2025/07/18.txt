@@ -1,0 +1,1 @@
+2025-07-18 01:50:43.319000 {"type":"join","timestamp":1752803443.3189821,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"tavare","nickname":"tavare","username":"~tavare","name":"tavare","photo":null,"url":null,"tz":null,"host":"user\/tavare"},"content":null,"modes":[]}
