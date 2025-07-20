@@ -1,0 +1,1 @@
+2025-07-20 02:45:40.648300 {"type":"join","timestamp":1752979540.648348,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"mayo","nickname":"mayo","username":"mayonAsrIY","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
