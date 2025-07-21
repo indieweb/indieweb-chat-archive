@@ -1,0 +1,1 @@
+2025-07-21 00:12:24.986600 {"type":"join","timestamp":1753056744.9866152,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mariotakis1","nickname":"mariotakis1","username":"~mariotaki","name":null,"photo":null,"url":null,"tz":null,"host":"ppp-2-84-121-1.home.otenet.gr"},"content":null,"modes":[]}
