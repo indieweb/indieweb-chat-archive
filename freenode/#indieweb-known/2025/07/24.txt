@@ -1,0 +1,1 @@
+2025-07-24 02:44:00.669400 {"type":"join","timestamp":1753325040.6693726,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"finolex","nickname":"finolex","username":"finole4o20","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
