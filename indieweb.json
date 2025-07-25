@@ -2468,6 +2468,33 @@
         ],
         "properties": {
             "name": [
+                "cobbland"
+            ],
+            "nickname": [
+                "cobbland"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://cobb.land"
+            ],
+            "photo": [
+                {
+                    "value": "https://cobb.land/images/android-chrome-192x192.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "cobbland",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "coder"
             ],
             "nickname": [
