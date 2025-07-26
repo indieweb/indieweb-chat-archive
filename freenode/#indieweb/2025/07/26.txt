@@ -1,0 +1,1 @@
+2025-07-26 00:12:51.848700 {"type":"join","timestamp":1753488771.8487399,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"JohnBeales","nickname":"JohnBeales","username":"~JohnBeale","name":null,"photo":null,"url":null,"tz":null,"host":"bras-base-mtrlpq4812w-grc-04-142-115-235-188.dsl.bell.ca"},"content":null,"modes":[]}
