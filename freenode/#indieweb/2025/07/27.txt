@@ -1,0 +1,1 @@
+2025-07-27 01:54:11.672900 {"type":"join","timestamp":1753581251.6728635,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"JohnBeales","nickname":"JohnBeales","username":"~JohnBeale","name":null,"photo":null,"url":null,"tz":null,"host":"142.115.235.188"},"content":null,"modes":[]}
