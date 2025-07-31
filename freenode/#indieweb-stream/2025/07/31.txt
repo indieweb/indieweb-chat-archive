@@ -1,0 +1,1 @@
+2025-07-31 00:34:28.278000 {"type":"join","timestamp":1753922068.2780352,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"me1","nickname":"me1","username":"mec3EIMsuA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
