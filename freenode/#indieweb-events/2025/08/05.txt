@@ -1,0 +1,1 @@
+2025-08-05 07:03:43.620000 {"type":"join","timestamp":1754377423.6200442,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"CuriousFurBytes","nickname":"CuriousFurBytes","username":"CuriouyX54","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
