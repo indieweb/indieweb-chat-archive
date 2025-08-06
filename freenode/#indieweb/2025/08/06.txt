@@ -1,0 +1,1 @@
+2025-08-06 00:18:01.594500 {"type":"join","timestamp":1754439481.5945046,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"jonnie","nickname":"jonnie","username":"~jonnie","name":null,"photo":null,"url":null,"tz":null,"host":"user\/jonnie"},"content":null,"modes":[]}
