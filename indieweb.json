@@ -14813,10 +14813,16 @@
                 "zimnickico"
             ],
             "tz": [
-                "ckz.jpg"
+                "Europe/Warsaw"
             ],
             "url": [
                 "http://zimnicki.co"
+            ],
+            "photo": [
+                {
+                    "value": "https://indieweb.org/images/c/c7/ckz.jpg",
+                    "alt": ""
+                }
             ]
         },
         "id": "zimnickico",
