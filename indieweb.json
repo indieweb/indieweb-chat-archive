@@ -14807,6 +14807,27 @@
         ],
         "properties": {
             "name": [
+                "zimnickico"
+            ],
+            "nickname": [
+                "zimnickico"
+            ],
+            "tz": [
+                "ckz.jpg"
+            ],
+            "url": [
+                "http://zimnicki.co"
+            ]
+        },
+        "id": "zimnickico",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "zinzy"
             ],
             "nickname": [
