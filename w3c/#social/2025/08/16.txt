@@ -1,0 +1,1 @@
+2025-08-16 10:26:14.776000 {"type":"join","timestamp":1755339974.7759957,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"Raito_Bezarius","nickname":"Raito_Bezarius","username":"~Raito","name":"Raito Bezarius","photo":null,"url":null,"tz":null,"host":"9cd7628a.publics.cloak"},"content":null,"modes":[]}
