@@ -1,0 +1,1 @@
+2025-08-17 03:38:53.566000 {"type":"join","timestamp":1755401933.566021,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"~schmarz-W","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
