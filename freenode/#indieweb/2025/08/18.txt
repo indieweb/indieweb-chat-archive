@@ -1,0 +1,1 @@
+2025-08-18 00:44:53.346000 {"type":"join","timestamp":1755477893.3459551,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"Guest93","nickname":"Guest93","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"2601:244:4581:47b0:6184:3637:2546:80e"},"content":null,"modes":[]}
