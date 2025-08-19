@@ -14834,6 +14834,33 @@
         ],
         "properties": {
             "name": [
+                "z1nz0l1n"
+            ],
+            "nickname": [
+                "z1nz0l1n"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://Z1nz0l1n.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://z1nz0l1n.com/wp-content/uploads/2025/04/logo.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "z1nz0l1n",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "zinzy"
             ],
             "nickname": [
