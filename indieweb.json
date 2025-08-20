@@ -2966,6 +2966,33 @@
         ],
         "properties": {
             "name": [
+                "DanQ"
+            ],
+            "nickname": [
+                "DanQ"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "https://danq.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://danq.me/avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "DanQ",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dariusk"
             ],
             "nickname": [
