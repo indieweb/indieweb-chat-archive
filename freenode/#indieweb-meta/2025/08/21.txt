@@ -1,0 +1,1 @@
+2025-08-21 00:58:43.123300 {"type":"join","timestamp":1755737923.1232524,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"Zen","nickname":"Zen","username":"~ZenyWbuoM","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
