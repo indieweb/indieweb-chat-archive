@@ -1,0 +1,1 @@
+2025-08-23 00:46:46.243900 {"type":"join","timestamp":1755910006.243866,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"box4649","nickname":"box4649","username":"~box464","name":"Jeff","photo":null,"url":null,"tz":null,"host":"syn-066-068-088-086.res.spectrum.com"},"content":null,"modes":[]}
