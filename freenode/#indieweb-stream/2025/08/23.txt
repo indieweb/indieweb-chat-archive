@@ -1,0 +1,1 @@
+2025-08-23 03:57:19.177500 {"type":"join","timestamp":1755921439.1775076,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[Jo]","nickname":"[Jo]","username":"~JozmWehIB","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
