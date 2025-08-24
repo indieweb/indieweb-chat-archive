@@ -1,0 +1,1 @@
+2025-08-24 00:14:13.543700 {"type":"join","timestamp":1755994453.5437255,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"CrimeWave","nickname":"CrimeWave","username":"~Ebox-MTL","name":null,"photo":null,"url":null,"tz":null,"host":"user\/CrimeWave"},"content":null,"modes":[]}
