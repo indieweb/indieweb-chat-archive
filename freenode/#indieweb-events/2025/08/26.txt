@@ -1,0 +1,1 @@
+2025-08-26 05:22:34.962700 {"type":"join","timestamp":1756185754.962659,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"Zegnat","nickname":"Zegnat","username":"~Martijn","name":"Martijn van der Ven","photo":null,"url":null,"tz":null,"host":"v22016013254630973.happysrv.de"},"content":null,"modes":[]}
