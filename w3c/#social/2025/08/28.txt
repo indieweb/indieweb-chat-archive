@@ -1,0 +1,1 @@
+2025-08-28 15:02:24.935600 {"type":"join","timestamp":1756393344.9356194,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"TallTed","nickname":"TallTed","username":"~Thud","name":null,"photo":null,"url":null,"tz":null,"host":"efd23fc2.public.cloak"},"content":null,"modes":[]}
