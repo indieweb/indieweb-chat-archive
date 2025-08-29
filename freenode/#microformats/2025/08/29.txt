@@ -1,0 +1,1 @@
+2025-08-29 03:12:22.275300 {"type":"join","timestamp":1756437142.2752693,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"saptaks","nickname":"saptaks","username":"~saptaks","name":"Saptak S","photo":null,"url":null,"tz":null,"host":"dgplug\/saptaks"},"content":null,"modes":[]}
