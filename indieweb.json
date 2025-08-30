@@ -10181,6 +10181,33 @@
         ],
         "properties": {
             "name": [
+                "glitzeor444"
+            ],
+            "nickname": [
+                "glitzeor444"
+            ],
+            "tz": [
+                "Pacific/Auckland"
+            ],
+            "url": [
+                "http://patsitive.co.nz"
+            ],
+            "photo": [
+                {
+                    "value": "https://patsitive.co.nz/wp-content/uploads/2024/12/Untitled-design.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "glitzeor444",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Pauho"
             ],
             "nickname": [
