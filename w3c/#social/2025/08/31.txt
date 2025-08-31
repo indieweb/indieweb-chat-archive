@@ -1,0 +1,1 @@
+2025-08-31 08:26:29.789500 {"type":"join","timestamp":1756628789.7895348,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ericlathrop","nickname":"ericlathrop","username":"~ericlathrop","name":null,"photo":null,"url":null,"tz":null,"host":"ed1fd930.publics.cloak"},"content":null,"modes":[]}
