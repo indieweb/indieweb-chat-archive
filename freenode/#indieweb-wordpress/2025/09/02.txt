@@ -1,0 +1,1 @@
+2025-09-02 03:48:41.274100 {"type":"join","timestamp":1756784921.2741253,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"dissolve22[d]","nickname":"dissolve22[d]","username":"indieweb","name":"dissolve22","photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}
