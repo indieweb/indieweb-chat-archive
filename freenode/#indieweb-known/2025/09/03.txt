@@ -1,0 +1,1 @@
+2025-09-03 09:16:35.220600 {"type":"join","timestamp":1756890995.2205951,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Sophia_wood]1","nickname":"[Sophia_wood]1","username":"~Sophiatcj","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
