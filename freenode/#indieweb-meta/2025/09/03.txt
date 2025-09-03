@@ -1,0 +1,1 @@
+2025-09-03 00:06:19.288400 {"type":"join","timestamp":1756857979.2883656,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"barnabywalters","nickname":"barnabywalters","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"84-115-214-191.cable.dynamic.surfer.at"},"content":null,"modes":[]}
