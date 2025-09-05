@@ -1,0 +1,1 @@
+2025-09-05 04:03:30.141800 {"type":"join","timestamp":1757045010.1418364,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"gotra","nickname":"gotra","username":"~textual","name":"Textual User","photo":null,"url":null,"tz":null,"host":"2600:1012:a024:e418:2c9a:110e:24df:70e9"},"content":null,"modes":[]}
