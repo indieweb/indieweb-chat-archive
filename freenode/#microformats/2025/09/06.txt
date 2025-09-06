@@ -1,0 +1,1 @@
+2025-09-06 00:38:35.524300 {"type":"join","timestamp":1757119115.524338,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"barnaby","nickname":"barnaby","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"84-115-214-191.cable.dynamic.surfer.at"},"content":null,"modes":[]}
