@@ -1,0 +1,1 @@
+2025-09-08 00:21:17.316400 {"type":"join","timestamp":1757290877.3164086,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"rvalue","nickname":"rvalue","username":"~rvalue","name":null,"photo":null,"url":null,"tz":null,"host":"about\/hackers\/rvalue"},"content":null,"modes":[]}
