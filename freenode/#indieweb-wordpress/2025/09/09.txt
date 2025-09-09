@@ -1,0 +1,1 @@
+2025-09-09 02:57:50.206300 {"type":"join","timestamp":1757386670.2062569,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"dagabeagenda","nickname":"dagabeagenda","username":"~dagabew3t","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
