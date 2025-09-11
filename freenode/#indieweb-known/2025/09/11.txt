@@ -1,0 +1,1 @@
+2025-09-11 09:41:47.701000 {"type":"join","timestamp":1757583707.7010005,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[jeremycherfas]","nickname":"[jeremycherfas]","username":"~jeremy4q0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
