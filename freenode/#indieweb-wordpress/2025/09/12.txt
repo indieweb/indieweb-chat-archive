@@ -1,0 +1,1 @@
+2025-09-12 01:46:28.218700 {"type":"join","timestamp":1757641588.2187383,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"tacigt","nickname":"tacigt","username":"~tacigtnT4","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
