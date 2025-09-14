@@ -11114,6 +11114,33 @@
         ],
         "properties": {
             "name": [
+                "rhumbs"
+            ],
+            "nickname": [
+                "rhumbs"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://misc.rhumbs.fr"
+            ],
+            "photo": [
+                {
+                    "value": "https://misc.rhumbs.fr/img/profile.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "rhumbs",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rivercat"
             ],
             "nickname": [
