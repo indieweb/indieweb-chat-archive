@@ -401,6 +401,33 @@
         ],
         "properties": {
             "name": [
+                "Antoine"
+            ],
+            "nickname": [
+                "Antoine"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://villepreux.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://villepreux.net/img/antoine_villepreux.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Antoine",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "atomicules"
             ],
             "nickname": [
