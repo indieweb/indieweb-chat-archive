@@ -14786,10 +14786,10 @@
         ],
         "properties": {
             "name": [
-                "zacharykai"
+                "zachary.kai"
             ],
             "nickname": [
-                "zacharykai"
+                "zachary.kai"
             ],
             "tz": [
                 "Europe/Istanbul"
@@ -14799,12 +14799,12 @@
             ],
             "photo": [
                 {
-                    "value": "https://zacharykai.net/assets/zk_icon.png",
+                    "value": "https://zacharykai.net/assets/icon.png",
                     "alt": ""
                 }
             ]
         },
-        "id": "zacharykai",
+        "id": "zachary.kai",
         "lang": "en"
     },
     {
