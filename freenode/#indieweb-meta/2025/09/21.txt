@@ -1,0 +1,1 @@
+2025-09-21 00:14:06.535100 {"type":"join","timestamp":1758413646.535125,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"aelaraji9","nickname":"aelaraji9","username":"~skinshafi","name":null,"photo":null,"url":null,"tz":null,"host":"user\/skinshafi"},"content":null,"modes":[]}
