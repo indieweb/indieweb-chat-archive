@@ -11168,6 +11168,27 @@
         ],
         "properties": {
             "name": [
+                "ribose"
+            ],
+            "nickname": [
+                "ribose"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://ribo.zone"
+            ]
+        },
+        "id": "ribose",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rivercat"
             ],
             "nickname": [
