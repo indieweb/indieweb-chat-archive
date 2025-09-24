@@ -1,0 +1,1 @@
+2025-09-24 01:38:46.757300 {"type":"join","timestamp":1758677926.7573447,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Zegnet","nickname":"Zegnet","username":"~Martijn","name":null,"photo":null,"url":null,"tz":null,"host":"v22016013254630973.happysrv.de"},"content":null,"modes":[]}
