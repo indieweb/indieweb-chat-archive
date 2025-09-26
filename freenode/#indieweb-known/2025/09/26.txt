@@ -1,0 +1,1 @@
+2025-09-26 04:44:37.305600 {"type":"join","timestamp":1758861877.3055854,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Ana_R]1","nickname":"[Ana_R]1","username":"~Ana_RR_U9","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
