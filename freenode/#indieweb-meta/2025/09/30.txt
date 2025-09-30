@@ -1,0 +1,1 @@
+2025-09-30 00:31:54.548700 {"type":"join","timestamp":1759192314.5487359,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"[morganm]","nickname":"[morganm]","username":"~morgantzl","name":"morganm via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
