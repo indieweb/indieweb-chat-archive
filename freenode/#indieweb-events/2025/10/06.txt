@@ -1,0 +1,1 @@
+2025-10-06 04:48:53.746100 {"type":"join","timestamp":1759726133.7460785,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"[Al_Abut]1","nickname":"[Al_Abut]1","username":"~Al_AbudKw","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
