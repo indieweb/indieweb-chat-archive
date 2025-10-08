@@ -1,0 +1,1 @@
+2025-10-08 00:24:11.061700 {"type":"join","timestamp":1759883051.0616646,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"kebokyo","nickname":"kebokyo","username":"~kebokyo","name":"kebokyo","photo":null,"url":null,"tz":null,"host":"user\/kebokyo"},"content":null,"modes":[]}
