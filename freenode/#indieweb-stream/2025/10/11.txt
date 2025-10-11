@@ -1,0 +1,1 @@
+2025-10-11 00:38:07.676600 {"type":"join","timestamp":1760143087.6765604,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"bagaag","nickname":"bagaag","username":"~bagaagq0F","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
