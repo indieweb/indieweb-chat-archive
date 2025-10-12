@@ -1,0 +1,1 @@
+2025-10-12 00:40:26.762200 {"type":"join","timestamp":1760229626.7621791,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"[Sophia_wood]1","nickname":"[Sophia_wood]1","username":"~Sophiatcj","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
