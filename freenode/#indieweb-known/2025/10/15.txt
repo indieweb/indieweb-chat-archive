@@ -1,0 +1,1 @@
+2025-10-15 12:52:33.516800 {"type":"join","timestamp":1760532753.5167913,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Ramle","nickname":"Ramle","username":"~RamleSxjg","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
