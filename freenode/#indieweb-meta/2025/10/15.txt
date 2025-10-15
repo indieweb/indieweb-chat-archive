@@ -1,0 +1,1 @@
+2025-10-15 04:01:43.863100 {"type":"join","timestamp":1760500903.8630521,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"sp1ff`","nickname":"sp1ff`","username":"~user","name":null,"photo":null,"url":null,"tz":null,"host":"2601:1c2:4c00:6820::48ac"},"content":null,"modes":[]}
