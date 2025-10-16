@@ -1,0 +1,1 @@
+2025-10-16 01:12:49.626200 {"type":"join","timestamp":1760577169.6261652,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"hidjy[d]","nickname":"hidjy[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"discord.indieweb.org"},"content":null,"modes":[]}
