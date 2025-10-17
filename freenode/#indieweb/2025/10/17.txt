@@ -1,0 +1,1 @@
+2025-10-17 00:26:42.479000 {"type":"join","timestamp":1760660802.4790347,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"node1","nickname":"node1","username":"~node1","name":null,"photo":null,"url":null,"tz":null,"host":"user\/node1"},"content":null,"modes":[]}
