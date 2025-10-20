@@ -1,0 +1,1 @@
+2025-10-20 04:07:12.927200 {"type":"join","timestamp":1760933232.9271715,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"milkii","nickname":"milkii","username":"~libera","name":"8","photo":null,"url":null,"tz":null,"host":"2001:19f0:7401:866a:15f3:a8f4:441d:ab86"},"content":null,"modes":[]}
