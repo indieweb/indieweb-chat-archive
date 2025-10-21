@@ -1,0 +1,1 @@
+2025-10-21 00:56:28.829100 {"type":"join","timestamp":1761008188.8291025,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"CuppaRex","nickname":"CuppaRex","username":"~CuppaRh3h","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
