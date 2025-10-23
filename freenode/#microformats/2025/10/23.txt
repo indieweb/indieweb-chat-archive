@@ -1,0 +1,1 @@
+2025-10-23 01:07:06.004200 {"type":"join","timestamp":1761181626.0042355,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"plantroon","nickname":"plantroon","username":"~plantroon","name":"plantroon","photo":null,"url":null,"tz":null,"host":"ip-046-223-162-165.um13.pools.vodafone-ip.de"},"content":null,"modes":[]}
