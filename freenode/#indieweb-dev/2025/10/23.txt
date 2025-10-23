@@ -1,0 +1,1 @@
+2025-10-23 00:31:36.416800 {"type":"join","timestamp":1761179496.4168043,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Xe_","nickname":"Xe_","username":"~Xe","name":null,"photo":null,"url":null,"tz":null,"host":"perl\/impostor\/xe"},"content":null,"modes":[]}
