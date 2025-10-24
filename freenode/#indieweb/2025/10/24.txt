@@ -1,0 +1,1 @@
+2025-10-24 00:32:41.006700 {"type":"join","timestamp":1761265961.0066538,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"plantroon","nickname":"plantroon","username":"~plantroon","name":"plantroon","photo":null,"url":null,"tz":null,"host":"ip-046-223-162-165.um13.pools.vodafone-ip.de"},"content":null,"modes":[]}
