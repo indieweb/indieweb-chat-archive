@@ -815,6 +815,33 @@
         ],
         "properties": {
             "name": [
+                "arunwadhwa"
+            ],
+            "nickname": [
+                "arunwadhwa"
+            ],
+            "tz": [
+                "Asia/Bangkok"
+            ],
+            "url": [
+                "http://www.arunwadhwa.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.arunwadhwa.com/images/avatar@2x.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "arunwadhwa",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "b0bg0d"
             ],
             "nickname": [
