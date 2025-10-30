@@ -4634,6 +4634,33 @@
         ],
         "properties": {
             "name": [
+                "failxontour"
+            ],
+            "nickname": [
+                "failxontour"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://failxontour.de"
+            ],
+            "photo": [
+                {
+                    "value": "https://cdn.pronouns.page/images/01JH2P9J0ERF8VEJFH6ECNWNYQ-avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "failxontour",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "fdevillamil"
             ],
             "nickname": [
