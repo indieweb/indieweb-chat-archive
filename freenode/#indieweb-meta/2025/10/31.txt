@@ -1,0 +1,1 @@
+2025-10-31 01:17:27.708000 {"type":"join","timestamp":1761873447.707972,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"BigShip5","nickname":"BigShip5","username":"~BigShip","name":null,"photo":null,"url":null,"tz":null,"host":"user\/bigship"},"content":null,"modes":[]}
