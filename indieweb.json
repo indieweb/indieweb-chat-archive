@@ -665,6 +665,27 @@
         ],
         "properties": {
             "name": [
+                "artindk"
+            ],
+            "nickname": [
+                "artindk"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://artin.net"
+            ]
+        },
+        "id": "artindk",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "asteres"
             ],
             "nickname": [
