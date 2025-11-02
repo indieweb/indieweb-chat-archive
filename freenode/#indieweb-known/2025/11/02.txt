@@ -1,0 +1,1 @@
+2025-11-02 12:02:40.738600 {"type":"join","timestamp":1762084960.7386022,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Florian1","nickname":"Florian1","username":"~FloriazhP","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
