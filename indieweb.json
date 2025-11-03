@@ -13764,6 +13764,12 @@
             ],
             "url": [
                 "http://toddpresta.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://0.gravatar.com/avatar/f2e467b250d0b7dc8d25b668c9784b9cd0b5230e391786b2ed19c6b159091ea2?size=32",
+                    "alt": ""
+                }
             ]
         },
         "id": "to2ds",
