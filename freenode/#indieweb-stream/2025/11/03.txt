@@ -1,0 +1,1 @@
+2025-11-03 00:27:28.128900 {"type":"join","timestamp":1762129648.1289299,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[Jo]4","nickname":"[Jo]4","username":"~JozmWehIB","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
