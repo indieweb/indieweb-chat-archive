@@ -455,33 +455,6 @@
         ],
         "properties": {
             "name": [
-                "mambang[m]"
-            ],
-            "nickname": [
-                "mambang[m]"
-            ],
-            "tz": [
-                "Asia/Kuala_Lumpur"
-            ],
-            "url": [
-                "http://Robbinespu.gitlab.io"
-            ],
-            "photo": [
-                {
-                    "value": "https://robbinespu.gitlab.io/images/upload/Screenshot_20210816_124946.png",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "mambang[m]",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "anarchivist"
             ],
             "nickname": [
@@ -2910,6 +2883,33 @@
             ]
         },
         "id": "cuibonobo",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "cupparex"
+            ],
+            "nickname": [
+                "cupparex"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://crystaltouchton.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://crystaltouchton.com/wp-content/uploads/2025/10/f0ba1ef6-b932-4ad2-903a-9cd147391510.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "cupparex",
         "lang": "en"
     },
     {
@@ -8625,6 +8625,33 @@
             ]
         },
         "id": "macgenie",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "mambang[m]"
+            ],
+            "nickname": [
+                "mambang[m]"
+            ],
+            "tz": [
+                "Asia/Kuala_Lumpur"
+            ],
+            "url": [
+                "http://Robbinespu.gitlab.io"
+            ],
+            "photo": [
+                {
+                    "value": "https://robbinespu.gitlab.io/images/upload/Screenshot_20210816_124946.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "mambang[m]",
         "lang": "en"
     },
     {
