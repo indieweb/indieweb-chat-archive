@@ -13868,6 +13868,33 @@
         ],
         "properties": {
             "name": [
+                "tpa0ps"
+            ],
+            "nickname": [
+                "tpa0ps"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://charlesbeadle.tech"
+            ],
+            "photo": [
+                {
+                    "value": "https://charlesbeadle.tech/images/self.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "tpa0ps",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "tpinto"
             ],
             "nickname": [
