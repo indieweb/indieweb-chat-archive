@@ -1,0 +1,1 @@
+2025-11-12 00:24:01.169700 {"type":"join","timestamp":1762907041.1697433,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"ggarcia24","nickname":"ggarcia24","username":"~ggarcia24","name":"ggarcia24","photo":null,"url":null,"tz":null,"host":"user\/ggarcia24"},"content":null,"modes":[]}
