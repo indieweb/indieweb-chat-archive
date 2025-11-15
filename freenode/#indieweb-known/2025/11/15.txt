@@ -1,0 +1,1 @@
+2025-11-15 03:28:03.574400 {"type":"join","timestamp":1763177283.5743787,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Ducminh","nickname":"Ducminh","username":"~DucminCD8","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
