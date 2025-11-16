@@ -1,0 +1,1 @@
+2025-11-16 13:31:20.390400 {"type":"join","timestamp":1763299880.3903823,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"momo1","nickname":"momo1","username":"~momoL6wW0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
