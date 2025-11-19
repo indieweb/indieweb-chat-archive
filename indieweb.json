@@ -1937,6 +1937,33 @@
         ],
         "properties": {
             "name": [
+                "burgeonlab"
+            ],
+            "nickname": [
+                "burgeonlab"
+            ],
+            "tz": [
+                "Asia/Hong_Kong"
+            ],
+            "url": [
+                "http://burgeonlab.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://burgeonlab.com/favicon-32x32.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "burgeonlab",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "butterwell"
             ],
             "nickname": [
