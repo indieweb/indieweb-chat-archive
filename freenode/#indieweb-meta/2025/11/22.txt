@@ -1,0 +1,1 @@
+2025-11-22 00:03:16.310100 {"type":"join","timestamp":1763769796.3101177,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"sp1ff","nickname":"sp1ff","username":"~user","name":"unknown","photo":null,"url":"http:\/\/www.unwoundstack.com","tz":"US\/Pacific","host":"2601:1c2:4c00:6820::8bad"},"content":null,"modes":[]}
