@@ -1,0 +1,1 @@
+2025-11-23 00:32:56.090800 {"type":"join","timestamp":1763857976.0908394,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"sombrero","nickname":"sombrero","username":"~sombrero","name":null,"photo":null,"url":null,"tz":null,"host":"user\/sombrero"},"content":null,"modes":[]}
