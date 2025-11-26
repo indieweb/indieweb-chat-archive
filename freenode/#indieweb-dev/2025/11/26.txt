@@ -1,0 +1,1 @@
+2025-11-26 00:29:36.567400 {"type":"join","timestamp":1764116976.5673525,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"troojg","nickname":"troojg","username":"~troojg","name":"Thomas Graham","photo":null,"url":null,"tz":null,"host":"user\/troojg"},"content":null,"modes":[]}
