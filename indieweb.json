@@ -7877,6 +7877,33 @@
         ],
         "properties": {
             "name": [
+                "khurtwilliams"
+            ],
+            "nickname": [
+                "khurtwilliams"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://islandinthenet.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://islandinthenet.com/favicon.ico",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "khurtwilliams",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kiai"
             ],
             "nickname": [
