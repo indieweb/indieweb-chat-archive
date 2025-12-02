@@ -1,0 +1,1 @@
+2025-12-02 03:51:18.548500 {"type":"join","timestamp":1764647478.5485313,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"smovic","nickname":"smovic","username":"~smovicB3a","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
