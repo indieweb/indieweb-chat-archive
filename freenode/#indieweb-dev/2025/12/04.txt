@@ -1,0 +1,1 @@
+2025-12-04 00:03:38.275900 {"type":"join","timestamp":1764806618.2759414,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"CrimeWave","nickname":"CrimeWave","username":"~Ebox-MTL","name":null,"photo":null,"url":null,"tz":null,"host":"user\/CrimeWave"},"content":null,"modes":[]}
