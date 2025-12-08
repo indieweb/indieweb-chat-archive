@@ -1,0 +1,1 @@
+2025-12-08 00:51:56.204700 {"type":"join","timestamp":1765155116.204661,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"[artlung]1","nickname":"[artlung]1","username":"~artlunYYn","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
