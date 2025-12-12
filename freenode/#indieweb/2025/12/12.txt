@@ -1,0 +1,1 @@
+2025-12-12 00:50:05.726600 {"type":"join","timestamp":1765500605.726639,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"jacky1","nickname":"jacky1","username":"~jackyuw20","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
