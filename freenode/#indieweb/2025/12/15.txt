@@ -1,0 +1,1 @@
+2025-12-15 01:07:34.389800 {"type":"join","timestamp":1765760854.3898017,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"daemonspudguy","nickname":"daemonspudguy","username":"~daemonspu","name":null,"photo":null,"url":null,"tz":null,"host":"173.81.51.211"},"content":null,"modes":[]}
