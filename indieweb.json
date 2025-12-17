@@ -5177,6 +5177,33 @@
         ],
         "properties": {
             "name": [
+                "gerben.dev"
+            ],
+            "nickname": [
+                "gerben.dev"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "https://gerben.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://gerben.dev/images/avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "gerben.dev",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gerwitz"
             ],
             "nickname": [
