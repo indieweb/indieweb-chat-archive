@@ -1,0 +1,1 @@
+2025-12-17 04:06:20.634700 {"type":"join","timestamp":1765944380.634747,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"glacier","nickname":"glacier","username":"~cygnus","name":null,"photo":null,"url":null,"tz":null,"host":"103.53.119.66"},"content":null,"modes":[]}
