@@ -8039,6 +8039,27 @@
         ],
         "properties": {
             "name": [
+                "klea"
+            ],
+            "nickname": [
+                "klea"
+            ],
+            "tz": [
+                "Etc/UTC"
+            ],
+            "url": [
+                "http://tilde.green/~jmjl"
+            ]
+        },
+        "id": "klea",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "KMF"
             ],
             "nickname": [
