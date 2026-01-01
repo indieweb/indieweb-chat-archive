@@ -1,0 +1,1 @@
+2026-01-01 01:23:17.345500 {"type":"join","timestamp":1767230597.3455477,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"artlung","nickname":"artlung","username":"~artlung","name":null,"photo":null,"url":null,"tz":null,"host":"2603:8001:5700:236a:4c76:e1a0:255e:60cb"},"content":null,"modes":[]}
