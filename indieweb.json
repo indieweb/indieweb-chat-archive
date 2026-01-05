@@ -4413,6 +4413,12 @@
             ],
             "url": [
                 "http://ekul.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://ekul.me/avatar.png",
+                    "alt": ""
+                }
             ]
         },
         "id": "Ekul",
