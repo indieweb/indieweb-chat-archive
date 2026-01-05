@@ -1697,6 +1697,33 @@
         ],
         "properties": {
             "name": [
+                "borismus"
+            ],
+            "nickname": [
+                "borismus"
+            ],
+            "tz": [
+                "America/Vancouver"
+            ],
+            "url": [
+                "http://smus.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://smus.com/static/images/stipple.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "borismus",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "bradenslen"
             ],
             "nickname": [
