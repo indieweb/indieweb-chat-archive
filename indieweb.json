@@ -10541,6 +10541,33 @@
         ],
         "properties": {
             "name": [
+                "paultibbetts"
+            ],
+            "nickname": [
+                "paultibbetts"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://paultibbetts.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://paultibbetts.uk/icon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "paultibbetts",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "pdurbin"
             ],
             "nickname": [
