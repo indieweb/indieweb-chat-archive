@@ -12251,6 +12251,33 @@
         ],
         "properties": {
             "name": [
+                "simpleauthority"
+            ],
+            "nickname": [
+                "simpleauthority"
+            ],
+            "tz": [
+                "Asia/Manila"
+            ],
+            "url": [
+                "https://jacobandersen.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://jacobandersen.dev/images/portrait.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "simpleauthority",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "sl007"
             ],
             "nickname": [
