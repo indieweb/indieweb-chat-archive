@@ -4403,6 +4403,27 @@
         ],
         "properties": {
             "name": [
+                "Ekul"
+            ],
+            "nickname": [
+                "Ekul"
+            ],
+            "tz": [
+                "Asia/Tokyo"
+            ],
+            "url": [
+                "http://ekul.me"
+            ]
+        },
+        "id": "Ekul",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "elie"
             ],
             "nickname": [
