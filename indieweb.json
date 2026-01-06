@@ -13067,6 +13067,33 @@
         ],
         "properties": {
             "name": [
+                "strategineer"
+            ],
+            "nickname": [
+                "strategineer"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://strategineer.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://strategineer.com/favicon.ico",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "strategineer",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "straydogstrut"
             ],
             "nickname": [
