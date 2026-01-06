@@ -10877,6 +10877,33 @@
         ],
         "properties": {
             "name": [
+                "pjg1"
+            ],
+            "nickname": [
+                "pjg1"
+            ],
+            "tz": [
+                "Asia/Tbilisi"
+            ],
+            "url": [
+                "http://pjg1.site"
+            ],
+            "photo": [
+                {
+                    "value": "https://pjg1.site/public/images/favicon-full.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "pjg1",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "plindner"
             ],
             "nickname": [
