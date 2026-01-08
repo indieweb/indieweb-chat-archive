@@ -13577,6 +13577,30 @@
         ],
         "properties": {
             "name": [
+                "thaeta"
+            ],
+            "nickname": [
+                "thaeta"
+            ],
+            "tz": [
+                "US/Eastern"
+            ],
+            "url": [
+                "http://www.the-spire.cc"
+            ],
+            "photo": [
+                "https://indieweb.org/chat-names"
+            ]
+        },
+        "id": "thaeta",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "techlifeweb"
             ],
             "nickname": [
