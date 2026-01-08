@@ -13589,7 +13589,10 @@
                 "http://www.the-spire.cc"
             ],
             "photo": [
-                "https://indieweb.org/chat-names"
+                {
+                    "value": "https://the-spire.cc/images/thaeta_pfp_128.png",
+                    "alt": ""
+                }
             ]
         },
         "id": "thaeta",
