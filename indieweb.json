@@ -10037,6 +10037,33 @@
         ],
         "properties": {
             "name": [
+                "night-jaeger"
+            ],
+            "nickname": [
+                "night-jaeger"
+            ],
+            "tz": [
+                "Australia/Melbourne"
+            ],
+            "url": [
+                "http://night-jaeger.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://night-jaeger.net/u-logo.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "night-jaeger",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Nissyen"
             ],
             "nickname": [
