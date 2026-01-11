@@ -9233,6 +9233,27 @@
         ],
         "properties": {
             "name": [
+                "MD87"
+            ],
+            "nickname": [
+                "MD87"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://chameth.com"
+            ]
+        },
+        "id": "MD87",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "melvster"
             ],
             "nickname": [
