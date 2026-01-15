@@ -1,0 +1,1 @@
+2026-01-15 00:02:00.434000 {"type":"join","timestamp":1768435320.4340007,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"dmitriz","nickname":"dmitriz","username":"~textual","name":null,"photo":null,"url":null,"tz":null,"host":"cd4bf039.public.cloak"},"content":null,"modes":[]}
