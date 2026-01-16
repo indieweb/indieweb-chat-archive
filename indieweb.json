@@ -5333,6 +5333,27 @@
         ],
         "properties": {
             "name": [
+                "girlonthemoon"
+            ],
+            "nickname": [
+                "girlonthemoon"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://eunoia.sayitditto.net"
+            ]
+        },
+        "id": "girlonthemoon",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gkbrk"
             ],
             "nickname": [
