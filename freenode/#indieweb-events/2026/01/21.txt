@@ -1,0 +1,1 @@
+2026-01-21 09:14:06.041200 {"type":"join","timestamp":1768986846.0411766,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"max1","nickname":"max1","username":"~Maxn0apPr","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
