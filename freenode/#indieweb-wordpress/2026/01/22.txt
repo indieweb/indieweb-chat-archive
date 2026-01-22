@@ -1,0 +1,1 @@
+2026-01-22 02:24:54.213400 {"type":"join","timestamp":1769048694.2133539,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"sebbu","nickname":"sebbu","username":"~sebbu","name":null,"photo":null,"url":"http:\/\/sebbu.fr","tz":"Europe\/Paris","host":"user\/sebbu"},"content":null,"modes":[]}
