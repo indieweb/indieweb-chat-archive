@@ -1,0 +1,1 @@
+2026-01-25 00:30:46.161000 {"type":"join","timestamp":1769301046.16097,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"athan","nickname":"athan","username":"~athan","name":"Athan Clark","photo":null,"url":null,"tz":null,"host":"98.150.233.226"},"content":null,"modes":[]}
