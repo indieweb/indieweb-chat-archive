@@ -1,0 +1,1 @@
+2026-01-27 00:30:09.703800 {"type":"join","timestamp":1769473809.7037988,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"sebbu","nickname":"sebbu","username":"~sebbu","name":null,"photo":null,"url":"http:\/\/sebbu.fr","tz":"Europe\/Paris","host":"user\/sebbu"},"content":null,"modes":[]}
