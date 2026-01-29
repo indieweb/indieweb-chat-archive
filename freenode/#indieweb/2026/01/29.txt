@@ -1,0 +1,1 @@
+2026-01-29 00:16:55.583200 {"type":"join","timestamp":1769645815.5832453,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"asarandi","nickname":"asarandi","username":"~asarandi","name":null,"photo":null,"url":null,"tz":null,"host":"user\/asarandi"},"content":null,"modes":[]}
