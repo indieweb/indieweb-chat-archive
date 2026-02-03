@@ -1,0 +1,1 @@
+2026-02-03 01:10:13.427700 {"type":"join","timestamp":1770081013.4276738,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"lieb","nickname":"lieb","username":"~lieb","name":null,"photo":null,"url":null,"tz":null,"host":"2601:1c0:8081:6b90:40c7:459c:a6c8:a983"},"content":null,"modes":[]}
