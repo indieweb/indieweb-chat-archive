@@ -7748,6 +7748,33 @@
         ],
         "properties": {
             "name": [
+                "kenan"
+            ],
+            "nickname": [
+                "kenan"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://kenan.fyi"
+            ],
+            "photo": [
+                {
+                    "value": "https://kenan.fyi/apple-touch-icon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "kenan",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kenbauer"
             ],
             "nickname": [
