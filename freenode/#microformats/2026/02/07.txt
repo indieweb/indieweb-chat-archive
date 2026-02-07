@@ -1,0 +1,1 @@
+2026-02-07 09:04:16.968700 {"type":"join","timestamp":1770455056.968687,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"barnaby","nickname":"barnaby","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"84-115-214-191.cable.dynamic.surfer.at"},"content":null,"modes":[]}
