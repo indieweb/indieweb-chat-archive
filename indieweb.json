@@ -8378,6 +8378,27 @@
         ],
         "properties": {
             "name": [
+                "Lars-Christian"
+            ],
+            "nickname": [
+                "Lars-Christian"
+            ],
+            "tz": [
+                "Europe/Oslo"
+            ],
+            "url": [
+                "http://lars-christian.com"
+            ]
+        },
+        "id": "Lars-Christian",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lauraj"
             ],
             "nickname": [
