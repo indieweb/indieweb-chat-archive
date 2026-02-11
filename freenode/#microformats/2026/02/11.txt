@@ -1,0 +1,1 @@
+2026-02-11 02:29:41.914300 {"type":"join","timestamp":1770776981.9142828,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"srijan","nickname":"srijan","username":"~srijan","name":"srijan","photo":null,"url":null,"tz":null,"host":"user\/srijan"},"content":null,"modes":[]}
