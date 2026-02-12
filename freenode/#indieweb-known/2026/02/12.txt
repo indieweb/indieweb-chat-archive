@@ -1,0 +1,1 @@
+2026-02-12 01:23:44.572700 {"type":"join","timestamp":1770859424.5727084,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Kupietz","nickname":"Kupietz","username":"~kupiet2vw","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
