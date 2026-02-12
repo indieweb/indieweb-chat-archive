@@ -10073,6 +10073,33 @@
         ],
         "properties": {
             "name": [
+                "NegateThis"
+            ],
+            "nickname": [
+                "NegateThis"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://negatethis.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://negatethis.com/assets/filler.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "NegateThis",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "nekr0z"
             ],
             "nickname": [
