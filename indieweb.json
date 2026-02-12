@@ -8612,6 +8612,33 @@
         ],
         "properties": {
             "name": [
+                "Loke"
+            ],
+            "nickname": [
+                "Loke"
+            ],
+            "tz": [
+                "Europe/Madrid"
+            ],
+            "url": [
+                "https://loke-artemis.neocities.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://loke-artemis.neocities.org/images/favicon.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Loke",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Loqi"
             ],
             "nickname": [
