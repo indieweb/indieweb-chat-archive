@@ -1,0 +1,1 @@
+2026-02-14 06:09:36.181700 {"type":"join","timestamp":1771049376.181658,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"barnaby","nickname":"barnaby","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"62.212.166.218"},"content":null,"modes":[]}
