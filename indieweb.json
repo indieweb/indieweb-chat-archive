@@ -3341,6 +3341,33 @@
         ],
         "properties": {
             "name": [
+                "deathcomestotime"
+            ],
+            "nickname": [
+                "deathcomestotime"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://dead.garden"
+            ],
+            "photo": [
+                {
+                    "value": "https://emojigraph.org/media/twitter/fly_1fab0.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "deathcomestotime",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "deathrow1"
             ],
             "nickname": [
