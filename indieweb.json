@@ -9435,6 +9435,12 @@
             ],
             "url": [
                 "http://tre.praze.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://tre.praze.net/buttons/50x50.png",
+                    "alt": ""
+                }
             ]
         },
         "id": "Mez",
