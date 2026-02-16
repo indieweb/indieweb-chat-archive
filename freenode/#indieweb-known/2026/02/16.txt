@@ -1,0 +1,1 @@
+2026-02-16 02:09:01.030700 {"type":"join","timestamp":1771207741.030707,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"citypaul[d]","nickname":"citypaul[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"2600:3c01::f03c:93ff:fe06:ef48"},"content":null,"modes":[]}
