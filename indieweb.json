@@ -3026,6 +3026,27 @@
         ],
         "properties": {
             "name": [
+                "dagardner"
+            ],
+            "nickname": [
+                "dagardner"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://cpgaertner.de"
+            ]
+        },
+        "id": "dagardner",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "danbri"
             ],
             "nickname": [
