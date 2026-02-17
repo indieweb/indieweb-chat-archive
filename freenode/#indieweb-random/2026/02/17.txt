@@ -1,0 +1,1 @@
+2026-02-17 00:26:42.337100 {"type":"join","timestamp":1771288002.3371131,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"Kaja","nickname":"Kaja","username":"~Kaja","name":null,"photo":null,"url":"http:\/\/kaja.sknebel.net","tz":"UTC","host":"v22016013254630973.happysrv.de"},"content":null,"modes":[]}
