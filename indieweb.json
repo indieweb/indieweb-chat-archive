@@ -8660,10 +8660,10 @@
         ],
         "properties": {
             "name": [
-                "Loke"
+                "loke_artemis"
             ],
             "nickname": [
-                "Loke"
+                "loke_artemis"
             ],
             "tz": [
                 "Europe/Madrid"
@@ -8678,7 +8678,7 @@
                 }
             ]
         },
-        "id": "Loke",
+        "id": "loke_artemis",
         "lang": "en"
     },
     {
