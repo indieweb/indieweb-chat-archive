@@ -1,0 +1,1 @@
+2026-02-18 00:43:28.930900 {"type":"join","timestamp":1771375408.9308918,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"dustinm`","nickname":"dustinm`","username":"~dustinm","name":"dustinm","photo":null,"url":null,"tz":null,"host":"static.38.6.217.95.clients.your-server.de"},"content":null,"modes":[]}
