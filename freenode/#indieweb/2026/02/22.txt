@@ -1,0 +1,1 @@
+2026-02-22 00:24:22.574800 {"type":"join","timestamp":1771719862.5747797,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"jasonquintin[d]","nickname":"jasonquintin[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"2600:3c01::f03c:93ff:fe06:ef48"},"content":null,"modes":[]}
