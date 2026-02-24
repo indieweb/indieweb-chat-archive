@@ -8291,6 +8291,33 @@
         ],
         "properties": {
             "name": [
+                "kupietz"
+            ],
+            "nickname": [
+                "kupietz"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://michaelkupietz.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://michaelkupietz.com/favicon.ico",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "kupietz",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "kylewm"
             ],
             "nickname": [
