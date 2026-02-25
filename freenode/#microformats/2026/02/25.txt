@@ -1,0 +1,1 @@
+2026-02-25 00:03:44.475400 {"type":"join","timestamp":1771977824.4753985,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"plantroon","nickname":"plantroon","username":"~plantroon","name":"plantroon","photo":null,"url":null,"tz":null,"host":"ip-046-223-163-013.um13.pools.vodafone-ip.de"},"content":null,"modes":[]}
