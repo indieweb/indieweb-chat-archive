@@ -1,0 +1,1 @@
+2026-02-25 00:39:37.101500 {"type":"join","timestamp":1771979977.10151,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"simoneti","nickname":"simoneti","username":"~simonerU1","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
