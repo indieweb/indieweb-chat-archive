@@ -1,0 +1,1 @@
+2026-02-26 00:28:45.098200 {"type":"join","timestamp":1772065725.0982444,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"Wiggle","nickname":"Wiggle","username":"~WiggleEi2","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}

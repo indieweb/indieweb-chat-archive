@@ -1,0 +1,1 @@
+2026-02-26 00:28:45.103800 {"type":"join","timestamp":1772065725.1037977,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"Wiggle","nickname":"Wiggle","username":"~WiggleEi2","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
