@@ -1,0 +1,1 @@
+2026-03-02 00:03:03.978100 {"type":"join","timestamp":1772409783.9781103,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"pcarrier_","nickname":"pcarrier_","username":"~m-ugvffo","name":null,"photo":null,"url":null,"tz":null,"host":"horse.pcarrier.com"},"content":null,"modes":[]}
