@@ -1,0 +1,1 @@
+2026-03-04 02:24:47.482100 {"type":"join","timestamp":1772591087.482101,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"[Murray]","nickname":"[Murray]","username":"~MurrayOyA","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
