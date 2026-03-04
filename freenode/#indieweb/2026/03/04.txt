@@ -1,0 +1,1 @@
+2026-03-04 00:14:37.986900 {"type":"join","timestamp":1772583277.9869177,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"infx","nickname":"infx","username":"~influous","name":null,"photo":null,"url":null,"tz":null,"host":"user\/influous"},"content":null,"modes":[]}
