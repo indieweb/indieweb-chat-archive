@@ -3026,6 +3026,33 @@
         ],
         "properties": {
             "name": [
+                "Skaterfish"
+            ],
+            "nickname": [
+                "Skaterfish"
+            ],
+            "tz": [
+                "Denmark/CEST"
+            ],
+            "url": [
+                "http://skaterfish.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.skaterfish.net/items/calart.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Skaterfish",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dagardner"
             ],
             "nickname": [
