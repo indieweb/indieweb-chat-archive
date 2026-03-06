@@ -1,0 +1,1 @@
+2026-03-06 00:58:12.587900 {"type":"join","timestamp":1772758692.5878541,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"nico1","nickname":"nico1","username":"~nicoC4uIn","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
