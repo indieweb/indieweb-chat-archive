@@ -1,0 +1,1 @@
+2026-03-08 00:00:20.248300 {"type":"join","timestamp":1772928020.2483294,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"LibreDri1","nickname":"LibreDri1","username":"~LibreDrip","name":null,"photo":null,"url":null,"tz":null,"host":"p5b3f3510.dip0.t-ipconnect.de"},"content":null,"modes":[]}
