@@ -10316,6 +10316,33 @@
         ],
         "properties": {
             "name": [
+                "Nirastich"
+            ],
+            "nickname": [
+                "Nirastich"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://leroch.net"
+            ],
+            "photo": [
+                {
+                    "value": "https://img.leroch.net/misc/167169302.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Nirastich",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Nissyen"
             ],
             "nickname": [
