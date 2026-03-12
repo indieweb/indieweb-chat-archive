@@ -1,0 +1,1 @@
+2026-03-12 00:50:37.849700 {"type":"join","timestamp":1773276637.8497214,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"Scumble","nickname":"Scumble","username":"~ScumblcLh","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
