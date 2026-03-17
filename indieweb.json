@@ -1100,6 +1100,33 @@
         ],
         "properties": {
             "name": [
+                "bearina"
+            ],
+            "nickname": [
+                "bearina"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://bearly-creative.de"
+            ],
+            "photo": [
+                {
+                    "value": "https://bearly-creative.de/wp-content/uploads/bearina_profile-pic.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "bearina",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "beko"
             ],
             "nickname": [
