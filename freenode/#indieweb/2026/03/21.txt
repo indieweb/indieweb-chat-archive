@@ -1,0 +1,1 @@
+2026-03-21 00:27:26.297700 {"type":"join","timestamp":1774052846.2977068,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"ax562","nickname":"ax562","username":"~ax562","name":null,"photo":null,"url":null,"tz":null,"host":"user\/ax562"},"content":null,"modes":[]}
