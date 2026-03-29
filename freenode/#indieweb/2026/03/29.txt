@@ -1,0 +1,1 @@
+2026-03-29 00:15:36.665700 {"type":"join","timestamp":1774743336.6657221,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"j4x_9352","nickname":"j4x_9352","username":"~jax","name":null,"photo":null,"url":null,"tz":null,"host":"user\/j4x"},"content":null,"modes":[]}
