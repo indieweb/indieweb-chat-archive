@@ -1,0 +1,1 @@
+2026-03-29 00:32:36.598300 {"type":"join","timestamp":1774744356.5983255,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"bennettgreen[d]","nickname":"bennettgreen[d]","username":"indieweb","name":null,"photo":null,"url":null,"tz":null,"host":"2600:3c01::f03c:93ff:fe06:ef48"},"content":null,"modes":[]}
