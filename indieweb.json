@@ -11759,6 +11759,33 @@
         ],
         "properties": {
             "name": [
+                "rex"
+            ],
+            "nickname": [
+                "rex"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://lemitar.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://lemitar.org/wp-content/uploads/2026/03/180580269.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "rex",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rhiaro"
             ],
             "nickname": [
