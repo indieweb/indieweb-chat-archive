@@ -8597,6 +8597,33 @@
         ],
         "properties": {
             "name": [
+                "lemitar"
+            ],
+            "nickname": [
+                "lemitar"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://lemitar.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://lemitar.org/wp-content/uploads/2026/03/180580269.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "lemitar",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "LewisCowles"
             ],
             "nickname": [
@@ -11751,33 +11778,6 @@
             ]
         },
         "id": "revi",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
-                "rex"
-            ],
-            "nickname": [
-                "rex"
-            ],
-            "tz": [
-                "US/Central"
-            ],
-            "url": [
-                "http://lemitar.org"
-            ],
-            "photo": [
-                {
-                    "value": "https://lemitar.org/wp-content/uploads/2026/03/180580269.jpeg",
-                    "alt": ""
-                }
-            ]
-        },
-        "id": "rex",
         "lang": "en"
     },
     {
