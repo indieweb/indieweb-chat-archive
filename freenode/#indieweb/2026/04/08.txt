@@ -1,0 +1,1 @@
+2026-04-08 00:01:36.228100 {"type":"join","timestamp":1775606496.2280521,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mdemo21","nickname":"mdemo21","username":"~mdemo","name":null,"photo":null,"url":null,"tz":null,"host":"user\/mdemo22"},"content":null,"modes":[]}
