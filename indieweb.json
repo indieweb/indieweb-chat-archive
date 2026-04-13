@@ -10976,6 +10976,27 @@
         ],
         "properties": {
             "name": [
+                "periodic"
+            ],
+            "nickname": [
+                "periodic"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://blazestar.net"
+            ]
+        },
+        "id": "periodic",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "perryflynn"
             ],
             "nickname": [
