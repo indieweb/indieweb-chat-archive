@@ -3086,10 +3086,16 @@
                 "April"
             ],
             "tz": [
-                "Bunny.png"
+                "Asia/India"
             ],
             "url": [
                 "http://aprilscable.neocities.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://aprilscable.neocities.org/",
+                    "alt": ""
+                }
             ]
         },
         "id": "April",
