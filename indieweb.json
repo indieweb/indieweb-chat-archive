@@ -3080,6 +3080,27 @@
         ],
         "properties": {
             "name": [
+                "April"
+            ],
+            "nickname": [
+                "April"
+            ],
+            "tz": [
+                "Bunny.png"
+            ],
+            "url": [
+                "http://aprilscable.neocities.com"
+            ]
+        },
+        "id": "April",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dagardner"
             ],
             "nickname": [
