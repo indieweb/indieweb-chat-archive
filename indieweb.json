@@ -15524,27 +15524,6 @@
         ],
         "properties": {
             "name": [
-                "yobj"
-            ],
-            "nickname": [
-                "yobj"
-            ],
-            "tz": [
-                "Europe/Amsterdam"
-            ],
-            "url": [
-                "http://www.jboy.us"
-            ]
-        },
-        "id": "yobj",
-        "lang": "en"
-    },
-    {
-        "type": [
-            "h-card"
-        ],
-        "properties": {
-            "name": [
                 "xandra.cc"
             ],
             "nickname": [
@@ -15743,6 +15722,33 @@
         ],
         "properties": {
             "name": [
+                "yedo"
+            ],
+            "nickname": [
+                "yedo"
+            ],
+            "tz": [
+                "Europe/Stockholm"
+            ],
+            "url": [
+                "http://yedos.world"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.yedos.world/me.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "yedo",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "yenly"
             ],
             "nickname": [
@@ -15762,6 +15768,27 @@
             ]
         },
         "id": "yenly",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
+                "yobj"
+            ],
+            "nickname": [
+                "yobj"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://www.jboy.us"
+            ]
+        },
+        "id": "yobj",
         "lang": "en"
     },
     {
