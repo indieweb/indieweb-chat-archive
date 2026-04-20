@@ -16034,6 +16034,33 @@
         ],
         "properties": {
             "name": [
+                "ZodiacalComet"
+            ],
+            "nickname": [
+                "ZodiacalComet"
+            ],
+            "tz": [
+                "America/Caracas"
+            ],
+            "url": [
+                "http://Zodiacalcomet.gitlab.io"
+            ],
+            "photo": [
+                {
+                    "value": "https://zodiacalcomet.gitlab.io/assets/img/profile.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "ZodiacalComet",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Zoraster"
             ],
             "nickname": [
