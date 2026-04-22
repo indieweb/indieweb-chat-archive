@@ -1,0 +1,1 @@
+2026-04-22 00:25:05.050800 {"type":"join","timestamp":1776817505.0507672,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"GuestZero","nickname":"GuestZero","username":"~gruetzhax","name":"<dbs>","photo":null,"url":null,"tz":null,"host":"2a01:599:141:43d2:e973:4ef8:6fdc:f71a"},"content":null,"modes":[]}
