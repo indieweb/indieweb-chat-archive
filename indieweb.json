@@ -13367,6 +13367,33 @@
         ],
         "properties": {
             "name": [
+                "slashbark"
+            ],
+            "nickname": [
+                "slashbark"
+            ],
+            "tz": [
+                "Asia/Jakarta"
+            ],
+            "url": [
+                "http://penjurupikiran.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://penjurupikiran.com/mascot.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "slashbark",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "srijan"
             ],
             "nickname": [
