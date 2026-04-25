@@ -15578,6 +15578,33 @@
         ],
         "properties": {
             "name": [
+                "WinnerWind"
+            ],
+            "nickname": [
+                "WinnerWind"
+            ],
+            "tz": [
+                "Asia/Calcutta"
+            ],
+            "url": [
+                "http://winnerwind.in"
+            ],
+            "photo": [
+                {
+                    "value": "https://assets.winnerwind.in/branding/pfp.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "WinnerWind",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "xandra.cc"
             ],
             "nickname": [
