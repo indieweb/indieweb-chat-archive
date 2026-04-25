@@ -14039,6 +14039,33 @@
         ],
         "properties": {
             "name": [
+                "thamarakandabada"
+            ],
+            "nickname": [
+                "thamarakandabada"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://thamara.co.uk"
+            ],
+            "photo": [
+                {
+                    "value": "https://thamara.co.uk/wp-content/uploads/2026/03/IMG_9300-1.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "thamarakandabada",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "techlifeweb"
             ],
             "nickname": [
