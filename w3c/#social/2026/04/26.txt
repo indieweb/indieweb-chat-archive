@@ -1,0 +1,1 @@
+2026-04-26 03:22:45.801500 {"type":"join","timestamp":1777173765.801503,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan_","nickname":"ajordan_","username":"~ajordan","name":null,"photo":null,"url":null,"tz":null,"host":"bcf0d5.publics.cloak"},"content":null,"modes":[]}
