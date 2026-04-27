@@ -1,0 +1,1 @@
+2026-04-27 00:22:24.155200 {"type":"join","timestamp":1777249344.1552367,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"croissant","nickname":"croissant","username":"~croissant","name":null,"photo":null,"url":null,"tz":null,"host":"128a6631.public.cloak"},"content":null,"modes":[]}
