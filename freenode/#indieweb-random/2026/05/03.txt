@@ -1,0 +1,1 @@
+2026-05-03 00:24:11.334900 {"type":"join","timestamp":1777767851.3349223,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"pfych","nickname":"pfych","username":"~pfych","name":"V","photo":null,"url":"http:\/\/pfy.ch","tz":"Australia\/Sydney","host":"user\/pfych"},"content":null,"modes":[]}
