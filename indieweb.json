@@ -8576,6 +8576,33 @@
         ],
         "properties": {
             "name": [
+                "lavandula"
+            ],
+            "nickname": [
+                "lavandula"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "https://ellefson.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://git.ellefson.dev/avatars/a077d1a5b6901152d1958ffb874cf630bb2557d4ad24be88b673dcdb513f8a8b",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "lavandula",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "lazcorp"
             ],
             "nickname": [
