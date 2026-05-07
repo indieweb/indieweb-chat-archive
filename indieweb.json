@@ -272,6 +272,33 @@
         ],
         "properties": {
             "name": [
+                "aks"
+            ],
+            "nickname": [
+                "aks"
+            ],
+            "tz": [
+                "Europe/Helsinki"
+            ],
+            "url": [
+                "https://akselmo.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://akselmo.dev/assets/images/oc/fefairy_avatar_small.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "aks",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "alabut"
             ],
             "nickname": [
