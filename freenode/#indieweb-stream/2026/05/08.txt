@@ -1,0 +1,1 @@
+2026-05-08 01:12:28.178200 {"type":"join","timestamp":1778202748.1782236,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"itsjdev","nickname":"itsjdev","username":"itsjdecExM","name":null,"photo":null,"url":null,"tz":null,"host":"2600:3c01::f03c:93ff:fea4:1848"},"content":null,"modes":[]}
