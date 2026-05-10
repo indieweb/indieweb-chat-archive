@@ -1,0 +1,1 @@
+2026-05-10 00:00:25.306300 {"type":"join","timestamp":1778371225.3062556,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"someonewithpc","nickname":"someonewithpc","username":"~someonewithpc","name":"Hugo","photo":null,"url":null,"tz":null,"host":"7536023f.public.cloak"},"content":null,"modes":[]}
