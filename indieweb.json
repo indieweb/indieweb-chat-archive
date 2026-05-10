@@ -9041,6 +9041,33 @@
         ],
         "properties": {
             "name": [
+                "lesleylai"
+            ],
+            "nickname": [
+                "lesleylai"
+            ],
+            "tz": [
+                "Australia/Sydney"
+            ],
+            "url": [
+                "http://lesleylai.info"
+            ],
+            "photo": [
+                {
+                    "value": "https://lesleylai.info/_astro/portrait.BcXBEJlU_zKto8.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "lesleylai",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "M0x3b0b"
             ],
             "nickname": [
