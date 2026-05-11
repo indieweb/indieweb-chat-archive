@@ -1,0 +1,1 @@
+2026-05-11 00:21:58.438700 {"type":"join","timestamp":1778458918.438692,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"barnaby","nickname":"barnaby","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"84-115-215-30.cable.dynamic.surfer.at"},"content":null,"modes":[]}
