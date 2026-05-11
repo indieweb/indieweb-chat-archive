@@ -4667,6 +4667,27 @@
         ],
         "properties": {
             "name": [
+                "elliotwren"
+            ],
+            "nickname": [
+                "elliotwren"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://elliotwren.com"
+            ]
+        },
+        "id": "elliotwren",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ellton"
             ],
             "nickname": [
