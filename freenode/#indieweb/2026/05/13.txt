@@ -1,0 +1,1 @@
+2026-05-13 00:18:25.848800 {"type":"join","timestamp":1778631505.8488233,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"kleb60","nickname":"kleb60","username":"~kleb","name":null,"photo":null,"url":null,"tz":null,"host":"142.180.14.80"},"content":null,"modes":[]}
