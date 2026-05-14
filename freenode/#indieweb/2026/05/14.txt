@@ -1,0 +1,1 @@
+2026-05-14 00:08:43.026900 {"type":"join","timestamp":1778717323.0269067,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"mnuuu","nickname":"mnuuu","username":"~mnuuu","name":null,"photo":null,"url":null,"tz":null,"host":"84.66.44.227"},"content":null,"modes":[]}
