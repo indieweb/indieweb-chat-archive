@@ -1,0 +1,1 @@
+2026-05-25 01:34:39.284600 {"type":"join","timestamp":1779672879.284607,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"aaronpk","nickname":"aaronpk","username":"~aaronpk","name":"aaronpk","photo":null,"url":null,"tz":null,"host":"user\/aaronpk"},"content":null,"modes":[]}
