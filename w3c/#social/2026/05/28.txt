@@ -1,0 +1,1 @@
+2026-05-28 15:13:18.351900 {"type":"join","timestamp":1779981198.35189,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"TallTed","nickname":"TallTed","username":"~Thud","name":null,"photo":null,"url":null,"tz":null,"host":"58957484.public.cloak"},"content":null,"modes":[]}
