@@ -1,0 +1,1 @@
+2026-05-29 20:18:21.955000 {"type":"join","timestamp":1780085901.954967,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"cptaffe`","nickname":"cptaffe`","username":"~cptaffe","name":null,"photo":null,"url":null,"tz":null,"host":"58957484.public.cloak"},"content":null,"modes":[]}
