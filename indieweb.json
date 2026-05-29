@@ -7610,6 +7610,33 @@
         ],
         "properties": {
             "name": [
+                "Jorisvandijk.com"
+            ],
+            "nickname": [
+                "Jorisvandijk.com"
+            ],
+            "tz": [
+                "Europe/Brussels"
+            ],
+            "url": [
+                "http://Jorisvandijk.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://jorisvandijk.com/img/mrgreen.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Jorisvandijk.com",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "josephg"
             ],
             "nickname": [
