@@ -7610,16 +7610,16 @@
         ],
         "properties": {
             "name": [
-                "Jorisvandijk.com"
+                "jorisvandijk"
             ],
             "nickname": [
-                "Jorisvandijk.com"
+                "jorisvandijk"
             ],
             "tz": [
                 "Europe/Brussels"
             ],
             "url": [
-                "http://Jorisvandijk.com"
+                "http://jorisvandijk.com"
             ],
             "photo": [
                 {
@@ -7628,7 +7628,7 @@
                 }
             ]
         },
-        "id": "Jorisvandijk.com",
+        "id": "jorisvandijk",
         "lang": "en"
     },
     {
