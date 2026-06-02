@@ -1,0 +1,1 @@
+2026-06-02 00:01:13.146100 {"type":"join","timestamp":1780358473.146065,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-stream","name":"#indieweb-stream"},"author":{"uid":"kenichimiyake","nickname":"kenichimiyake","username":"~kenich2Ia","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
