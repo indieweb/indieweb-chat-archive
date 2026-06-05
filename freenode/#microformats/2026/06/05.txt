@@ -1,0 +1,1 @@
+2026-06-05 00:29:06.131900 {"type":"join","timestamp":1780619346.131928,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[Sophia_wood]","nickname":"[Sophia_wood]","username":"~Sophiatcj","name":"Sophia_wood via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
