@@ -1,0 +1,1 @@
+2026-06-08 10:17:46.429300 {"type":"join","timestamp":1780913866.429304,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"rob2","nickname":"rob2","username":"~robIzCqgr","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
