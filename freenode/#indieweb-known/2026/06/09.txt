@@ -1,0 +1,1 @@
+2026-06-09 04:47:25.387700 {"type":"join","timestamp":1780980445.3877463,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"Razzy","nickname":"Razzy","username":"~RazzyzhKD","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
