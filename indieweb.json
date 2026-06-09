@@ -6452,6 +6452,27 @@
         ],
         "properties": {
             "name": [
+                "indigofella"
+            ],
+            "nickname": [
+                "indigofella"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://bisgetty.com"
+            ]
+        },
+        "id": "indigofella",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ingoogni"
             ],
             "nickname": [
