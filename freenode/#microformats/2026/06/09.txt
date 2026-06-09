@@ -1,0 +1,1 @@
+2026-06-09 01:18:49.577500 {"type":"join","timestamp":1780967929.5774777,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"emery","nickname":"emery","username":"~quassel","name":"Emery","photo":null,"url":null,"tz":null,"host":"217.155.30.169"},"content":null,"modes":[]}
