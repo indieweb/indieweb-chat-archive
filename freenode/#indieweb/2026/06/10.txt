@@ -1,0 +1,1 @@
+2026-06-10 00:42:44.026700 {"type":"join","timestamp":1781052164.0267081,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"blacklight","nickname":"blacklight","username":"~blackligh","name":"blacklight","photo":null,"url":null,"tz":null,"host":"205.147.16.41"},"content":null,"modes":[]}
