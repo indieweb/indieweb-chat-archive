@@ -12107,6 +12107,33 @@
         ],
         "properties": {
             "name": [
+                "riz0me"
+            ],
+            "nickname": [
+                "riz0me"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "https://bndrybjct.bearblog.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/bndrybjct/riz0me.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "riz0me",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "rockorager"
             ],
             "nickname": [
