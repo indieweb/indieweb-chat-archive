@@ -14555,6 +14555,33 @@
         ],
         "properties": {
             "name": [
+                "thudfactor"
+            ],
+            "nickname": [
+                "thudfactor"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://thudfactor.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://thudfactor.com/_astro/avatar.BV7_vQlQ_Z23npD0.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "thudfactor",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Tiffany"
             ],
             "nickname": [
