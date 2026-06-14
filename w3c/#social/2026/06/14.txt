@@ -1,0 +1,1 @@
+2026-06-14 22:17:48.113300 {"type":"join","timestamp":1781475468.1132832,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trashy","nickname":"trashy","username":"~trashy","name":null,"photo":null,"url":null,"tz":null,"host":"f3ab29cc.publics.cloak"},"content":null,"modes":[]}
