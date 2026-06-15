@@ -1,0 +1,1 @@
+2026-06-15 00:37:32.302400 {"type":"join","timestamp":1781483852.3024049,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"powerLien","nickname":"powerLien","username":"~Thunderbi","name":null,"photo":null,"url":null,"tz":null,"host":"23.168.216.67"},"content":null,"modes":[]}
