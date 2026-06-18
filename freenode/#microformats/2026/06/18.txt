@@ -1,0 +1,1 @@
+2026-06-18 00:26:39.132200 {"type":"join","timestamp":1781742399.1322224,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[social]","nickname":"[social]","username":"~socialsUo","name":"social via slack-irc-gateway","photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
