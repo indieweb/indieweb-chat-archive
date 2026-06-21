@@ -1,0 +1,1 @@
+2026-06-21 00:43:25.842500 {"type":"join","timestamp":1782002605.8425028,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-wordpress","name":"#indieweb-wordpress"},"author":{"uid":"d1s1nf3ct","nickname":"d1s1nf3ct","username":"~error","name":null,"photo":null,"url":null,"tz":null,"host":"user\/d1s1nf3ct"},"content":null,"modes":[]}
