@@ -1,0 +1,1 @@
+2026-06-21 00:08:43.265000 {"type":"join","timestamp":1782000523.2650094,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"brennan","nickname":"brennan","username":"~brennan","name":null,"photo":null,"url":null,"tz":null,"host":"d104-205-127-217.abhsia.telus.net"},"content":null,"modes":[]}
