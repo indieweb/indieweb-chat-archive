@@ -2270,6 +2270,33 @@
         ],
         "properties": {
             "name": [
+                "chr0m4"
+            ],
+            "nickname": [
+                "chr0m4"
+            ],
+            "tz": [
+                "Asia/Seoul"
+            ],
+            "url": [
+                "http://chroma.cafe"
+            ],
+            "photo": [
+                {
+                    "value": "https://chroma.cafe/assets/images/faviconx192.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "chr0m4",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "chaitanya"
             ],
             "nickname": [
