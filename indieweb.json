@@ -9218,6 +9218,33 @@
         ],
         "properties": {
             "name": [
+                "maartenketelaars"
+            ],
+            "nickname": [
+                "maartenketelaars"
+            ],
+            "tz": [
+                "Europe/Amsterdam"
+            ],
+            "url": [
+                "http://www.maartenketelaars.eu"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.maartenketelaars.eu/assets/images/u-photo-indieweb.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "maartenketelaars",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "macgenie"
             ],
             "nickname": [
