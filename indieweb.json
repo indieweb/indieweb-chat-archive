@@ -9227,11 +9227,11 @@
                 "Europe/Amsterdam"
             ],
             "url": [
-                "http://www.maartenketelaars.eu"
+                "http://maartenketelaars.eu"
             ],
             "photo": [
                 {
-                    "value": "https://www.maartenketelaars.eu/assets/images/u-photo-indieweb.webp",
+                    "value": "https://maartenketelaars.eu/assets/images/u-photo.webp",
                     "alt": ""
                 }
             ]
