@@ -1,0 +1,1 @@
+2026-06-30 02:22:16.226600 {"type":"join","timestamp":1782786136.2266169,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"[pcarrier]","nickname":"[pcarrier]","username":"~pcarriUP0","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
