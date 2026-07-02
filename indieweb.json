@@ -15044,6 +15044,33 @@
         ],
         "properties": {
             "name": [
+                "trovster"
+            ],
+            "nickname": [
+                "trovster"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://www.trovster.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.trovster.com/.well-known/avatar",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "trovster",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "trwnh"
             ],
             "nickname": [
