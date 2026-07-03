@@ -1,0 +1,1 @@
+2026-07-03 00:14:21.350400 {"type":"join","timestamp":1783037661.3503985,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"blbecker","nickname":"blbecker","username":"~blbecker","name":null,"photo":null,"url":null,"tz":null,"host":"user\/blbecker"},"content":null,"modes":[]}
