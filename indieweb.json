@@ -14297,6 +14297,33 @@
         ],
         "properties": {
             "name": [
+                "thatoddshade"
+            ],
+            "nickname": [
+                "thatoddshade"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "https://thatoddshade.is-a.dev"
+            ],
+            "photo": [
+                {
+                    "value": "http://thatoddshade.is-a.dev/favicon-120x120.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "thatoddshade",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "techlifeweb"
             ],
             "nickname": [
