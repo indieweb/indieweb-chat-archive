@@ -1,0 +1,1 @@
+2026-07-08 03:22:17.052400 {"type":"join","timestamp":1783480937.0523727,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"A_WildSpirit","nickname":"A_WildSpirit","username":"~A_WildzFP","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
