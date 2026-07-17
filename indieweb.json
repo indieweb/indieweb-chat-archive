@@ -374,6 +374,33 @@
         ],
         "properties": {
             "name": [
+                "Alfred"
+            ],
+            "nickname": [
+                "Alfred"
+            ],
+            "tz": [
+                "Europe/Copenhagen"
+            ],
+            "url": [
+                "http://alfrednerstu.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://alfrednerstu.com/alfred-64.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "Alfred",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "AlisonW"
             ],
             "nickname": [

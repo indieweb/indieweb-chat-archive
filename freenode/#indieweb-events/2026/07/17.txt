@@ -1,0 +1,1 @@
+2026-07-17 12:40:33.901500 {"type":"join","timestamp":1784292033.9014885,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"d1s1nf3ct","nickname":"d1s1nf3ct","username":"~error","name":null,"photo":null,"url":null,"tz":null,"host":"user\/d1s1nf3ct"},"content":null,"modes":[]}
