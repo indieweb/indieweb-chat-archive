@@ -9695,6 +9695,33 @@
         ],
         "properties": {
             "name": [
+                "matthias"
+            ],
+            "nickname": [
+                "matthias"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "http://Klein.ruhr"
+            ],
+            "photo": [
+                {
+                    "value": "https://klein.ruhr/content/images/about/profile_pic_min.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "matthias",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "maxwelljoslyn"
             ],
             "nickname": [
