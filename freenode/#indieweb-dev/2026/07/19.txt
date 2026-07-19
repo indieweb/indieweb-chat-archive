@@ -1,0 +1,1 @@
+2026-07-19 00:26:24.870000 {"type":"join","timestamp":1784420784.8700361,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"Tiffany","nickname":"Tiffany","username":"~quassel","name":"Tiffany","photo":null,"url":null,"tz":null,"host":"lilac.servers.aura.moe"},"content":null,"modes":[]}
