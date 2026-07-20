@@ -20,3 +20,5 @@
 2026-07-20 02:14:35.164200 {"type":"join","timestamp":1784513675.1642466,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"brennan","nickname":"brennan","username":"~brennan","name":null,"photo":null,"url":null,"tz":null,"host":"d104-205-127-217.abhsia.telus.net"},"content":null,"modes":[]}
 =======
 >>>>>>> 912796d9efb0fb897375297b04a7f54bd25c689a
+2026-07-20 02:40:00.365400 {"type":"join","timestamp":1784515200.3654435,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"daemonspudguy","nickname":"daemonspudguy","username":"~daemonspu","name":"Jacob Alexander Tice <jacob.a.tice@gmail.com>","photo":null,"url":null,"tz":null,"host":"user\/daemonspudguy"},"content":null,"modes":[]}
+2026-07-20 02:42:46.370300 {"type":"join","timestamp":1784515366.3702927,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"jboy","nickname":"jboy","username":"~jboy","name":null,"photo":null,"url":null,"tz":null,"host":"user\/jboy"},"content":null,"modes":[]}
