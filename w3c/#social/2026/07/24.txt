@@ -1,0 +1,1 @@
+2026-07-24 14:20:56.017600 {"type":"join","timestamp":1784902856.0175877,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"TallTed","nickname":"TallTed","username":"~Thud","name":"That Guy There","photo":null,"url":null,"tz":null,"host":"ecdb568b.public.cloak"},"content":null,"modes":[]}
