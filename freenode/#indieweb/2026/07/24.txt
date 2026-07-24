@@ -1,0 +1,1 @@
+2026-07-24 00:08:57.245000 {"type":"join","timestamp":1784851737.2449596,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"CrimeWave","nickname":"CrimeWave","username":"~Ebox-MTL","name":null,"photo":null,"url":null,"tz":null,"host":"user\/CrimeWave"},"content":null,"modes":[]}
