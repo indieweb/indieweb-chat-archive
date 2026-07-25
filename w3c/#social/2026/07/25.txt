@@ -1,0 +1,1 @@
+2026-07-25 01:54:07.954700 {"type":"join","timestamp":1784944447.9546983,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"XgF","nickname":"XgF","username":"~quassel","name":"Erin Alexis Owen Shepherd","photo":null,"url":null,"tz":null,"host":"ecdb568b.public.cloak"},"content":null,"modes":[]}
