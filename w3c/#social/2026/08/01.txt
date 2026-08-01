@@ -1,0 +1,1 @@
+2026-08-01 00:10:59.981300 {"type":"join","timestamp":1785543059.9813335,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"trwnh","nickname":"trwnh","username":"~a","name":"a <a@trwnh.com>","photo":null,"url":null,"tz":null,"host":"aaa702c1.publics.cloak"},"content":null,"modes":[]}
