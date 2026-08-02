@@ -1,0 +1,1 @@
+2026-08-02 13:04:00.031900 {"type":"join","timestamp":1785675840.031855,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ma1uta","nickname":"ma1uta","username":"~ma1uta","name":"ma1uta","photo":null,"url":null,"tz":null,"host":"3965aa1e.public.cloak"},"content":null,"modes":[]}
