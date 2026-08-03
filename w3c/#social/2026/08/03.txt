@@ -1,0 +1,1 @@
+2026-08-03 04:57:13.420000 {"type":"join","timestamp":1785733033.4199712,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"croissant`","nickname":"croissant`","username":"~croissant","name":null,"photo":null,"url":null,"tz":null,"host":"3965aa1e.public.cloak"},"content":null,"modes":[]}
