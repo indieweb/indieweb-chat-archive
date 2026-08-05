@@ -13535,6 +13535,33 @@
         ],
         "properties": {
             "name": [
+                "sofie"
+            ],
+            "nickname": [
+                "sofie"
+            ],
+            "tz": [
+                "Europe/Brussels"
+            ],
+            "url": [
+                "http://www.sofiepatoor.be"
+            ],
+            "photo": [
+                {
+                    "value": "https://www.sofiepatoor.be/assets/sofie-avatar.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "sofie",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "souramoo[m]"
             ],
             "nickname": [
