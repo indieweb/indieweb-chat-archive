@@ -12923,6 +12923,33 @@
         ],
         "properties": {
             "name": [
+                "scottkillen"
+            ],
+            "nickname": [
+                "scottkillen"
+            ],
+            "tz": [
+                "America/New_York"
+            ],
+            "url": [
+                "http://someguy.us"
+            ],
+            "photo": [
+                {
+                    "value": "https://someguy.us/images/scottkillen.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "scottkillen",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "scoutaloud"
             ],
             "nickname": [
