@@ -1,0 +1,1 @@
+2026-08-08 17:17:41.110600 {"type":"join","timestamp":1786209461.1106036,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"raucao","nickname":"raucao","username":"~raucao","name":"Sebastian Kippe","photo":null,"url":null,"tz":null,"host":"3965aa1e.public.cloak"},"content":null,"modes":[]}
