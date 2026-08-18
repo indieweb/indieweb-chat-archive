@@ -272,6 +272,33 @@
         ],
         "properties": {
             "name": [
+                "aftertaf"
+            ],
+            "nickname": [
+                "aftertaf"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://aftertaf.mont-gargan.fr"
+            ],
+            "photo": [
+                {
+                    "value": "https://aftertaf.mont-gargan.fr/images/photos/knob/mika_aftertaf_glitched.webp",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "aftertaf",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "aks"
             ],
             "nickname": [
