@@ -7292,6 +7292,33 @@
         ],
         "properties": {
             "name": [
+                "jimmitchell"
+            ],
+            "nickname": [
+                "jimmitchell"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://jimmitchell.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://jimmitchell.org/media/jim-mitchell-favicon_6e25367a.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jimmitchell",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "jimpick"
             ],
             "nickname": [
