@@ -11021,6 +11021,33 @@
         ],
         "properties": {
             "name": [
+                "owls"
+            ],
+            "nickname": [
+                "owls"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://godless-internets.org"
+            ],
+            "photo": [
+                {
+                    "value": "https://cdn.godless-internets.org/image/owls-avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "owls",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "ozten"
             ],
             "nickname": [
