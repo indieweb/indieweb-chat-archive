@@ -1,0 +1,1 @@
+2026-08-25 00:05:05.543000 {"type":"join","timestamp":1787616305.5430026,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"gordinator","nickname":"gordinator","username":"~quassel","name":"Gordinator","photo":null,"url":null,"tz":null,"host":"user\/Gordinator"},"content":null,"modes":[]}
