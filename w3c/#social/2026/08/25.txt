@@ -1,0 +1,1 @@
+2026-08-25 03:44:50.428300 {"type":"join","timestamp":1787629490.4283018,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"p1r0j-test","nickname":"p1r0j-test","username":"~p1r0jtest","name":null,"photo":null,"url":null,"tz":null,"host":"7350ca5c.publics.cloak"},"content":null,"modes":[]}
