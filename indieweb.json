@@ -1778,6 +1778,33 @@
         ],
         "properties": {
             "name": [
+                "boredgargoyle"
+            ],
+            "nickname": [
+                "boredgargoyle"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://aneeshsathe.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://media.aneeshsathe.com/profile/skull_profile.jpeg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "boredgargoyle",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Borghal"
             ],
             "nickname": [
