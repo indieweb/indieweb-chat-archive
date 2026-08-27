@@ -16160,6 +16160,27 @@
         ],
         "properties": {
             "name": [
+                "wturrell"
+            ],
+            "nickname": [
+                "wturrell"
+            ],
+            "tz": [
+                "Europe/London"
+            ],
+            "url": [
+                "http://wturrell.co.uk"
+            ]
+        },
+        "id": "wturrell",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "xandra.cc"
             ],
             "nickname": [
