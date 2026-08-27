@@ -1,0 +1,1 @@
+2026-08-27 00:07:52.438800 {"type":"join","timestamp":1787789272.4387932,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"GuestZero","nickname":"GuestZero","username":"~dbs","name":"brandes.xyz","photo":null,"url":null,"tz":null,"host":"2a01:599:141:5eb7:38d4:baab:313c:2514"},"content":null,"modes":[]}
