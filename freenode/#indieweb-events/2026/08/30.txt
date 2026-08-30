@@ -1,0 +1,1 @@
+2026-08-30 00:59:47.434500 {"type":"join","timestamp":1788051587.4345286,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"k3can8","nickname":"k3can8","username":"~k3can","name":"Adam","photo":null,"url":null,"tz":null,"host":"user\/k3can"},"content":null,"modes":[]}
