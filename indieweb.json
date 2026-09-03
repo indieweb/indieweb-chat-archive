@@ -6701,6 +6701,33 @@
         ],
         "properties": {
             "name": [
+                "herenti"
+            ],
+            "nickname": [
+                "herenti"
+            ],
+            "tz": [
+                "US/Pacific"
+            ],
+            "url": [
+                "http://anpan.moe"
+            ],
+            "photo": [
+                {
+                    "value": "https://github.com/herenti/herenti.github.io/blob/main/anpan.png?raw=true",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "herenti",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "j12t"
             ],
             "nickname": [
