@@ -15983,6 +15983,27 @@
         ],
         "properties": {
             "name": [
+                "widdershins1"
+            ],
+            "nickname": [
+                "widdershins1"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "http://widdershins.verja.net"
+            ]
+        },
+        "id": "widdershins1",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "willnorris"
             ],
             "nickname": [
