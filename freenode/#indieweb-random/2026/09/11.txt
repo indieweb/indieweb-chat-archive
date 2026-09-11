@@ -1,0 +1,1 @@
+2026-09-11 00:03:35.359600 {"type":"join","timestamp":1789085015.359648,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"Hike","nickname":"Hike","username":"~Hike9H2Ze","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
