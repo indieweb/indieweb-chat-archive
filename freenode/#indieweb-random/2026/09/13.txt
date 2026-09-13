@@ -1,0 +1,1 @@
+2026-09-13 05:51:29.314700 {"type":"join","timestamp":1789278689.314688,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"arthur","nickname":"arthur","username":"~arthurMe2","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
