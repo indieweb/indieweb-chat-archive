@@ -5816,6 +5816,33 @@
         ],
         "properties": {
             "name": [
+                "guilhem"
+            ],
+            "nickname": [
+                "guilhem"
+            ],
+            "tz": [
+                "Europe/Paris"
+            ],
+            "url": [
+                "http://dlcr.fr"
+            ],
+            "photo": [
+                {
+                    "value": "https://dlcr.fr/avatar.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "guilhem",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "gwg"
             ],
             "nickname": [
