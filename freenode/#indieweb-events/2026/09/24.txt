@@ -1,0 +1,1 @@
+2026-09-24 00:20:53.478400 {"type":"join","timestamp":1790209253.4783769,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-events","name":"#indieweb-events"},"author":{"uid":"JefeDelTodos","nickname":"JefeDelTodos","username":"~jefedelto","name":null,"photo":null,"url":null,"tz":null,"host":"user\/jefedeltodos"},"content":null,"modes":[]}
