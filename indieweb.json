@@ -6707,6 +6707,33 @@
         ],
         "properties": {
             "name": [
+                "jone42"
+            ],
+            "nickname": [
+                "jone42"
+            ],
+            "tz": [
+                "Europe/Berlin"
+            ],
+            "url": [
+                "https://jone.foo"
+            ],
+            "photo": [
+                {
+                    "value": "https://static.jone.foo/logo.svg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "jone42",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "j12t"
             ],
             "nickname": [
