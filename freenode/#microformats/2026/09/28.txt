@@ -1,0 +1,1 @@
+2026-09-28 00:03:45.143600 {"type":"join","timestamp":1790553825.1435523,"network":"irc","server":"freenode","channel":{"uid":"#microformats","name":"#microformats"},"author":{"uid":"[schmarty]","nickname":"[schmarty]","username":"~schmarz-W","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
