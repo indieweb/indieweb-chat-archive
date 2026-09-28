@@ -12803,6 +12803,33 @@
         ],
         "properties": {
             "name": [
+                "sabr"
+            ],
+            "nickname": [
+                "sabr"
+            ],
+            "tz": [
+                "US/Central"
+            ],
+            "url": [
+                "http://everythingsabr.me"
+            ],
+            "photo": [
+                {
+                    "value": "https://everythingsabr.me/assets/sabr-profile-badge.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "sabr",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Sadike25"
             ],
             "nickname": [
