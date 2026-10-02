@@ -1,0 +1,1 @@
+2026-10-02 04:48:04.133500 {"type":"join","timestamp":1790916484.1334727,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"[Sophia]","nickname":"[Sophia]","username":"~SophiaA3y","name":null,"photo":null,"url":null,"tz":null,"host":"gateway.indieweb.org"},"content":null,"modes":[]}
