@@ -1,0 +1,1 @@
+2026-10-03 00:25:32.247400 {"type":"join","timestamp":1790987132.2473807,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"cotsuka","nickname":"cotsuka","username":"~cotsuka","name":"Cameron Otsuka","photo":null,"url":null,"tz":null,"host":"user\/cotsuka"},"content":null,"modes":[]}
