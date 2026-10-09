@@ -3188,6 +3188,27 @@
         ],
         "properties": {
             "name": [
+                "d4n13L"
+            ],
+            "nickname": [
+                "d4n13L"
+            ],
+            "tz": [
+                "Asia/Taipei"
+            ],
+            "url": [
+                "http://bashgeek.net"
+            ]
+        },
+        "id": "d4n13L",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "dagardner"
             ],
             "nickname": [
