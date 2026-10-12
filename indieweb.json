@@ -13064,6 +13064,33 @@
         ],
         "properties": {
             "name": [
+                "sdavidprince"
+            ],
+            "nickname": [
+                "sdavidprince"
+            ],
+            "tz": [
+                "Africa/Lagos"
+            ],
+            "url": [
+                "http://sdavidprince.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://sdavidprince.com/wp-content/uploads/2026/05/20230806_215650-150x150.png",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "sdavidprince",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "shevski"
             ],
             "nickname": [
