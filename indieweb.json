@@ -16733,6 +16733,27 @@
         ],
         "properties": {
             "name": [
+                "zeebot"
+            ],
+            "nickname": [
+                "zeebot"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://https://zeebots.space"
+            ]
+        },
+        "id": "zeebot",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "Zegnat"
             ],
             "nickname": [
