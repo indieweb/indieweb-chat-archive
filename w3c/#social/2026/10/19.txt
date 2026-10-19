@@ -1,0 +1,1 @@
+2026-10-19 09:45:35.045500 {"type":"join","timestamp":1792403135.0455322,"network":"irc","server":"w3c","channel":{"uid":"#social","name":"#social"},"author":{"uid":"ajordan","nickname":"ajordan","username":"~ajordan","name":"AJ Jordan","photo":null,"url":null,"tz":null,"host":"5b5d4a06.publics.cloak"},"content":null,"modes":[]}
