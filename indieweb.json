@@ -11252,6 +11252,33 @@
         ],
         "properties": {
             "name": [
+                "thepaperpilot"
+            ],
+            "nickname": [
+                "thepaperpilot"
+            ],
+            "tz": [
+                "America/Chicago"
+            ],
+            "url": [
+                "https://paperpilot.dev"
+            ],
+            "photo": [
+                {
+                    "value": "https://paperpilot.dev/haleyDrawing.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "thepaperpilot",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "parnikkapore"
             ],
             "nickname": [
