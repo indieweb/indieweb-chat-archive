@@ -1,0 +1,1 @@
+2026-10-27 22:59:30.513900 {"type":"join","timestamp":1793141970.5138834,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"JoshuaMorris","nickname":"JoshuaMorris","username":"~joshua","name":"Joshua","photo":null,"url":null,"tz":null,"host":"user\/JoshuaMorris"},"content":null,"modes":[]}
