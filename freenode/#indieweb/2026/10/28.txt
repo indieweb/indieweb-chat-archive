@@ -1,0 +1,1 @@
+2026-10-28 00:46:24.942600 {"type":"join","timestamp":1793148384.9426067,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"brennan","nickname":"brennan","username":"~brennan","name":null,"photo":null,"url":null,"tz":null,"host":"node-1w7jr9y7m2in4bkfgimsnqkrw.ipv6.telus.net"},"content":null,"modes":[]}
