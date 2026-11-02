@@ -1,0 +1,1 @@
+2026-11-02 06:33:16.740800 {"type":"join","timestamp":1793601196.7408426,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-meta","name":"#indieweb-meta"},"author":{"uid":"JadedBlueEyes15","nickname":"JadedBlueEyes15","username":"~JadedBlue","name":null,"photo":null,"url":null,"tz":null,"host":"mail.ellis.link"},"content":null,"modes":[]}
