@@ -16971,4 +16971,18 @@
         "properties": {
             "name": [
                 "zztr,zztw"
-            
+            ],
+            "nickname": [
+                "zztr,zztw"
+            ],
+            "tz": [
+                "America/Los_Angeles"
+            ],
+            "url": [
+                "http://Traviswellman.com"
+            ]
+        },
+        "id": "zztr,zztw",
+        "lang": "en"
+    }
+]
