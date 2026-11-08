@@ -8915,6 +8915,33 @@
         ],
         "properties": {
             "name": [
+                "lecaseus"
+            ],
+            "nickname": [
+                "lecaseus"
+            ],
+            "tz": [
+                "Pacific/Auckland"
+            ],
+            "url": [
+                "http://cheztervargas.com"
+            ],
+            "photo": [
+                {
+                    "value": "https://cheztervargas.com/assets/face.jpg",
+                    "alt": ""
+                }
+            ]
+        },
+        "id": "lecaseus",
+        "lang": "en"
+    },
+    {
+        "type": [
+            "h-card"
+        ],
+        "properties": {
+            "name": [
                 "leecalvink"
             ],
             "nickname": [
