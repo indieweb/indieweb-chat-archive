@@ -1,0 +1,1 @@
+2026-11-10 08:22:37.085500 {"type":"join","timestamp":1794298957.085481,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-known","name":"#indieweb-known"},"author":{"uid":"rMdes-bnc","nickname":"rMdes-bnc","username":"~rick","name":"rmdes","photo":null,"url":null,"tz":null,"host":"user\/rMdes"},"content":null,"modes":[]}
