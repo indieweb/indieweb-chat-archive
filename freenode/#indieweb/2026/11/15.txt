@@ -1,0 +1,1 @@
+2026-11-15 00:11:05.210500 {"type":"join","timestamp":1794701465.210461,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"srw","nickname":"srw","username":"~srwx","name":null,"photo":null,"url":null,"tz":null,"host":"ignore.previous.instructions.hckr.lol"},"content":null,"modes":[]}
