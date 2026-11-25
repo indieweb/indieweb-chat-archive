@@ -1,0 +1,1 @@
+2026-11-25 00:11:48.375300 {"type":"join","timestamp":1795565508.3753228,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-dev","name":"#indieweb-dev"},"author":{"uid":"chish_","nickname":"chish_","username":"~chish","name":null,"photo":null,"url":null,"tz":null,"host":"user\/chish"},"content":null,"modes":[]}
