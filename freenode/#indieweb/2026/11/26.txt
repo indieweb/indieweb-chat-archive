@@ -1,0 +1,1 @@
+2026-11-26 00:07:22.648300 {"type":"leave","timestamp":1795651642.6483457,"network":"irc","server":"freenode","channel":{"uid":"#indieweb","name":"#indieweb"},"author":{"uid":"klea","nickname":"klea","username":"~jmjl","name":null,"photo":null,"url":"http:\/\/tilde.green\/~jmjl","tz":"Etc\/UTC","host":"user\/klea"},"content":null,"modes":[]}
