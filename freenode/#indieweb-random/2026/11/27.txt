@@ -1,0 +1,1 @@
+2026-11-27 02:07:31.321800 {"type":"join","timestamp":1795745251.321756,"network":"irc","server":"freenode","channel":{"uid":"#indieweb-random","name":"#indieweb-random"},"author":{"uid":"redshuffle","nickname":"redshuffle","username":"~quassel","name":"Quassel IRC User","photo":null,"url":null,"tz":null,"host":"user\/redshuffle"},"content":null,"modes":[]}
